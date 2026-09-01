@@ -6,7 +6,10 @@ const subjects = {
       7: [{
         title: "Wenn Bauch und Kopf streiten",
         description: "Gefühls- und Verstandesentscheidungen auf dem Prüfstand – mit Immanuel Kant als philosophischer Grundlage.",
-        files: [{ label: "Arbeitsmappe als PDF", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Bauch_und_Kopf_2026_Klasse7.pdf" }]
+        files: [
+          { label: "Arbeitsmappe als PDF", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Bauch_und_Kopf_2026_Klasse7.pdf" },
+          { label: "Inklusive Version als PDF", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Bauch_und_Kopf_2026_Klasse7_Inklusive_Version.pdf" }
+        ]
       }],
       8: [{
         title: "Stell dir eine Welt vor, in der …",
