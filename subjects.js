@@ -15,7 +15,11 @@ const subjects = {
       8: [{
         title: "Stell dir eine Welt vor, in der …",
         description: "Utopien und ihre politische Funktion – Thomas Morus und Ernst Bloch vergleichen, Zukunftsbilder prüfen und eine eigene politische Utopie entwickeln.",
-        files: [{ label: "Arbeitsmappe als PDF", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Utopien_2026_Klasse8.pdf" }]
+        files: [
+          { label: "Arbeitsmappe", detail: "Standardfassung", kind: "standard", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Utopien_2026_Klasse8.pdf" },
+          { label: "Inklusive Version", detail: "vereinfachte Texte, Satzanfänge und Schreibhilfen", kind: "inclusive", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Utopien_2026_Klasse8_Inklusive_Version.pdf" },
+          { label: "QR-Codes & Medientipps", detail: "Utopie, Morus, Bloch und M1–M12", kind: "media", href: "../../materialien/praktische-philosophie/Medientipps_Utopien_Klasse8_QR_Codes.pdf" }
+        ]
       }]
     }
   },
