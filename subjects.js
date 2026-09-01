@@ -7,6 +7,11 @@ const subjects = {
         title: "Wenn Bauch und Kopf streiten",
         description: "Gefühls- und Verstandesentscheidungen auf dem Prüfstand – mit Immanuel Kant als philosophischer Grundlage.",
         files: [{ label: "Arbeitsmappe als PDF", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Bauch_und_Kopf_2026_Klasse7.pdf" }]
+      }],
+      8: [{
+        title: "Stell dir eine Welt vor, in der …",
+        description: "Utopien und ihre politische Funktion – Thomas Morus und Ernst Bloch vergleichen, Zukunftsbilder prüfen und eine eigene politische Utopie entwickeln.",
+        files: [{ label: "Arbeitsmappe als PDF", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Utopien_2026_Klasse8.pdf" }]
       }]
     }
   },
