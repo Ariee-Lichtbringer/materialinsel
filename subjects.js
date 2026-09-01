@@ -7,8 +7,9 @@ const subjects = {
         title: "Wenn Bauch und Kopf streiten",
         description: "Gefühls- und Verstandesentscheidungen auf dem Prüfstand – mit Immanuel Kant als philosophischer Grundlage.",
         files: [
-          { label: "Arbeitsmappe als PDF", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Bauch_und_Kopf_2026_Klasse7.pdf" },
-          { label: "Inklusive Version als PDF", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Bauch_und_Kopf_2026_Klasse7_Inklusive_Version.pdf" }
+          { label: "Arbeitsmappe", detail: "Standardfassung", kind: "standard", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Bauch_und_Kopf_2026_Klasse7.pdf" },
+          { label: "Inklusive Version", detail: "vereinfachte Texte und Hilfen", kind: "inclusive", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Bauch_und_Kopf_2026_Klasse7_Inklusive_Version.pdf" },
+          { label: "QR-Codes & Medientipps", detail: "Kant-Video, Erklärvideos und Podcasts", kind: "media", href: "../../materialien/praktische-philosophie/Medientipps_Bauch_und_Kopf_Klasse7_Videos_Podcasts.pdf" }
         ]
       }],
       8: [{
@@ -48,7 +49,7 @@ for (let grade = 5; grade <= 10; grade += 1) {
     themes.forEach((theme) => {
       const article = document.createElement("article");
       article.className = "theme";
-      const buttons = theme.files.map(file => `<a class="download-button" href="${file.href}" download>${file.label} <span aria-hidden="true">↓</span></a>`).join("");
+      const buttons = theme.files.map(file => `<a class="download-button download-button--${file.kind || 'standard'}" href="${file.href}" download><span class="download-button__text"><strong>${file.label}</strong>${file.detail ? `<small>${file.detail}</small>` : ''}</span><span class="download-button__icon" aria-hidden="true">↓</span></a>`).join("");
       article.innerHTML = `<p class="eyebrow teal">THEMENBEREICH</p><h3>${theme.title}</h3><p>${theme.description}</p><div class="download-row">${buttons}</div>`;
       content.appendChild(article);
     });
