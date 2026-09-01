@@ -23,19 +23,15 @@ body {
   position: relative;
   overflow: hidden;
   color: white;
-  background: linear-gradient(135deg, #0a7480, #1596a0 58%, #247c59);
+  background: #087f89 url("assets/hero-materialinsel.png") center / cover no-repeat;
   border-top: 12px solid var(--gold);
 }
 
-.hero::after {
+.hero::before {
   content: "";
   position: absolute;
-  right: -8rem;
-  bottom: -11rem;
-  width: 29rem;
-  height: 29rem;
-  border: 4rem solid rgba(255,255,255,.08);
-  border-radius: 50%;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(5,76,84,.9) 0%, rgba(7,103,111,.72) 42%, rgba(7,105,110,.12) 72%);
 }
 
 .hero__inner, main, footer {
@@ -43,7 +39,7 @@ body {
   margin-inline: auto;
 }
 
-.hero__inner { padding: 82px 0 88px; }
+.hero__inner { position: relative; z-index: 1; padding: 82px 0 88px; }
 
 .eyebrow {
   margin: 0 0 10px;
@@ -76,23 +72,22 @@ main { padding: 68px 0 90px; }
 
 .subject-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 22px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 16px;
   margin-bottom: 72px;
 }
 
 .subject-tile {
   --accent: var(--teal);
-  display: grid;
-  grid-template-columns: 68px 1fr auto;
-  align-items: center;
-  gap: 18px;
-  min-height: 126px;
-  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-height: 350px;
+  padding: 18px 18px 20px;
   color: var(--ink);
   background: white;
   border: 1px solid var(--line);
-  border-top: 7px solid var(--accent);
+  border-top: 6px solid var(--accent);
   border-radius: 20px;
   box-shadow: 0 12px 34px rgba(23,46,58,.07);
   text-decoration: none;
@@ -100,11 +95,11 @@ main { padding: 68px 0 90px; }
 }
 .subject-tile:hover, .subject-tile:focus-visible { transform: translateY(-4px); box-shadow: 0 18px 42px rgba(23,46,58,.13); }
 .subject-tile:focus-visible { outline: 4px solid var(--gold); outline-offset: 3px; }
-.subject-tile__icon { display: grid; place-items: center; width: 64px; height: 64px; color: white; background: var(--accent); border-radius: 18px; font-size: 1.7rem; font-weight: 850; }
+.subject-tile__image { width: 100%; height: 190px; margin: 0 auto 12px; object-fit: contain; }
 .subject-tile__text { display: grid; gap: 7px; }
-.subject-tile__text strong { font-size: 1.25rem; }
+.subject-tile__text strong { font-size: 1.08rem; line-height: 1.2; }
 .subject-tile__text small { color: var(--muted); font-size: .93rem; }
-.subject-tile__arrow { color: var(--accent); font-size: 1.8rem; font-weight: 800; }
+.subject-tile__arrow { align-self: flex-end; margin-top: auto; color: var(--accent); font-size: 1.8rem; font-weight: 800; }
 .subject-tile.geschichte { --accent: #a65d38; }
 .subject-tile.gl { --accent: #24778e; }
 .subject-tile.deutsch { --accent: #8d4e86; }
@@ -113,7 +108,8 @@ main { padding: 68px 0 90px; }
 .breadcrumb { margin: 0 0 34px; }
 .breadcrumb a { color: var(--teal); font-weight: 750; text-decoration: none; }
 .fach-intro { display: grid; grid-template-columns: 82px 1fr; gap: 24px; align-items: center; margin-bottom: 42px; }
-.fach-icon { display: grid; place-items: center; width: 82px; height: 82px; color: white; background: var(--fach-accent, var(--teal)); border-radius: 22px; font-size: 2rem; font-weight: 850; }
+.fach-icon { display: grid; place-items: center; width: 82px; height: 82px; background: #eef6f3; border: 1px solid var(--line); border-radius: 22px; overflow: hidden; }
+.fach-icon img { width: 100%; height: 100%; object-fit: contain; }
 .fach-intro h2 { margin-bottom: 7px; }
 .fach-intro p { margin: 0; color: var(--muted); }
 
@@ -207,12 +203,18 @@ footer {
   main { padding-top: 48px; }
   .intro { grid-template-columns: 1fr; gap: 12px; }
   .subject-grid { grid-template-columns: 1fr; }
-  .subject-tile { grid-template-columns: 56px 1fr auto; min-height: 108px; padding: 20px; }
-  .subject-tile__icon { width: 54px; height: 54px; border-radius: 15px; }
+  .subject-tile { min-height: 0; padding: 20px; }
+  .subject-tile__image { height: 210px; }
   .fach-intro { grid-template-columns: 62px 1fr; }
   .fach-icon { width: 62px; height: 62px; border-radius: 17px; }
   .material-card { grid-template-columns: 1fr; }
   .material-card__content { padding: 58px 26px 28px; }
   .download { min-width: 0; padding: 22px; }
   .coming-soon { padding: 30px 26px; }
+}
+
+@media (min-width: 721px) and (max-width: 1040px) {
+  .subject-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .subject-tile { min-height: 360px; }
+  .subject-tile:last-child { grid-column: 1 / -1; }
 }

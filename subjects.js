@@ -1,6 +1,6 @@
 const subjects = {
   "praktische-philosophie": {
-    name: "Praktische Philosophie", icon: "⚖", accent: "#0b8792",
+    name: "Praktische Philosophie", image: "../../assets/fach-praktische-philosophie.png", accent: "#0b8792",
     subtitle: "Denken, prüfen und begründen",
     materials: {
       7: [{
@@ -10,10 +10,10 @@ const subjects = {
       }]
     }
   },
-  "geschichte": { name: "Geschichte", icon: "⌛", accent: "#a65d38", subtitle: "Vergangenheit untersuchen und Gegenwart verstehen", materials: {} },
-  "gl": { name: "Gesellschaftslehre", icon: "◎", accent: "#24778e", subtitle: "Räume, Zeiten und Gesellschaft zusammendenken", materials: {} },
-  "deutsch": { name: "Deutsch", icon: "Aa", accent: "#8d4e86", subtitle: "Lesen, schreiben, sprechen und Sprache untersuchen", materials: {} },
-  "politik": { name: "Politik", icon: "◫", accent: "#466a3b", subtitle: "Gesellschaft verstehen, urteilen und mitbestimmen", materials: {} }
+  "geschichte": { name: "Geschichte", image: "../../assets/fach-geschichte.png", accent: "#a65d38", subtitle: "Vergangenheit untersuchen und Gegenwart verstehen", materials: {} },
+  "gl": { name: "Gesellschaftslehre", image: "../../assets/fach-gl.png", accent: "#24778e", subtitle: "Räume, Zeiten und Gesellschaft zusammendenken", materials: {} },
+  "deutsch": { name: "Deutsch", image: "../../assets/fach-deutsch.png", accent: "#8d4e86", subtitle: "Lesen, schreiben, sprechen und Sprache untersuchen", materials: {} },
+  "politik": { name: "Politik", image: "../../assets/fach-politik.png", accent: "#466a3b", subtitle: "Gesellschaft verstehen, urteilen und mitbestimmen", materials: {} }
 };
 
 const key = document.body.dataset.subject;
@@ -22,7 +22,7 @@ document.documentElement.style.setProperty("--fach-accent", subject.accent);
 document.title = `${subject.name} · Materialinsel`;
 document.querySelector("[data-name]").textContent = subject.name;
 document.querySelector("[data-subtitle]").textContent = subject.subtitle;
-document.querySelector("[data-icon]").textContent = subject.icon;
+document.querySelector("[data-icon]").innerHTML = `<img src="${subject.image}" alt="">`;
 
 const list = document.querySelector("[data-grades]");
 for (let grade = 5; grade <= 10; grade += 1) {
