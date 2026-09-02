@@ -3,6 +3,13 @@ const subjects = {
     name: "Praktische Philosophie", image: "../../assets/fach-praktische-philosophie.png", accent: "#0b8792",
     subtitle: "Denken, prüfen und begründen",
     materials: {
+      5: [{
+        title: "Wer bin ich?",
+        description: "Sich selbst mit Sokrates entdecken - mit einer Ich-Kiste, konkreten Alltagssituationen, Gefühlen, Rollen, Selbst- und Fremdbild sowie einem Brief an das Zukunfts-Ich.",
+        files: [
+          { label: "Arbeitsmappe", detail: "Klasse 5 · vollständige Lernreise", kind: "standard", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Wer_bin_ich_2026_Klasse5.pdf" }
+        ]
+      }],
       7: [{
         title: "Wenn Bauch und Kopf streiten",
         description: "Gefühls- und Verstandesentscheidungen auf dem Prüfstand – mit Immanuel Kant als philosophischer Grundlage.",
