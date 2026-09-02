@@ -27,6 +27,7 @@ const subjects = {
           { label: "Arbeitsmappe", detail: "Standardfassung", kind: "standard", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Utopien_2026_Klasse8.pdf" },
           { label: "Inklusive Version", detail: "vereinfachte Texte, Satzanfänge und Schreibhilfen", kind: "inclusive", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Utopien_2026_Klasse8_Inklusive_Version.pdf" },
           { label: "QR-Codes & Medientipps", detail: "Utopie, Morus, Bloch und M1–M12", kind: "media", href: "../../materialien/praktische-philosophie/Medientipps_Utopien_Klasse8_QR_Codes.pdf" },
+          { label: "Kunstbetrachtung", detail: "Lorenzetti und Signac · Morus- und Bloch-Brille", kind: "media", href: "../../materialien/praktische-philosophie/Kunstbetrachtung_Utopien_Klasse8_Lorenzetti_Signac.pdf" },
           { label: "Elternbrief", detail: "Leistungsbewertung und Rückläufer", kind: "parent", href: "../../materialien/praktische-philosophie/Elternbrief_PP_Jahrgang8_Leistungsbewertung.pdf" }
         ]
       }]
