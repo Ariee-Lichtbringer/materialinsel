@@ -105,6 +105,32 @@ main { padding: 68px 0 90px; }
 .subject-tile.deutsch { --accent: #8d4e86; }
 .subject-tile.politik { --accent: #466a3b; }
 
+.project-section { margin: 0 0 72px; }
+.project-section__heading { margin-bottom: 28px; }
+.project-feature {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(290px, .75fr);
+  overflow: hidden;
+  color: white;
+  background: #19324a;
+  border-radius: 24px;
+  box-shadow: 0 16px 42px rgba(23,46,58,.16);
+  text-decoration: none;
+  transition: transform .16s ease, box-shadow .16s ease;
+}
+.project-feature:hover, .project-feature:focus-visible { transform: translateY(-4px); box-shadow: 0 22px 50px rgba(23,46,58,.22); }
+.project-feature:focus-visible { outline: 4px solid var(--gold); outline-offset: 4px; }
+.project-feature > img { width: 100%; height: 360px; object-fit: cover; }
+.project-feature__content { display: flex; flex-direction: column; justify-content: center; padding: 44px; }
+.project-feature__content .eyebrow { color: #d8c18d; }
+.project-feature__content strong { font-size: clamp(2rem, 4vw, 3.2rem); line-height: 1.02; }
+.project-feature__content small { margin-top: 15px; color: #dce9e7; font-size: 1.05rem; }
+.project-feature__link { margin-top: 34px; color: #f0c96a; font-weight: 850; }
+
+.project-downloads { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin-top: 30px; }
+.project-downloads .download-button { min-width: 0; }
+.source-note { margin-top: 24px; padding: 18px 20px; color: var(--muted); background: var(--pale); border-left: 5px solid var(--gold); border-radius: 0 12px 12px 0; }
+
 .breadcrumb { margin: 0 0 34px; }
 .breadcrumb a { color: var(--teal); font-weight: 750; text-decoration: none; }
 .fach-intro { display: grid; grid-template-columns: 82px 1fr; gap: 24px; align-items: center; margin-bottom: 42px; }
@@ -238,6 +264,10 @@ footer {
   .material-card__content { padding: 58px 26px 28px; }
   .download { min-width: 0; padding: 22px; }
   .coming-soon { padding: 30px 26px; }
+  .project-feature { grid-template-columns: 1fr; }
+  .project-feature > img { height: 250px; }
+  .project-feature__content { padding: 30px 26px; }
+  .project-downloads { grid-template-columns: 1fr; }
 }
 
 @media (min-width: 721px) and (max-width: 1040px) {
