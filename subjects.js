@@ -7,7 +7,8 @@ const subjects = {
         title: "Wer bin ich?",
         description: "Sich selbst mit Sokrates entdecken - mit einer Ich-Kiste, konkreten Alltagssituationen, Gefühlen, Rollen, Selbst- und Fremdbild sowie einem Brief an das Zukunfts-Ich.",
         files: [
-          { label: "Arbeitsmappe", detail: "Klasse 5 · vollständige Lernreise", kind: "standard", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Wer_bin_ich_2026_Klasse5.pdf" }
+          { label: "Arbeitsmappe", detail: "Klasse 5 · vollständige Lernreise", kind: "standard", href: "../../materialien/praktische-philosophie/Arbeitsmappe_PP_Wer_bin_ich_2026_Klasse5.pdf" },
+          { label: "Falt-Namensschild", detail: "Wer bin ich? · A4 quer · einseitig drucken und mittig falten", kind: "standard", href: "../../materialien/praktische-philosophie/Namensschild-PP-Klasse-5-Wer-bin-ich.pdf" }
         ]
       }],
       7: [{
