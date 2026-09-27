@@ -6,5 +6,14 @@
  const toggle=header.querySelector('.menu-toggle');toggle.onclick=()=>{const open=toggle.getAttribute('aria-expanded')!=='true';toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',open?'Menü schließen':'Menü öffnen');header.classList.toggle('menu-open',open);};
  header.querySelector('nav').addEventListener('click',()=>{toggle.setAttribute('aria-expanded','false');header.classList.remove('menu-open');});
  let footer=document.querySelector('footer');if(!footer){footer=document.createElement('footer');document.body.append(footer);}
- footer.className='site-footer';footer.innerHTML=`<div><a class="brand" href="/">${book}<span>Materialinsel</span></a><p>Arbeitsmappen, Quellen und Ideen für einen Unterricht, der Fragen öffnet.</p><small>© Julia Sonnenwald · Materialinsel</small></div><div><strong>Entdecken</strong><a href="/#faecher">Fächer & Jahrgänge</a><a href="/#arbeitsmappen">Alle Arbeitsmappen</a><a href="/projekte/wfu-zweitzeugen/">Projekte & Kurse</a><a href="https://erinnernesr-production.up.railway.app/" target="_blank" rel="noopener">Gedenkstättenfahrten ↗</a><a href="/ueber-mich/">Über mich</a></div><div><strong>Lehrkräftebereich</strong><a href="/konto/">Anmelden & Registrieren</a><a href="/konto/admin.html">Adminbereich</a><a href="/impressum/">Impressum</a><a href="/konto/datenschutz.html">Datenschutzhinweise</a><a href="mailto:sonnenwaldju@gmail.com">Kontakt</a></div>`;
+ footer.className='site-footer';footer.innerHTML=`<div><a class="brand" href="/">${book}<span>Materialinsel</span></a><p>Arbeitsmappen, Quellen und Ideen für einen Unterricht, der Fragen öffnet.</p><small>© Julia Sonnenwald · Materialinsel</small></div><div><strong>Entdecken</strong><a href="/#faecher">Fächer & Jahrgänge</a><a href="/#arbeitsmappen">Alle Arbeitsmappen</a><a href="/projekte/wfu-zweitzeugen/">Projekte & Kurse</a><a href="https://erinnernesr-production.up.railway.app/" target="_blank" rel="noopener">Gedenkstättenfahrten ↗</a><a href="/ueber-mich/">Über mich</a></div><div><strong>Lehrkräftebereich</strong><a href="/konto/">Anmelden & Registrieren</a><a href="/admin.html">Adminbereich</a><a href="/impressum/">Impressum</a><a href="/konto/datenschutz.html">Datenschutzhinweise</a><a href="mailto:sonnenwaldju@gmail.com">Kontakt</a></div>`;
+})();
+
+(() => {
+ if(location.pathname.startsWith('/konto/')||location.pathname.includes('admin')||navigator.doNotTrack==='1'||navigator.globalPrivacyControl)return;
+ const API='https://api-production-c1a79.up.railway.app/events';
+ function send(kind,key){fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({kind,key}),keepalive:true,credentials:'omit'}).catch(()=>{});}
+ if(!location.hostname.endsWith('materialinsel.de'))return;
+ send('pageview',location.pathname);
+ document.addEventListener('click',e=>{const a=e.target.closest('a[href]');if(!a||a.dataset.protected)return;try{const u=new URL(a.href,location.href);if(u.origin===location.origin&&u.pathname.startsWith('/materialien/')&&u.pathname.endsWith('.pdf'))send('public_download',decodeURIComponent(u.pathname));}catch{};});
 })();
