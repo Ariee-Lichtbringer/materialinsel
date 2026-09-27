@@ -275,3 +275,52 @@ footer {
   .subject-tile { min-height: 360px; }
   .subject-tile:last-child { grid-column: 1 / -1; }
 }
+/* Shared compact material browser for every subject. */
+.grade>summary{padding:14px 18px;font-size:1rem;}
+.grade>summary .grade-count{margin-left:auto;font-size:.75rem;font-weight:500;color:var(--muted);}
+.grade>summary::after{width:24px;height:24px;font-size:1rem;}
+.grade__content{padding:12px;background:#f8faf9;}
+.theme-menu{margin:10px 0;border:1px solid #d6e1e3;border-top:2px solid var(--fach-accent);border-radius:9px;overflow:hidden;background:#fff;}
+.grade .theme-menu>summary{display:block;padding:14px 16px;font-size:.94rem;font-weight:600;background:color-mix(in srgb,var(--fach-accent) 7%,white);color:var(--fach-accent);}
+.grade .theme-menu>summary::after{display:none;}
+.theme-menu>summary small{display:block;margin-top:6px;color:#61737b;font-size:.77rem;font-weight:400;line-height:1.5;}
+.expand-hint{display:block;margin-top:8px;font-size:.72rem;}
+.theme-menu[open] .expand-hint{font-size:0;}
+.theme-menu[open] .expand-hint::after{content:'Materialien und Downloads schließen';font-size:.72rem;}
+.theme-files{padding:12px;}
+.unit-row{display:flex;align-items:flex-start;gap:16px;padding:14px 0;border-bottom:1px solid #e1e9eb;}
+.unit-row:last-child{border-bottom:0;}
+.unit-links{flex:1;min-width:0;display:grid;gap:10px;}
+.unit-row.has-info .unit-links{flex:0 0 28%;}
+.unit-download{display:flex;flex-direction:column;gap:5px;padding:10px 12px;background:#f2f8f8;border-left:3px solid #739fa5;color:#205567;text-decoration:none;border-radius:0 6px 6px 0;}
+.unit-download--teacher{background:#fcf8ee;border-left-color:#c3a66b;color:#715326;}
+.unit-download:hover{filter:brightness(.97);}
+.unit-download strong{font-size:.87rem;line-height:1.45;}
+.unit-download small{font-size:.73rem;line-height:1.4;color:#60717a;}
+.download-label{font-size:.59rem;font-weight:750;letter-spacing:.05em;text-transform:uppercase;}
+.unit-preview{flex:0 0 84px;width:84px;padding:5px;background:#fff;border:1px solid #d8e2e4;border-radius:7px;cursor:zoom-in;}
+.unit-preview img{display:block;width:72px;height:102px;object-fit:contain;}
+.unit-preview span{font-size:.63rem;color:#225368;font-weight:700;}
+.unit-facts{flex:1;display:grid;grid-template-columns:1fr 1fr;gap:10px 18px;margin:0;font-size:.76rem;line-height:1.4;min-width:0;}
+.unit-facts dt{font-weight:700;color:#58717b;font-size:.67rem;margin-bottom:3px;}
+.unit-facts dd{margin:0;overflow-wrap:anywhere;}
+.material-search{max-width:700px;margin:0 0 22px;padding:12px 14px;border:1px solid #d8e3e6;border-radius:8px;background:#f8fafb;}
+.material-search label{display:block;font-size:.82rem;font-weight:700;}
+.material-search input{box-sizing:border-box;width:100%;padding:10px 12px;margin-top:7px;border:1px solid #b7cbd1;border-radius:6px;font:inherit;background:white;}
+.material-search p{font-size:.72rem;margin:6px 0 0;color:#617580;}
+[hidden]{display:none!important;}
+button,input,a,summary{touch-action:manipulation;}
+button:focus-visible,input:focus-visible,summary:focus-visible,a:focus-visible{outline:3px solid #719eac;outline-offset:3px;}
+.preview-dialog{max-width:90vw;max-height:90vh;border:1px solid #d2e0e4;border-radius:10px;padding:16px;}
+.preview-dialog::backdrop{background:#142d3dbb;}
+.preview-dialog img{display:block;max-width:100%;max-height:78vh;object-fit:contain;}
+.preview-close{display:block;margin-left:auto;padding:7px 12px;background:#edf4f5;border:1px solid #bdcfd5;border-radius:6px;cursor:pointer;}
+.goal-info{border:0;background:transparent;color:#176a78;cursor:help;padding:2px 5px;}
+.goal-popup{position:fixed;z-index:1000;width:420px;max-width:calc(100vw - 24px);max-height:calc(100vh - 24px);overflow:auto;box-sizing:border-box;padding:18px;background:#fff;border:1px solid #c5d9dd;border-top:3px solid #477d86;border-radius:9px;box-shadow:0 8px 30px #14344226;color:#304d58;font-size:14px;line-height:1.5;}
+.goal-popup ul{padding-left:20px;}.goal-popup li+li{margin-top:7px;}
+@media(max-width:900px){.unit-row.has-info{flex-wrap:wrap;}.unit-row.has-info .unit-links{flex:1;}.unit-facts{flex-basis:100%;}}
+@media(max-width:550px){.unit-facts{grid-template-columns:1fr;}.grade__content{padding:8px;}.theme-files{padding:10px;}.grade>summary .grade-count{display:none;}}
+/* Konto und geschützte Downloads */
+.account-nav{display:flex;justify-content:flex-end;padding:.6rem max(1rem,calc((100vw - 1200px)/2));background:#f3f7f7;font-size:.85rem}.account-nav a{color:#176777;font-weight:650;text-decoration:none}
+.unit-download[aria-busy=true]{opacity:.5;pointer-events:none}.download-label{font-size:.65rem!important}.account-columns{display:grid;grid-template-columns:1fr 1fr;gap:3rem}.account-columns section{max-width:32rem}[data-account]{max-width:1000px;margin:auto}[data-account] form{display:grid;gap:1rem}[data-account] label{display:grid;gap:.35rem;font-size:.85rem;font-weight:600}[data-account] input{font:inherit;padding:.7rem;border:1px solid #bdced0;border-radius:7px;min-width:0}[data-account] button{font:inherit;padding:.6rem .85rem;border:1px solid #acc6c9;border-radius:7px;background:#edf5f5;color:#154c5c;cursor:pointer}[data-account] button[type=submit]{background:#126b78;color:white;justify-self:start}[data-account] button:disabled{opacity:.6;cursor:wait}.account-help{font-size:.8rem;color:#516972}.account-status{border-left:3px solid #16838b;padding:.6rem 1rem;background:#f0f7f7}.account-admin{margin-top:2rem}.account-person{padding:1rem 0;border-bottom:1px solid #dce6e7;display:grid;gap:.35rem}.account-actions{display:flex;flex-wrap:wrap;gap:.5rem}.account-person span,.account-person small{font-size:.85rem}[data-message]{white-space:normal;overflow-wrap:anywhere;color:#1b6b53}.is-error{color:#a43a2e!important}.account-notice{position:fixed;bottom:1rem;left:50%;transform:translateX(-50%);max-width:90vw;width:36rem;padding:1rem;background:#fff;border:1px solid #c3d8da;box-shadow:0 4px 24px #102f3f20;border-radius:10px;z-index:1000}.account-notice button{float:right;background:none;border:0;font-size:1.3rem;cursor:pointer}
+@media(max-width:650px){.account-columns{grid-template-columns:1fr;gap:2rem}}
