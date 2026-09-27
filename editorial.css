@@ -10,3 +10,6 @@ body:not(.home-page)>.hero{background:#e8efe9;color:#143f35;border:0}body:not(.h
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
 
 .subject-grid .subject-tile:last-child{grid-column:auto}
+
+.teacher-sample{margin:8px 0 4px;padding:7px 12px;border:1px solid #d9c4a2;border-radius:6px;background:#fffaf1;color:#775328;font:inherit;font-size:.85rem;cursor:pointer}.teacher-sample span{opacity:.8}.teacher-sample:hover{background:#f5ebda}.sample-pages figure{margin:18px 0}.sample-pages img{width:100%;max-width:780px;height:auto}.sample-pages figcaption{text-align:center;color:#6c716c;font-size:.8rem}.preview-dialog{max-height:90vh;overflow:auto}
+.preview-dialog:has(.sample-pages figure){width:min(820px,92vw)}.preview-dialog .sample-pages img{max-height:none;width:100%;height:auto}.preview-dialog>img[hidden]{display:none}.preview-close{position:sticky;top:0;z-index:1}
