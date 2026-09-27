@@ -1,17 +1,17 @@
 window.historyMaterials = [
   {
     "title": "Gedenkstättenbesuche vorbereiten und reflektieren · Straßburg",
-    "description": "94 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
+    "description": "103 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
     "files": [
       {
         "label": "Gesamtpaket herunterladen",
-        "detail": "94 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
+        "detail": "103 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
         "kind": "teacher",
         "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE"
       },
       {
         "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-        "detail": "28 Seiten · Basisbeiträge, Unterrichtsplanung, Lösungen und Lehrkräftehinweise",
+        "detail": "37 Seiten · Basisbeiträge, Unterrichtsplanung, Lösungen und Lehrkräftehinweise",
         "kind": "teacher",
         "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-commentary"
       },
@@ -31,14 +31,14 @@ window.historyMaterials = [
         "label": "1. Was erwarten wir – und was fragen wir?",
         "detail": "7 Seiten · Wie prägen unsere Erwartungen den Blick auf einen historischen Ort?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-b7da6f2044f8f1b3588a.png",
+        "preview": "../../materialien/geschichte/unit-d29bb711b5429ec18796.png",
         "info": {
           "goal": "eigene Erwartungen an den Gedenkort sichtbar machen und in prüfbare Fragen umformulieren können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
           "principle": "Schülerorientierung und Problemorientierung",
           "audience": "Klasse 9/10",
           "result": "die Erwartungswand der Klasse und drei Leitfragen für die Fahrt.",
-          "preparation": "Karten in vier Farben, Pinnwand; Besuchsvideo struthof.fr/de/le-site/visite-video.",
+          "preparation": "Karten in vier Farben, Pinnwand; Besuchsvideo struthof.fr/de/le-site/visite-video. Sozialform und Minuten der Aufgaben in den Materialien folgen diesem Plan. Quellenseiten (Q), als Zusatzmaterial markierte Aufgaben und der Aufgabenpool (D) liegen außerhalb der 90 Minuten: als Hausaufgabe, in Vertretungsstunden oder anstelle einer Erarbeitungsphase.",
           "prerequisites": "Einstieg vor dem Gedenkstättenbesuch; Vorwissen wird gemeinsam geklärt.",
           "socialForm": "Einzelarbeit · Plenum · Partnerarbeit · Gruppe",
           "details": {
@@ -49,7 +49,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-1-teacher"
         },
@@ -59,7 +59,7 @@ window.historyMaterials = [
         "label": "2. Was der Ort erzählt – und was nicht",
         "detail": "11 Seiten · Wie lässt sich Geschichte aus räumlichen und baulichen Spuren erschließen?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-4e0690910ce6bb66a0ca.png",
+        "preview": "../../materialien/geschichte/unit-e3471e0ca3fee2a1536e.png",
         "info": {
           "goal": "Geschichte aus Spuren des Ortes erschließen und seine Zeitschichten unterscheiden können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -77,7 +77,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-2-teacher"
         },
@@ -87,7 +87,7 @@ window.historyMaterials = [
         "label": "3. Menschen, keine Nummern",
         "detail": "9 Seiten · Wie verändert eine individuelle Biografie unser Verständnis historischer Verfolgung?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-54a4889ff2408bf5eedf.png",
+        "preview": "../../materialien/geschichte/unit-023cffa2a4c1a9481a96.png",
         "info": {
           "goal": "den Weg eines Menschen durch den KZ-Komplex rekonstruieren und mit Orten verbinden können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -105,7 +105,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-3-teacher"
         },
@@ -115,7 +115,7 @@ window.historyMaterials = [
         "label": "4. Darf ich das posten?",
         "detail": "8 Seiten · Welche Verantwortung entsteht beim Fotografieren und Darstellen an einem Gedenkort?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-573947794c71d93d5dd7.png",
+        "preview": "../../materialien/geschichte/unit-0a6c95cd1539a9b03313.png",
         "info": {
           "goal": "begründete Regeln für Fotos und Posts am Gedenkort entwickeln können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -133,7 +133,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-4-teacher"
         },
@@ -143,7 +143,7 @@ window.historyMaterials = [
         "label": "5. Hinsehen, nicht abhaken",
         "detail": "6 Seiten · Welche Fragen helfen, einen Gedenkort als historische Quelle zu untersuchen?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-3e9ddaf2eb27f609314a.png",
+        "preview": "../../materialien/geschichte/unit-6fdec14b570bd7ef8b0b.png",
         "info": {
           "goal": "einen Beobachtungsplan für den Besuch erstellen können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -161,7 +161,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-5-teacher"
         },
@@ -171,7 +171,7 @@ window.historyMaterials = [
         "label": "6. Was bleibt vom Besuch?",
         "detail": "9 Seiten · Wie lässt sich ein Gedenkstättenbesuch quellenbasiert reflektieren, ohne Gefühle vorzuschreiben?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-beda35075139c139598c.png",
+        "preview": "../../materialien/geschichte/unit-82636c25a89650cb6cd2.png",
         "info": {
           "goal": "den Besuch quellenbasiert reflektieren und über die Aufgabe von Gedenkstätten urteilen können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -189,7 +189,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-6-teacher"
         },
@@ -205,17 +205,17 @@ window.historyMaterials = [
   },
   {
     "title": "Oral History und Zeitzeugeninterviews · Straßburg",
-    "description": "100 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
+    "description": "108 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
     "files": [
       {
         "label": "Gesamtpaket herunterladen",
-        "detail": "100 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
+        "detail": "108 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
         "kind": "teacher",
         "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE"
       },
       {
         "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-        "detail": "28 Seiten · Basisbeiträge, Unterrichtsplanung, Lösungen und Lehrkräftehinweise",
+        "detail": "36 Seiten · Basisbeiträge, Unterrichtsplanung, Lösungen und Lehrkräftehinweise",
         "kind": "teacher",
         "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-commentary"
       },
@@ -235,7 +235,7 @@ window.historyMaterials = [
         "label": "1. Was ist eine Erinnerung wert?",
         "detail": "10 Seiten · Wie wird aus einer persönlichen Erinnerung eine historische Quelle?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-96175c360282a4febfe8.png",
+        "preview": "../../materialien/geschichte/unit-cd236af67b798cc72418.png",
         "info": {
           "goal": "erklären können, wie aus einer persönlichen Erinnerung eine historische Quelle wird.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -253,7 +253,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-1-teacher"
         },
@@ -263,7 +263,7 @@ window.historyMaterials = [
         "label": "2. Was sehe ich – und was deute ich?",
         "detail": "8 Seiten · Wie beeinflusst die Aufzeichnung, was wir aus einem Interview erkennen?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-7aeb48048aa24703a70c.png",
+        "preview": "../../materialien/geschichte/unit-f5cb7c3f49c18668bee2.png",
         "info": {
           "goal": "ein aufgezeichnetes Zeitzeugnis mit Zeitmarken protokollieren und Beobachtung von Deutung trennen können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -281,7 +281,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-2-teacher"
         },
@@ -291,7 +291,7 @@ window.historyMaterials = [
         "label": "3. Hinter jedem Namen ein Leben",
         "detail": "11 Seiten · Wie verbindet sich eine individuelle Lebensgeschichte mit historischen Entwicklungen?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-a2ef9b682eae7dcdc64c.png",
+        "preview": "../../materialien/geschichte/unit-6710ef7da2f53eabc1f3.png",
         "info": {
           "goal": "eine Lebensgeschichte mit gesicherten historischen Zusammenhängen verbinden können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -309,7 +309,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-3-teacher"
         },
@@ -319,7 +319,7 @@ window.historyMaterials = [
         "label": "4. Ernst nehmen heißt prüfen",
         "detail": "8 Seiten · Was kann ein Zeitzeugeninterview über Vergangenheit erklären, und was nicht?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-5d0766b8b0c46217db4a.png",
+        "preview": "../../materialien/geschichte/unit-b2b6d07ca797e7de1ee3.png",
         "info": {
           "goal": "Aussagewert und Grenzen eines Zeitzeugeninterviews in einem Quellenurteil bestimmen können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -337,7 +337,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-4-teacher"
         },
@@ -347,7 +347,7 @@ window.historyMaterials = [
         "label": "5. Der Gast und die Fragen",
         "detail": "9 Seiten · Welche Fragen ermöglichen Erkenntnis, ohne die erzählende Person zu bevormunden?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-f7cb0721512fb7c49b91.png",
+        "preview": "../../materialien/geschichte/unit-c0ae169402eda594a4a1.png",
         "info": {
           "goal": "ein Interview mit offenen, respektvollen Fragen planen und erproben können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -365,7 +365,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-5-teacher"
         },
@@ -375,7 +375,7 @@ window.historyMaterials = [
         "label": "6. Weitergeben, ohne zu vereinnahmen",
         "detail": "9 Seiten · Wie kann aus einem persönlichen Zeugnis verantwortliche Zweitzeugenschaft entstehen?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-b0d6104eeea24cc070a4.png",
+        "preview": "../../materialien/geschichte/unit-8347d6cb56fb3e871c36.png",
         "info": {
           "goal": "ein Zeugnis auswerten und es verantwortungsvoll weitergeben können.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -393,7 +393,7 @@ window.historyMaterials = [
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-6-teacher"
         },
@@ -585,17 +585,17 @@ window.historyMaterials = [
   },
   {
     "title": "Gesamtpaket: Themenworkshops – Geschichte, Europa und Erinnerung",
-    "description": "66 Seiten · Aktuelle Fassung · 5 Lernstationen · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
+    "description": "87 Seiten · Aktuelle Fassung · 5 Lernstationen und 5 Themendossiers · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
     "files": [
       {
         "label": "Gesamtpaket herunterladen",
-        "detail": "66 Seiten · Aktuelle Fassung · 5 Lernstationen · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
+        "detail": "87 Seiten · Aktuelle Fassung · 5 Lernstationen und 5 Themendossiers · Klasse 9/10 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
         "kind": "teacher",
         "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung"
       },
       {
         "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-        "detail": "7 Seiten · Basisbeiträge, Unterrichtsplanung, Lösungen und Lehrkräftehinweise",
+        "detail": "28 Seiten · Basisbeiträge, Unterrichtsplanung, Lösungen und Lehrkräftehinweise",
         "kind": "teacher",
         "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-commentary"
       },
@@ -615,7 +615,7 @@ window.historyMaterials = [
         "label": "1. Thema und Frage",
         "detail": "5 Seiten · Welche historische Frage verbindet Ort, Quelle und europäische Gegenwart?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-1462d446daf1052962a7.png",
+        "preview": "../../materialien/geschichte/unit-eee0d483f911fd14354a.png",
         "info": {
           "goal": "Eine eingegrenzte historische Leitfrage und einen Arbeitsplan entwickeln.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -628,12 +628,12 @@ window.historyMaterials = [
           "details": {
             "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der fünften Doppelstunde zu einem Dossier ein belegtes Lernprodukt gestalten und ein begründetes Urteil vertreten können.",
             "items": [],
-            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+            "assessment": "Aufgabenbezogene Kriterien stehen im Lehrkräftekommentar der Projektreihe; Lösungshinweise liegen jedem Themendossier bei."
           }
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
+          "detail": "5 Seiten · Gemeinsame Planung und Lernziele der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-1-teacher"
         },
@@ -643,7 +643,7 @@ window.historyMaterials = [
         "label": "2. Was kann die Quelle zeigen?",
         "detail": "5 Seiten · Was kann eine Quelle zu unserer Frage belegen, und was nicht?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-b221fdd2af35d0ba6c17.png",
+        "preview": "../../materialien/geschichte/unit-1cc85354c3f3cdd6c7f1.png",
         "info": {
           "goal": "Quellen auf Aussagewert prüfen und Perspektiven vergleichen.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -656,12 +656,12 @@ window.historyMaterials = [
           "details": {
             "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der fünften Doppelstunde zu einem Dossier ein belegtes Lernprodukt gestalten und ein begründetes Urteil vertreten können.",
             "items": [],
-            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+            "assessment": "Aufgabenbezogene Kriterien stehen im Lehrkräftekommentar der Projektreihe; Lösungshinweise liegen jedem Themendossier bei."
           }
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
+          "detail": "5 Seiten · Gemeinsame Planung und Lernziele der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-2-teacher"
         },
@@ -671,7 +671,7 @@ window.historyMaterials = [
         "label": "3. Vom Ort nach Europa",
         "detail": "5 Seiten · Wie hängen lokale Geschichte und europäische Entwicklungen zusammen?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-0f30af2524801842110b.png",
+        "preview": "../../materialien/geschichte/unit-5869f1c2468d7f1a0542.png",
         "info": {
           "goal": "Lokale Geschichte in europäische Zusammenhänge einordnen.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -684,12 +684,12 @@ window.historyMaterials = [
           "details": {
             "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der fünften Doppelstunde zu einem Dossier ein belegtes Lernprodukt gestalten und ein begründetes Urteil vertreten können.",
             "items": [],
-            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+            "assessment": "Aufgabenbezogene Kriterien stehen im Lehrkräftekommentar der Projektreihe; Lösungshinweise liegen jedem Themendossier bei."
           }
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
+          "detail": "5 Seiten · Gemeinsame Planung und Lernziele der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-3-teacher"
         },
@@ -699,7 +699,7 @@ window.historyMaterials = [
         "label": "4. Gestaltung ist Aussage",
         "detail": "6 Seiten · Wie wird aus Befunden ein verständliches und verantwortliches Lernprodukt?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-44f3ec803c656c5e5304.png",
+        "preview": "../../materialien/geschichte/unit-9ee60742ff0aaf296e50.png",
         "info": {
           "goal": "Belegte Kernaussagen in ein verständliches Lernprodukt umsetzen.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -712,12 +712,12 @@ window.historyMaterials = [
           "details": {
             "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der fünften Doppelstunde zu einem Dossier ein belegtes Lernprodukt gestalten und ein begründetes Urteil vertreten können.",
             "items": [],
-            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+            "assessment": "Aufgabenbezogene Kriterien stehen im Lehrkräftekommentar der Projektreihe; Lösungshinweise liegen jedem Themendossier bei."
           }
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
+          "detail": "5 Seiten · Gemeinsame Planung und Lernziele der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-4-teacher"
         },
@@ -727,7 +727,7 @@ window.historyMaterials = [
         "label": "5. Galerie und Urteil",
         "detail": "6 Seiten · Wie lässt sich ein historisches Urteil begründen und überprüfbar machen?",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-fe10b80cec1a03208164.png",
+        "preview": "../../materialien/geschichte/unit-8c94fd4ecf148613fc38.png",
         "info": {
           "goal": "Produkte präsentieren, begründetes Feedback geben und historisch urteilen.",
           "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
@@ -740,55 +740,85 @@ window.historyMaterials = [
           "details": {
             "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der fünften Doppelstunde zu einem Dossier ein belegtes Lernprodukt gestalten und ein begründetes Urteil vertreten können.",
             "items": [],
-            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+            "assessment": "Aufgabenbezogene Kriterien stehen im Lehrkräftekommentar der Projektreihe; Lösungshinweise liegen jedem Themendossier bei."
           }
         },
         "teacher": {
           "label": "Didaktisch-methodischer Kommentar & Lernziele",
-          "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
+          "detail": "5 Seiten · Gemeinsame Planung und Lernziele der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-5-teacher"
         },
         "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-5"
       },
       {
-        "label": "Themendossier 1: Dossier T1",
-        "detail": "3 Seiten · Quellen, Materialien und Arbeitsblätter",
+        "label": "Themendossier 1: Erinnerungskulturen in Europa",
+        "detail": "4 Seiten · Wortspeicher, Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-ebb4736fd3fcbf7f85a7.png",
+        "preview": "../../materialien/geschichte/unit-20f71d02b479e1608a7a.png",
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lösungshinweise",
+          "detail": "4 Seiten · Basisbeitrag, didaktisch-methodische Überlegungen und Lösungshinweise zum Dossier",
+          "kind": "teacher",
+          "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-1-teacher"
+        },
         "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-1"
       },
       {
-        "label": "Themendossier 2: Dossier T2",
-        "detail": "3 Seiten · Quellen, Materialien und Arbeitsblätter",
+        "label": "Themendossier 2: Das Elsass zwischen den Fronten",
+        "detail": "4 Seiten · Wortspeicher, Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-60f46f6fd454d7dd95f7.png",
+        "preview": "../../materialien/geschichte/unit-1401c2c054570a7e939d.png",
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lösungshinweise",
+          "detail": "5 Seiten · Basisbeitrag, didaktisch-methodische Überlegungen und Lösungshinweise zum Dossier",
+          "kind": "teacher",
+          "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-2-teacher"
+        },
         "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-2"
       },
       {
-        "label": "Themendossier 3: Dossier T3",
-        "detail": "3 Seiten · Quellen, Materialien und Arbeitsblätter",
+        "label": "Themendossier 3: Straßburg – Hauptstadt Europas?",
+        "detail": "4 Seiten · Wortspeicher, Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-9817761b6345f66161f1.png",
+        "preview": "../../materialien/geschichte/unit-b1eddf31f49a6cb68dae.png",
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lösungshinweise",
+          "detail": "5 Seiten · Basisbeitrag, didaktisch-methodische Überlegungen und Lösungshinweise zum Dossier",
+          "kind": "teacher",
+          "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-3-teacher"
+        },
         "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-3"
       },
       {
-        "label": "Themendossier 4: Dossier T4",
-        "detail": "6 Seiten · Quellen, Materialien und Arbeitsblätter",
+        "label": "Themendossier 4: Das Europäische Parlament: Wie entscheidet",
+        "detail": "7 Seiten · Wortspeicher, Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-578a0aa6a1fdd66b67c0.png",
+        "preview": "../../materialien/geschichte/unit-a7c75356c22d00c8f8fb.png",
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lösungshinweise",
+          "detail": "4 Seiten · Basisbeitrag, didaktisch-methodische Überlegungen und Lösungshinweise zum Dossier",
+          "kind": "teacher",
+          "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-4-teacher"
+        },
         "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-4"
       },
       {
-        "label": "Themendossier 5: Dossier T5",
-        "detail": "4 Seiten · Quellen, Materialien und Arbeitsblätter",
+        "label": "Themendossier 5: Parlament und Erinnerung: Wer deutet",
+        "detail": "5 Seiten · Wortspeicher, Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "preview": "../../materialien/geschichte/unit-b56b39d799a4ada6fc0a.png",
+        "preview": "../../materialien/geschichte/unit-a1fdbc71ad01678ca01d.png",
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lösungshinweise",
+          "detail": "4 Seiten · Basisbeitrag, didaktisch-methodische Überlegungen und Lösungshinweise zum Dossier",
+          "kind": "teacher",
+          "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-5-teacher"
+        },
         "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-5"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",
-        "detail": "6 Seiten · Reflexion, Bewertung, Vorlagen und Quellen",
+        "detail": "5 Seiten · Reflexion, Bewertung, Vorlagen und Quellen",
         "kind": "teacher",
         "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-resources"
       }
