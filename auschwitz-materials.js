@@ -814,5 +814,211 @@ window.auschwitzMaterials = [
         "protectedId": "Auschwitz-Ausstellung-Kursstufe-resources"
       }
     ]
+  },
+  {
+    "title": "Kann Auschwitz je überlebt werden? · Auschwitz im KZ-System · Kursstufe 12/13",
+    "description": "112 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Kursstufe 12/13 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
+    "files": [
+      {
+        "label": "Gesamtpaket herunterladen",
+        "detail": "112 Seiten · Aktuelle Fassung · 6 Doppelstunden à 90 Minuten · Kursstufe 12/13 · Arbeitspläne, Materialien und separate Lehrkräfteunterlagen",
+        "kind": "teacher",
+        "protectedId": "Auschwitz-KZ-System-gesamt"
+      },
+      {
+        "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+        "detail": "35 Seiten · Basisbeiträge, Unterrichtsplanung, Lösungen und Lehrkräftehinweise",
+        "kind": "teacher",
+        "protectedId": "Auschwitz-KZ-System-commentary"
+      },
+      {
+        "label": "Lernziele und Kompetenzen",
+        "detail": "6 Seiten · Ziele und Kompetenzen der Reihe",
+        "kind": "teacher",
+        "protectedId": "Auschwitz-KZ-System-learning-goals"
+      },
+      {
+        "label": "Methodenkoffer und Operatorenhilfen",
+        "detail": "3 Seiten · Starthilfen und Methodenkarten",
+        "kind": "teacher",
+        "protectedId": "Auschwitz-KZ-System-methods"
+      },
+      {
+        "label": "1. Ein System des Terrors",
+        "detail": "12 Seiten · Wie entwickelte sich das System der Konzentrationslager von 1933 bis 1945?",
+        "kind": "standard",
+        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-1.pdf?v=82225ae04ac4",
+        "preview": "../../materialien/geschichte/unit-d000f36933a3d647121b.png",
+        "info": {
+          "goal": "die Entwicklung des KZ-Systems 1933–1945 in Phasen darstellen und die Stellung von Auschwitz darin erklären können.",
+          "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
+          "audience": "Kursstufe 12/13 (Q1/Q2)",
+          "result": "ein gemeinsamer Zeitstrahl des KZ-Systems mit Auschwitz.",
+          "preparation": "Phasentexte A–G je fünfmal kopieren; Kärtchen auf festes Papier; Wandfläche für den Zeitstrahl.",
+          "principle": "Quellenkritik und reflektiertes historisches Lernen",
+          "prerequisites": "Einstieg in die Reihe; Vorwissen wird gemeinsam geklärt.",
+          "socialForm": "Gruppe · Plenum",
+          "details": {
+            "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Entwicklung des KZ-Systems 1933–1945 in Phasen darstellen und die Stellung von Auschwitz darin erklären können.",
+            "items": [],
+            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+          }
+        },
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lernziele",
+          "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "kind": "teacher",
+          "protectedId": "Auschwitz-KZ-System-unit-1-teacher"
+        }
+      },
+      {
+        "label": "2. Ankunft in Birkenau",
+        "detail": "9 Seiten · Was geschah bei der Ankunft in Birkenau, und was können Zeugnis, Text und Foto darüber sagen?",
+        "kind": "standard",
+        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-2.pdf?v=82225ae04ac4",
+        "preview": "../../materialien/geschichte/unit-76928b11d3420dca68ee.png",
+        "info": {
+          "goal": "den Ablauf der Ankunft in Birkenau rekonstruieren und eine Zeitzeugenaussage mit Sachinformation und Fotos abgleichen können.",
+          "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
+          "audience": "Kursstufe 12/13 (Q1/Q2)",
+          "result": "eine Doppelspalte mit begründetem Urteil zum Zitat.",
+          "preparation": "Videoausschnitt prüfen (Länge, Inhalt); Beamer; Zusammenfassung für Lernende ohne Video.",
+          "principle": "Quellenkritik und reflektiertes historisches Lernen",
+          "prerequisites": "Ergebnisse und Quellenarbeit aus den vorherigen Einheiten.",
+          "socialForm": "Plenum · Einzelarbeit · Partnerarbeit",
+          "details": {
+            "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde den Ablauf der Ankunft in Birkenau rekonstruieren und eine Zeitzeugenaussage mit Sachinformation und Fotos abgleichen können.",
+            "items": [],
+            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+          }
+        },
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lernziele",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "kind": "teacher",
+          "protectedId": "Auschwitz-KZ-System-unit-2-teacher"
+        }
+      },
+      {
+        "label": "3. Eine Kindheit in Birkenau",
+        "detail": "9 Seiten · Wie überlebte ein Kind Birkenau, und wie deutet es sein Überleben?",
+        "kind": "standard",
+        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-3.pdf?v=82225ae04ac4",
+        "preview": "../../materialien/geschichte/unit-b72d7c5d71f7aa7fbed1.png",
+        "info": {
+          "goal": "Lidia Maksymowiczs Kindheit in Birkenau mit Kontextwissen verbinden und ihre Deutung des eigenen Überlebens beurteilen können.",
+          "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
+          "audience": "Kursstufe 12/13 (Q1/Q2)",
+          "result": "eine Tabelle und ein begründetes Urteil zu Lidias Deutung.",
+          "preparation": "Videoausschnitt sichten; Rückzugsmöglichkeit vereinbaren.",
+          "principle": "Quellenkritik und reflektiertes historisches Lernen",
+          "prerequisites": "Ergebnisse und Quellenarbeit aus den vorherigen Einheiten.",
+          "socialForm": "Plenum · Einzelarbeit · Partnerarbeit",
+          "details": {
+            "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Lidia Maksymowiczs Kindheit in Birkenau mit Kontextwissen verbinden und ihre Deutung des eigenen Überlebens beurteilen können.",
+            "items": [],
+            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+          }
+        },
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lernziele",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "kind": "teacher",
+          "protectedId": "Auschwitz-KZ-System-unit-3-teacher"
+        }
+      },
+      {
+        "label": "4. Überleben im Lager",
+        "detail": "9 Seiten · Was entschied im Konzentrationslager über Leben und Tod?",
+        "kind": "standard",
+        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-4.pdf?v=82225ae04ac4",
+        "preview": "../../materialien/geschichte/unit-652b51e3b8182debd336.png",
+        "info": {
+          "goal": "Hunger und Hierarchie als Bedingungen des Überlebens erklären und widersprüchliche Aussagen über Solidarität beurteilen können.",
+          "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
+          "audience": "Kursstufe 12/13 (Q1/Q2)",
+          "result": "ein Urteil, das Sach- und Werturteil trennt.",
+          "preparation": "Video sichten; Positionslinie im Raum markieren; schriftliche Alternative bereithalten.",
+          "principle": "Quellenkritik und reflektiertes historisches Lernen",
+          "prerequisites": "Ergebnisse und Quellenarbeit aus den vorherigen Einheiten.",
+          "socialForm": "Plenum · Einzelarbeit · Partnerarbeit · Gruppe",
+          "details": {
+            "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Hunger und Hierarchie als Bedingungen des Überlebens erklären und widersprüchliche Aussagen über Solidarität beurteilen können.",
+            "items": [],
+            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+          }
+        },
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lernziele",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "kind": "teacher",
+          "protectedId": "Auschwitz-KZ-System-unit-4-teacher"
+        }
+      },
+      {
+        "label": "5. Von Auschwitz ins Außenlager",
+        "detail": "11 Seiten · Warum endete die Verfolgung nicht mit dem Verlassen von Auschwitz?",
+        "kind": "standard",
+        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-5.pdf?v=82225ae04ac4",
+        "preview": "../../materialien/geschichte/unit-8bd0ffd7719a0c007112.png",
+        "info": {
+          "goal": "Wege von Auschwitz in Außenlager rekonstruieren und den Begriff „Vernichtung durch Arbeit“ an Berichten erläutern können.",
+          "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
+          "audience": "Kursstufe 12/13 (Q1/Q2)",
+          "result": "eine Stationenkarte zweier Lebenswege mit Begriffserklärung.",
+          "preparation": "Zeitstrahlkärtchen aus LE 1 bereithalten; Berichte gezielt verteilen.",
+          "principle": "Quellenkritik und reflektiertes historisches Lernen",
+          "prerequisites": "Ergebnisse und Quellenarbeit aus den vorherigen Einheiten.",
+          "socialForm": "Plenum · Gruppe · Partnerarbeit",
+          "details": {
+            "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Wege von Auschwitz in Außenlager rekonstruieren und den Begriff „Vernichtung durch Arbeit“ an Berichten erläutern können.",
+            "items": [],
+            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+          }
+        },
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lernziele",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "kind": "teacher",
+          "protectedId": "Auschwitz-KZ-System-unit-5-teacher"
+        }
+      },
+      {
+        "label": "6. Kann Auschwitz je überlebt werden?",
+        "detail": "10 Seiten · Kann Auschwitz je überlebt werden?",
+        "kind": "standard",
+        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-6.pdf?v=82225ae04ac4",
+        "preview": "../../materialien/geschichte/unit-a7ffc5f45f612d71979c.png",
+        "info": {
+          "goal": "die Leitfrage „Kann Auschwitz je überlebt werden?“ begründet beantworten und eine geprüfte Stele bzw. ein Puzzlestück gestalten können.",
+          "duration": "90 Minuten · Vertiefung und Zusatzmaterial nach Bedarf",
+          "audience": "Kursstufe 12/13 (Q1/Q2)",
+          "result": "eine geprüfte Stele bzw. ein Puzzlestück und eine begründete Antwort auf die Leitfrage.",
+          "preparation": "Positionskarten aus LE 1 bereitlegen; Stelenrohlinge und Klebezettel.",
+          "principle": "Quellenkritik und reflektiertes historisches Lernen",
+          "prerequisites": "Ergebnisse und Quellenarbeit aus den vorherigen Einheiten.",
+          "socialForm": "Plenum · Partnerarbeit · Gruppe",
+          "details": {
+            "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Leitfrage „Kann Auschwitz je überlebt werden?“ begründet beantworten und eine geprüfte Stele bzw. ein Puzzlestück gestalten können.",
+            "items": [],
+            "assessment": "Aufgabenbezogene Kriterien und Lösungen stehen im Lehrkräftekommentar der Einheit."
+          }
+        },
+        "teacher": {
+          "label": "Didaktisch-methodischer Kommentar & Lernziele",
+          "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
+          "kind": "teacher",
+          "protectedId": "Auschwitz-KZ-System-unit-6-teacher"
+        }
+      },
+      {
+        "label": "Gemeinsame Materialien, Bewertung und Anhänge",
+        "detail": "6 Seiten · Reflexion, Bewertung, Vorlagen und Quellen",
+        "kind": "teacher",
+        "protectedId": "Auschwitz-KZ-System-resources"
+      }
+    ],
+    "preview": "../../materialien/geschichte/workbook-82225ae04ac4c02468c9.png",
+    "pageCount": 112
   }
 ];
