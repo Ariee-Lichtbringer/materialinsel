@@ -31,7 +31,6 @@ window.historyMaterials = [
         "label": "1. Was erwarten wir – und was fragen wir?",
         "detail": "7 Seiten · Wie prägen unsere Erwartungen den Blick auf einen historischen Ort?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-1.pdf?v=8df7add31039",
         "preview": "../../materialien/geschichte/unit-b7da6f2044f8f1b3588a.png",
         "info": {
           "goal": "eigene Erwartungen an den Gedenkort sichtbar machen und in prüfbare Fragen umformulieren können.",
@@ -53,13 +52,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-1"
       },
       {
         "label": "2. Was der Ort erzählt – und was nicht",
         "detail": "11 Seiten · Wie lässt sich Geschichte aus räumlichen und baulichen Spuren erschließen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-2.pdf?v=8df7add31039",
         "preview": "../../materialien/geschichte/unit-4e0690910ce6bb66a0ca.png",
         "info": {
           "goal": "Geschichte aus Spuren des Ortes erschließen und seine Zeitschichten unterscheiden können.",
@@ -81,13 +80,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-2"
       },
       {
         "label": "3. Menschen, keine Nummern",
         "detail": "9 Seiten · Wie verändert eine individuelle Biografie unser Verständnis historischer Verfolgung?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-3.pdf?v=8df7add31039",
         "preview": "../../materialien/geschichte/unit-54a4889ff2408bf5eedf.png",
         "info": {
           "goal": "den Weg eines Menschen durch den KZ-Komplex rekonstruieren und mit Orten verbinden können.",
@@ -109,13 +108,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-3"
       },
       {
         "label": "4. Darf ich das posten?",
         "detail": "8 Seiten · Welche Verantwortung entsteht beim Fotografieren und Darstellen an einem Gedenkort?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-4.pdf?v=8df7add31039",
         "preview": "../../materialien/geschichte/unit-573947794c71d93d5dd7.png",
         "info": {
           "goal": "begründete Regeln für Fotos und Posts am Gedenkort entwickeln können.",
@@ -137,13 +136,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-4"
       },
       {
         "label": "5. Hinsehen, nicht abhaken",
         "detail": "6 Seiten · Welche Fragen helfen, einen Gedenkort als historische Quelle zu untersuchen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-5.pdf?v=8df7add31039",
         "preview": "../../materialien/geschichte/unit-3e9ddaf2eb27f609314a.png",
         "info": {
           "goal": "einen Beobachtungsplan für den Besuch erstellen können.",
@@ -165,13 +164,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-5"
       },
       {
         "label": "6. Was bleibt vom Besuch?",
         "detail": "9 Seiten · Wie lässt sich ein Gedenkstättenbesuch quellenbasiert reflektieren, ohne Gefühle vorzuschreiben?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-6.pdf?v=8df7add31039",
         "preview": "../../materialien/geschichte/unit-beda35075139c139598c.png",
         "info": {
           "goal": "den Besuch quellenbasiert reflektieren und über die Aufgabe von Gedenkstätten urteilen können.",
@@ -193,7 +192,8 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-6-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Gedenkstaettenbesuch-6-UE-unit-6"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",
@@ -235,7 +235,6 @@ window.historyMaterials = [
         "label": "1. Was ist eine Erinnerung wert?",
         "detail": "10 Seiten · Wie wird aus einer persönlichen Erinnerung eine historische Quelle?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-1.pdf?v=79d1acd30218",
         "preview": "../../materialien/geschichte/unit-96175c360282a4febfe8.png",
         "info": {
           "goal": "erklären können, wie aus einer persönlichen Erinnerung eine historische Quelle wird.",
@@ -257,13 +256,13 @@ window.historyMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-1"
       },
       {
         "label": "2. Was sehe ich – und was deute ich?",
         "detail": "8 Seiten · Wie beeinflusst die Aufzeichnung, was wir aus einem Interview erkennen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-2.pdf?v=79d1acd30218",
         "preview": "../../materialien/geschichte/unit-7aeb48048aa24703a70c.png",
         "info": {
           "goal": "ein aufgezeichnetes Zeitzeugnis mit Zeitmarken protokollieren und Beobachtung von Deutung trennen können.",
@@ -285,13 +284,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-2"
       },
       {
         "label": "3. Hinter jedem Namen ein Leben",
         "detail": "11 Seiten · Wie verbindet sich eine individuelle Lebensgeschichte mit historischen Entwicklungen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-3.pdf?v=79d1acd30218",
         "preview": "../../materialien/geschichte/unit-a2ef9b682eae7dcdc64c.png",
         "info": {
           "goal": "eine Lebensgeschichte mit gesicherten historischen Zusammenhängen verbinden können.",
@@ -313,13 +312,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-3"
       },
       {
         "label": "4. Ernst nehmen heißt prüfen",
         "detail": "8 Seiten · Was kann ein Zeitzeugeninterview über Vergangenheit erklären, und was nicht?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-4.pdf?v=79d1acd30218",
         "preview": "../../materialien/geschichte/unit-5d0766b8b0c46217db4a.png",
         "info": {
           "goal": "Aussagewert und Grenzen eines Zeitzeugeninterviews in einem Quellenurteil bestimmen können.",
@@ -341,13 +340,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-4"
       },
       {
         "label": "5. Der Gast und die Fragen",
         "detail": "9 Seiten · Welche Fragen ermöglichen Erkenntnis, ohne die erzählende Person zu bevormunden?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-5.pdf?v=79d1acd30218",
         "preview": "../../materialien/geschichte/unit-f7cb0721512fb7c49b91.png",
         "info": {
           "goal": "ein Interview mit offenen, respektvollen Fragen planen und erproben können.",
@@ -369,13 +368,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-5"
       },
       {
         "label": "6. Weitergeben, ohne zu vereinnahmen",
         "detail": "9 Seiten · Wie kann aus einem persönlichen Zeugnis verantwortliche Zweitzeugenschaft entstehen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-6.pdf?v=79d1acd30218",
         "preview": "../../materialien/geschichte/unit-b0d6104eeea24cc070a4.png",
         "info": {
           "goal": "ein Zeugnis auswerten und es verantwortungsvoll weitergeben können.",
@@ -397,7 +396,8 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-6-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Oral-History-Zeitzeugeninterviews-6-UE-unit-6"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",
@@ -439,7 +439,6 @@ window.historyMaterials = [
         "label": "1. Wer spricht hier – und worüber?",
         "detail": "9 Seiten · Wie kann ein Podcast persönliche Eindrücke und historische Informationen verantwortungsvoll verbinden?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-1.pdf?v=539ff223263f",
         "preview": "../../materialien/geschichte/unit-dafb8f60fe58a9bdf43c.png",
         "info": {
           "goal": "eine eigene, prüfbare Leitfrage für einen Podcast über Natzweiler formulieren und ihre Tragfähigkeit begründen können.",
@@ -461,13 +460,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-1"
       },
       {
         "label": "2. Wem glauben wir?",
         "detail": "14 Seiten · Woran erkennen wir, ob eine Aussage über Natzweiler tragfähig belegt ist, und warum widersprechen sich sogar seriöse Quellen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-2.pdf?v=539ff223263f",
         "preview": "../../materialien/geschichte/unit-d75da50a2437be6047c2.png",
         "info": {
           "goal": "Aussagen über Natzweiler mit Belegen prüfen und ungeprüfte KI-Formulierungen korrigieren können.",
@@ -489,13 +488,13 @@ window.historyMaterials = [
           "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-2"
       },
       {
         "label": "3. Erzählen, ohne zu erfinden",
         "detail": "12 Seiten · Wie wird aus geprüften Informationen eine verständliche und verantwortliche Erzählung?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-3.pdf?v=539ff223263f",
         "preview": "../../materialien/geschichte/unit-73fa3bcb4f2ec140aff8.png",
         "info": {
           "goal": "ein sprechbares, belegtes Podcast-Skript entwickeln und redaktionell prüfen können.",
@@ -517,13 +516,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-3"
       },
       {
         "label": "4. Was der Schnitt mit der Wahrheit macht",
         "detail": "9 Seiten · Wie verändern Aufnahme und Schnitt die Wirkung einer historischen Erzählung?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-4.pdf?v=539ff223263f",
         "preview": "../../materialien/geschichte/unit-2db108a07bbe1f87c2b7.png",
         "info": {
           "goal": "eine verständliche Audiofassung aufnehmen und jeden Schnitt am Skript rechtfertigen können.",
@@ -545,13 +544,13 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-4"
       },
       {
         "label": "5. Veröffentlichen – aber wie?",
         "detail": "13 Seiten · Wann ist ein Podcast historisch verantwortungsvoll und veröffentlichungsfähig?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-5.pdf?v=539ff223263f",
         "preview": "../../materialien/geschichte/unit-6a4a0276fb7fd156a15c.png",
         "info": {
           "goal": "den Podcast begründet überarbeiten und über seine Veröffentlichung urteilen können.",
@@ -573,7 +572,8 @@ window.historyMaterials = [
           "detail": "5 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Podcast-A-Trip-to-Remember-5-DS-unit-5"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",
@@ -615,7 +615,6 @@ window.historyMaterials = [
         "label": "1. Thema und Frage",
         "detail": "5 Seiten · Welche historische Frage verbindet Ort, Quelle und europäische Gegenwart?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-1.pdf?v=059a99fdabc7",
         "preview": "../../materialien/geschichte/unit-1462d446daf1052962a7.png",
         "info": {
           "goal": "Eine eingegrenzte historische Leitfrage und einen Arbeitsplan entwickeln.",
@@ -637,13 +636,13 @@ window.historyMaterials = [
           "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-1"
       },
       {
         "label": "2. Was kann die Quelle zeigen?",
         "detail": "5 Seiten · Was kann eine Quelle zu unserer Frage belegen, und was nicht?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-2.pdf?v=059a99fdabc7",
         "preview": "../../materialien/geschichte/unit-b221fdd2af35d0ba6c17.png",
         "info": {
           "goal": "Quellen auf Aussagewert prüfen und Perspektiven vergleichen.",
@@ -665,13 +664,13 @@ window.historyMaterials = [
           "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-2"
       },
       {
         "label": "3. Vom Ort nach Europa",
         "detail": "5 Seiten · Wie hängen lokale Geschichte und europäische Entwicklungen zusammen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-3.pdf?v=059a99fdabc7",
         "preview": "../../materialien/geschichte/unit-0f30af2524801842110b.png",
         "info": {
           "goal": "Lokale Geschichte in europäische Zusammenhänge einordnen.",
@@ -693,13 +692,13 @@ window.historyMaterials = [
           "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-3"
       },
       {
         "label": "4. Gestaltung ist Aussage",
         "detail": "6 Seiten · Wie wird aus Befunden ein verständliches und verantwortliches Lernprodukt?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-4.pdf?v=059a99fdabc7",
         "preview": "../../materialien/geschichte/unit-44f3ec803c656c5e5304.png",
         "info": {
           "goal": "Belegte Kernaussagen in ein verständliches Lernprodukt umsetzen.",
@@ -721,13 +720,13 @@ window.historyMaterials = [
           "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-4"
       },
       {
         "label": "5. Galerie und Urteil",
         "detail": "6 Seiten · Wie lässt sich ein historisches Urteil begründen und überprüfbar machen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-5.pdf?v=059a99fdabc7",
         "preview": "../../materialien/geschichte/unit-fe10b80cec1a03208164.png",
         "info": {
           "goal": "Produkte präsentieren, begründetes Feedback geben und historisch urteilen.",
@@ -749,42 +748,43 @@ window.historyMaterials = [
           "detail": "6 Seiten · Gemeinsame Planung, Lernziele und Lösungen der Projektreihe",
           "kind": "teacher",
           "protectedId": "Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-unit-5"
       },
       {
         "label": "Themendossier 1: Dossier T1",
         "detail": "3 Seiten · Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-1.pdf?v=059a99fdabc7",
-        "preview": "../../materialien/geschichte/unit-ebb4736fd3fcbf7f85a7.png"
+        "preview": "../../materialien/geschichte/unit-ebb4736fd3fcbf7f85a7.png",
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-1"
       },
       {
         "label": "Themendossier 2: Dossier T2",
         "detail": "3 Seiten · Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-2.pdf?v=059a99fdabc7",
-        "preview": "../../materialien/geschichte/unit-60f46f6fd454d7dd95f7.png"
+        "preview": "../../materialien/geschichte/unit-60f46f6fd454d7dd95f7.png",
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-2"
       },
       {
         "label": "Themendossier 3: Dossier T3",
         "detail": "3 Seiten · Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-3.pdf?v=059a99fdabc7",
-        "preview": "../../materialien/geschichte/unit-9817761b6345f66161f1.png"
+        "preview": "../../materialien/geschichte/unit-9817761b6345f66161f1.png",
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-3"
       },
       {
         "label": "Themendossier 4: Dossier T4",
         "detail": "6 Seiten · Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-4.pdf?v=059a99fdabc7",
-        "preview": "../../materialien/geschichte/unit-578a0aa6a1fdd66b67c0.png"
+        "preview": "../../materialien/geschichte/unit-578a0aa6a1fdd66b67c0.png",
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-4"
       },
       {
         "label": "Themendossier 5: Dossier T5",
         "detail": "4 Seiten · Quellen, Materialien und Arbeitsblätter",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-5.pdf?v=059a99fdabc7",
-        "preview": "../../materialien/geschichte/unit-b56b39d799a4ada6fc0a.png"
+        "preview": "../../materialien/geschichte/unit-b56b39d799a4ada6fc0a.png",
+        "protectedId": "S-Unterrichtseinheit-Themenworkshops-Geschichte-Europa-Erinnerung-dossier-5"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",

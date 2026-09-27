@@ -31,7 +31,6 @@ window.auschwitzMaterials = [
         "label": "1. Was ist eine Erinnerung wert?",
         "detail": "10 Seiten · Wie wird aus einer persönlichen Erinnerung an Auschwitz eine historische Quelle?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Oral-History-Kursstufe-unit-1.pdf?v=4f66e3318fb8",
         "preview": "../../materialien/geschichte/unit-07a0f9dd047c61f7e72d.png",
         "info": {
           "goal": "Oral History als Methode definieren und Chancen und Grenzen von Zeugnissen zu Auschwitz begründet benennen können.",
@@ -53,13 +52,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Oral-History-Kursstufe-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Oral-History-Kursstufe-unit-1"
       },
       {
         "label": "2. Was sehe ich – und was deute ich?",
         "detail": "9 Seiten · Wie beeinflusst die Aufzeichnung, was wir aus einem Interview erkennen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Oral-History-Kursstufe-unit-2.pdf?v=4f66e3318fb8",
         "preview": "../../materialien/geschichte/unit-1121a77a0b8d1b91bd64.png",
         "info": {
           "goal": "ein audiovisuelles Zeugnis protokollieren und Wortlaut, Beobachtung und Deutung trennen können.",
@@ -81,13 +80,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Oral-History-Kursstufe-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Oral-History-Kursstufe-unit-2"
       },
       {
         "label": "3. Hinter jedem Namen ein Leben",
         "detail": "12 Seiten · Wie verbindet sich eine individuelle Lebensgeschichte mit dem Völkermord an Sinti und Roma?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Oral-History-Kursstufe-unit-3.pdf?v=4f66e3318fb8",
         "preview": "../../materialien/geschichte/unit-8983179751d5c5157d69.png",
         "info": {
           "goal": "den Lebensweg einer verfolgten Person der Sinti und Roma mit dem historischen Kontext verbinden können.",
@@ -109,13 +108,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Oral-History-Kursstufe-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Oral-History-Kursstufe-unit-3"
       },
       {
         "label": "4. Ernst nehmen heißt prüfen",
         "detail": "9 Seiten · Was kann ein Zeugnis über Auschwitz erklären, und was nicht?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Oral-History-Kursstufe-unit-4.pdf?v=4f66e3318fb8",
         "preview": "../../materialien/geschichte/unit-d0fc72436a576cfda1c5.png",
         "info": {
           "goal": "ein Zeugnis in fünf Schritten quellenkritisch prüfen und ein Quellenurteil formulieren können.",
@@ -137,13 +136,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Oral-History-Kursstufe-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Oral-History-Kursstufe-unit-4"
       },
       {
         "label": "5. Der Gast und die Fragen",
         "detail": "11 Seiten · Welche Fragen ermöglichen Erkenntnis, ohne die erzählende Person zu bevormunden?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Oral-History-Kursstufe-unit-5.pdf?v=4f66e3318fb8",
         "preview": "../../materialien/geschichte/unit-9b1992a0e958823b1e1e.png",
         "info": {
           "goal": "ein respektvolles Gespräch vorbereiten und digitale Zeugnisse beurteilen können.",
@@ -165,13 +164,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Oral-History-Kursstufe-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Oral-History-Kursstufe-unit-5"
       },
       {
         "label": "6. Weitergeben, ohne zu vereinnahmen",
         "detail": "10 Seiten · Wie kann aus einem persönlichen Zeugnis verantwortliche Zweitzeugenschaft entstehen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Oral-History-Kursstufe-unit-6.pdf?v=4f66e3318fb8",
         "preview": "../../materialien/geschichte/unit-87781e0be413b764ca50.png",
         "info": {
           "goal": "ein Zeugnis auswerten und in einem Produkt verantwortungsvoll weitergeben können.",
@@ -193,7 +192,8 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Oral-History-Kursstufe-unit-6-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Oral-History-Kursstufe-unit-6"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",
@@ -235,7 +235,6 @@ window.auschwitzMaterials = [
         "label": "1. Was erwarten wir – und was fragen wir?",
         "detail": "10 Seiten · Wie prägen Vorwissen und Symbolbilder den Blick auf den historischen Ort Auschwitz?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-1.pdf?v=25a903bba8ef",
         "preview": "../../materialien/geschichte/unit-7afa613239d2a3edadea.png",
         "info": {
           "goal": "Stadt, Lagerkomplex und Symbol „Auschwitz“ unterscheiden und drei prüfbare Leitfragen für die Fahrt formulieren können.",
@@ -257,13 +256,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-1"
       },
       {
         "label": "2. Was der Ort erzählt – und was nicht",
         "detail": "12 Seiten · Was verraten Topografie, Täterdokumente und Opferzahlen über Funktion und Wandel des Lagerkomplexes?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-2.pdf?v=25a903bba8ef",
         "preview": "../../materialien/geschichte/unit-f544c8d1419ad518b282.png",
         "info": {
           "goal": "Funktionen und Wandel des Lagerkomplexes aus Quellen erschließen und den Forschungsstand zu den Opferzahlen begründet vertreten können.",
@@ -285,13 +284,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-2"
       },
       {
         "label": "3. Menschen, keine Nummern",
         "detail": "11 Seiten · Was zeigen Lebenswege von Verfolgten und Tätern, was Statistiken nicht zeigen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-3.pdf?v=25a903bba8ef",
         "preview": "../../materialien/geschichte/unit-78dd270818c0555b3ca2.png",
         "info": {
           "goal": "Lebenswege von Verfolgten und Tätern mit NRW-Bezug rekonstruieren und Deportierte aus dem eigenen Umfeld recherchieren können.",
@@ -313,13 +312,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-3"
       },
       {
         "label": "4. Darf ich das posten?",
         "detail": "10 Seiten · Wer hat Auschwitz fotografiert, und was zeigen und verbergen diese Bilder?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-4.pdf?v=25a903bba8ef",
         "preview": "../../materialien/geschichte/unit-01f89390b163337e0c46.png",
         "info": {
           "goal": "Fotos aus Auschwitz nach Urheber und Absicht analysieren und einen begründeten Bildkodex für die Fahrt entwickeln können.",
@@ -341,13 +340,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-4"
       },
       {
         "label": "5. Hinsehen, nicht abhaken",
         "detail": "9 Seiten · Welche Spuren und Ausstellungen machen welche Geschichte sichtbar?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-5.pdf?v=25a903bba8ef",
         "preview": "../../materialien/geschichte/unit-55e711ff12ece166e552.png",
         "info": {
           "goal": "einen Beobachtungsplan für Stammlager und Birkenau erstellen und erproben können.",
@@ -369,13 +368,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-5"
       },
       {
         "label": "6. Was bleibt vom Besuch?",
         "detail": "11 Seiten · Was bedeutet Auschwitz für unsere Erinnerungskultur, und was bleibt vom Besuch?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-6.pdf?v=25a903bba8ef",
         "preview": "../../materialien/geschichte/unit-6fb53849a5c977421862.png",
         "info": {
           "goal": "den Besuch quellenbasiert reflektieren und die Frage nach der Erinnerung an Auschwitz begründet beurteilen können.",
@@ -397,7 +396,8 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-6-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Gedenkstaettenbesuch-Kursstufe-unit-6"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",
@@ -439,7 +439,6 @@ window.auschwitzMaterials = [
         "label": "1. Stimmen gegen das Vergessen",
         "detail": "9 Seiten · Wie wird aus persönlicher Erinnerung an Auschwitz eine historische Quelle?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Zeitzeugenwand-Kursstufe-unit-1.pdf?v=bb61c8e83b40",
         "preview": "../../materialien/geschichte/unit-96cd8ced32846c925aee.png",
         "info": {
           "goal": "erklären können, wessen Stimmen zu Auschwitz gehört wurden, und eine begrenzte Leitfrage für eine Wandstation formulieren können.",
@@ -461,13 +460,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Zeitzeugenwand-Kursstufe-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Zeitzeugenwand-Kursstufe-unit-1"
       },
       {
         "label": "2. Wer spricht, wann, zu wem?",
         "detail": "8 Seiten · Was kann dieses konkrete Zeugnis belegen, und was nicht?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Zeitzeugenwand-Kursstufe-unit-2.pdf?v=bb61c8e83b40",
         "preview": "../../materialien/geschichte/unit-25e6848d8d5c1fb603b1.png",
         "info": {
           "goal": "ein Zeugnis nach Entstehung und Bearbeitung prüfen und ein Quellenurteil formulieren können.",
@@ -489,13 +488,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Zeitzeugenwand-Kursstufe-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Zeitzeugenwand-Kursstufe-unit-2"
       },
       {
         "label": "3. Hinter jeder Stimme ein Leben",
         "detail": "14 Seiten · Wie verbindet sich eine Lebensgeschichte mit den Strukturen der Verfolgung in Auschwitz?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Zeitzeugenwand-Kursstufe-unit-3.pdf?v=bb61c8e83b40",
         "preview": "../../materialien/geschichte/unit-1f0c3bb28104334508e5.png",
         "info": {
           "goal": "eine belegte Biografiespur erstellen und mit Kontextfenstern verbinden können.",
@@ -517,13 +516,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Zeitzeugenwand-Kursstufe-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Zeitzeugenwand-Kursstufe-unit-3"
       },
       {
         "label": "4. Drei Quellen, ein Bild?",
         "detail": "9 Seiten · Wie verändern unterschiedliche Quellengattungen unser Bild von einem Lebensweg?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Zeitzeugenwand-Kursstufe-unit-4.pdf?v=bb61c8e83b40",
         "preview": "../../materialien/geschichte/unit-8c0e5069a1b7ad945bfe.png",
         "info": {
           "goal": "Aussagen eines Zeugnisses mit Dokumenten und Fotos abgleichen und vorsichtig formulieren können.",
@@ -545,13 +544,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Zeitzeugenwand-Kursstufe-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Zeitzeugenwand-Kursstufe-unit-4"
       },
       {
         "label": "5. Zitat, Kontext, Frage",
         "detail": "8 Seiten · Wie wird eine Lebensgeschichte sichtbar, ohne sie sich anzueignen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Zeitzeugenwand-Kursstufe-unit-5.pdf?v=bb61c8e83b40",
         "preview": "../../materialien/geschichte/unit-62234e7581351797c598.png",
         "info": {
           "goal": "eine überprüfbare Wandstation gestalten und auf Rechte und Wirkung prüfen können.",
@@ -573,13 +572,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Zeitzeugenwand-Kursstufe-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Zeitzeugenwand-Kursstufe-unit-5"
       },
       {
         "label": "6. Die Wand spricht – wir antworten",
         "detail": "10 Seiten · Was lernen andere aus unserer Darstellung, und wo liegen ihre Grenzen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Zeitzeugenwand-Kursstufe-unit-6.pdf?v=bb61c8e83b40",
         "preview": "../../materialien/geschichte/unit-407bb9693311c03ed093.png",
         "info": {
           "goal": "eine Station präsentieren, nach Feedback überarbeiten und Verantwortung in einer redaktionellen Erklärung offenlegen können.",
@@ -601,7 +600,8 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Zeitzeugenwand-Kursstufe-unit-6-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Zeitzeugenwand-Kursstufe-unit-6"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",
@@ -643,7 +643,6 @@ window.auschwitzMaterials = [
         "label": "1. Welche Geschichte zeigen wir?",
         "detail": "8 Seiten · Welche Geschichte soll unsere Ausstellung mit welchen Quellen untersuchen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Ausstellung-Kursstufe-unit-1.pdf?v=33d9bc45ed45",
         "preview": "../../materialien/geschichte/unit-562cf8993b4b548dda88.png",
         "info": {
           "goal": "erläutern können, dass Ausstellungen zu Auschwitz unterschiedliche Fragen beantworten, und eine kuratorische Leitfrage mit Publikumsprofil formulieren können.",
@@ -665,13 +664,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Ausstellung-Kursstufe-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Ausstellung-Kursstufe-unit-1"
       },
       {
         "label": "2. Was erzählt ein Dokument?",
         "detail": "9 Seiten · Was erzählt ein Objekt oder Dokument, und welche Geschichte erzählt es nicht?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Ausstellung-Kursstufe-unit-2.pdf?v=33d9bc45ed45",
         "preview": "../../materialien/geschichte/unit-e5d34fbb0b7fa1fdb26a.png",
         "info": {
           "goal": "Dokumente sachlich beschreiben und vollständige Katalogkarten mit Provenienz erstellen können.",
@@ -693,13 +692,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Ausstellung-Kursstufe-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Ausstellung-Kursstufe-unit-2"
       },
       {
         "label": "3. Häftling und Manager",
         "detail": "8 Seiten · Wie zeigen individuelle Lebenswege historische Strukturen, ohne darin zu verschwinden?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Ausstellung-Kursstufe-unit-3.pdf?v=33d9bc45ed45",
         "preview": "../../materialien/geschichte/unit-63caa38519461b0ce707.png",
         "info": {
           "goal": "Lebenswege rund um Monowitz rekonstruieren und in einem Biografie-Modul mit Kontext verbinden können.",
@@ -721,13 +720,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Ausstellung-Kursstufe-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Ausstellung-Kursstufe-unit-3"
       },
       {
         "label": "4. Worte, Bilder, Stimmen",
         "detail": "8 Seiten · Wie lenken Sprache, Bildauswahl und Ton das historische Verständnis?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Ausstellung-Kursstufe-unit-4.pdf?v=33d9bc45ed45",
         "preview": "../../materialien/geschichte/unit-804fe9180ac535025cee.png",
         "info": {
           "goal": "Ausstellungstexte auf drei Ebenen schreiben und die Präsentation von Bildern begründen können.",
@@ -749,13 +748,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Ausstellung-Kursstufe-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Ausstellung-Kursstufe-unit-4"
       },
       {
         "label": "5. Der Weg ist Teil der Aussage",
         "detail": "8 Seiten · Wie erzeugt die Reihenfolge der Stationen eine historische Erzählung?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Ausstellung-Kursstufe-unit-5.pdf?v=33d9bc45ed45",
         "preview": "../../materialien/geschichte/unit-8d458904e4e42cac0d13.png",
         "info": {
           "goal": "einen begründeten Ausstellungsweg entwerfen und nach einem Testlauf überarbeiten können.",
@@ -777,13 +776,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Ausstellung-Kursstufe-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Ausstellung-Kursstufe-unit-5"
       },
       {
         "label": "6. Die Ausstellung ist eröffnet",
         "detail": "10 Seiten · Wie wird eine Ausstellung zum Ort historischer Fragen und demokratischer Gespräche?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-Ausstellung-Kursstufe-unit-6.pdf?v=33d9bc45ed45",
         "preview": "../../materialien/geschichte/unit-cbaef2c90841dc73f1a9.png",
         "info": {
           "goal": "dialogisch in die Ausstellung einführen, auf Kritik sachlich reagieren und das Projekt reflektieren können.",
@@ -805,7 +804,8 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-Ausstellung-Kursstufe-unit-6-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-Ausstellung-Kursstufe-unit-6"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",
@@ -847,7 +847,6 @@ window.auschwitzMaterials = [
         "label": "1. Ein System des Terrors",
         "detail": "12 Seiten · Wie entwickelte sich das System der Konzentrationslager von 1933 bis 1945?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-1.pdf?v=82225ae04ac4",
         "preview": "../../materialien/geschichte/unit-d000f36933a3d647121b.png",
         "info": {
           "goal": "die Entwicklung des KZ-Systems 1933–1945 in Phasen darstellen und die Stellung von Auschwitz darin erklären können.",
@@ -869,13 +868,13 @@ window.auschwitzMaterials = [
           "detail": "7 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-KZ-System-unit-1-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-KZ-System-unit-1"
       },
       {
         "label": "2. Ankunft in Birkenau",
         "detail": "9 Seiten · Was geschah bei der Ankunft in Birkenau, und was können Zeugnis, Text und Foto darüber sagen?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-2.pdf?v=82225ae04ac4",
         "preview": "../../materialien/geschichte/unit-76928b11d3420dca68ee.png",
         "info": {
           "goal": "den Ablauf der Ankunft in Birkenau rekonstruieren und eine Zeitzeugenaussage mit Sachinformation und Fotos abgleichen können.",
@@ -897,13 +896,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-KZ-System-unit-2-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-KZ-System-unit-2"
       },
       {
         "label": "3. Eine Kindheit in Birkenau",
         "detail": "9 Seiten · Wie überlebte ein Kind Birkenau, und wie deutet es sein Überleben?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-3.pdf?v=82225ae04ac4",
         "preview": "../../materialien/geschichte/unit-b72d7c5d71f7aa7fbed1.png",
         "info": {
           "goal": "Lidia Maksymowiczs Kindheit in Birkenau mit Kontextwissen verbinden und ihre Deutung des eigenen Überlebens beurteilen können.",
@@ -925,13 +924,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-KZ-System-unit-3-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-KZ-System-unit-3"
       },
       {
         "label": "4. Überleben im Lager",
         "detail": "9 Seiten · Was entschied im Konzentrationslager über Leben und Tod?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-4.pdf?v=82225ae04ac4",
         "preview": "../../materialien/geschichte/unit-652b51e3b8182debd336.png",
         "info": {
           "goal": "Hunger und Hierarchie als Bedingungen des Überlebens erklären und widersprüchliche Aussagen über Solidarität beurteilen können.",
@@ -953,13 +952,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-KZ-System-unit-4-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-KZ-System-unit-4"
       },
       {
         "label": "5. Von Auschwitz ins Außenlager",
         "detail": "11 Seiten · Warum endete die Verfolgung nicht mit dem Verlassen von Auschwitz?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-5.pdf?v=82225ae04ac4",
         "preview": "../../materialien/geschichte/unit-8bd0ffd7719a0c007112.png",
         "info": {
           "goal": "Wege von Auschwitz in Außenlager rekonstruieren und den Begriff „Vernichtung durch Arbeit“ an Berichten erläutern können.",
@@ -981,13 +980,13 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-KZ-System-unit-5-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-KZ-System-unit-5"
       },
       {
         "label": "6. Kann Auschwitz je überlebt werden?",
         "detail": "10 Seiten · Kann Auschwitz je überlebt werden?",
         "kind": "standard",
-        "href": "../../materialien/geschichte/Auschwitz-KZ-System-unit-6.pdf?v=82225ae04ac4",
         "preview": "../../materialien/geschichte/unit-a7ffc5f45f612d71979c.png",
         "info": {
           "goal": "die Leitfrage „Kann Auschwitz je überlebt werden?“ begründet beantworten und eine geprüfte Stele bzw. ein Puzzlestück gestalten können.",
@@ -1009,7 +1008,8 @@ window.auschwitzMaterials = [
           "detail": "6 Seiten · Basisbeitrag, Kommentar, Lernziele, Verlaufsplan und Lösungen",
           "kind": "teacher",
           "protectedId": "Auschwitz-KZ-System-unit-6-teacher"
-        }
+        },
+        "protectedId": "S-Auschwitz-KZ-System-unit-6"
       },
       {
         "label": "Gemeinsame Materialien, Bewertung und Anhänge",

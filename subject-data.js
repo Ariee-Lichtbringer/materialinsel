@@ -14,15 +14,15 @@ window.materialSubjects = {
               "label": "Schülermappe",
               "detail": "59 Seiten · Klasse 5 · aktualisierte Fassung",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe.pdf?v=4a2d01490b0a",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=4a2d01490b0a"
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=4a2d01490b0a",
+              "protectedId": "S-PP_Wer_bin_ich_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
               "detail": "59 Seiten · Klasse 5 · aktualisierte Fassung",
               "kind": "inclusive",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Inklusiv.pdf?v=c6167adc4b92",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Inklusiv-preview.png?v=c6167adc4b92"
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Inklusiv-preview.png?v=c6167adc4b92",
+              "protectedId": "S-PP_Wer_bin_ich_Kl5_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
@@ -34,7 +34,7 @@ window.materialSubjects = {
               "label": "Falt-Namensschild",
               "detail": "Wer bin ich? · A4 quer · einseitig drucken und mittig falten",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/Namensschild-PP-Klasse-5-Wer-bin-ich.pdf"
+              "protectedId": "S-Namensschild-PP-Klasse-5-Wer-bin-ich"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
@@ -58,7 +58,6 @@ window.materialSubjects = {
               "label": "1. Ein neuer Lebensabschnitt",
               "detail": "5 Seiten · Bin ich nach einer großen Veränderung noch dieselbe Person?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-1.pdf?v=e6de91136f67",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-1.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -70,7 +69,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-1-inklusiv.pdf?v=e09856c25153"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-1-inklusiv"
               },
               "info": {
                 "goal": "Ich kann erklären, wofür ein Gegenstand in meinem Leben steht.",
@@ -89,13 +88,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Einstieg in die Reihe.",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-1"
             },
             {
               "label": "2. Sokratisches Gespräch",
               "detail": "4 Seiten · Was macht mich zu mir – und woran erkenne ich das?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-2.pdf?v=40013c5b5ca8",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-2.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -107,7 +106,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "4 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-2-inklusiv.pdf?v=82ed9f2c2720"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-2-inklusiv"
               },
               "info": {
                 "goal": "Ich kann eine philosophische Frage von einer Wissensfrage unterscheiden.",
@@ -126,13 +125,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 1).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Gruppenarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-2"
             },
             {
               "label": "3. Sokrates",
               "detail": "5 Seiten · Wie helfen mir gute Fragen, mich selbst besser zu verstehen?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-3.pdf?v=ceaf7f139135",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-3.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -144,7 +143,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-3-inklusiv.pdf?v=f97bae0fcd00"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-3-inklusiv"
               },
               "info": {
                 "goal": "Ich kann erzählen, wer Sokrates war und wie er philosophierte.",
@@ -163,13 +162,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 2).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-3"
             },
             {
               "label": "4. Meine Stärken",
               "detail": "5 Seiten · Woran erkenne ich, dass eine Stärke wirklich zu mir gehört?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-4.pdf?v=eb99b570de31",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-4.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -181,7 +180,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-4-inklusiv.pdf?v=4039d364d6b1"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-4-inklusiv"
               },
               "info": {
                 "goal": "Ich kann eine Stärke an einer Handlung zeigen.",
@@ -200,13 +199,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 3).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-4"
             },
             {
               "label": "5. Meine Gefühle",
               "detail": "5 Seiten · Bestimmen meine Gefühle, was ich tue – oder bestimme ich das selbst?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-5.pdf?v=34e1d21471ec",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-5.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -218,7 +217,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-5-inklusiv.pdf?v=8886d3a81d50"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-5-inklusiv"
               },
               "info": {
                 "goal": "Ich kann ein Gefühl an Körperzeichen und an seinem Auslöser erkennen.",
@@ -237,13 +236,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 4).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-5"
             },
             {
               "label": "6. Meine Rollen",
               "detail": "5 Seiten · Bin ich in meinen verschiedenen Rollen immer ich selbst?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-6.pdf?v=92d7eca33338",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-6.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -255,7 +254,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-6-inklusiv.pdf?v=56068eaac335"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-6-inklusiv"
               },
               "info": {
                 "goal": "Ich kann meine Rollen und die Erwartungen darin nennen.",
@@ -274,13 +273,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 5).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-6"
             },
             {
               "label": "7. Selbst- und Fremdbild",
               "detail": "5 Seiten · Wer kennt mich besser: ich selbst oder die anderen?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-7.pdf?v=8624612858f6",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-7.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -292,7 +291,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-7-inklusiv.pdf?v=825518aec764"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-7-inklusiv"
               },
               "info": {
                 "goal": "Ich kann Selbstbild und Fremdbild unterscheiden.",
@@ -311,13 +310,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 6).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-7"
             },
             {
               "label": "8. Mein Lebensweg",
               "detail": "5 Seiten · Bin ich noch derselbe Mensch, wenn sich so vieles an mir verändert?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-8.pdf?v=980ea2143a48",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-8.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -329,7 +328,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-8-inklusiv.pdf?v=7d869713f840"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-8-inklusiv"
               },
               "info": {
                 "goal": "Ich kann an einem Beispiel zeigen, wie ein Erlebnis einen Menschen prägt.",
@@ -348,13 +347,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 7).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-8"
             },
             {
               "label": "9. Mein Zukunfts-Ich",
               "detail": "4 Seiten · Was kann ich heute tun, damit ein Wunsch später wahr werden kann?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-9.pdf?v=cafb7669e919",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-9.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -366,7 +365,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "4 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-9-inklusiv.pdf?v=160651b5180b"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-9-inklusiv"
               },
               "info": {
                 "goal": "Ich kann einen Wunsch von einem Ziel unterscheiden.",
@@ -385,13 +384,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 8).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-9"
             },
             {
               "label": "10. Abschluss",
               "detail": "5 Seiten · Wer bin ich – und wer möchte ich werden?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-10.pdf?v=761d014223ce",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-10.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -403,7 +402,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-10-inklusiv.pdf?v=9a6f8e985389"
+                "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-10-inklusiv"
               },
               "info": {
                 "goal": "Ich kann meine Ich-Kiste verständlich präsentieren und eine Rückfrage beantworten.",
@@ -422,10 +421,281 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 9).",
                 "socialForm": "Einzelarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-10"
             }
           ],
           "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=4a2d01490b0a",
+          "pageCount": 59
+        }
+      ],
+      "6": [
+        {
+          "title": "Ist der Mensch ein Naturwesen?",
+          "description": "Verantwortung für die Natur am Beispiel der Bienen - mit Hermes-Gesprächen, Sachtexten und Diagrammen zum Bienensterben, Hans Jonas und Albert Schweitzer sowie einer eigenen Collage.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "59 Seiten · Klasse 6",
+              "kind": "standard",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Schuelermappe-preview.png?v=60b370427b36",
+              "protectedId": "S-PP_Naturwesen_Kl6_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "59 Seiten · Klasse 6",
+              "kind": "inclusive",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Inklusiv-preview.png?v=1623e79d19ca",
+              "protectedId": "S-PP_Naturwesen_Kl6_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "43 Seiten · Klasse 6",
+              "kind": "teacher",
+              "protectedId": "PP_Naturwesen_Kl6_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "35 Seiten",
+              "kind": "teacher",
+              "protectedId": "PP_Naturwesen_Kl6-kommentar"
+            },
+            {
+              "label": "Lernziele und Kompetenzen",
+              "detail": "6 Seiten",
+              "kind": "teacher",
+              "protectedId": "PP_Naturwesen_Kl6-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "2 Seiten",
+              "kind": "teacher",
+              "protectedId": "PP_Naturwesen_Kl6-methoden"
+            },
+            {
+              "label": "1. Was ist Verantwortung?",
+              "detail": "6 Seiten · Wofür sind wir Menschen verantwortlich – und gehören wir selbst zur Natur?",
+              "kind": "standard",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-1.png",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
+                "kind": "teacher",
+                "protectedId": "PP_Naturwesen_Kl6-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Naturwesen_Kl6-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann im Hermes-Gespräch einen eigenen Gedanken zum Begriff „Verantwortung“ sagen.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann im Hermes-Gespräch einen eigenen Gedanken zum Begriff „Verantwortung“ sagen.",
+                    "Ich kann eine Wissensfrage von einer philosophischen Frage unterscheiden.",
+                    "Ich kann eine offene Frage zu Mensch und Natur formulieren."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · stummer Bildimpuls, Vorher-Bogen, Hermes-Gespräch mit Rollenkarten, Drei-Spalten-Sicherung, Fragenwerkstatt nach dem Kaffeefiltermodell",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Wofür sind wir Menschen verantwortlich – und gehören wir selbst zur Natur?",
+                "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Gruppenarbeit · Plenum"
+              },
+              "protectedId": "S-PP_Naturwesen_Kl6-einheit-1"
+            },
+            {
+              "label": "2. Das Leben der Bienen",
+              "detail": "5 Seiten · Wie sehr ist der Mensch auf die Biene angewiesen?",
+              "kind": "standard",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-2.png",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
+                "kind": "teacher",
+                "protectedId": "PP_Naturwesen_Kl6-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Naturwesen_Kl6-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann ein Bild genau beschreiben und Zusammenhänge darin zeigen.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann ein Bild genau beschreiben und Zusammenhänge darin zeigen.",
+                    "Ich kann mit Zahlen erklären, warum Bienen für unsere Nahrung wichtig sind.",
+                    "Ich kann begründen, ob der Mensch von der Natur abhängig ist."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · stummer Gegenstandsimpuls (Honig und Apfel), Bildbeschreibung, Pfeilkette, Sachtext und Diagramm, Begriffsnetz",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Wie sehr ist der Mensch auf die Biene angewiesen?",
+                "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 1).",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
+              },
+              "protectedId": "S-PP_Naturwesen_Kl6-einheit-2"
+            },
+            {
+              "label": "3. Und fehlt die Biene, dann …?",
+              "detail": "11 Seiten · Was verliert der Mensch, wenn die Bienen verschwinden?",
+              "kind": "standard",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-3.png",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
+                "kind": "teacher",
+                "protectedId": "PP_Naturwesen_Kl6-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "11 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Naturwesen_Kl6-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann ein Bild mit GEIST deuten.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann ein Bild mit GEIST deuten.",
+                    "Ich kann Vermutungen mit Folgen vergleichen.",
+                    "Ich kann den Wert der Artenvielfalt erklären."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · Tafelimpuls (Pfeilkette ohne Biene), Bilder befragen mit GEIST, Vermutungen prüfen, Lückentext, Schreibgespräch auf Plakaten",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Was verliert der Mensch, wenn die Bienen verschwinden?",
+                "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 2).",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Gruppenarbeit · Plenum"
+              },
+              "protectedId": "S-PP_Naturwesen_Kl6-einheit-3"
+            },
+            {
+              "label": "4. Das große Sterben",
+              "detail": "11 Seiten · Ist der Mensch schuld am Bienensterben – und was folgt daraus?",
+              "kind": "standard",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-4.png",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
+                "kind": "teacher",
+                "protectedId": "PP_Naturwesen_Kl6-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "11 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Naturwesen_Kl6-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann Zahlen zum Bienensterben nennen.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann Zahlen zum Bienensterben nennen.",
+                    "Ich kann Ursachen des Bienensterbens erklären.",
+                    "Ich kann den Anteil des Menschen beurteilen."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · Zahlenimpuls „1 von 10“, Sachtext und Erfahrungsbericht, Lückentext, Richtig-falsch-Tabelle, Tandem-Austausch, Ursachen-Begriffsnetz, Klebepunkt-Abfrage",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Ist der Mensch schuld am Bienensterben – und was folgt daraus?",
+                "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 3).",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
+              },
+              "protectedId": "S-PP_Naturwesen_Kl6-einheit-4"
+            },
+            {
+              "label": "5. Ist der Mensch ein Naturwesen?",
+              "detail": "7 Seiten · Warum sollten wir Verantwortung für die Natur und für die Zukunft übernehmen?",
+              "kind": "standard",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-5.png",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
+                "kind": "teacher",
+                "protectedId": "PP_Naturwesen_Kl6-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Naturwesen_Kl6-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann den Kerngedanken von Hans Jonas mit eigenen Worten erklären.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann den Kerngedanken von Hans Jonas mit eigenen Worten erklären.",
+                    "Ich kann meine Position zur Grundfrage auf der Positionslinie begründen.",
+                    "Ich kann meine Collage mit einem Storyboard planen."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · Sprichwort-Impuls, Philosophenkarten, Zitat übersetzen, Positionslinie, Storyboard, Skizze, Partner-Rückmeldung, Blitzlicht",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Warum sollten wir Verantwortung für die Natur und für die Zukunft übernehmen?",
+                "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 4).",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
+              },
+              "protectedId": "S-PP_Naturwesen_Kl6-einheit-5"
+            },
+            {
+              "label": "6. Collage und 2. Hermes-Gespräch",
+              "detail": "8 Seiten · Was bedeutet Verantwortung gegenüber der Natur – und hat sich mein Denken verändert?",
+              "kind": "standard",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-6.png",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
+                "kind": "teacher",
+                "protectedId": "PP_Naturwesen_Kl6-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "8 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Naturwesen_Kl6-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann meine Collage in einem Erklärtext begründen.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann meine Collage in einem Erklärtext begründen.",
+                    "Ich kann einer Mitschülerin oder einem Mitschüler eine faire Rückmeldung geben.",
+                    "Ich kann mein Verständnis von Verantwortung mit dem ersten Gespräch vergleichen."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · Schreibvorlage mit drei Leitfragen, Galerie-Rundgang mit Rückmeldezetteln, zweites Hermes-Gespräch, Vergleich der Mitschriften, Nachher-Bogen",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Was bedeutet Verantwortung gegenüber der Natur – und hat sich mein Denken verändert?",
+                "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 5).",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Plenum"
+              },
+              "protectedId": "S-PP_Naturwesen_Kl6-einheit-6"
+            }
+          ],
+          "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Schuelermappe-preview.png?v=60b370427b36",
           "pageCount": 59
         }
       ],
@@ -438,15 +708,15 @@ window.materialSubjects = {
               "label": "Schülermappe",
               "detail": "61 Seiten · Klasse 7 · aktualisierte Fassung",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Schuelermappe.pdf?v=155b2a62be94",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Schuelermappe-preview.png?v=155b2a62be94"
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Schuelermappe-preview.png?v=155b2a62be94",
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
               "detail": "61 Seiten · Klasse 7 · aktualisierte Fassung",
               "kind": "inclusive",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Inklusiv.pdf?v=81812e1092f6",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Inklusiv-preview.png?v=81812e1092f6"
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Inklusiv-preview.png?v=81812e1092f6",
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
@@ -458,13 +728,13 @@ window.materialSubjects = {
               "label": "QR-Codes & Medientipps",
               "detail": "Kant-Video, Erklärvideos und Podcasts",
               "kind": "media",
-              "href": "../../materialien/praktische-philosophie/Medientipps_Bauch_und_Kopf_Klasse7_Videos_Podcasts.pdf"
+              "protectedId": "S-Medientipps_Bauch_und_Kopf_Klasse7_Videos_Podcasts"
             },
             {
               "label": "Elternbrief",
               "detail": "Leistungsbewertung und Rückläufer",
               "kind": "parent",
-              "href": "../../materialien/praktische-philosophie/Elternbrief_PP_Jahrgang7_Leistungsbewertung.pdf"
+              "protectedId": "S-Elternbrief_PP_Jahrgang7_Leistungsbewertung"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
@@ -488,7 +758,6 @@ window.materialSubjects = {
               "label": "1. Zwei philosophische Spiele",
               "detail": "5 Seiten · Soll ich bei einer Entscheidung eher auf meinen Bauch oder auf meinen Kopf hören?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-1.pdf?v=d5eead34adca",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-1.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -500,7 +769,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-1-inklusiv.pdf?v=7fe4c1ef179f"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-1-inklusiv"
               },
               "info": {
                 "goal": "Ich kann nach Spielregeln entscheiden und meine Entscheidungen im Protokoll festhalten.",
@@ -519,13 +788,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Einstieg in die Reihe.",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Gruppenarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-1"
             },
             {
               "label": "2. Hermes-Gespräch: Grundfrage finden",
               "detail": "3 Seiten · Wofür sind wir verantwortlich – und woran merken wir das?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-2.pdf?v=e41614807e1a",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-2.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -537,7 +806,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "3 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-2-inklusiv.pdf?v=d5fdd6ceabd6"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-2-inklusiv"
               },
               "info": {
                 "goal": "Ich kann mich ohne Melden am Gespräch beteiligen und an andere anknüpfen.",
@@ -556,13 +825,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 1).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-2"
             },
             {
               "label": "3. Kant-Einführung",
               "detail": "6 Seiten · Woran erkenne ich, ob eine Handlung moralisch richtig ist – an ihren Folgen oder an ihrer Regel?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-3.pdf?v=eeb7e0b6f3e8",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-3.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -574,7 +843,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "6 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-3-inklusiv.pdf?v=44a819a78412"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-3-inklusiv"
               },
               "info": {
                 "goal": "Ich kann erklären, was eine Maxime ist, und eine Maxime als Wenn-dann-Regel formulieren.",
@@ -593,13 +862,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 2).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-3"
             },
             {
               "label": "4. Begegnungen",
               "detail": "5 Seiten · Wie sollen wir Menschen begegnen – auch wenn wir nur einen Teil ihrer Geschichte kennen?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-4.pdf?v=a1ad5040b2dd",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-4.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -611,7 +880,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-4-inklusiv.pdf?v=f19c3c1467f2"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-4-inklusiv"
               },
               "info": {
                 "goal": "Ich kann Begegnungen nach ihrer Wirkung ordnen und eine schwierige Zuordnung begründen.",
@@ -630,13 +899,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 3).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-4"
             },
             {
               "label": "5. Begegnungen",
               "detail": "5 Seiten · Darf ich meinem ersten Eindruck von einem Menschen trauen?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-5.pdf?v=6ef61b01a435",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-5.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -648,7 +917,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-5-inklusiv.pdf?v=39ea082e6f44"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-5-inklusiv"
               },
               "info": {
                 "goal": "Ich kann in einem Fall Beobachtetes von Hineingedachtem unterscheiden.",
@@ -667,13 +936,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 4).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-5"
             },
             {
               "label": "6. Begegnungen",
               "detail": "5 Seiten · Macht ein gutes Ergebnis eine Handlung schon richtig?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-6.pdf?v=8b4d3d64a209",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-6.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -685,7 +954,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-6-inklusiv.pdf?v=7f431aa92904"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-6-inklusiv"
               },
               "info": {
                 "goal": "Ich kann zwei Lernerfahrungen nach Gefühl, Absicht und Ergebnis vergleichen.",
@@ -704,13 +973,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 5).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-6"
             },
             {
               "label": "7. Verantwortung",
               "detail": "5 Seiten · Bin ich auch dann verantwortlich, wenn ich nicht schuld bin?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-7.pdf?v=dd650989d36b",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-7.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -722,7 +991,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-7-inklusiv.pdf?v=6280ca775e9f"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-7-inklusiv"
               },
               "info": {
                 "goal": "Ich kann Verantwortung und Schuld an einem Beispiel unterscheiden.",
@@ -741,13 +1010,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 6).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-7"
             },
             {
               "label": "8. Verantwortung",
               "detail": "5 Seiten · Würde ich anders handeln, wenn mich niemand sieht – und muss ich eingreifen, wenn alle zusehen?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-8.pdf?v=8e27a54fae9d",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-8.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -759,7 +1028,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-8-inklusiv.pdf?v=69ba80de947c"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-8-inklusiv"
               },
               "info": {
                 "goal": "Ich kann in einem Gedankenexperiment eine eigene Handlungsregel formulieren und prüfen.",
@@ -778,13 +1047,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 7).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-8"
             },
             {
               "label": "9. Verantwortung",
               "detail": "5 Seiten · Wie weit reicht meine Verantwortung – wenn mein Beitrag klein ist und viele beteiligt sind?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-9.pdf?v=afc3750b59e3",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-9.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -796,7 +1065,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-9-inklusiv.pdf?v=6334602351c9"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-9-inklusiv"
               },
               "info": {
                 "goal": "Ich kann Verantwortung für die Umwelt auf verschiedene Rollen verteilen und Maßnahmen abwägen.",
@@ -815,13 +1084,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 8).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-9"
             },
             {
               "label": "10. Abschlusspräsentation und Hermes-Abschluss",
               "detail": "4 Seiten · Was soll ich tun, wenn Bauch und Kopf streiten – und wie beantworten wir heute unsere Grundfrage?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-10.pdf?v=e0be2ed1f0b9",
               "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-10.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -833,7 +1102,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "4 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-10-inklusiv.pdf?v=2d2accca6f89"
+                "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-10-inklusiv"
               },
               "info": {
                 "goal": "Ich kann ein eigenes moralisches Fallbeispiel verständlich vorstellen.",
@@ -852,7 +1121,8 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 9).",
                 "socialForm": "Einzelarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-10"
             }
           ],
           "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Schuelermappe-preview.png?v=155b2a62be94",
@@ -868,15 +1138,15 @@ window.materialSubjects = {
               "label": "Schülermappe",
               "detail": "64 Seiten · Klasse 8 · aktualisierte Fassung",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Schuelermappe.pdf?v=b009b007403e",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Schuelermappe-preview.png?v=b009b007403e"
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Schuelermappe-preview.png?v=b009b007403e",
+              "protectedId": "S-PP_Utopien_Kl8_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
               "detail": "64 Seiten · Klasse 8 · aktualisierte Fassung",
               "kind": "inclusive",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Inklusiv.pdf?v=4cbeac2c599f",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Inklusiv-preview.png?v=4cbeac2c599f"
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Inklusiv-preview.png?v=4cbeac2c599f",
+              "protectedId": "S-PP_Utopien_Kl8_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
@@ -888,19 +1158,19 @@ window.materialSubjects = {
               "label": "QR-Codes & Medientipps",
               "detail": "Utopie, Morus, Bloch und M1–M12",
               "kind": "media",
-              "href": "../../materialien/praktische-philosophie/Medientipps_Utopien_Klasse8_QR_Codes.pdf"
+              "protectedId": "S-Medientipps_Utopien_Klasse8_QR_Codes"
             },
             {
               "label": "Kunstbetrachtung",
               "detail": "Lorenzetti und Signac · Morus- und Bloch-Brille",
               "kind": "media",
-              "href": "../../materialien/praktische-philosophie/Kunstbetrachtung_Utopien_Klasse8_Lorenzetti_Signac.pdf"
+              "protectedId": "S-Kunstbetrachtung_Utopien_Klasse8_Lorenzetti_Signac"
             },
             {
               "label": "Elternbrief",
               "detail": "Leistungsbewertung und Rückläufer",
               "kind": "parent",
-              "href": "../../materialien/praktische-philosophie/Elternbrief_PP_Jahrgang8_Leistungsbewertung.pdf"
+              "protectedId": "S-Elternbrief_PP_Jahrgang8_Leistungsbewertung"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
@@ -924,7 +1194,6 @@ window.materialSubjects = {
               "label": "1. Eine andere Welt",
               "detail": "3 Seiten · Wäre die Welt, die ich mir wünsche, auch für alle anderen eine bessere Welt?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-1.pdf?v=28e09eefcb92",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-1.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -936,7 +1205,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "3 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-1-inklusiv.pdf?v=2b52ef6b7c09"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-1-inklusiv"
               },
               "info": {
                 "goal": "Ich kann ein Bild einer erfundenen Welt genau beschreiben.",
@@ -955,13 +1224,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Einstieg in die Reihe.",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Gruppenarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-1"
             },
             {
               "label": "2. Hermes-Gespräch",
               "detail": "3 Seiten · Welche Frage steckt hinter unseren Bildern einer besseren Welt?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-2.pdf?v=8557e9924315",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-2.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -973,7 +1242,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "3 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-2-inklusiv.pdf?v=0da949963c95"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-2-inklusiv"
               },
               "info": {
                 "goal": "Ich kann eine philosophische Frage von einer Sachfrage unterscheiden.",
@@ -992,13 +1261,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 1).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-2"
             },
             {
               "label": "3. Thomas Morus",
               "detail": "9 Seiten · Warum erfindet jemand eine ferne Insel, um über die eigene Gesellschaft zu sprechen?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-3.pdf?v=2c96018fd0db",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-3.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -1010,7 +1279,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "9 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-3-inklusiv.pdf?v=59cb377a3ae2"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-3-inklusiv"
               },
               "info": {
                 "goal": "Ich kann den Begriff „Utopie“ mit eigenen Worten erklären.",
@@ -1029,13 +1298,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 2).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-3"
             },
             {
               "label": "4. Morus: Kritik und Ordnung",
               "detail": "6 Seiten · Wird eine Gesellschaft gerechter, wenn sie das Leben ihrer Menschen genau regelt?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-4.pdf?v=3c4b5444642f",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-4.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -1047,7 +1316,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "6 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-4-inklusiv.pdf?v=c27561550ee3"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-4-inklusiv"
               },
               "info": {
                 "goal": "Ich kann die Ordnung der Insel Utopia beschreiben.",
@@ -1066,13 +1335,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 3).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-4"
             },
             {
               "label": "5. Morus: Freiheit und Grenzen",
               "detail": "5 Seiten · Wie viel Gleichheit verträgt die Freiheit – und wann wird ein Ideal zum Zwang?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-5.pdf?v=37790941f17e",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-5.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -1084,7 +1353,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-5-inklusiv.pdf?v=f869266bf479"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-5-inklusiv"
               },
               "info": {
                 "goal": "Ich kann gleiche Behandlung und gerechte Berücksichtigung von Unterschieden unterscheiden.",
@@ -1103,13 +1372,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 4).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-5"
             },
             {
               "label": "6. Ernst Bloch",
               "detail": "8 Seiten · Ist Hoffnung nur ein schönes Gefühl – oder kann man sie lernen?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-6.pdf?v=92fb59f8e43c",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-6.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -1121,7 +1390,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "8 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-6-inklusiv.pdf?v=60d5beb56e95"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-6-inklusiv"
               },
               "info": {
                 "goal": "Ich kann wichtige Stationen und Gedanken Ernst Blochs wiedergeben.",
@@ -1140,13 +1409,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 5).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-6"
             },
             {
               "label": "7. Abstrakt oder konkret?",
               "detail": "5 Seiten · Wann wird aus einem schönen Wunsch eine Utopie, die wirklich etwas verändern kann?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-7.pdf?v=b70e2a2d30ea",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-7.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -1158,7 +1427,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-7-inklusiv.pdf?v=fc21b754b5c7"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-7-inklusiv"
               },
               "info": {
                 "goal": "Ich kann abstrakte Wünsche und konkrete Utopien an Merkmalen unterscheiden.",
@@ -1177,13 +1446,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 6).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-7"
             },
             {
               "label": "8. Politische Funktionen",
               "detail": "5 Seiten · Was können Utopien politisch bewirken – und wann werden sie gefährlich?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-8.pdf?v=337380116293",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-8.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -1195,7 +1464,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "5 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-8-inklusiv.pdf?v=f755a6032c4a"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-8-inklusiv"
               },
               "info": {
                 "goal": "Ich kann vier politische Funktionen von Utopien unterscheiden und Beispielen zuordnen.",
@@ -1214,13 +1483,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 7).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-8"
             },
             {
               "label": "9. Morus und Bloch vergleichen",
               "detail": "4 Seiten · Braucht Politik eher mutige Gegenbilder oder konkrete Schritte der Veränderung?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-9.pdf?v=6343b1c4af5d",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-9.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -1232,7 +1501,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "4 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-9-inklusiv.pdf?v=124144f724a6"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-9-inklusiv"
               },
               "info": {
                 "goal": "Ich kann Morus und Bloch jeweils zwei politische Funktionen zuordnen.",
@@ -1251,13 +1520,13 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 8).",
                 "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-9"
             },
             {
               "label": "10. Abschlusspräsentationen",
               "detail": "4 Seiten · Kann ein Zukunftsbild die Gegenwart kritisieren und zugleich wirkliche Veränderung anstoßen?",
               "kind": "standard",
-              "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-10.pdf?v=6732bdd8a89a",
               "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-10.png",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
@@ -1269,7 +1538,7 @@ window.materialSubjects = {
                 "label": "Inklusive Fassung",
                 "detail": "4 Seiten",
                 "kind": "inclusive",
-                "href": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-10-inklusiv.pdf?v=df55324bfd2b"
+                "protectedId": "S-PP_Utopien_Kl8-einheit-10-inklusiv"
               },
               "info": {
                 "goal": "Ich kann mein Zukunftsbild verständlich und gegliedert präsentieren.",
@@ -1288,7 +1557,8 @@ window.materialSubjects = {
                 "preparation": "Arbeitsplan und Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
                 "prerequisites": "Baut auf den vorherigen Einheiten der Reihe auf (zuletzt Einheit 9).",
                 "socialForm": "Einzelarbeit · Plenum"
-              }
+              },
+              "protectedId": "S-PP_Utopien_Kl8-einheit-10"
             }
           ],
           "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Schuelermappe-preview.png?v=b009b007403e",
