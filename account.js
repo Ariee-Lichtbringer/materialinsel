@@ -6,9 +6,9 @@
   const response=await fetch(API+path,{method:method||(data?'POST':'GET'),headers:{...(data?{'Content-Type':'application/json'}:{}),...(token()?{Authorization:'Bearer '+token()}:{})},...(data?{body:JSON.stringify(data)}:{})});
   const result=await response.json();if(!response.ok)throw Error(result.error||'Die Anfrage konnte nicht abgeschlossen werden.');return result;
  }
- const nav=document.createElement('nav');nav.className='account-nav';nav.setAttribute('aria-label','Benutzerkonto');nav.innerHTML='<a href="/konto/">Anmelden / Account anlegen</a>';document.body.prepend(nav);
+ const accountLink=document.querySelector('[data-account-link]');
  let current=null;
- async function loadUser(){if(!token())return null;try{current=(await call('/me')).user;nav.querySelector('a').textContent=current.role==='admin'?'Konto & Freischaltungen':'Mein Konto';return current;}catch(e){sessionStorage.removeItem('materialinsel-session');return null;}}
+ async function loadUser(){if(!token())return null;try{current=(await call('/me')).user;if(accountLink)accountLink.textContent=current.role==='admin'?'Konto & Freischaltungen':'Mein Konto';return current;}catch(e){sessionStorage.removeItem('materialinsel-session');return null;}}
  const ready=loadUser();
  document.addEventListener('click',async e=>{
   const link=e.target.closest('[data-protected]');if(!link)return;e.preventDefault();
