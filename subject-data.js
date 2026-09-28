@@ -14,14 +14,14 @@ window.materialSubjects = {
               "label": "Schülermappe",
               "detail": "59 Seiten · Klasse 5 · aktualisierte Fassung",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=4a2d01490b0a",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=9dd1b2ae9cc8",
               "protectedId": "S-PP_Wer_bin_ich_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
               "detail": "59 Seiten · Klasse 5 · aktualisierte Fassung",
               "kind": "inclusive",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Inklusiv-preview.png?v=c6167adc4b92",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Inklusiv-preview.png?v=a88c6b0e25b4",
               "protectedId": "S-PP_Wer_bin_ich_Kl5_Inklusiv"
             },
             {
@@ -58,7 +58,7 @@ window.materialSubjects = {
               "label": "1. Ein neuer Lebensabschnitt",
               "detail": "5 Seiten · Bin ich nach einer großen Veränderung noch dieselbe Person?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-1.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-1.png?v=21e052f69489",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -95,7 +95,7 @@ window.materialSubjects = {
               "label": "2. Sokratisches Gespräch",
               "detail": "4 Seiten · Was macht mich zu mir – und woran erkenne ich das?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-2.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-2.png?v=0635dcf89ded",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -132,7 +132,7 @@ window.materialSubjects = {
               "label": "3. Sokrates",
               "detail": "5 Seiten · Wie helfen mir gute Fragen, mich selbst besser zu verstehen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-3.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-3.png?v=d2f244cf888b",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -169,7 +169,7 @@ window.materialSubjects = {
               "label": "4. Meine Stärken",
               "detail": "5 Seiten · Woran erkenne ich, dass eine Stärke wirklich zu mir gehört?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-4.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-4.png?v=41c407873f29",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -206,7 +206,7 @@ window.materialSubjects = {
               "label": "5. Meine Gefühle",
               "detail": "5 Seiten · Bestimmen meine Gefühle, was ich tue – oder bestimme ich das selbst?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-5.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-5.png?v=11327e5261bd",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -243,7 +243,7 @@ window.materialSubjects = {
               "label": "6. Meine Rollen",
               "detail": "5 Seiten · Bin ich in meinen verschiedenen Rollen immer ich selbst?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-6.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-6.png?v=2b16957805fd",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -280,7 +280,7 @@ window.materialSubjects = {
               "label": "7. Selbst- und Fremdbild",
               "detail": "5 Seiten · Wer kennt mich besser: ich selbst oder die anderen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-7.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-7.png?v=e209c51b8a35",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -317,7 +317,7 @@ window.materialSubjects = {
               "label": "8. Mein Lebensweg",
               "detail": "5 Seiten · Bin ich noch derselbe Mensch, wenn sich so vieles an mir verändert?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-8.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-8.png?v=76e7b05f2ce1",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -354,7 +354,7 @@ window.materialSubjects = {
               "label": "9. Mein Zukunfts-Ich",
               "detail": "4 Seiten · Was kann ich heute tun, damit ein Wunsch später wahr werden kann?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-9.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-9.png?v=3bfa3f2b3053",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -391,7 +391,7 @@ window.materialSubjects = {
               "label": "10. Abschluss",
               "detail": "5 Seiten · Wer bin ich – und wer möchte ich werden?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-10.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-10.png?v=27b165fece7c",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -425,7 +425,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-10"
             }
           ],
-          "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=4a2d01490b0a",
+          "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=9dd1b2ae9cc8",
           "pageCount": 59
         }
       ],
@@ -438,14 +438,14 @@ window.materialSubjects = {
               "label": "Schülermappe",
               "detail": "59 Seiten · Klasse 6",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Schuelermappe-preview.png?v=60b370427b36",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Schuelermappe-preview.png?v=e6fdb45ea1f0",
               "protectedId": "S-PP_Naturwesen_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
               "detail": "59 Seiten · Klasse 6",
               "kind": "inclusive",
-              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Inklusiv-preview.png?v=1623e79d19ca",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Inklusiv-preview.png?v=f5abac293033",
               "protectedId": "S-PP_Naturwesen_Kl6_Inklusiv"
             },
             {
@@ -476,7 +476,7 @@ window.materialSubjects = {
               "label": "1. Was ist Verantwortung?",
               "detail": "6 Seiten · Wofür sind wir Menschen verantwortlich – und gehören wir selbst zur Natur?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-1.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-1.png?v=985687198d05",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -513,7 +513,7 @@ window.materialSubjects = {
               "label": "2. Das Leben der Bienen",
               "detail": "5 Seiten · Wie sehr ist der Mensch auf die Biene angewiesen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-2.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-2.png?v=72144bb8d3c4",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -550,7 +550,7 @@ window.materialSubjects = {
               "label": "3. Und fehlt die Biene, dann …?",
               "detail": "11 Seiten · Was verliert der Mensch, wenn die Bienen verschwinden?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-3.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-3.png?v=30fba20c7ed6",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -587,7 +587,7 @@ window.materialSubjects = {
               "label": "4. Das große Sterben",
               "detail": "11 Seiten · Ist der Mensch schuld am Bienensterben – und was folgt daraus?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-4.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-4.png?v=c82f196d0b8d",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -624,7 +624,7 @@ window.materialSubjects = {
               "label": "5. Ist der Mensch ein Naturwesen?",
               "detail": "7 Seiten · Warum sollten wir Verantwortung für die Natur und für die Zukunft übernehmen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-5.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-5.png?v=2a03fdd23b3e",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -661,7 +661,7 @@ window.materialSubjects = {
               "label": "6. Collage und 2. Hermes-Gespräch",
               "detail": "8 Seiten · Was bedeutet Verantwortung gegenüber der Natur – und hat sich mein Denken verändert?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-6.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-6.png?v=ead428abd81b",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -695,7 +695,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Naturwesen_Kl6-einheit-6"
             }
           ],
-          "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Schuelermappe-preview.png?v=60b370427b36",
+          "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Schuelermappe-preview.png?v=e6fdb45ea1f0",
           "pageCount": 59
         }
       ],
@@ -708,14 +708,14 @@ window.materialSubjects = {
               "label": "Schülermappe",
               "detail": "61 Seiten · Klasse 7 · aktualisierte Fassung",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Schuelermappe-preview.png?v=155b2a62be94",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Schuelermappe-preview.png?v=fda35e08be7f",
               "protectedId": "S-PP_Bauch_und_Kopf_Kl7_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
               "detail": "61 Seiten · Klasse 7 · aktualisierte Fassung",
               "kind": "inclusive",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Inklusiv-preview.png?v=81812e1092f6",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Inklusiv-preview.png?v=c470b7ce1752",
               "protectedId": "S-PP_Bauch_und_Kopf_Kl7_Inklusiv"
             },
             {
@@ -758,7 +758,7 @@ window.materialSubjects = {
               "label": "1. Zwei philosophische Spiele",
               "detail": "5 Seiten · Soll ich bei einer Entscheidung eher auf meinen Bauch oder auf meinen Kopf hören?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-1.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-1.png?v=19330f1dfca1",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -795,7 +795,7 @@ window.materialSubjects = {
               "label": "2. Hermes-Gespräch: Grundfrage finden",
               "detail": "3 Seiten · Wofür sind wir verantwortlich – und woran merken wir das?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-2.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-2.png?v=8bfd25fc9bf3",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -832,7 +832,7 @@ window.materialSubjects = {
               "label": "3. Kant-Einführung",
               "detail": "6 Seiten · Woran erkenne ich, ob eine Handlung moralisch richtig ist – an ihren Folgen oder an ihrer Regel?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-3.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-3.png?v=32eae71d4e3d",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -869,7 +869,7 @@ window.materialSubjects = {
               "label": "4. Begegnungen",
               "detail": "5 Seiten · Wie sollen wir Menschen begegnen – auch wenn wir nur einen Teil ihrer Geschichte kennen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-4.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-4.png?v=f031264b0447",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -906,7 +906,7 @@ window.materialSubjects = {
               "label": "5. Begegnungen",
               "detail": "5 Seiten · Darf ich meinem ersten Eindruck von einem Menschen trauen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-5.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-5.png?v=e5bb1036434c",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -943,7 +943,7 @@ window.materialSubjects = {
               "label": "6. Begegnungen",
               "detail": "5 Seiten · Macht ein gutes Ergebnis eine Handlung schon richtig?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-6.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-6.png?v=c348e3f8d998",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -980,7 +980,7 @@ window.materialSubjects = {
               "label": "7. Verantwortung",
               "detail": "5 Seiten · Bin ich auch dann verantwortlich, wenn ich nicht schuld bin?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-7.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-7.png?v=810eb0274d8e",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1017,7 +1017,7 @@ window.materialSubjects = {
               "label": "8. Verantwortung",
               "detail": "5 Seiten · Würde ich anders handeln, wenn mich niemand sieht – und muss ich eingreifen, wenn alle zusehen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-8.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-8.png?v=0b2b3c49265d",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1054,7 +1054,7 @@ window.materialSubjects = {
               "label": "9. Verantwortung",
               "detail": "5 Seiten · Wie weit reicht meine Verantwortung – wenn mein Beitrag klein ist und viele beteiligt sind?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-9.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-9.png?v=7942ea4ebd5d",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1091,7 +1091,7 @@ window.materialSubjects = {
               "label": "10. Abschlusspräsentation und Hermes-Abschluss",
               "detail": "4 Seiten · Was soll ich tun, wenn Bauch und Kopf streiten – und wie beantworten wir heute unsere Grundfrage?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-10.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7-einheit-10.png?v=28aef625589e",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1125,7 +1125,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Bauch_und_Kopf_Kl7-einheit-10"
             }
           ],
-          "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Schuelermappe-preview.png?v=155b2a62be94",
+          "preview": "../../materialien/praktische-philosophie/PP_Bauch_und_Kopf_Kl7_Schuelermappe-preview.png?v=fda35e08be7f",
           "pageCount": 61
         }
       ],
@@ -1138,14 +1138,14 @@ window.materialSubjects = {
               "label": "Schülermappe",
               "detail": "64 Seiten · Klasse 8 · aktualisierte Fassung",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Schuelermappe-preview.png?v=b009b007403e",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Schuelermappe-preview.png?v=7547d4442205",
               "protectedId": "S-PP_Utopien_Kl8_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
               "detail": "64 Seiten · Klasse 8 · aktualisierte Fassung",
               "kind": "inclusive",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Inklusiv-preview.png?v=4cbeac2c599f",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Inklusiv-preview.png?v=a9d8edefe026",
               "protectedId": "S-PP_Utopien_Kl8_Inklusiv"
             },
             {
@@ -1194,7 +1194,7 @@ window.materialSubjects = {
               "label": "1. Eine andere Welt",
               "detail": "3 Seiten · Wäre die Welt, die ich mir wünsche, auch für alle anderen eine bessere Welt?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-1.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-1.png?v=d9d99eb5dc7a",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1231,7 +1231,7 @@ window.materialSubjects = {
               "label": "2. Hermes-Gespräch",
               "detail": "3 Seiten · Welche Frage steckt hinter unseren Bildern einer besseren Welt?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-2.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-2.png?v=20f448ddb61f",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1268,7 +1268,7 @@ window.materialSubjects = {
               "label": "3. Thomas Morus",
               "detail": "9 Seiten · Warum erfindet jemand eine ferne Insel, um über die eigene Gesellschaft zu sprechen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-3.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-3.png?v=b0779aed6361",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1305,7 +1305,7 @@ window.materialSubjects = {
               "label": "4. Morus: Kritik und Ordnung",
               "detail": "6 Seiten · Wird eine Gesellschaft gerechter, wenn sie das Leben ihrer Menschen genau regelt?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-4.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-4.png?v=32b9ab568602",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1342,7 +1342,7 @@ window.materialSubjects = {
               "label": "5. Morus: Freiheit und Grenzen",
               "detail": "5 Seiten · Wie viel Gleichheit verträgt die Freiheit – und wann wird ein Ideal zum Zwang?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-5.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-5.png?v=e1001442979a",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1379,7 +1379,7 @@ window.materialSubjects = {
               "label": "6. Ernst Bloch",
               "detail": "8 Seiten · Ist Hoffnung nur ein schönes Gefühl – oder kann man sie lernen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-6.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-6.png?v=b1aefc19f078",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1416,7 +1416,7 @@ window.materialSubjects = {
               "label": "7. Abstrakt oder konkret?",
               "detail": "5 Seiten · Wann wird aus einem schönen Wunsch eine Utopie, die wirklich etwas verändern kann?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-7.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-7.png?v=5594f68e03db",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1453,7 +1453,7 @@ window.materialSubjects = {
               "label": "8. Politische Funktionen",
               "detail": "5 Seiten · Was können Utopien politisch bewirken – und wann werden sie gefährlich?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-8.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-8.png?v=73cd90048dd7",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1490,7 +1490,7 @@ window.materialSubjects = {
               "label": "9. Morus und Bloch vergleichen",
               "detail": "4 Seiten · Braucht Politik eher mutige Gegenbilder oder konkrete Schritte der Veränderung?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-9.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-9.png?v=c45e5b65730d",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1527,7 +1527,7 @@ window.materialSubjects = {
               "label": "10. Abschlusspräsentationen",
               "detail": "4 Seiten · Kann ein Zukunftsbild die Gegenwart kritisieren und zugleich wirkliche Veränderung anstoßen?",
               "kind": "standard",
-              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-10.png",
+              "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8-einheit-10.png?v=5bdb64253fb8",
               "teacher": {
                 "label": "Didaktisch-methodischer Kommentar & Lernziele",
                 "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan und Lösungen",
@@ -1561,7 +1561,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Utopien_Kl8-einheit-10"
             }
           ],
-          "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Schuelermappe-preview.png?v=b009b007403e",
+          "preview": "../../materialien/praktische-philosophie/PP_Utopien_Kl8_Schuelermappe-preview.png?v=7547d4442205",
           "pageCount": 64
         }
       ]
