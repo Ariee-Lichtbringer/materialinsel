@@ -464,7 +464,7 @@ window.materialSubjects = {
             },
             {
               "label": "Methodenkoffer und Operatorenhilfen",
-              "detail": "2 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
               "kind": "teacher",
               "protectedId": "PP_Gerechtigkeit_Kl5-methoden"
             },
@@ -557,7 +557,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-3-inklusiv"
               },
@@ -709,7 +709,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-7-inklusiv"
               },
@@ -736,7 +736,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Unsere Gerechtigkeits-Charta",
-              "detail": "7 Seiten · Ist es gerecht, wenn alle das Gleiche bekommen?",
+              "detail": "6 Seiten · Ist es gerecht, wenn alle das Gleiche bekommen?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8",
               "teacher": {
@@ -747,7 +747,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8-inklusiv"
               },

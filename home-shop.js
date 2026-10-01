@@ -48,7 +48,7 @@
  function card(e, big, pp) {
   const p = price(e);
   return `<article class="sh-card${big ? ' sh-card--big' : ''}">
-  <a class="sh-card__cover${pp ? ' sh-card__cover--pp' : ''}" href="${esc(e.href)}"><img src="/materialien/cover/${esc(e.id)}.jpg?v=3" alt="Titelseite: ${esc(e.title)}" loading="lazy">${big ? '<span class="sh-badge">NEU</span>' : ''}</a>
+  <a class="sh-card__cover${pp ? ' sh-card__cover--pp' : ''}" href="${esc(e.href)}"><img src="/materialien/cover/${esc(e.id)}.jpg?v=4" alt="Titelseite: ${esc(e.title)}" loading="lazy">${big ? '<span class="sh-badge">NEU</span>' : ''}</a>
   <div class="sh-card__body">
    <p class="sh-card__meta">${esc(meta(e))}</p>
    <h3><a href="${esc(e.href)}">${esc(e.title)}</a></h3>
@@ -66,7 +66,7 @@
   {title: 'Alle Fächer', target: '/faecher/geschichte/', sub: () => 'Nach Jahrgang stöbern', count: () => 0}
  ];
  document.getElementById('sh-cats').innerHTML = cats.map(c => `<a class="sh-cat" href="${c.target}"><strong>${esc(c.title)}</strong><span>${esc(c.sub(c.count()))}</span></a>`).join('');
- document.getElementById('sh-hero-art').innerHTML = NEW.map((id, i) => `<img class="sh-hero__cover sh-hero__cover--${i}" src="/materialien/cover/${id}.jpg?v=3" alt="">`).join('') + '<span class="sh-badge sh-hero__badge">NEU</span>';
+ document.getElementById('sh-hero-art').innerHTML = NEW.map((id, i) => `<img class="sh-hero__cover sh-hero__cover--${i}" src="/materialien/cover/${id}.jpg?v=4" alt="">`).join('') + '<span class="sh-badge sh-hero__badge">NEU</span>';
  const pages = ['Mauer-in-den-Koepfen-unit-3', 'Mauer-in-den-Koepfen-unit-3-teacher'].flatMap(k => (window.teacherPreviews || {})[k] || []).slice(0, 3);
  const inside = document.getElementById('sh-inside-pages');
  if (pages.length) inside.innerHTML = pages.map(src => `<img src="${esc(src)}" alt="" loading="lazy" draggable="false">`).join('');
