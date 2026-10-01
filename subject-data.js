@@ -446,13 +446,13 @@ window.materialSubjects = {
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "31 Seiten · Klasse 5 · KLP 2024",
+              "detail": "32 Seiten · Klasse 5 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Gerechtigkeit_Kl5_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "29 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "30 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Gerechtigkeit_Kl5-kommentar"
             },
@@ -792,13 +792,13 @@ window.materialSubjects = {
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "32 Seiten · Klasse 5 · KLP 2024",
+              "detail": "31 Seiten · Klasse 5 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Wahrnehmung_Kl5_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "30 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "29 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Wahrnehmung_Kl5-kommentar"
             },
@@ -859,7 +859,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "4 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-2-lehrer"
               },
