@@ -427,6 +427,352 @@ window.materialSubjects = {
           ],
           "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=9dd1b2ae9cc8",
           "pageCount": 59
+        },
+        {
+          "title": "Was ist gerecht?",
+          "description": "Regeln für unser Miteinander: mit einer Insel ohne Regeln, Amartya Sens Flöten-Gleichnis und Aristoteles die Prinzipien Gleichheit, Bedürfnis und Leistung prüfen und eine Gerechtigkeits-Charta für die Klasse beschließen. KLP 2024 · IF 4.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "53 Seiten · Klasse 5 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "55 Seiten · Klasse 5 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "31 Seiten · Klasse 5 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Gerechtigkeit_Kl5_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "29 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Gerechtigkeit_Kl5-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Gerechtigkeit_Kl5-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "2 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Gerechtigkeit_Kl5-methoden"
+            },
+            {
+              "label": "1. Eine Insel ohne Regeln",
+              "detail": "5 Seiten · Brauchen Menschen Regeln, um gut zusammenzuleben?",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Gerechtigkeit_Kl5-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "anhand eines Gedankenexperiments erläutern können, warum Menschen für ein gerechtes Zusammenleben Regeln brauchen, und erste eigene Regeln formulieren und begründen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Brauchen Menschen Regeln, um gut zusammenzuleben?",
+                "audience": "Klasse 5",
+                "result": "Die Kinder notieren die Regel, die sie für die Insel am wichtigsten finden, mit einem „damit“-Satz als erste Eintragung im Regel-Speicher.",
+                "preparation": "Folie/Beamer, Tafel, M1, Heft, Waage-Plakat, M2, Papierstreifen, Magnete, Plakat Regel-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit · Plenum",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde anhand eines Gedankenexperiments erläutern können, warum Menschen für ein gerechtes Zusammenleben Regeln brauchen, und erste eigene Regeln formulieren und begründen.",
+                  "items": [
+                    "die Probleme, die auf der Insel ohne Regeln entstehen, aus der Geschichte benennen und beschreiben. (AFB I)",
+                    "die Verteilung an der Proviantkiste mithilfe der Waage-Fragen untersuchen. (AFB II)",
+                    "für Konfliktsituationen auf der Insel Regeln entwickeln und mit ihrem Zweck begründen. (AFB II)",
+                    "Regeln nach ihrer Aufgabe (Teilen, Arbeit, Umgang, Entscheiden) ordnen. (AFB II)",
+                    "die Aussage, ohne Regeln bekomme der Schnellste alles, begründet beurteilen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Regel, Gesetz, Wert",
+              "detail": "5 Seiten · Warum gibt es so viele Regeln – und was steckt hinter ihnen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Gerechtigkeit_Kl5-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "Regeln aus verschiedenen Lebensbereichen ordnen, Regel und Gesetz unterscheiden und erläutern können, welche Werte hinter Regeln stehen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Warum gibt es so viele Regeln – und was steckt hinter ihnen?",
+                "audience": "Klasse 5",
+                "result": "Die Kinder ergänzen ihre Inselregel aus Stunde 1 um den Wert, den sie schützt, nach dem Muster „Regel … – schützt den Wert …“.",
+                "preparation": "Gegenstände, M1, Heft, Tafel, M2, Wortspeicher, Werte-Schatzkiste, Plakat Regel-Speicher",
+                "prerequisites": "Stunde 1: Eine Insel ohne Regeln",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Regeln aus verschiedenen Lebensbereichen ordnen, Regel und Gesetz unterscheiden und erläutern können, welche Werte hinter Regeln stehen.",
+                  "items": [
+                    "Regeln aus einem Alltagstext benennen und nach Lebensbereichen ordnen. (AFB I)",
+                    "den Unterschied zwischen Regel und Gesetz an Beispielen erklären. (AFB II)",
+                    "Regeln die ihnen zugrundeliegenden Werte zuordnen und diese Zuordnung begründen. (AFB II)",
+                    "prüfen, ob eine Regel, die nicht für alle gilt, gerecht ist. (AFB III)",
+                    "eine eigene Regel entwickeln und mit einem Wert begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Das ist unfair!",
+              "detail": "5 Seiten · Ist alles, was sich unfair anfühlt, auch wirklich ungerecht?",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Gerechtigkeit_Kl5-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "an Alltagssituationen erläutern, warum Gerechtigkeit für das Zusammenleben bedeutsam ist, und eine erste vorläufige Bestimmung des Begriffs „gerecht“ formulieren.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist alles, was sich unfair anfühlt, auch wirklich ungerecht?",
+                "audience": "Klasse 5",
+                "result": "Bevor wir „Das ist unfair!“ rufen, prüfen wir mit den Waage-Fragen, wer was nach welcher Regel bekommt – und ob wir es auch so sehen würden, wenn wir auf der anderen Seite stünden.",
+                "preparation": "Tafel, M1, M2, Seil, Zahlenkarten 0–10, Barometer-Seil, Regel-Speicher",
+                "prerequisites": "Stunde 2: Regel, Gesetz, Wert",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Alltagssituationen erläutern, warum Gerechtigkeit für das Zusammenleben bedeutsam ist, und eine erste vorläufige Bestimmung des Begriffs „gerecht“ formulieren.",
+                  "items": [
+                    "die Situationen aus M1 benennen, in denen sich Kinder ungerecht behandelt fühlen, und angeben, was dort jeweils verteilt wird. (AFB I)",
+                    "eine Situation mithilfe der Waage-Fragen strukturiert beschreiben. (AFB I)",
+                    "ihre Einordnung der Fallkarten auf dem Gerechtigkeitsbarometer begründen und mit den Einordnungen anderer vergleichen. (AFB II)",
+                    "an einem Beispiel prüfen, ob ein Ungerechtigkeitsempfinden auf persönlicher Enttäuschung oder auf einer ungerechten Verteilung beruht. (AFB III)",
+                    "eine vorläufige Definition von „gerecht“ formulieren und daraus eine Regel für eine Fallsituation entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Alle gleich? Das Gleichheitsprinzip",
+              "detail": "5 Seiten · Ist es immer gerecht, wenn alle gleich viel bekommen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Gerechtigkeit_Kl5-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "das Gleichheitsprinzip als Prinzip der Gerechtigkeit erläutern und an Fällen aus ihrem Alltag beurteilen, wann Gleichbehandlung gerecht ist und wann sie nicht ausreicht.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist es immer gerecht, wenn alle gleich viel bekommen?",
+                "audience": "Klasse 5",
+                "result": "Bei Abstimmungen und Spielregeln gilt für alle das Gleiche – wenn jemand aber etwas anderes braucht, um mitmachen zu können, schauen wir genauer hin.",
+                "preparation": "Tafel, Regel-Speicher, M1, M2, Kartensatz M2",
+                "prerequisites": "Stunde 3: Das ist unfair!",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde das Gleichheitsprinzip als Prinzip der Gerechtigkeit erläutern und an Fällen aus ihrem Alltag beurteilen, wann Gleichbehandlung gerecht ist und wann sie nicht ausreicht.",
+                  "items": [
+                    "die Verteilungsregel aus M1 beschreiben und die Einwände der Figuren benennen. (AFB I)",
+                    "das Gleichheitsprinzip in eigenen Worten erklären und seinen Vorteil darlegen. (AFB II)",
+                    "Fallkarten daraufhin prüfen, ob Gleichbehandlung in der jeweiligen Situation gerecht ist, und ihre Entscheidung begründen. (AFB II)",
+                    "an einem Fall einen Vorschlag entwickeln, wie eine Gleichheitsregel angepasst werden kann, ohne andere zu benachteiligen. (AFB III)",
+                    "im Rollenspiel unterschiedliche Ansprüche abwägen und eine begründete Verteilungsentscheidung treffen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Wer braucht es am meisten?",
+              "detail": "5 Seiten · Ist es gerecht, dem zu geben, der etwas am dringendsten braucht?",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Gerechtigkeit_Kl5-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "anhand von Amartya Sens Flöten-Gleichnis das Bedürfnisprinzip als Verteilungsregel erläutern, im Rollenspiel konkurrierende Ansprüche aus fremder Perspektive vertreten und ein begründetes, eigenes Urteil formulieren.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist es gerecht, dem zu geben, der etwas am dringendsten braucht?",
+                "audience": "Klasse 5",
+                "result": "Wenn jemand etwas dringend braucht, das ihm fehlt, nehmen wir das bei unseren Entscheidungen ernst.",
+                "preparation": "Holzflöte, Tafel, M1, Ecken-Schilder, Arbeitsheft, M2, Rollenkarten, Wortspeicher, Regel-Speicher",
+                "prerequisites": "Stunde 4: Alle gleich? Das Gleichheitsprinzip",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde anhand von Amartya Sens Flöten-Gleichnis das Bedürfnisprinzip als Verteilungsregel erläutern, im Rollenspiel konkurrierende Ansprüche aus fremder Perspektive vertreten und ein begründetes, eigenes Urteil formulieren.",
+                  "items": [
+                    "die Gründe von Anne, Bilal und Carla aus dem Gleichnis wiedergeben. (AFB I)",
+                    "die drei Ansprüche den Verteilungsregeln Bedürfnis, Leistung und Nutzen zuordnen. (AFB II)",
+                    "das Bedürfnisprinzip an Bilals Fall und einem eigenen Alltagsbeispiel erklären. (AFB II)",
+                    "im Rollenspiel die Perspektive einer Figur argumentativ vertreten, auch wenn sie selbst anders denken. (AFB II)",
+                    "entscheiden, wem die Flöte zustehen sollte, und ihre Entscheidung gegenüber den Gegenpositionen begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Wer mehr tut, bekommt mehr?",
+              "detail": "5 Seiten · Ist es gerecht, nach Leistung zu verteilen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Gerechtigkeit_Kl5-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "das Leistungsprinzip an Fällen aus Sport, Schule und Arbeit erläutern, es mit dem Gleichheits- und dem Bedürfnisprinzip vergleichen und in einem konkreten Fall begründet beurteilen, welches Prinzip angemessen ist.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist es gerecht, nach Leistung zu verteilen?",
+                "audience": "Klasse 5",
+                "result": "Wer sich für die Klasse anstrengt, verdient Anerkennung; dabei zählt auch die Mühe, nicht nur das Ergebnis.",
+                "preparation": "Tafel, M1, Wortspeicher, Spaltenvorlage, M2, Tabellenvorlage, Arbeitsheft, Regel-Speicher",
+                "prerequisites": "Stunde 5: Wer braucht es am meisten?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde das Leistungsprinzip an Fällen aus Sport, Schule und Arbeit erläutern, es mit dem Gleichheits- und dem Bedürfnisprinzip vergleichen und in einem konkreten Fall begründet beurteilen, welches Prinzip angemessen ist.",
+                  "items": [
+                    "das Leistungsprinzip mit eigenen Worten benennen und in den Fallkarten wiedererkennen. (AFB I)",
+                    "die drei Prinzipien in einer Tabelle nach Regel, Beispiel, Vorzug und Schwäche vergleichen. (AFB II)",
+                    "den Unterschied zwischen Leistung und Anstrengung an zwei Fällen erklären. (AFB II)",
+                    "beurteilen, welches Prinzip in einem gewählten Fall gerecht ist, und ein Gegenargument berücksichtigen. (AFB III)",
+                    "ihr Urteil zur Flöten-Geschichte im Licht des Leistungsprinzips überprüfen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Gleiches gleich, Ungleiches ungleich",
+              "detail": "5 Seiten · Ist es manchmal gerecht, Kinder unterschiedlich zu behandeln?",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Gerechtigkeit_Kl5-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "den aristotelischen Grundsatz „Gleiches gleich, Ungleiches ungleich“ in eigenen Worten erläutern und auf Fälle aus dem Schulalltag anwenden, indem sie prüfen, ob ein Unterschied für die jeweilige Verteilung relevant ist.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist es manchmal gerecht, Kinder unterschiedlich zu behandeln?",
+                "audience": "Klasse 5",
+                "result": "Wenn jemand in unserer Klasse anders behandelt wird, nennen wir einen Grund, der zur Sache passt – „Der ist eben anders“ reicht nicht.",
+                "preparation": "Balkenwaage oder Bild, Tafel, M1, Wortspeicher, M2, Satzbausteine, Barometer (Bodenlinie), Regel-Speicher",
+                "prerequisites": "Stunde 6: Wer mehr tut, bekommt mehr?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde den aristotelischen Grundsatz „Gleiches gleich, Ungleiches ungleich“ in eigenen Worten erläutern und auf Fälle aus dem Schulalltag anwenden, indem sie prüfen, ob ein Unterschied für die jeweilige Verteilung relevant ist.",
+                  "items": [
+                    "den Grundsatz der austeilenden Gerechtigkeit nach Aristoteles in eigenen Worten wiedergeben. (AFB I)",
+                    "am Beispiel des Laufwettbewerbs erklären, warum gerechtes Verteilen einen Maßstab braucht. (AFB II)",
+                    "an Fallkarten prüfen, ob eine ungleiche Behandlung auf einem für die Sache wichtigen Unterschied beruht. (AFB II)",
+                    "beurteilen, ob Ben auf Karte E die Regel des Aristoteles angemessen verwendet. (AFB III)",
+                    "für einen Fall, in dem Gleichbehandlung Unrecht erzeugt, einen begründeten Lösungsvorschlag entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Unsere Gerechtigkeits-Charta",
+              "detail": "7 Seiten · Ist es gerecht, wenn alle das Gleiche bekommen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Gerechtigkeit_Kl5-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "im Klassenrat begründete Regeln für eine Gerechtigkeits-Charta formulieren, beraten und beschließen sowie die Leitfrage der Reihe unter Rückgriff auf die Prinzipien Gleichheit, Bedürfnis und Leistung und auf Aristoteles differenziert beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist es gerecht, wenn alle das Gleiche bekommen?",
+                "audience": "Klasse 5",
+                "result": "Heute wird der Regel-Speicher ausgewertet: Die überzeugendsten Gedanken werden als begründete Regeln in die Gerechtigkeits-Charta übertragen.",
+                "preparation": "Regel-Speicher, Tafel, M2, Heft, M1, M3, Satzbausteine, Moderationskarte, Protokollbogen, Plakat, Bodenlinie, Kalender",
+                "prerequisites": "Stunde 7: Gleiches gleich, Ungleiches ungleich",
+                "socialForm": "Einzelarbeit · Gruppenarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde im Klassenrat begründete Regeln für eine Gerechtigkeits-Charta formulieren, beraten und beschließen sowie die Leitfrage der Reihe unter Rückgriff auf die Prinzipien Gleichheit, Bedürfnis und Leistung und auf Aristoteles differenziert beantworten.",
+                  "items": [
+                    "die Prinzipien Gleichheit, Bedürfnis und Leistung sowie die Prüffrage des Aristoteles mit je einem Beispiel aus der Reihe benennen. (AFB I)",
+                    "den Ablauf eines Klassenrats beschreiben. (AFB I)",
+                    "eine Regel für ein gerechtes Miteinander formulieren und sie einem Prinzip begründet zuordnen. (AFB II)",
+                    "die Leitfrage „Ist es gerecht, wenn alle das Gleiche bekommen?“ unter Einbezug von Beispielen und eines möglichen Einwands beurteilen. (AFB III)",
+                    "sich begründet für die Übernahme einer Regel-Patenschaft entscheiden. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
         }
       ],
       "6": [
