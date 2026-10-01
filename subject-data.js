@@ -1119,6 +1119,352 @@ window.materialSubjects = {
               }
             }
           ]
+        },
+        {
+          "title": "Wovon träumst du?",
+          "description": "Lebensträume, Rituale und Feste: mit einer Traumcollage, Epikurs Frage nach dem Glück, Lebenswegen mit unterschiedlichen Startbedingungen, behutsamen Gesprächen über Abschiede und einem Gruppenpuzzle zu Pessach, Weihnachten, Ramadan, Diwali und Vesakh, das in die Ausstellung „Feste der Welt“ mündet. KLP 2024 · IF 6.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "54 Seiten · Klasse 5 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "56 Seiten · Klasse 5 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Lebenstraeume_Kl5_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "30 Seiten · Klasse 5 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Lebenstraeume_Kl5_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Lebenstraeume_Kl5-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Lebenstraeume_Kl5-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Lebenstraeume_Kl5-methoden"
+            },
+            {
+              "label": "1. Mein Lebenstraum",
+              "detail": "5 Seiten · Wovon träume ich – und was sagt das über mich?",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Lebenstraeume_Kl5-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "eigene und fremde Lebensträume beschreiben, miteinander vergleichen und mithilfe der Sinn-Fragen die hinter einem Traum liegenden Werte erschließen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wovon träume ich – und was sagt das über mich?",
+                "audience": "Klasse 5",
+                "result": "Hinter vielen Lebensträumen steckt ein tieferer Wunsch – zum Beispiel anderen zu helfen, etwas Schönes zu schaffen oder Zeit mit Menschen zu haben, die man mag.",
+                "preparation": "Notizzettel, M1, Tafel, ggf. Kiste, M2, AB, M2-Kasten, Bastelmaterial, Collagen, Schatzkästchen",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde eigene und fremde Lebensträume beschreiben, miteinander vergleichen und mithilfe der Sinn-Fragen die hinter einem Traum liegenden Werte erschließen.",
+                  "items": [
+                    "die Lebensträume der Figuren aus M1 und M2 benennen und beschreiben. (AFB I)",
+                    "die Gründe für die Lebensträume der Kinder aus M2 in einer Tabelle zusammenstellen. (AFB I)",
+                    "die Lebensträume aus M2 hinsichtlich Gemeinsamkeiten und Unterschieden vergleichen. (AFB II)",
+                    "mithilfe der Sinn-Fragen erklären, welcher Wert hinter einem Lebenstraum steht. (AFB II)",
+                    "einen eigenen oder erfundenen Lebenstraum gestalten und seine Bedeutung für ein gutes Leben begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Haben oder sein?",
+              "detail": "6 Seiten · Was brauche ich wirklich, um glücklich zu sein?",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Lebenstraeume_Kl5-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "materielle und immaterielle Wünsche unterscheiden, Epikurs Auffassung vom Glück in eigenen Worten wiedergeben und begründet beurteilen, welche Wünsche für ein gutes Leben bedeutsam sind.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was brauche ich wirklich, um glücklich zu sein?",
+                "audience": "Klasse 5",
+                "result": "Viele Wünsche kann man kaufen, aber die wichtigsten oft nicht: Hinter einem Haben-Wunsch steckt häufig ein Sein-Wunsch wie Freundschaft, Ruhe oder Nähe.",
+                "preparation": "Wunschkarten, Tafel, M2, Heft, Wortkarten, M1, Satzbausteine, Schatzkästchen, Collage",
+                "prerequisites": "Stunde 1: Mein Lebenstraum",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde materielle und immaterielle Wünsche unterscheiden, Epikurs Auffassung vom Glück in eigenen Worten wiedergeben und begründet beurteilen, welche Wünsche für ein gutes Leben bedeutsam sind.",
+                  "items": [
+                    "die drei Güter nennen, die Epikur für ein glückliches Leben für besonders wichtig hielt. (AFB I)",
+                    "die Wünsche der Figuren aus M2 nach materiellen und immateriellen Wünschen sortieren. (AFB I)",
+                    "an einem Grenzfall erklären, welcher immaterielle Wunsch hinter einem materiellen Wunsch steht. (AFB II)",
+                    "die Wünsche der 5b mithilfe von Epikurs drei Wunschsorten prüfen. (AFB II)",
+                    "beurteilen, ob Epikurs Auffassung vom Glück auch für Kinder heute gilt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Nicht alle starten gleich",
+              "detail": "5 Seiten · Hat jeder die gleiche Chance, seinen Lebenstraum zu erreichen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Lebenstraeume_Kl5-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "an erfundenen Fällen erkennen, dass persönliche Voraussetzungen die Erfüllbarkeit von Lebensträumen mitbestimmen, und begründet beurteilen, welche Rolle Anstrengung, Privilegien und Unterstützung dabei spielen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Hat jeder die gleiche Chance, seinen Lebenstraum zu erreichen?",
+                "audience": "Klasse 5",
+                "result": "Wo jemand startet, sagt nichts darüber, wie viel er wert ist, aber es entscheidet mit, wie leicht sein Weg zum Traum ist, und manchmal kann ich selbst ein bisschen Rückenwind sein.",
+                "preparation": "Tafel, Collagen, M1, Wortspeicher, Rollenkarten, M2, Satzbausteine, Schatzkästchen, –",
+                "prerequisites": "Stunde 2: Haben oder sein?",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an erfundenen Fällen erkennen, dass persönliche Voraussetzungen die Erfüllbarkeit von Lebensträumen mitbestimmen, und begründet beurteilen, welche Rolle Anstrengung, Privilegien und Unterstützung dabei spielen.",
+                  "items": [
+                    "Träume, Stärken und Voraussetzungen der Figuren aus den Fallkarten beschreiben (AFB I).",
+                    "Voraussetzungen den Kategorien Rückenwind und Gegenwind sowie den Bereichen Wohnort, Gesundheit, Sprache, Geld und Unterstützung zuordnen (AFB II).",
+                    "den Begriff Privileg an einem Beispiel erklären (AFB II).",
+                    "die Aussage, dass jeder durch Anstrengung seinen Traum erreichen kann, begründet beurteilen (AFB III).",
+                    "Ideen entwickeln, wie Benachteiligungen durch Unterstützung ausgeglichen werden können (AFB III)."
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Wenn etwas zu Ende geht",
+              "detail": "5 Seiten · Was bedeutet es für unser Leben, wenn etwas zu Ende geht?",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Lebenstraeume_Kl5-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "an Geschichten und Fallkarten erkennen, was Grenzerfahrungen wie Abschied, Umzug, Verlust und Scheitern ausmacht, und ansatzweise erörtern, welche Bedeutung solche Erfahrungen für ein Leben haben können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was bedeutet es für unser Leben, wenn etwas zu Ende geht?",
+                "audience": "Klasse 5",
+                "result": "Wenn etwas zu Ende geht, tut es weh, weil es wichtig war; ich darf traurig sein, mich erinnern und mir Hilfe holen.",
+                "preparation": "Gegenstände, Tafel, M1, M2, Plakatpapier, Plakate, Schatzkästchen, –",
+                "prerequisites": "Stunde 3: Nicht alle starten gleich",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Geschichten und Fallkarten erkennen, was Grenzerfahrungen wie Abschied, Umzug, Verlust und Scheitern ausmacht, und ansatzweise erörtern, welche Bedeutung solche Erfahrungen für ein Leben haben können.",
+                  "items": [
+                    "Gefühle der Figuren in einer Abschiedssituation beschreiben (AFB I).",
+                    "Fallbeispiele verschiedenen Arten von Grenzerfahrungen zuordnen und benennen, was jeweils geholfen hat (AFB II).",
+                    "den Begriff Grenzerfahrung an Noahs Einsicht erklären (AFB II).",
+                    "hilfreiche Umgangsweisen vergleichen und in einem Mutmach-Koffer bündeln (AFB II).",
+                    "in einem Gedankenexperiment abwägen, ob ein Leben ohne Abschiede ein besseres Leben wäre (AFB III)."
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Warum feiern Menschen?",
+              "detail": "5 Seiten · Warum tun Menschen manche Dinge immer wieder auf dieselbe Weise – und was gibt ihnen das?",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Lebenstraeume_Kl5-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "Rituale aus ihrem Lebensumfeld beschreiben, deren Funktionen für das menschliche Leben erläutern und begründet beurteilen, welche Bedeutung Rituale für ein reiches Leben haben können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Warum tun Menschen manche Dinge immer wieder auf dieselbe Weise – und was gibt ihnen das?",
+                "audience": "Klasse 5",
+                "result": "Rituale machen ein Leben reicher, weil sie Halt geben, Menschen verbinden, Übergänge spürbar machen und uns erinnern – und jede Familie darf ihre eigenen haben.",
+                "preparation": "Foto, Whiteboard, M1, Tafel, Arbeitsheft, Wortspeicher, M2, Tabellenvorlage, Symbolkarten, Satzbausteine, Schatzkästchen",
+                "prerequisites": "Stunde 4: Wenn etwas zu Ende geht",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Rituale aus ihrem Lebensumfeld beschreiben, deren Funktionen für das menschliche Leben erläutern und begründet beurteilen, welche Bedeutung Rituale für ein reiches Leben haben können.",
+                  "items": [
+                    "Rituale aus dem Jahreslauf sammeln und den Ablauf einer Geburtstagsfeier beschreiben. (AFB I)",
+                    "Rituale den Funktionen Halt geben, Gemeinschaft stiften, Übergänge markieren und erinnern zuordnen. (AFB II)",
+                    "den Unterschied zwischen Ritual und Gewohnheit an Beispielen erklären. (AFB II)",
+                    "ein Klassenritual entwickeln und seine beabsichtigte Funktion begründen. (AFB III)",
+                    "beurteilen, ob dem menschlichen Leben ohne Rituale etwas fehlen würde. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Feste der Religionen I",
+              "detail": "5 Seiten · Wie feiern Menschen in verschiedenen Religionen – und was ist ihnen an ihren Festen wichtig?",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Lebenstraeume_Kl5-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "ein religiöses Fest anhand eines Expertentextes und eigener Recherche in Kindermedien erschließen, es ihrer Stammgruppe sachgerecht und respektvoll vorstellen und erste Gemeinsamkeiten zwischen den Festen verschiedener Religionen benennen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie feiern Menschen in verschiedenen Religionen – und was ist ihnen an ihren Festen wichtig?",
+                "audience": "Klasse 5",
+                "result": "Menschen feiern ihre Feste auf ganz verschiedene Weise, und oft geht es dabei um Ähnliches: Licht, Gemeinschaft, Erinnern und Teilen.",
+                "preparation": "Gemälde, Foto, Whiteboard, Tafel, M1, M2, Recherchebogen, Tablets mit Linkliste, Sachbücher, Tabellenvorlage, Farbstifte, Schatzkästchen",
+                "prerequisites": "Stunde 5: Warum feiern Menschen?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde ein religiöses Fest anhand eines Expertentextes und eigener Recherche in Kindermedien erschließen, es ihrer Stammgruppe sachgerecht und respektvoll vorstellen und erste Gemeinsamkeiten zwischen den Festen verschiedener Religionen benennen.",
+                  "items": [
+                    "Name, Religion, Zeitpunkt und Bräuche eines Festes aus einem Expertentext entnehmen. (AFB I)",
+                    "in Kindermedien zusätzliche Informationen recherchieren und ihre Quellen angeben. (AFB I)",
+                    "erklären, woran ein Fest erinnert und welche Funktion von Ritualen es erfüllt. (AFB II)",
+                    "fünf Feste tabellarisch vergleichen und Gemeinsamkeiten benennen. (AFB II)",
+                    "Angaben aus zwei Quellen prüfen und Abweichungen begründet deuten. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Feste der Religionen II",
+              "detail": "5 Seiten · Was haben Feste gemeinsam – und warum feiern auch Menschen ohne Religion?",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Lebenstraeume_Kl5-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "Gemeinsamkeiten und Unterschiede religiöser Feste herausarbeiten, diese mit nicht-religiösen Ritualen vergleichen und erläutern, welche Bedeutung Feste und Rituale für das menschliche Leben haben.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was haben Feste gemeinsam – und warum feiern auch Menschen ohne Religion?",
+                "audience": "Klasse 5",
+                "result": "Jedes Kind legt einen Zettel mit der Zutat ins Schatzkästchen, die ihm an Festen am wichtigsten ist (Licht, Gemeinschaft, Erinnern, Teilen oder Essen), und ergänzt einen Satz, warum.",
+                "preparation": "Bildkarten, Tafel, Recherchebogen, Expertentexte aus Stunde 6, M1, Satzbausteine, M2, Tafelbild Stunde 5, Schatzkästchen",
+                "prerequisites": "Stunde 6: Feste der Religionen I",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Gemeinsamkeiten und Unterschiede religiöser Feste herausarbeiten, diese mit nicht-religiösen Ritualen vergleichen und erläutern, welche Bedeutung Feste und Rituale für das menschliche Leben haben.",
+                  "items": [
+                    "zu den Kategorien Licht, Gemeinschaft, Erinnern, Teilen und Essen Beispiele aus fünf religiösen Festen nennen. (AFB I)",
+                    "nicht-religiöse Rituale den Funktionen von Ritualen zuordnen. (AFB II)",
+                    "ein religiöses Fest und ein nicht-religiöses Ritual kriteriengeleitet vergleichen. (AFB II)",
+                    "die These, alle Feste seien gleich, anhand von Beispielen prüfen und eine differenzierte Position formulieren. (AFB III)",
+                    "ein eigenes Klassenritual entwickeln und dessen Funktion begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Ausstellung „Feste der Welt“",
+              "detail": "6 Seiten · Was macht ein Leben reich?",
+              "kind": "standard",
+              "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Lebenstraeume_Kl5-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "ihre Plakate zu Festen der Welt fertigstellen und präsentieren, anderen Gruppen kriteriengeleitet Feedback geben und die Leitfrage „Was macht ein Leben reich?“ unter Rückgriff auf die Stationen der Reihe begründet beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was macht ein Leben reich?",
+                "audience": "Klasse 5",
+                "result": "Das Schatzkästchen wird geöffnet: Jedes Kind wählt aus seinen gesammelten Gedanken den wichtigsten aus, klebt ihn auf das große Plakat „Was macht ein Leben reich?“ und ergänzt damit seine Traumcollage im Portfolio.",
+                "preparation": "M1, großes Plakat, M3, Plakate, Material, Klebeband, Feedbackkarten, Klangschale, M2, Schatzkästchen, Portfolio",
+                "prerequisites": "Stunde 7: Feste der Religionen II",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde ihre Plakate zu Festen der Welt fertigstellen und präsentieren, anderen Gruppen kriteriengeleitet Feedback geben und die Leitfrage „Was macht ein Leben reich?“ unter Rückgriff auf die Stationen der Reihe begründet beantworten.",
+                  "items": [
+                    "Rollen für die Ausstellung verteilen und benennen. (AFB I)",
+                    "auf Feedbackkarten beschreiben, was an einem Plakat gelungen ist und was sie gelernt haben. (AFB I)",
+                    "ein Plakat nach vorgegebenen Kriterien fertigstellen und in einem Kurzvortrag erläutern. (AFB II)",
+                    "die Leitfrage der Reihe unter Bezug auf mindestens zwei Stationen der Lernlandkarte beurteilen. (AFB III)",
+                    "das Erfüllen eines Lebenstraums und das gemeinsame Feiern als Quellen eines reichen Lebens gegeneinander abwägen. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
         }
       ],
       "6": [
