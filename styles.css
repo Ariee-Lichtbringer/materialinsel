@@ -347,3 +347,4 @@ button:focus-visible,input:focus-visible,summary:focus-visible,a:focus-visible{o
 .shop-owned{margin-top:18px;}
 .shop-owned li{font-size:.86rem;margin:4px 0;}
 @media (max-width:560px){.shop-bar{flex-direction:column;align-items:stretch;}}
+.shop-tax{margin:-2px 0 10px;font-size:.74rem;color:#61737b;}
