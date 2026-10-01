@@ -773,6 +773,352 @@ window.materialSubjects = {
               }
             }
           ]
+        },
+        {
+          "title": "Sehe ich, was wirklich ist?",
+          "description": "Wahrnehmung, Täuschung und Medien: mit Kippbildern, Sinnesstationen, der Parabel von den Blinden und dem Elefanten, Platons Höhle, Werbebildern und der „Großen Mondente“ prüfen, wann wir unseren Augen trauen können, und ein eigenes Faktencheck-Detektivbuch anlegen. KLP 2024 · IF 7.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "53 Seiten · Klasse 5 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "53 Seiten · Klasse 5 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Wahrnehmung_Kl5_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "32 Seiten · Klasse 5 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "30 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-methoden"
+            },
+            {
+              "label": "1. Kippbilder",
+              "detail": "5 Seiten · Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
+                "audience": "Klasse 5",
+                "result": "Prüf-Tipp 1 im Detektiv-Speicher: Bevor ich sage „Das ist so!“, frage ich andere, was sie sehen, und lasse mir zeigen, woran sie es erkennen.",
+                "preparation": "Beamer, Notizzettel, M1, Tafel, M2, Heft, Wortspeicher, Papier, Vorlage halbes Gesicht, Plakat Detektiv-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
+                  "items": [
+                    "die beiden Deutungen des Ente-Hase-Kopfes und der Zeichnung von W. E. Hill anhand konkreter Bildelemente beschreiben. (AFB I)",
+                    "ihre eigene Wahrnehmung mit der Wahrnehmung von Mitschülerinnen und Mitschülern vergleichen und Unterschiede benennen. (AFB II)",
+                    "mit dem Modell „Die Sinne nehmen auf, der Kopf deutet“ erklären, warum dasselbe Bild verschieden gesehen werden kann. (AFB II)",
+                    "Noahs These, die Deutung werde vom Betrachter hervorgebracht, mithilfe der Detektiv-Fragen prüfen. (AFB III)",
+                    "ein eigenes Kippbild gestalten und seine Wirkung an anderen erproben. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Meine Sinne können sich irren",
+              "detail": "5 Seiten · Können sich meine Sinne irren – und wie merke ich das?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "4 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Können sich meine Sinne irren – und wie merke ich das?",
+                "audience": "Klasse 5",
+                "result": "Prüf-Tipp 2 im Detektiv-Speicher: Wenn mich mein Eindruck täuschen kann, prüfe ich mit einem Hilfsmittel wie Lineal oder Thermometer oder mit einem zweiten Sinn nach.",
+                "preparation": "Beamer, Tafel, Lineal, Stationsplan, M1, M2, Schlüsselbund, drei Schüsseln, Thermometer, Apfel- und Birnenstücke, Zahnstocher, Protokollvorlage, Protokolle, Heft, Raum, Plakat Detektiv-Speicher",
+                "prerequisites": "Stunde 1: Kippbilder",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
+                  "items": [
+                    "beschreiben, was sie bei den optischen Täuschungen und an den Stationen wahrnehmen, und dies in einem Protokoll festhalten. (AFB I)",
+                    "ihre Wahrnehmungen mit Hilfsmitteln wie Lineal und Thermometer oder mit einem zweiten Sinn überprüfen. (AFB I)",
+                    "erklären, wie Umgebung und vorangegangene Erfahrung die Wahrnehmung beeinflussen. (AFB II)",
+                    "Sinnestäuschungen nach ihren Einflüssen sortieren und die Zuordnung begründen. (AFB II)",
+                    "abwägen, wann man den eigenen Sinnen trauen kann und wann eine Prüfung nötig ist. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Ich sehe, was ich erwarte",
+              "detail": "5 Seiten · Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
+                "audience": "Klasse 5",
+                "result": "Ich frage mich: Was erwarte ich schon, und was fühle ich gerade – und könnte ich deshalb etwas übersehen oder etwas sehen, das gar nicht da ist?",
+                "preparation": "Tafel, M1, Wortspeicher, M2, Detektiv-Speicher",
+                "prerequisites": "Stunde 2: Meine Sinne können sich irren",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
+                  "items": [
+                    "die drei Versuche aus M1 benennen und angeben, was die Zuschauer jeweils erleben. (AFB I)",
+                    "beschreiben, was Emil im Keller wahrnimmt und was tatsächlich vorhanden ist. (AFB I)",
+                    "erklären, warum Menschen beim Gorilla-Versuch ein auffälliges Ereignis übersehen. (AFB II)",
+                    "den Einfluss von Aufmerksamkeit und Gefühl auf die Wahrnehmung an M1 und M2 vergleichen. (AFB II)",
+                    "die Aussage „Man sieht nur, wonach man sucht“ an Beispielen prüfen und einschränken. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Die Blinden und der Elefant",
+              "detail": "5 Seiten · Kann ein Mensch allein das Ganze sehen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Kann ein Mensch allein das Ganze sehen?",
+                "audience": "Klasse 5",
+                "result": "Ich frage mich: Von welchem Platz aus habe ich das gesehen – und wer hat vielleicht einen anderen Teil gesehen, den ich nicht kenne?",
+                "preparation": "Holzschnitt (Projektion oder M1), M1, Tafel, Raum, Wortspeicher, M2, Detektiv-Speicher",
+                "prerequisites": "Stunde 3: Ich sehe, was ich erwarte",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
+                  "items": [
+                    "den Holzschnitt von Hanabusa Itchō beschreiben und die Vergleiche der Blinden den Körperteilen zuordnen. (AFB I)",
+                    "die Parabel in einem Standbild darstellen und die Haltungen der Figuren deuten. (AFB II)",
+                    "die Berichte in M2 den Standorten der Kinder zuordnen und erklären, was jedes Kind nicht sehen konnte. (AFB II)",
+                    "aus den Teilberichten eine wahrscheinliche Darstellung des Geschehens entwickeln und offene Fragen benennen. (AFB III)",
+                    "beurteilen, ob ein einzelner Mensch das Ganze wahrnehmen kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Raus aus der Höhle?",
+              "detail": "5 Seiten · Woher weiß ich, dass das, was ich sehe, wirklich ist?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Woher weiß ich, dass das, was ich sehe, wirklich ist?",
+                "audience": "Klasse 5",
+                "result": "Ich schaue nicht nur auf den Schatten: Ich frage, wo ein Bild oder eine Nachricht herkommt, und schaue mir die Sache, wenn es geht, selbst an.",
+                "preparation": "Lampe, Wand, M1, Kupferstich, Arbeitsheft, Tafel, M2, Redegegenstand, Satzbausteine, Detektiv-Speicher",
+                "prerequisites": "Stunde 4: Die Blinden und der Elefant",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
+                  "items": [
+                    "die Lage der Gefangenen in der Höhle mit Hilfe von Text und Kupferstich beschreiben. (AFB I)",
+                    "die Stationen des Aufstiegs in die richtige Reihenfolge bringen und den Erlebnissen des Befreiten zuordnen. (AFB I)",
+                    "erklären, warum die Gefangenen dem Rückkehrer nicht glauben. (AFB II)",
+                    "die Prüfvorschläge der 5b im Gedankenexperiment erläutern und ihre Grenzen aufzeigen. (AFB II)",
+                    "eigene philosophische Fragen entwickeln und im Gespräch begründet Stellung beziehen, ob auch ihr Alltag „Höhlen“ kennt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Bilder, die lügen",
+              "detail": "5 Seiten · Wie verändern Bilder, was wir über etwas oder jemanden denken?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie verändern Bilder, was wir über etwas oder jemanden denken?",
+                "audience": "Klasse 5",
+                "result": "Bei jedem Bild frage ich: Wer hat es gemacht, was liegt außerhalb des Rahmens und wurde es vielleicht bearbeitet?",
+                "preparation": "Werbefoto, Whiteboard, M1, Tafel, Wortspeicher, M2, Fallkarten, Wimmelbild, Papprahmen, Arbeitsheft, Positionslinie, Detektiv-Speicher",
+                "prerequisites": "Stunde 5: Raus aus der Höhle?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
+                  "items": [
+                    "Unterschiede zwischen einem Werbebild und dem tatsächlichen Produkt beschreiben. (AFB I)",
+                    "Tricks der Bildgestaltung aus M1 sammeln und benennen. (AFB I)",
+                    "Fallbeispiele mit den Detektiv-Fragen prüfen und den Tricks Ausschnitt, Perspektive, Montage und Filter zuordnen. (AFB II)",
+                    "erklären, wie Bildausschnitt und Bildunterschrift das Urteil über einen Menschen verändern. (AFB II)",
+                    "abwägen, wann ein bearbeitetes Bild harmlos ist und wann es täuscht, und eine eigene Grenze begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Fake News und KI-Bilder",
+              "detail": "6 Seiten · Woran erkenne ich, ob eine Nachricht stimmt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Woran erkenne ich, ob eine Nachricht stimmt?",
+                "audience": "Klasse 5",
+                "result": "Bevor ich eine Nachricht glaube oder weiterleite, frage ich: Wer sagt das, woher stammt es und berichten andere sichere Quellen auch darüber?",
+                "preparation": "Beamer, Lithografie, M1, Tafel, M2, Plakat, Detektiv-Speicher, Heft",
+                "prerequisites": "Stunde 6: Bilder, die lügen",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
+                  "items": [
+                    "die Behauptungen der „Großen Mondente“ und die dazugehörige Lithografie beschreiben. (AFB I)",
+                    "Gründe nennen, warum die Falschmeldung von 1835 geglaubt wurde, und Merkmale von KI-erzeugten Bildern benennen. (AFB I)",
+                    "eine Kettennachricht mithilfe von Prüf-Fragen untersuchen und ihr Ergebnis begründen. (AFB II)",
+                    "eine geordnete Prüf-Checkliste entwickeln und mit Beispielen veranschaulichen. (AFB II)",
+                    "beurteilen, welche Chancen und Schwierigkeiten das Prüfen von Nachrichten heute im Vergleich zu 1835 mit sich bringt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Detektivbüro Wahrheit",
+              "detail": "5 Seiten · Kann ich meinen Augen trauen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Kann ich meinen Augen trauen?",
+                "audience": "Klasse 5",
+                "result": "Heute wird der Detektiv-Speicher ausgewertet: Jedes Kind wählt seinen wichtigsten Prüf-Tipp aus und überträgt ihn mit Begründung in das Faktencheck-Detektivbuch.",
+                "preparation": "Tafel, Stempelkarten, M2, M3, Detektiv-Speicher, M1, Satzbausteine, Bodenlinie",
+                "prerequisites": "Stunde 7: Fake News und KI-Bilder",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
+                  "items": [
+                    "ihre Prüf-Tipps den Stationen der Reihe zuordnen und mit Beispielen belegen. (AFB I)",
+                    "die Prüf-Fragen der Checkliste nennen und um eine eigene Frage ergänzen. (AFB I)",
+                    "zwei Meldungen mithilfe der Checkliste prüfen und das Ergebnis in einem Prüfprotokoll festhalten. (AFB II)",
+                    "die Leitfrage der Reihe unter Einbezug von Beispielen aus mehreren Stunden beurteilen. (AFB III)",
+                    "Chancen und Gefahren des Internets für die Wahrheitsfindung gegeneinander abwägen. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
         }
       ],
       "6": [
