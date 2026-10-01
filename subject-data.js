@@ -1735,6 +1735,352 @@ window.materialSubjects = {
           ],
           "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Schuelermappe-preview.png?v=e6fdb45ea1f0",
           "pageCount": 59
+        },
+        {
+          "title": "Gemeinsam statt gegeneinander",
+          "description": "Freundschaft, Familie, Streit: mit Beziehungsnetz, Aristoteles’ drei Arten der Freundschaft, Familienporträts, Rollenbildern, Konflikttreppe, Ich-Botschaften und der Goldenen Regel in den Weltreligionen zu einem eigenen Streitschlichter-Leitfaden der Klasse. KLP 2024 · IF 2.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "56 Seiten · Klasse 6 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "56 Seiten · Klasse 6 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Miteinander_Kl6_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "30 Seiten · Klasse 6 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Miteinander_Kl6_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Miteinander_Kl6-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Miteinander_Kl6-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Miteinander_Kl6-methoden"
+            },
+            {
+              "label": "1. Mein Beziehungsnetz",
+              "detail": "6 Seiten · Welche Menschen gehören zu meinem Leben – und was geben sie mir?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "verschiedene Beziehungsarten unterscheiden, darstellen, was Familie, Freundschaft, Verein und Schule einem Menschen geben, und Ideen entwickeln, wie ein neues Kind Anschluss in einer Klasse finden kann.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Welche Menschen gehören zu meinem Leben – und was geben sie mir?",
+                "audience": "Klasse 6",
+                "result": "Jeder Mensch braucht Beziehungen: Wer neu ist oder wenig Anschluss hat, freut sich, wenn jemand anderes den ersten Schritt macht.",
+                "preparation": "Wollknäuel, M1, Tafelkarte Brücken-Fragen, M2, Wortkarten, Tafel, A3-Blätter, Buntstifte, Plakat, Satzbausteine, Brücken-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde verschiedene Beziehungsarten unterscheiden, darstellen, was Familie, Freundschaft, Verein und Schule einem Menschen geben, und Ideen entwickeln, wie ein neues Kind Anschluss in einer Klasse finden kann.",
+                  "items": [
+                    "die Personen in Kims Beziehungsnetz nennen und nach Nähe einordnen. (AFB I)",
+                    "den Beziehungsarten Familie, Freundschaft, Verein und Schule typische Leistungen zuordnen. (AFB I)",
+                    "ein Beziehungsnetz gestalten und erklären, was einzelne Beziehungen geben. (AFB II)",
+                    "mithilfe der Brücken-Fragen die Lage von Kim und Leyla aus beiden Perspektiven beschreiben. (AFB II)",
+                    "begründete Vorschläge entwickeln, wie eine Klasse ein neues Kind aufnehmen kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Was ist eine gute Freundin, ein guter Freund?",
+              "detail": "5 Seiten · Was macht eine echte Freundschaft aus?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "Eigenschaften einer guten Freundschaft gewichten, die drei Arten der Freundschaft nach Aristoteles in eigenen Worten erklären und begründet beurteilen, welche Bedeutung unterschiedliche Freundschaften für ihr Leben haben.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was macht eine echte Freundschaft aus?",
+                "audience": "Klasse 6",
+                "result": "Echte Freundschaft hält auch dann, wenn es schwierig wird: Wer dem anderen Gutes wünscht, bleibt ehrlich, hält Geheimnisse und steht zu ihm, wenn andere lästern.",
+                "preparation": "Tafel, M2, Kartensätze, M1, Satzbausteine, Brücken-Speicher",
+                "prerequisites": "Stunde 1: Mein Beziehungsnetz",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Eigenschaften einer guten Freundschaft gewichten, die drei Arten der Freundschaft nach Aristoteles in eigenen Worten erklären und begründet beurteilen, welche Bedeutung unterschiedliche Freundschaften für ihr Leben haben.",
+                  "items": [
+                    "die drei Arten der Freundschaft nach Aristoteles nennen und mit je einem Beispiel belegen. (AFB I)",
+                    "Eigenschaften einer guten Freundschaft in eine begründete Rangfolge bringen. (AFB I)",
+                    "Eigenschaften und Fallbeispiele aus M2 den drei Arten der Freundschaft zuordnen. (AFB II)",
+                    "die Vorstellungen der Figuren aus M2 mit der Position des Aristoteles vergleichen. (AFB II)",
+                    "beurteilen, ob Freundschaften aus Nutzen und Freude weniger wert sind als Freundschaften um des anderen willen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Familie ist bunt",
+              "detail": "6 Seiten · Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "anhand erfundener Familienporträts die Vielfalt von Familienformen gleichwertig darstellen, einen funktionalen Familienbegriff erarbeiten und Rollen sowie Verantwortung in Familien an einem Alltagskonflikt erläutern.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
+                "audience": "Klasse 6",
+                "result": "Wenn wir streiten, fragen wir wie im Familienrat, was jede Person braucht, und jeder darf seine Sicht sagen, ohne dass jemand darüber urteilt, wie der andere lebt.",
+                "preparation": "Beamer oder Tafel, Tafel, M1, Wortspeicher, M2, Brücken-Speicher",
+                "prerequisites": "Stunde 2: Was ist eine gute Freundin, ein guter Freund?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde anhand erfundener Familienporträts die Vielfalt von Familienformen gleichwertig darstellen, einen funktionalen Familienbegriff erarbeiten und Rollen sowie Verantwortung in Familien an einem Alltagskonflikt erläutern.",
+                  "items": [
+                    "die Zusammensetzung und gemeinsamen Gewohnheiten von mindestens zwei Familien aus M1 beschreiben. (AFB I)",
+                    "Unterschiede und Gemeinsamkeiten der Familien in einer Tabelle systematisieren. (AFB II)",
+                    "erklären, warum Zusammenwohnen und Verwandtschaft als alleinige Merkmale von Familie nicht ausreichen. (AFB II)",
+                    "aus der Perspektive einer Figur Bedürfnisse benennen und einen fairen Lösungsschritt formulieren. (AFB II)",
+                    "beurteilen, ob die Definition der Klasse auf alle Familienformen zutrifft, und sie gegebenenfalls verbessern. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Typisch Junge, typisch Mädchen?",
+              "detail": "6 Seiten · Wer bestimmt, was zu mir passt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "Rollenbilder in Werbung, Spielzeug und Berufen untersuchen, zwischen Rollenerwartungen und Persönlichkeit unterscheiden und begründen, warum alle Menschen unabhängig von Geschlecht und Interessen respektvoll behandelt werden.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wer bestimmt, was zu mir passt?",
+                "audience": "Klasse 6",
+                "result": "Im Streit benutzen wir keine Schubladen und keine Sprüche wie „Du bist ja wie ein Mädchen“ als Waffe, denn jeder Mensch wird respektvoll behandelt, egal wie er ist.",
+                "preparation": "Beamer, Prospekte, Tafel, Plakat Gesprächsregeln, M1, M2, Werbematerial, Brücken-Speicher, Fragebox, –",
+                "prerequisites": "Stunde 3: Familie ist bunt",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Rollenbilder in Werbung, Spielzeug und Berufen untersuchen, zwischen Rollenerwartungen und Persönlichkeit unterscheiden und begründen, warum alle Menschen unabhängig von Geschlecht und Interessen respektvoll behandelt werden.",
+                  "items": [
+                    "aus M1 Beispiele für Rollenbilder in Spielzeug, Farben und Berufen sammeln. (AFB I)",
+                    "die Wirkung eines Rollenbildes auf eine Figur mithilfe der Brücken-Fragen beschreiben. (AFB I/II)",
+                    "den Unterschied zwischen Rollenbild und Persönlichkeit an einem Beispiel erklären. (AFB II)",
+                    "eine Werbung kriteriengeleitet auf Rollenbilder prüfen. (AFB II)",
+                    "beurteilen, wer bestimmt, was zu einem Menschen passt, und ihr Urteil begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Wenn ich wütend bin …",
+              "detail": "5 Seiten · Wie wird aus einer kleinen Meinungsverschiedenheit ein großer Streit – und wo kann man ihn stoppen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "die Entwicklung eines Konflikts mithilfe einer vereinfachten Konflikttreppe beschreiben und Möglichkeiten der Deeskalation begründet beurteilen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie wird aus einer kleinen Meinungsverschiedenheit ein großer Streit – und wo kann man ihn stoppen?",
+                "audience": "Klasse 6",
+                "result": "Je früher wir merken, auf welcher Stufe der Konflikttreppe wir stehen, desto leichter können wir umkehren: Erst Pause machen, dann reden – nicht im Chat weiterstreiten.",
+                "preparation": "Tafel, Kasten M2, M1, M2, Heft, Wortspeicher, Kärtchen, Brücken-Speicher",
+                "prerequisites": "Stunde 4: Typisch Junge, typisch Mädchen?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Entwicklung eines Konflikts mithilfe einer vereinfachten Konflikttreppe beschreiben und Möglichkeiten der Deeskalation begründet beurteilen können.",
+                  "items": [
+                    "den Verlauf des Streits in der Fallgeschichte in der richtigen Reihenfolge wiedergeben. (AFB I)",
+                    "Szenen der Fallgeschichte begründet den fünf Stufen der Konflikttreppe zuordnen. (AFB II)",
+                    "erklären, warum ein Klassenchat die Eskalation beschleunigen kann. (AFB II)",
+                    "die Perspektive einer beteiligten Figur einnehmen und ihre Gefühle und Bedürfnisse benennen. (AFB II)",
+                    "das Verhalten einer Figur bewerten und Stoppschilder zur Deeskalation entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Streiten, aber richtig",
+              "detail": "5 Seiten · Wie kann ich sagen, was mich stört, ohne dass der Streit noch größer wird?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "Du-Botschaften in Ich-Botschaften nach den vier Schritten des guten Gesprächs umformulieren und diese im Rollenspiel erproben und auswerten können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie kann ich sagen, was mich stört, ohne dass der Streit noch größer wird?",
+                "audience": "Klasse 6",
+                "result": "Im Streit sprechen wir in Ich-Botschaften und gehen die vier Schritte: Was ist passiert? Wie geht es mir? Was ist mir wichtig? Worum bitte ich?",
+                "preparation": "Tafel, M1, Satzbausteine, M2, Karte E, Brücken-Speicher",
+                "prerequisites": "Stunde 5: Wenn ich wütend bin …",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Du-Botschaften in Ich-Botschaften nach den vier Schritten des guten Gesprächs umformulieren und diese im Rollenspiel erproben und auswerten können.",
+                  "items": [
+                    "Du-Botschaften und Ich-Botschaften unterscheiden und die vier Schritte des guten Gesprächs benennen. (AFB I)",
+                    "Vorwürfe in Ich-Botschaften mit Beobachtung, Gefühl, Bedürfnis und Bitte umformulieren. (AFB II)",
+                    "im Rollenspiel die Perspektive einer Figur aus der Fallgeschichte übernehmen. (AFB II)",
+                    "ein Rollenspiel kriteriengeleitet mit dem Beobachtungsbogen auswerten. (AFB II)",
+                    "beurteilen, wann das gute Gespräch hilft und wo es an Grenzen stößt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Was du nicht willst, dass man dir tu …",
+              "detail": "6 Seiten · Gibt es eine Regel für das Miteinander, die fast alle Menschen kennen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "die Goldene Regel als gemeinsamen Gedanken verschiedener Religionen und Weltanschauungen kennen, ihre negative und positive Fassung unterscheiden und beurteilen, warum die Regel im Alltag eine Perspektivübernahme erfordert.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Gibt es eine Regel für das Miteinander, die fast alle Menschen kennen?",
+                "audience": "Klasse 6",
+                "result": "Bevor ich handle, frage ich mich, wie es mir an Stelle des anderen ginge, und wenn ich unsicher bin, frage ich die andere Person einfach.",
+                "preparation": "Tafel, M1, Wortspeicher, M2, Satzbausteine, Brücken-Speicher",
+                "prerequisites": "Stunde 6: Streiten, aber richtig",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Goldene Regel als gemeinsamen Gedanken verschiedener Religionen und Weltanschauungen kennen, ihre negative und positive Fassung unterscheiden und beurteilen, warum die Regel im Alltag eine Perspektivübernahme erfordert.",
+                  "items": [
+                    "die sechs Fassungen der Goldenen Regel der jeweiligen Religion oder Weltanschauung und dem Werk zuordnen. (AFB I)",
+                    "die Fassungen nach negativer und positiver Form sortieren und den Unterschied zwischen Lassen und Tun erklären. (AFB II)",
+                    "zwei Fassungen aus verschiedenen Traditionen vergleichen. (AFB II)",
+                    "am Fall von Jonas und Aylin erklären, warum die Regel ohne Perspektivwechsel scheitern kann. (AFB II)",
+                    "beurteilen, welche Fassung für das Miteinander in der Klasse hilfreicher ist, und eine eigene Regel entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Unser Streitschlichter-Leitfaden",
+              "detail": "5 Seiten · Was brauchen wir, damit Miteinander gelingt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "aus den Bausteinen der Reihe einen Streitschlichter-Leitfaden gestalten, ihn im Rollenspiel anwenden und die Leitfrage „Was brauchen wir, damit Miteinander gelingt?“ begründet beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was brauchen wir, damit Miteinander gelingt?",
+                "audience": "Klasse 6",
+                "result": "Wir schlichten einen Streit in fünf Schritten – ankommen, erzählen, verstehen, Lösungen suchen, vereinbaren – und holen bei Gewalt oder Mobbing sofort eine erwachsene Person.",
+                "preparation": "Tafel, M2, Brücken-Speicher, M1, M3, Plakatpapier, Leitfaden, Plakate, Beobachtungsbögen",
+                "prerequisites": "Stunde 7: Was du nicht willst, dass man dir tu …",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde aus den Bausteinen der Reihe einen Streitschlichter-Leitfaden gestalten, ihn im Rollenspiel anwenden und die Leitfrage „Was brauchen wir, damit Miteinander gelingt?“ begründet beantworten.",
+                  "items": [
+                    "die Bausteine der Reihe anhand der Lernlandkarte nennen. (AFB I)",
+                    "die Bausteine den fünf Schritten der Streitschlichtung zuordnen. (AFB II)",
+                    "einen Leitfaden gestalten und ihn im Rollenspiel aus verschiedenen Perspektiven anwenden. (AFB II)",
+                    "die Wirksamkeit und die Grenzen des Leitfadens beurteilen. (AFB III)",
+                    "die Leitfrage der Reihe mit Beispielen aus mehreren Stunden begründet beantworten. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
         }
       ],
       "7": [
