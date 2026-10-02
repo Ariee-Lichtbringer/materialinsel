@@ -2,7 +2,7 @@
  const API = 'https://api-production-c1a79.up.railway.app';
  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const slug = t => String(t).normalize('NFKD').replace(/[^\x00-\x7F]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
- const SUBJECT = {'geschichte': 'Geschichte', 'praktische-philosophie': 'Praktische Philosophie'};
+ const SUBJECT = {'geschichte': 'Geschichte', 'praktische-philosophie': 'Praktische Philosophie', 'deutsch': 'Deutsch'};
 
  // Alle Mappen aus den vorhandenen Daten sammeln
  const entries = new Map();
@@ -35,6 +35,7 @@
   {id: 'neu', eyebrow: 'NEU IM SHOP', title: 'Deutschland und Europa nach 1945', big: true, items: NEW.map(id => entries.get(id)).filter(Boolean)},
   {id: 'geschichte-9-10', eyebrow: 'GESCHICHTE · KLASSE 9/10', title: 'Gedenkstättenfahrten und Erinnerungskultur', items: all.filter(e => e.subject === 'geschichte' && !e.grades.includes('12/13') && !NEW.includes(e.id))},
   {id: 'kursstufe', eyebrow: 'GESCHICHTE · KURSSTUFE 12/13', title: 'Auschwitz: vorbereiten, erinnern, gestalten', items: all.filter(e => e.grades.includes('12/13'))},
+  {id: 'deutsch', eyebrow: 'DEUTSCH · KLASSE 7', title: 'Lesetagebücher zu Ganzschriften', items: all.filter(e => e.subject === 'deutsch')},
   {id: 'pp', eyebrow: 'PRAKTISCHE PHILOSOPHIE · KLASSE 5–8', title: 'Philosophieren mit Kindern und Jugendlichen', pp: true, items: all.filter(e => e.subject === 'praktische-philosophie').sort((a, b) => parseInt(a.grades[0]) - parseInt(b.grades[0]))}
  ];
 
@@ -63,6 +64,7 @@
   {title: 'Geschichte 9/10', target: '#geschichte-9-10', sub: n => n + ' Mappen · Nachkriegszeit, Gedenkstätten', count: () => all.filter(e => e.subject === 'geschichte' && !e.grades.includes('12/13')).length},
   {title: 'Kursstufe 12/13', target: '#kursstufe', sub: n => n + ' Mappen · Auschwitz, Oral History', count: () => all.filter(e => e.grades.includes('12/13')).length},
   {title: 'Praktische Philosophie', target: '#pp', sub: n => n + ' Mappen · Klasse 5 bis 8', count: () => all.filter(e => e.subject === 'praktische-philosophie').length},
+  {title: 'Deutsch', target: '#deutsch', sub: n => n + (n === 1 ? ' Mappe' : ' Mappen') + ' · Lesetagebuch Klasse 7', count: () => all.filter(e => e.subject === 'deutsch').length},
   {title: 'Alle Fächer', target: '/faecher/', sub: () => 'Nach Jahrgang stöbern', count: () => 0}
  ];
  document.getElementById('sh-cats').innerHTML = cats.map(c => `<a class="sh-cat" href="${c.target}"><strong>${esc(c.title)}</strong><span>${esc(c.sub(c.count()))}</span></a>`).join('');
