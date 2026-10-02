@@ -35,7 +35,7 @@ const finalGrade=Math.max(10,...Object.keys(subject.materials).map(Number));
 for(let grade=5;grade<=finalGrade;grade++){
  const themes=subject.materials[grade]||[];
  const details=document.createElement('details');details.className='grade';details.id='jahrgang-'+grade;
- details.innerHTML=`<summary>Jahrgang ${grade}<span class="grade-count">${themes.length ? themes.length+(themes.length===1?' Thema':' Themen') : 'Noch keine Materialien'}</span></summary><div class="grade__content">${themes.length?themes.map(theme=>`<details class="theme-menu" id="${themeSlug(theme.title)}"><summary><strong>${esc(theme.title)}</strong><small>${esc(theme.description)}</small><span class="expand-hint">Materialien und Downloads anzeigen</span></summary><div class="theme-files">${renderTheme(theme)}</div></details>`).join(''):'<p class="empty">Für diesen Jahrgang werden Materialien nach und nach ergänzt.</p>'}</div>`;
+ details.innerHTML=`<summary>Jahrgang ${grade}<span class="grade-count">${themes.filter(t=>!t.unlisted).length ? themes.filter(t=>!t.unlisted).length+(themes.filter(t=>!t.unlisted).length===1?' Thema':' Themen') : 'Noch keine Materialien'}</span></summary><div class="grade__content">${themes.length?themes.map(theme=>`<details class="theme-menu" id="${themeSlug(theme.title)}"${theme.unlisted?' data-unlisted="1" hidden':''}><summary><strong>${esc(theme.title)}</strong><small>${esc(theme.description)}</small><span class="expand-hint">Materialien und Downloads anzeigen</span></summary><div class="theme-files">${renderTheme(theme)}</div></details>`).join(''):'<p class="empty">Für diesen Jahrgang werden Materialien nach und nach ergänzt.</p>'}</div>`;
  list.append(details);
 }
 const normalize=s=>s.toLocaleLowerCase('de').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss');
@@ -49,7 +49,7 @@ document.querySelector('#material-search').addEventListener('input',e=>{
   grade.querySelectorAll('.theme-menu').forEach(theme=>{
    const all=matches(theme.querySelector('summary').textContent);let any=false;
    theme.querySelectorAll('.unit-row').forEach(row=>{row.hidden=terms.length>0&&!all&&!matches(row.textContent);any ||= !row.hidden;});
-   theme.hidden=terms.length>0&&!any;
+   theme.hidden=(terms.length>0&&!any)||(theme.dataset.unlisted==='1'&&theme.dataset.owned!=='1');
    if(!theme.hidden){found=true;count++;}
    if(terms.length)theme.open=!theme.hidden;
   });

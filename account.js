@@ -31,6 +31,7 @@
   if(!shop.enabled)return;
   document.querySelectorAll('.theme-menu').forEach(theme=>{
    const first=theme.querySelector('[data-protected]');const pid=first&&fileProduct[first.dataset.protected];if(!pid)return;
+   if(theme.dataset.unlisted==='1'){if(owned.has(pid)){theme.dataset.owned='1';theme.hidden=false;}else return;}
    theme.querySelectorAll('[data-protected] .download-label').forEach(l=>{l.textContent=l.textContent.replace('mit Freischaltung',owned.has(pid)?'gekauft':'nach Kauf');});
    const summary=theme.querySelector(':scope>summary');if(summary&&!summary.querySelector('.shop-price')){const tag=document.createElement('span');tag.className='shop-price';tag.textContent=owned.has(pid)?'✓ Gekauft':'Komplette Mappe · '+price(shop.products[pid].price,shop.products[pid].currency);summary.append(tag);}
    const box=theme.querySelector(':scope>div')||theme;if(box.querySelector('.shop-bar'))return;

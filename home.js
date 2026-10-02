@@ -2,8 +2,8 @@
  const e=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const norm=s=>s.toLocaleLowerCase('de').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss');
  const data=window.materialSubjects;const source=[];
- for(const t of window.auschwitzMaterials||[])source.push({theme:t,subject:'geschichte',grades:[12,13]});
- for(const t of window.historyMaterials||[])source.push({theme:t,subject:'geschichte',grades:[9,10]});
+ for(const t of (window.auschwitzMaterials||[]).filter(t=>!t.unlisted))source.push({theme:t,subject:'geschichte',grades:[12,13]});
+ for(const t of (window.historyMaterials||[]).filter(t=>!t.unlisted))source.push({theme:t,subject:'geschichte',grades:[9,10]});
  for(const [subject,d] of Object.entries(data))for(const [grade,themes] of Object.entries(d.materials))for(const theme of themes)source.push({theme,subject,grades:[Number(grade)]});
  source.push({subject:'geschichte',grades:[9,10],project:true,theme:{title:'WfU ZWEITZEUGEN',description:'Stimmen bewahren. Geschichten weitertragen. Ein Kurs zum Zuhören, Erinnern und verantwortlichen Weitergeben.',files:[]}});
  const cards=document.querySelector('#subject-cards');

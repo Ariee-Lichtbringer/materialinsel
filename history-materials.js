@@ -1509,3 +1509,5 @@ window.historyMaterials = [
     ]
   }
 ];
+// Aus dem Shop genommen (Buchprojekt, 2026-10-02): Käufe bleiben im Konto herunterladbar.
+(window.historyMaterials || []).forEach(t => { if (["Gedenkstättenbesuche vorbereiten und reflektieren · Auschwitz · Kursstufe 12/13", "Gedenkstättenbesuche vorbereiten und reflektieren · Straßburg", "Oral History und Zeitzeugeninterviews · Straßburg", "Oral History und Zeitzeugnisse · Auschwitz · Kursstufe 12/13"].includes(t.title)) t.unlisted = true; });

@@ -20,8 +20,8 @@
  }
  for (const [subject, data] of Object.entries(window.materialSubjects || {}))
   for (const [grade, list] of Object.entries(data.materials || {})) (list || []).forEach(t => add(t, subject, grade));
- (window.historyMaterials || []).forEach(t => add(t, 'geschichte', '9/10'));
- (window.auschwitzMaterials || []).forEach(t => add(t, 'geschichte', '12/13'));
+ (window.historyMaterials || []).filter(t => !t.unlisted).forEach(t => add(t, 'geschichte', '9/10'));
+ (window.auschwitzMaterials || []).filter(t => !t.unlisted).forEach(t => add(t, 'geschichte', '12/13'));
  entries.set('zweitzeugen-projekt-wfu', {id: 'zweitzeugen-projekt-wfu', title: 'Zweitzeugen-Projekt · Novemberpogrome und Stimmenwand', subject: 'geschichte', grades: ['8–10'], description: 'Projektkurs mit Zeitzeugeninterviews, Novemberpogromen und digitaler Stimmenwand.', href: '/projekte/wfu-zweitzeugen/'});
 
  const TEXT = {
