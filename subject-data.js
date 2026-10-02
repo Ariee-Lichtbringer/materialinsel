@@ -2081,6 +2081,352 @@ window.materialSubjects = {
               }
             }
           ]
+        },
+        {
+          "title": "Darf man lügen?",
+          "description": "Wahrheit, Wahrhaftigkeit und Lüge: mit dem Lügen-Barometer, Pinocchio und dem Hirtenjungen, der Notlüge, Kants striktem Lügenverbot und der Abwägung von Folgen zu Dilemmata aus dem Klassenalltag, Dilemma-Theater und einem begründeten Urteil. KLP 2024 · IF 3.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "57 Seiten · Klasse 6 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "58 Seiten · Klasse 6 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Luegen_Kl6_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "30 Seiten · Klasse 6 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Luegen_Kl6_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Luegen_Kl6-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Luegen_Kl6-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Luegen_Kl6-methoden"
+            },
+            {
+              "label": "1. Das Lügen-Barometer",
+              "detail": "5 Seiten · Sind alle Lügen gleich schlimm?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "alltägliche Lügen nach ihrer Schwere ordnen, Gründe für das Lügen benennen und daraus die Frage entwickeln, ob eine Lüge manchmal besser sein kann als die Wahrheit.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Sind alle Lügen gleich schlimm?",
+                "audience": "Klasse 6",
+                "result": "Nicht alle Lügen sind gleich: Wie schlimm eine Lüge ist, hängt davon ab, warum jemand lügt und wem die Lüge schadet.",
+                "preparation": "Wäscheleine, Klammern, Karte E, M1, Kartensätze, M2, Tafel, Wahrheits-Fragen, Urteils-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde alltägliche Lügen nach ihrer Schwere ordnen, Gründe für das Lügen benennen und daraus die Frage entwickeln, ob eine Lüge manchmal besser sein kann als die Wahrheit.",
+                  "items": [
+                    "in fünf Fallbeispielen beschreiben, was tatsächlich geschehen ist und was gesagt wird. (AFB I)",
+                    "Gründe für das Lügen aus einem Gesprächstext herausarbeiten. (AFB I)",
+                    "Fallbeispiele begründet auf einer Skala von harmlos bis schlimm anordnen und Motive zuordnen. (AFB II)",
+                    "eine umstrittene Lüge mit den drei Wahrheits-Fragen prüfen. (AFB II)",
+                    "eine Lüge aus der Perspektive der Betroffenen bewerten oder einen eigenen Grenzfall entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Wahr, ehrlich, gelogen",
+              "detail": "5 Seiten · Ist jeder falsche Satz eine Lüge?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "zwischen Wahrheit, Wahrhaftigkeit, Irrtum und Lüge unterscheiden und an Grenzfällen prüfen, dass eine Lüge nicht schon durch einen falschen Satz, sondern durch die Täuschungsabsicht bestimmt ist.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist jeder falsche Satz eine Lüge?",
+                "audience": "Klasse 6",
+                "result": "Nicht jeder falsche Satz ist eine Lüge: Lügen heißt, etwas zu sagen, von dem man weiß, dass es falsch ist, damit ein anderer es glaubt.",
+                "preparation": "Tafel, M1, Wortspeicher, M2, Satzbausteine, Urteils-Speicher",
+                "prerequisites": "Stunde 1: Das Lügen-Barometer",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde zwischen Wahrheit, Wahrhaftigkeit, Irrtum und Lüge unterscheiden und an Grenzfällen prüfen, dass eine Lüge nicht schon durch einen falschen Satz, sondern durch die Täuschungsabsicht bestimmt ist.",
+                  "items": [
+                    "die Begriffe Wahrheit, Wahrhaftigkeit, Irrtum und Lüge nennen und mit eigenen Worten erläutern. (AFB I)",
+                    "Aussagen aus einem Fallbeispiel den vier Begriffen mithilfe zweier Prüffragen zuordnen. (AFB II)",
+                    "den Unterschied zwischen Irrtum und Lüge an selbst entwickelten Beispielen erklären. (AFB II)",
+                    "Grenzfälle wie Ironie, Spiel, Geheimnis und Übertreibung kriteriengeleitet prüfen. (AFB III)",
+                    "beurteilen, ob eine Täuschungsabsicht ohne falsche Aussage als Lüge gelten kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Pinocchio und die Folgen",
+              "detail": "6 Seiten · Was passiert mit dem Vertrauen, wenn jemand lügt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "an den Geschichten von Pinocchio und dem Hirtenjungen die Folgen von Lügen erläutern und erkennen, dass Lügen vor allem Vertrauen und Glaubwürdigkeit beschädigen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was passiert mit dem Vertrauen, wenn jemand lügt?",
+                "audience": "Klasse 6",
+                "result": "Wer lügt, setzt Vertrauen aufs Spiel, und verlorenes Vertrauen ist schwer zurückzugewinnen – das ist ein wichtiger Grund gegen das Lügen, auch wenn eine Lüge im Moment klein wirkt.",
+                "preparation": "Beamer, Illustration, Tafel, M1, Wortspeicher, M2, Plakate, Urteils-Speicher",
+                "prerequisites": "Stunde 2: Wahr, ehrlich, gelogen",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an den Geschichten von Pinocchio und dem Hirtenjungen die Folgen von Lügen erläutern und erkennen, dass Lügen vor allem Vertrauen und Glaubwürdigkeit beschädigen.",
+                  "items": [
+                    "wiedergeben, wie Pinocchio die Fee belügt und welche Folge dies hat. (AFB I)",
+                    "den Ablauf der drei Rufe in der Fabel und die jeweilige Reaktion des Dorfes darstellen. (AFB I)",
+                    "mit den Begriffen Lüge, Wahrheit und Vertrauen erklären, warum dem Hirtenjungen beim dritten Ruf niemand glaubt. (AFB II)",
+                    "die sofortige und die zeitversetzte Folge der Lüge in beiden Geschichten mithilfe der Wahrheits-Fragen vergleichen. (AFB II)",
+                    "Schritte entwickeln und beurteilen, wie verlorenes Vertrauen zurückgewonnen werden kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Die Notlüge",
+              "detail": "6 Seiten · Darf man lügen, um jemanden nicht zu verletzen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "am Dilemma des ungeliebten Geburtstagsgeschenks den Wertekonflikt zwischen Rücksicht und Ehrlichkeit erläutern und auf der Positionslinie eine begründete eigene Position einnehmen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Darf man lügen, um jemanden nicht zu verletzen?",
+                "audience": "Klasse 6",
+                "result": "Eine Notlüge will jemanden schonen; bevor ich sie für richtig halte, prüfe ich, ob es eine Antwort gibt, die zugleich wahr und freundlich ist, und was die Lüge später für das Vertrauen bedeutet.",
+                "preparation": "Päckchen, Tafel, M1, Wortspeicher, M2, Seil, zwei Schilder, Urteils-Speicher",
+                "prerequisites": "Stunde 3: Pinocchio und die Folgen",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde am Dilemma des ungeliebten Geburtstagsgeschenks den Wertekonflikt zwischen Rücksicht und Ehrlichkeit erläutern und auf der Positionslinie eine begründete eigene Position einnehmen.",
+                  "items": [
+                    "Mias Lage und die Erwartungen von Oma Gerda beschreiben. (AFB I)",
+                    "verschiedene Antwortmöglichkeiten Mias mit ihren kurz- und langfristigen Folgen sammeln. (AFB I/II)",
+                    "den Begriff Wertekonflikt erklären und die konkurrierenden Werte Rücksicht und Ehrlichkeit benennen. (AFB II)",
+                    "drei Lösungsvorschläge mithilfe der Wahrheits-Fragen prüfen. (AFB II)",
+                    "auf der Positionslinie eine eigene Position einnehmen, begründen und gegebenenfalls revidieren. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Kant: Niemals lügen!",
+              "detail": "5 Seiten · Ist Lügen immer falsch – sogar dann, wenn man damit jemandem helfen will?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "Kants Begründung des unbedingten Lügenverbots in ihren Grundgedanken wiedergeben, an einem kindgerechten Gedankenexperiment anwenden und eine erste begründete Stellungnahme dazu formulieren können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist Lügen immer falsch – sogar dann, wenn man damit jemandem helfen will?",
+                "audience": "Klasse 6",
+                "result": "Kant sagt: Lügen ist nie erlaubt, weil sonst niemand mehr dem anderen vertrauen kann und man den anderen heimlich wie ein Werkzeug benutzt – man muss aber nicht alles verraten, was man weiß.",
+                "preparation": "Porträt (M1), Tafel, M1, Heft, Wortspeicher, M2, Raumecken mit Schildern, Urteils-Speicher",
+                "prerequisites": "Stunde 4: Die Notlüge",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Kants Begründung des unbedingten Lügenverbots in ihren Grundgedanken wiedergeben, an einem kindgerechten Gedankenexperiment anwenden und eine erste begründete Stellungnahme dazu formulieren können.",
+                  "items": [
+                    "Kants zwei Gründe gegen das Lügen mit eigenen Worten nennen. (AFB I)",
+                    "die Handlungsmöglichkeiten der Figur im Gedankenexperiment beschreiben. (AFB I)",
+                    "Kants Verallgemeinerungstest auf die Notlüge aus Stunde 4 anwenden und erklären, warum Kant sie verbietet. (AFB II)",
+                    "die vier Handlungsoptionen mithilfe der Wahrheits-Fragen prüfen und Kants Haltung dazu begründet zuordnen. (AFB II)",
+                    "Kants Position begründet beurteilen und dabei einen Einwand berücksichtigen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Auf die Folgen kommt es an",
+              "detail": "6 Seiten · Darf man lügen, wenn dadurch für alle mehr Gutes als Schlechtes herauskommt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "das Abwägen von Folgen als Gegenposition zu Kant anwenden, beide Positionen kriteriengeleitet vergleichen und ihre Tragfähigkeit begründet beurteilen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Darf man lügen, wenn dadurch für alle mehr Gutes als Schlechtes herauskommt?",
+                "audience": "Klasse 6",
+                "result": "Man kann eine Lüge auch nach ihren Folgen beurteilen: Wer abwägt, muss an alle Beteiligten denken, jeden gleich ernst nehmen und auch spätere Folgen wie verlorenes Vertrauen auf die Waage legen.",
+                "preparation": "Balkenwaage oder Tafelskizze, Klötze, M1, Heft, Tafel, Kasten M1, M2, Kärtchen, Raum, Kasten M2, Urteils-Speicher",
+                "prerequisites": "Stunde 5: Kant: Niemals lügen!",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde das Abwägen von Folgen als Gegenposition zu Kant anwenden, beide Positionen kriteriengeleitet vergleichen und ihre Tragfähigkeit begründet beurteilen können.",
+                  "items": [
+                    "die guten und schlechten Folgen von Sofias Lüge für alle Beteiligten beschreiben. (AFB I)",
+                    "Aussagen begründet der Position Kants oder dem Abwägen von Folgen zuordnen. (AFB I)",
+                    "beide Positionen am Fall Sofia und Kim vergleichen und einen Unterschied sowie eine Gemeinsamkeit erklären. (AFB II)",
+                    "die Folgen-Waage eigenständig auf einen neuen Alltagsfall anwenden und abwägen. (AFB II)",
+                    "die Tragfähigkeit beider Positionen anhand von Kriterien beurteilen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Freundschaft oder Ehrlichkeit?",
+              "detail": "6 Seiten · Muss ich die Wahrheit sagen, auch wenn ich damit einen Freund verrate?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "den Wertekonflikt zwischen Freundschaft und Ehrlichkeit am Fall des Spickzettels erläutern, Petzen sicher vom Hilfeholen unterscheiden und mithilfe von Argumentekarten ein begründetes Urteil darüber fällen, was Emil tun sollte.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Muss ich die Wahrheit sagen, auch wenn ich damit einen Freund verrate?",
+                "audience": "Klasse 6",
+                "result": "Schweigen ist nicht dasselbe wie lügen, und wer Hilfe holt, weil jemand in Gefahr ist, verletzt oder bedroht wird, petzt nicht, sondern schützt.",
+                "preparation": "M1, Tafel, M2, M2 als Kartensatz, Bodenmarkierung, Karten, Urteils-Speicher, –",
+                "prerequisites": "Stunde 6: Auf die Folgen kommt es an",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde den Wertekonflikt zwischen Freundschaft und Ehrlichkeit am Fall des Spickzettels erläutern, Petzen sicher vom Hilfeholen unterscheiden und mithilfe von Argumentekarten ein begründetes Urteil darüber fällen, was Emil tun sollte.",
+                  "items": [
+                    "die Handlungsmöglichkeiten Emils und die beteiligten Werte beschreiben. (AFB I)",
+                    "Situationen begründet als Petzen oder Hilfeholen zuordnen und Schweigen von Lügen unterscheiden. (AFB II)",
+                    "Argumente nach ihrer Richtung sortieren und ein eigenes Argument ergänzen. (AFB II)",
+                    "den Konflikt aus der Perspektive verschiedener Beteiligter darstellen. (AFB II)",
+                    "begründet beurteilen, wie Emil handeln sollte, und auf ein Gegenargument eingehen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Dilemma-Theater",
+              "detail": "6 Seiten · Ist eine Lüge manchmal besser als die Wahrheit?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "ein eigenes Dilemma zu Wahrheit und Lüge szenisch gestalten, die Dilemmata der anderen Gruppen begründet beurteilen und die Leitfrage „Ist eine Lüge manchmal besser als die Wahrheit?“ in einem begründeten Urteil mit Gegenargument beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist eine Lüge manchmal besser als die Wahrheit?",
+                "audience": "Klasse 6",
+                "result": "Mein Urteil zur Leitfrage ist fertig, wenn es eine klare Position, zwei verschiedene Gründe und ein Gegenargument mit meiner Antwort enthält.",
+                "preparation": "Tafel, M2, Urteils-Speicher, M1, Karteikarten, Bühnenfläche, Bodenmarkierung, M3",
+                "prerequisites": "Stunde 7: Freundschaft oder Ehrlichkeit?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde ein eigenes Dilemma zu Wahrheit und Lüge szenisch gestalten, die Dilemmata der anderen Gruppen begründet beurteilen und die Leitfrage „Ist eine Lüge manchmal besser als die Wahrheit?“ in einem begründeten Urteil mit Gegenargument beantworten.",
+                  "items": [
+                    "die zentralen Gedanken der Reihe anhand der Lernlandkarte und des Urteils-Speichers nennen. (AFB I)",
+                    "ein Dilemma entwickeln, in dem beide Handlungsoptionen durch Gründe gestützt sind, und es szenisch darstellen. (AFB II)",
+                    "in der Urteilsrunde ihre Position zu einem Dilemma mithilfe der Wahrheits-Fragen begründen. (AFB III)",
+                    "ein begründetes Urteil zur Leitfrage mit Position, zwei Gründen und einem Gegenargument mit Antwort verfassen. (AFB III)",
+                    "die Urteile Kants und der Folgenabwägung zu einer Szene vergleichen und deren Tragfähigkeit beurteilen. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
         }
       ],
       "7": [
