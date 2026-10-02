@@ -446,13 +446,13 @@ window.materialSubjects = {
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "32 Seiten · Klasse 5 · KLP 2024",
+              "detail": "48 Seiten · Klasse 5 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Gerechtigkeit_Kl5_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "30 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "46 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Gerechtigkeit_Kl5-kommentar"
             },
@@ -475,7 +475,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-1",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Gerechtigkeit_Kl5-einheit-1-lehrer"
               },
@@ -513,7 +513,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-2",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Gerechtigkeit_Kl5-einheit-2-lehrer"
               },
@@ -551,7 +551,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-3",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Gerechtigkeit_Kl5-einheit-3-lehrer"
               },
@@ -589,7 +589,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-4",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Gerechtigkeit_Kl5-einheit-4-lehrer"
               },
@@ -627,7 +627,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-5",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Gerechtigkeit_Kl5-einheit-5-lehrer"
               },
@@ -665,7 +665,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-6",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Gerechtigkeit_Kl5-einheit-6-lehrer"
               },
@@ -703,7 +703,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-7",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Gerechtigkeit_Kl5-einheit-7-lehrer"
               },
@@ -719,7 +719,7 @@ window.materialSubjects = {
                 "principle": "Ist es manchmal gerecht, Kinder unterschiedlich zu behandeln?",
                 "audience": "Klasse 5",
                 "result": "Wenn jemand in unserer Klasse anders behandelt wird, nennen wir einen Grund, der zur Sache passt – „Der ist eben anders“ reicht nicht.",
-                "preparation": "Balkenwaage oder Bild, Tafel, M1, Wortspeicher, M2, Satzbausteine, Barometer (Bodenlinie), Regel-Speicher",
+                "preparation": "Balkenwaage, Tafel, M1, Wortspeicher, M2, Satzbausteine, Barometer (Bodenlinie), Regel-Speicher",
                 "prerequisites": "Stunde 6: Wer mehr tut, bekommt mehr?",
                 "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
                 "details": {
@@ -741,7 +741,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Gerechtigkeit_Kl5-einheit-8-lehrer"
               },
@@ -792,13 +792,13 @@ window.materialSubjects = {
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "31 Seiten · Klasse 5 · KLP 2024",
+              "detail": "47 Seiten · Klasse 5 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Wahrnehmung_Kl5_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "29 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "45 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Wahrnehmung_Kl5-kommentar"
             },
@@ -821,7 +821,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-1-lehrer"
               },
@@ -859,7 +859,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-2-lehrer"
               },
@@ -897,7 +897,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-3-lehrer"
               },
@@ -935,7 +935,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-4-lehrer"
               },
@@ -973,7 +973,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-5-lehrer"
               },
@@ -1011,7 +1011,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-6-lehrer"
               },
@@ -1027,7 +1027,7 @@ window.materialSubjects = {
                 "principle": "Wie verändern Bilder, was wir über etwas oder jemanden denken?",
                 "audience": "Klasse 5",
                 "result": "Bei jedem Bild frage ich: Wer hat es gemacht, was liegt außerhalb des Rahmens und wurde es vielleicht bearbeitet?",
-                "preparation": "Werbefoto, Whiteboard, M1, Tafel, Wortspeicher, M2, Fallkarten, Wimmelbild, Papprahmen, Arbeitsheft, Positionslinie, Detektiv-Speicher",
+                "preparation": "Werbeplakat (Bild zu M1), Whiteboard, M1, Tafel, Wortspeicher, M2, Fallkarten, Wimmelbild, Papprahmen, Arbeitsheft, Positionslinie, Detektiv-Speicher",
                 "prerequisites": "Stunde 5: Raus aus der Höhle?",
                 "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
                 "details": {
@@ -1049,7 +1049,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-7-lehrer"
               },
@@ -1087,7 +1087,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Wahrnehmung_Kl5-einheit-8-lehrer"
               },
@@ -1138,13 +1138,13 @@ window.materialSubjects = {
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "30 Seiten · Klasse 5 · KLP 2024",
+              "detail": "46 Seiten · Klasse 5 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Lebenstraeume_Kl5_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "44 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Lebenstraeume_Kl5-kommentar"
             },
@@ -1167,7 +1167,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-1",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Lebenstraeume_Kl5-einheit-1-lehrer"
               },
@@ -1205,7 +1205,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-2",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Lebenstraeume_Kl5-einheit-2-lehrer"
               },
@@ -1243,7 +1243,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-3",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Lebenstraeume_Kl5-einheit-3-lehrer"
               },
@@ -1281,7 +1281,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-4",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Lebenstraeume_Kl5-einheit-4-lehrer"
               },
@@ -1319,7 +1319,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-5",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Lebenstraeume_Kl5-einheit-5-lehrer"
               },
@@ -1357,7 +1357,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-6",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Lebenstraeume_Kl5-einheit-6-lehrer"
               },
@@ -1395,7 +1395,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-7",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Lebenstraeume_Kl5-einheit-7-lehrer"
               },
@@ -1411,7 +1411,7 @@ window.materialSubjects = {
                 "principle": "Was haben Feste gemeinsam – und warum feiern auch Menschen ohne Religion?",
                 "audience": "Klasse 5",
                 "result": "Jedes Kind legt einen Zettel mit der Zutat ins Schatzkästchen, die ihm an Festen am wichtigsten ist (Licht, Gemeinschaft, Erinnern, Teilen oder Essen), und ergänzt einen Satz, warum.",
-                "preparation": "Bildkarten, Tafel, Recherchebogen, Expertentexte aus Stunde 6, M1, Satzbausteine, M2, Tafelbild Stunde 5, Schatzkästchen",
+                "preparation": "Bilder aus Stunde 6 und M1, Wortkarten, Tafel, Recherchebogen, Vergleichstabelle aus Stunde 6, M1, Satzbausteine, M2, Tafelbild Stunde 5, Schatzkästchen",
                 "prerequisites": "Stunde 6: Feste der Religionen I",
                 "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
                 "details": {
@@ -1433,7 +1433,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-8",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Lebenstraeume_Kl5-einheit-8-lehrer"
               },
@@ -1754,13 +1754,13 @@ window.materialSubjects = {
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "30 Seiten · Klasse 6 · KLP 2024",
+              "detail": "46 Seiten · Klasse 6 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Miteinander_Kl6_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "44 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Miteinander_Kl6-kommentar"
             },
@@ -1783,7 +1783,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Miteinander_Kl6-einheit-1",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Miteinander_Kl6-einheit-1-lehrer"
               },
@@ -1821,7 +1821,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Miteinander_Kl6-einheit-2",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Miteinander_Kl6-einheit-2-lehrer"
               },
@@ -1859,7 +1859,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Miteinander_Kl6-einheit-3",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Miteinander_Kl6-einheit-3-lehrer"
               },
@@ -1875,7 +1875,7 @@ window.materialSubjects = {
                 "principle": "Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
                 "audience": "Klasse 6",
                 "result": "Wenn wir streiten, fragen wir wie im Familienrat, was jede Person braucht, und jeder darf seine Sicht sagen, ohne dass jemand darüber urteilt, wie der andere lebt.",
-                "preparation": "Beamer oder Tafel, Tafel, M1, Wortspeicher, M2, Brücken-Speicher",
+                "preparation": "Tafelskizze oder eigene Fotos (nicht in der Mappe), Tafel, M1, Wortspeicher, M2, Brücken-Speicher",
                 "prerequisites": "Stunde 2: Was ist eine gute Freundin, ein guter Freund?",
                 "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
                 "details": {
@@ -1897,7 +1897,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Miteinander_Kl6-einheit-4",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Miteinander_Kl6-einheit-4-lehrer"
               },
@@ -1935,7 +1935,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Miteinander_Kl6-einheit-5",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Miteinander_Kl6-einheit-5-lehrer"
               },
@@ -1973,7 +1973,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Miteinander_Kl6-einheit-6",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Miteinander_Kl6-einheit-6-lehrer"
               },
@@ -2011,7 +2011,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Miteinander_Kl6-einheit-7",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Miteinander_Kl6-einheit-7-lehrer"
               },
@@ -2049,7 +2049,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Miteinander_Kl6-einheit-8",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Miteinander_Kl6-einheit-8-lehrer"
               },
@@ -2065,7 +2065,7 @@ window.materialSubjects = {
                 "principle": "Was brauchen wir, damit Miteinander gelingt?",
                 "audience": "Klasse 6",
                 "result": "Wir schlichten einen Streit in fünf Schritten – ankommen, erzählen, verstehen, Lösungen suchen, vereinbaren – und holen bei Gewalt oder Mobbing sofort eine erwachsene Person.",
-                "preparation": "Tafel, M2, Brücken-Speicher, M1, M3, Plakatpapier, Leitfaden, Plakate, Beobachtungsbögen",
+                "preparation": "Tafel, Brücken-Speicher, M2, M1, M3, Plakatpapier, Leitfaden, Plakate, Beobachtungsbögen",
                 "prerequisites": "Stunde 7: Was du nicht willst, dass man dir tu …",
                 "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
                 "details": {
@@ -2100,13 +2100,13 @@ window.materialSubjects = {
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "30 Seiten · Klasse 6 · KLP 2024",
+              "detail": "46 Seiten · Klasse 6 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Luegen_Kl6_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "44 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Luegen_Kl6-kommentar"
             },
@@ -2129,7 +2129,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Luegen_Kl6-einheit-1",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Luegen_Kl6-einheit-1-lehrer"
               },
@@ -2167,7 +2167,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Luegen_Kl6-einheit-2",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Luegen_Kl6-einheit-2-lehrer"
               },
@@ -2205,7 +2205,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Luegen_Kl6-einheit-3",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Luegen_Kl6-einheit-3-lehrer"
               },
@@ -2243,7 +2243,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Luegen_Kl6-einheit-4",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Luegen_Kl6-einheit-4-lehrer"
               },
@@ -2281,7 +2281,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Luegen_Kl6-einheit-5",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Luegen_Kl6-einheit-5-lehrer"
               },
@@ -2319,7 +2319,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Luegen_Kl6-einheit-6",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Luegen_Kl6-einheit-6-lehrer"
               },
@@ -2357,7 +2357,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Luegen_Kl6-einheit-7",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Luegen_Kl6-einheit-7-lehrer"
               },
@@ -2395,7 +2395,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Luegen_Kl6-einheit-8",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Luegen_Kl6-einheit-8-lehrer"
               },
@@ -2446,13 +2446,13 @@ window.materialSubjects = {
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "30 Seiten · Klasse 6 · KLP 2024",
+              "detail": "46 Seiten · Klasse 6 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Nachhaltig_Kl6_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "44 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Nachhaltig_Kl6-kommentar"
             },
@@ -2475,7 +2475,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-1",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Nachhaltig_Kl6-einheit-1-lehrer"
               },
@@ -2513,7 +2513,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-2",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Nachhaltig_Kl6-einheit-2-lehrer"
               },
@@ -2551,7 +2551,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-3",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Nachhaltig_Kl6-einheit-3-lehrer"
               },
@@ -2567,7 +2567,7 @@ window.materialSubjects = {
                 "principle": "Welchen Weg legt ein T-Shirt zurück, bevor es in meinem Schrank liegt – und wer ist daran beteiligt?",
                 "audience": "Klasse 6",
                 "result": "Wir notieren eine Idee, wie Kleidung an unserer Schule länger getragen werden kann, zum Beispiel eine Kleidertauschbörse oder eine Ausstellung „Die Reise eines T-Shirts“ für andere Klassen.",
-                "preparation": "Beamer, Foto, T-Shirt, Tafel, Weltkarte, M1, Wortspeicher, M2, Plakatpapier, Plakate, Ideen-Speicher",
+                "preparation": "Beamer, Abbildung, T-Shirt, Tafel, Weltkarte, M1, Wortspeicher, M2, Plakatpapier, Plakate, Ideen-Speicher",
                 "prerequisites": "Stunde 2: Brauche ich das?",
                 "socialForm": "Einzelarbeit · Partnerarbeit",
                 "details": {
@@ -2589,7 +2589,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-4",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Nachhaltig_Kl6-einheit-4-lehrer"
               },
@@ -2627,7 +2627,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-5",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Nachhaltig_Kl6-einheit-5-lehrer"
               },
@@ -2665,7 +2665,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-6",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Nachhaltig_Kl6-einheit-6-lehrer"
               },
@@ -2703,7 +2703,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-7",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Nachhaltig_Kl6-einheit-7-lehrer"
               },
@@ -2741,7 +2741,7 @@ window.materialSubjects = {
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8",
               "teacher": {
                 "label": "Lehrkräftekommentar",
-                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
                 "kind": "teacher",
                 "protectedId": "PP_Nachhaltig_Kl6-einheit-8-lehrer"
               },
