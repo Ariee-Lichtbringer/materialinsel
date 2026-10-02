@@ -28,7 +28,7 @@
 .sh-hero__cover--2{right:2%;top:40px;transform:rotate(6deg)}
 .sh-hero__badge{left:31%;top:16px;z-index:3}
 .sh-badge{position:absolute;background:#994619;color:#fff;font-size:12px;font-weight:700;letter-spacing:.08em;padding:5px 9px;border-radius:6px}
-.sh-cats{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;margin-top:36px}
+.sh-cats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin-top:36px}
 .sh-cat{display:flex;flex-direction:column;gap:6px;padding:20px 22px;background:#fff;border:1px solid #e2e3dc;border-radius:14px;text-decoration:none;color:#153a36;transition:border-color .15s,transform .15s}
 .sh-cat:hover{border-color:#0d5c58;transform:translateY(-2px)}
 .sh-cat strong{font-family:'Literata',Georgia,serif;font-size:20px;font-weight:600}
