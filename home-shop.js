@@ -63,7 +63,7 @@
   {title: 'Geschichte 9/10', target: '#geschichte-9-10', sub: n => n + ' Mappen · Nachkriegszeit, Gedenkstätten', count: () => all.filter(e => e.subject === 'geschichte' && !e.grades.includes('12/13')).length},
   {title: 'Kursstufe 12/13', target: '#kursstufe', sub: n => n + ' Mappen · Auschwitz, Oral History', count: () => all.filter(e => e.grades.includes('12/13')).length},
   {title: 'Praktische Philosophie', target: '#pp', sub: n => n + ' Mappen · Klasse 5 bis 8', count: () => all.filter(e => e.subject === 'praktische-philosophie').length},
-  {title: 'Alle Fächer', target: '/faecher/geschichte/', sub: () => 'Nach Jahrgang stöbern', count: () => 0}
+  {title: 'Alle Fächer', target: '/faecher/', sub: () => 'Nach Jahrgang stöbern', count: () => 0}
  ];
  document.getElementById('sh-cats').innerHTML = cats.map(c => `<a class="sh-cat" href="${c.target}"><strong>${esc(c.title)}</strong><span>${esc(c.sub(c.count()))}</span></a>`).join('');
  document.getElementById('sh-hero-art').innerHTML = NEW.map((id, i) => `<img class="sh-hero__cover sh-hero__cover--${i}" src="/materialien/cover/${id}.jpg?v=6" alt="">`).join('') + '<span class="sh-badge sh-hero__badge">NEU</span>';
