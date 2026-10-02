@@ -24,7 +24,7 @@ function renderTheme(theme){
  const files=theme.files||[];
  const isUnit=f=>f.info||/^\d+\./.test(f.label||'');
  const units=files.filter(isUnit),pack=files.filter(f=>!isUnit(f));
- const cover=`/materialien/cover/${themeSlug(theme.title)}.jpg?v=7`;
+ const cover=`/materialien/cover/${themeSlug(theme.title)}.jpg?v=8`;
  const firstSample=[...pack,...units].find(f=>window.teacherPreviews?.[f.protectedId]);
  const head=`<div class="mappe-head"><img class="mappe-cover" src="${cover}" alt="" loading="lazy" onerror="this.remove()"><div class="mappe-head__text"><p>${esc(theme.description)}</p>${firstSample?`<button type="button" class="mini-sample mini-sample--big" data-sample="${esc(firstSample.protectedId)}">Musterseiten ansehen</button>`:''}</div></div>`;
  const packRows=pack.length?`<h4 class="mappe-sub">Gesamtpaket und Unterlagen</h4><ul class="mappe-list">${pack.map(f=>`<li class="unit-row mappe-row"><div class="mappe-row__title"><strong>${esc(f.label)}</strong><small>${esc(f.detail||'')}</small></div><div class="mappe-row__actions">${mini(f,f.kind==='teacher'?'Lehrkraft':'PDF',f.kind==='teacher'?'teacher':'student')}${f.inclusive?mini(f.inclusive,'Inklusiv','student'):''}${f.teacher?mini(f.teacher,'Lehrkraft','teacher'):''}${miniSample(f)}</div></li>`).join('')}</ul>`:'';
