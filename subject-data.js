@@ -2427,6 +2427,352 @@ window.materialSubjects = {
               }
             }
           ]
+        },
+        {
+          "title": "Wie wollen wir leben?",
+          "description": "Nachhaltig konsumieren und lernen: mit Konsumtagebuch, Diogenes in der Tonne, der Reise eines T-Shirts, Reparieren, Teilen und Tauschen, Teilhabe im Schulgarten, einem Gedankenexperiment zum Lernen und einer eigenen Aktion zur Woche der Nachhaltigkeit. KLP 2024 · IF 5.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "57 Seiten · Klasse 6 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "59 Seiten · Klasse 6 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Nachhaltig_Kl6_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "30 Seiten · Klasse 6 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Nachhaltig_Kl6_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Nachhaltig_Kl6-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Nachhaltig_Kl6-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Nachhaltig_Kl6-methoden"
+            },
+            {
+              "label": "1. Mein Konsumtagebuch",
+              "detail": "5 Seiten · Was kaufe, nutze und werfe ich weg – und warum?",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Nachhaltig_Kl6-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Nachhaltig_Kl6-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "ihr eigenes Konsumverhalten anhand eines Tagebuchs beschreiben, Einträge nach Gründen ordnen und daraus Muster und erste Forschungsfragen ableiten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was kaufe, nutze und werfe ich weg – und warum?",
+                "audience": "Klasse 6",
+                "result": "Wir notieren eine Gewohnheit aus unseren Tagebüchern, die wir in der Woche der Nachhaltigkeit gemeinsam verändern könnten, zum Beispiel weniger Verpackung beim Pausenbrot.",
+                "preparation": "Gegenstände, Tafel, M1, M2, Tagebücher, Zettel, Plakat, Satzbausteine, Ideen-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde ihr eigenes Konsumverhalten anhand eines Tagebuchs beschreiben, Einträge nach Gründen ordnen und daraus Muster und erste Forschungsfragen ableiten.",
+                  "items": [
+                    "Beispiele für Kaufen, Benutzen und Wegwerfen aus einem Konsumtagebuch nennen. (AFB I)",
+                    "Tagebucheinträge mithilfe von Grund-Zeichen sortieren. (AFB II)",
+                    "Muster in den eigenen Einträgen mit einem Beispieltagebuch vergleichen. (AFB II)",
+                    "erklären, wie Kaufentscheidungen ohne bewusste Überlegung zustande kommen. (AFB II)",
+                    "eine eigene Forschungsfrage zum Umgang mit Dingen entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Brauche ich das?",
+              "detail": "5 Seiten · Was brauche ich wirklich – und was möchte ich nur haben?",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Nachhaltig_Kl6-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Nachhaltig_Kl6-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "zwischen Bedürfnis und Wunsch unterscheiden, Werbetricks erkennen und am Gegenbild des Diogenes ihre eigene Rolle als Konsumentin und Konsument begründet erörtern.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was brauche ich wirklich – und was möchte ich nur haben?",
+                "audience": "Klasse 6",
+                "result": "Wir notieren die Idee, in der Woche der Nachhaltigkeit unsere „Brauche-ich-das?“-Fragen als Plakat dort aufzuhängen, wo in der Schule etwas gekauft wird.",
+                "preparation": "Tafel, M1, Tagebuch, M2, Gemälde, Positionslinie, Satzbausteine, Ideen-Speicher",
+                "prerequisites": "Stunde 1: Mein Konsumtagebuch",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde zwischen Bedürfnis und Wunsch unterscheiden, Werbetricks erkennen und am Gegenbild des Diogenes ihre eigene Rolle als Konsumentin und Konsument begründet erörtern.",
+                  "items": [
+                    "drei Werbetricks nennen und Beispielen aus einem Werbefilm zuordnen. (AFB I)",
+                    "Güter begründet als Bedürfnis oder Wunsch einordnen. (AFB II)",
+                    "eigene Konsumentscheidungen mithilfe der Unterscheidung von Bedürfnis und Wunsch prüfen. (AFB II)",
+                    "die Botschaft der Werbung mit der Haltung des Diogenes vergleichen. (AFB II)",
+                    "beurteilen, ob Genügsamkeit im Sinne des Diogenes für ihr eigenes Leben bedeutsam ist. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Die Reise eines T-Shirts",
+              "detail": "6 Seiten · Welchen Weg legt ein T-Shirt zurück, bevor es in meinem Schrank liegt – und wer ist daran beteiligt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Nachhaltig_Kl6-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Nachhaltig_Kl6-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "die Lieferkette eines T-Shirts vom Baumwollfeld bis zum Altkleidercontainer beschreiben und erläutern, welche Folgen die Herstellung von Kleidung für Umwelt und Menschen hier und anderswo hat.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Welchen Weg legt ein T-Shirt zurück, bevor es in meinem Schrank liegt – und wer ist daran beteiligt?",
+                "audience": "Klasse 6",
+                "result": "Wir notieren eine Idee, wie Kleidung an unserer Schule länger getragen werden kann, zum Beispiel eine Kleidertauschbörse oder eine Ausstellung „Die Reise eines T-Shirts“ für andere Klassen.",
+                "preparation": "Beamer, Foto, T-Shirt, Tafel, Weltkarte, M1, Wortspeicher, M2, Plakatpapier, Plakate, Ideen-Speicher",
+                "prerequisites": "Stunde 2: Brauche ich das?",
+                "socialForm": "Einzelarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Lieferkette eines T-Shirts vom Baumwollfeld bis zum Altkleidercontainer beschreiben und erläutern, welche Folgen die Herstellung von Kleidung für Umwelt und Menschen hier und anderswo hat.",
+                  "items": [
+                    "die Stationen der Reise eines T-Shirts in der richtigen Reihenfolge benennen. (AFB I)",
+                    "beschreiben, an welchen Stationen Wasser, Transportwege und menschliche Arbeit eine Rolle spielen. (AFB I)",
+                    "erklären, warum die Arbeit in Nähereien für viele Familien wichtig ist und welche Arbeitsbedingungen verbessert werden müssten. (AFB II)",
+                    "aus der Perspektive verschiedener Betroffener die Folgen der Herstellung eines T-Shirts darstellen. (AFB II)",
+                    "beurteilen, welche Verantwortung Kinder als Konsumentinnen und Konsumenten tragen und wer darüber hinaus handeln muss. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Reparieren, teilen, tauschen",
+              "detail": "6 Seiten · Wie können wir Dinge länger nutzen, statt immer Neues zu kaufen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Nachhaltig_Kl6-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Nachhaltig_Kl6-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "Reparieren, Second Hand, Leihen und Tauschen als Möglichkeiten nachhaltigen Konsums beschreiben, ihre Vorteile und Grenzen vergleichen und entsprechende Angebote am eigenen Wohnort recherchieren.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie können wir Dinge länger nutzen, statt immer Neues zu kaufen?",
+                "audience": "Klasse 6",
+                "result": "Wir notieren eine Idee, wie an unserer Schule repariert, geliehen oder getauscht werden kann, zum Beispiel ein Tauschregal, eine Reparatur-Pause oder ein Kinderflohmarkt.",
+                "preparation": "Gegenstand, Tafel, M1, Wortspeicher, M2, Tablets, Karteikarten, Stadtkarte, Plakate, Ideen-Speicher",
+                "prerequisites": "Stunde 3: Die Reise eines T-Shirts",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Reparieren, Second Hand, Leihen und Tauschen als Möglichkeiten nachhaltigen Konsums beschreiben, ihre Vorteile und Grenzen vergleichen und entsprechende Angebote am eigenen Wohnort recherchieren.",
+                  "items": [
+                    "den Ablauf eines Repair-Cafés und die Rolle der ehrenamtlich Helfenden beschreiben. (AFB I)",
+                    "Alltagssituationen den vier Möglichkeiten Reparieren, Second Hand, Leihen und Tauschen begründet zuordnen. (AFB I)",
+                    "Vorteile und Grenzen der vier Möglichkeiten vergleichen und mithilfe der Zukunfts-Fragen erläutern. (AFB II)",
+                    "mit einer Kindersuchmaschine Informationen zu einem Angebot am eigenen Wohnort sammeln und auf Aktualität prüfen. (AFB II)",
+                    "zwischen Reparieren und Neukaufen abwägen oder Regeln für ein Tauschangebot in der Klasse entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Gemeinsam geht mehr",
+              "detail": "6 Seiten · Warum braucht Nachhaltigkeit Gemeinschaft?",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Nachhaltig_Kl6-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Nachhaltig_Kl6-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "an Beispielen aus Schule und Stadt erläutern können, warum nachhaltiges Handeln auf Teilhabe und Gemeinschaft angewiesen ist, und einen eigenen gemeinschaftlichen Vorschlag begründen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Warum braucht Nachhaltigkeit Gemeinschaft?",
+                "audience": "Klasse 6",
+                "result": "Wir notieren, wen wir für unsere Aktion brauchen und wen wir um Erlaubnis oder Hilfe bitten müssen, zum Beispiel die SV, den Hausmeister oder eine andere Klasse.",
+                "preparation": "Foto (M1), Tafel, M1, Heft, M2, Wortspeicher, Ideen-Speicher",
+                "prerequisites": "Stunde 4: Reparieren, teilen, tauschen",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Beispielen aus Schule und Stadt erläutern können, warum nachhaltiges Handeln auf Teilhabe und Gemeinschaft angewiesen ist, und einen eigenen gemeinschaftlichen Vorschlag begründen können.",
+                  "items": [
+                    "die Beiträge der verschiedenen Beteiligten am Schulgarten nennen. (AFB I)",
+                    "Formen der Teilhabe von Kindern in Schule und Stadt beschreiben. (AFB I)",
+                    "erklären, warum Nachhaltigkeit Gemeinschaft braucht. (AFB II)",
+                    "Teilhabeformen danach vergleichen, ob Kinder mitmachen, mitreden oder mitentscheiden. (AFB II)",
+                    "einen gemeinschaftlichen Vorschlag für die Woche der Nachhaltigkeit entwickeln und begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Warum lernen wir eigentlich?",
+              "detail": "6 Seiten · Warum soll ich selbst lernen und denken, wenn Maschinen so viel wissen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Nachhaltig_Kl6-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Nachhaltig_Kl6-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "anhand eines Gedankenexperiments Chancen und Grenzen jederzeit verfügbaren Maschinenwissens erörtern und die Bedeutung kritischen Denkens sowie der eigenen Verantwortung für das Lernen begründet darlegen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Warum soll ich selbst lernen und denken, wenn Maschinen so viel wissen?",
+                "audience": "Klasse 6",
+                "result": "Wir prüfen jede Information, die wir für unsere Aktion brauchen, mit den Prüf-Fragen und suchen dafür mindestens eine zweite Quelle.",
+                "preparation": "Tafel, M1, Raum, M2, Heft, Wortspeicher, Arbeitsmappe, Kinderlexika, Ideen-Speicher",
+                "prerequisites": "Stunde 5: Gemeinsam geht mehr",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde anhand eines Gedankenexperiments Chancen und Grenzen jederzeit verfügbaren Maschinenwissens erörtern und die Bedeutung kritischen Denkens sowie der eigenen Verantwortung für das Lernen begründet darlegen können.",
+                  "items": [
+                    "Chancen und Grenzen der Antwort-Maschine aus dem Gedankenexperiment sammeln. (AFB I)",
+                    "Sokrates' Haltung zum Wissen und die Prüf-Fragen mit eigenen Worten beschreiben. (AFB I)",
+                    "an einem Fallbeispiel erklären, warum eigenes Wissen nötig ist, um Fehler von Maschinen zu bemerken. (AFB II)",
+                    "Aussagen mithilfe der Prüf-Fragen und ihres Vorwissens aus der Reihe überprüfen. (AFB II)",
+                    "abwägen, ob Schule in einer Welt allwissender Maschinen noch nötig ist, und eine begründete Position formulieren. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Wir planen die Woche der Nachhaltigkeit",
+              "detail": "5 Seiten · Was können wir gemeinsam tun – und wie wird aus einer Idee ein Plan?",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Nachhaltig_Kl6-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Nachhaltig_Kl6-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "in Gruppen eine Aktion für die Woche der Nachhaltigkeit begründet auswählen, einen vollständigen Projektplan mit überprüfbarem Ziel, Aufgaben, Zeitplan, Material und Rollenverteilung erstellen und ihre eigene Verantwortung im Projekt benennen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was können wir gemeinsam tun – und wie wird aus einer Idee ein Plan?",
+                "audience": "Klasse 6",
+                "result": "Ich notiere im Ideen-Speicher, welche Aufgabe ich in unserer Aktion übernehme und bis wann ich sie erledige.",
+                "preparation": "Plakat, Tafel, Ideen-Speicher, M1, Zettel, M2, Pinnwand",
+                "prerequisites": "Stunde 6: Warum lernen wir eigentlich?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde in Gruppen eine Aktion für die Woche der Nachhaltigkeit begründet auswählen, einen vollständigen Projektplan mit überprüfbarem Ziel, Aufgaben, Zeitplan, Material und Rollenverteilung erstellen und ihre eigene Verantwortung im Projekt benennen.",
+                  "items": [
+                    "Vorteile und Schwierigkeiten verschiedener Beispielaktionen nennen. (AFB I)",
+                    "Ideen aus dem Ideen-Speicher den Beispielaktionen zuordnen und zu einer eigenen Aktion weiterentwickeln. (AFB II)",
+                    "einen Projektplan mit überprüfbarem Ziel, Aufgaben, Zeitplan, Material und Zuständigkeiten erstellen. (AFB II)",
+                    "die Wahl ihrer Aktion mithilfe der Zukunfts-Fragen und der Machbarkeit begründen. (AFB III)",
+                    "beurteilen, ob eine kleine Aktion an der Schule eine Wirkung über die Schule hinaus haben kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Woche der Nachhaltigkeit: Bilanz",
+              "detail": "6 Seiten · Was brauche ich wirklich – und was haben wir gemeinsam bewirkt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "3 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Nachhaltig_Kl6-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "ihre Aktion zur Woche der Nachhaltigkeit mit dem Wirkungsbogen auswerten, Plan und Durchführung in einem Projektbericht vergleichen und die Leitfrage „Was brauche ich wirklich?“ in einer begründeten Reflexion beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was brauche ich wirklich – und was haben wir gemeinsam bewirkt?",
+                "audience": "Klasse 6",
+                "result": "Ich notiere im Ideen-Speicher einen nächsten Schritt, den ich nach der Woche der Nachhaltigkeit allein oder mit anderen weiterführen möchte.",
+                "preparation": "Fotos, Gegenstände, Projektpläne, Tafel, M1, Plakate, Farbpunkte, M3, M2, Ideen-Speicher",
+                "prerequisites": "Stunde 7: Wir planen die Woche der Nachhaltigkeit",
+                "socialForm": "Einzelarbeit · Gruppenarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde ihre Aktion zur Woche der Nachhaltigkeit mit dem Wirkungsbogen auswerten, Plan und Durchführung in einem Projektbericht vergleichen und die Leitfrage „Was brauche ich wirklich?“ in einer begründeten Reflexion beantworten.",
+                  "items": [
+                    "zentrale Gedanken der Reihe anhand der Lernlandkarte und des Ideen-Speichers nennen. (AFB I)",
+                    "die Wirkung ihrer Aktion auf den vier Ebenen des Wirkungsbogens beschreiben. (AFB I)",
+                    "ihren Projektplan mit der tatsächlichen Durchführung vergleichen und Gründe für Abweichungen erklären. (AFB II)",
+                    "die Leitfrage der Reihe in einer Reflexion mit Grund und Beispiel beantworten. (AFB III)",
+                    "einen begründeten Vorschlag entwickeln, wie ihre Aktion an der Schule fortgeführt werden kann. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
         }
       ],
       "7": [
