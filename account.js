@@ -18,23 +18,24 @@
   link.setAttribute('aria-busy','true');
   try{
    const r=await fetch(API+'/download/'+encodeURIComponent(link.dataset.protected),{headers:{Authorization:'Bearer '+token()}});
-   if(!r.ok){const d=await r.json();if(r.status===402&&d.code==='purchase_required'){openPurchase(d.product,()=>link.click());return;}throw Error(d.error||'Download nicht möglich.');}
+   if(!r.ok){const d=await r.json();if(r.status===402&&d.code==='purchase_required'){const tid=link.closest('.theme-menu')?.id;openPurchase(tid&&shop.products[tid]?tid:d.product,()=>link.click());return;}throw Error(d.error||'Download nicht möglich.');}
    const url=URL.createObjectURL(await r.blob());const a=document.createElement('a');a.href=url;a.download=link.dataset.protected+'.pdf';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),60000);
   }catch(err){showNotice(err.message);}finally{link.removeAttribute('aria-busy');}
  });
 
  // ---------- Shop: Mappen einzeln kaufen (PayPal) ----------
- let shop={enabled:false,products:{}},owned=new Set(),fileProduct={};
+ let shop={enabled:false,products:{}},owned=new Set(),fileProduct={},fileProducts={};
+ const ownsFile=f=>(fileProducts[f]||[]).some(q=>owned.has(q));
  const price=(c,cur)=>(c/100).toLocaleString('de-DE',{style:'currency',currency:cur||'EUR'});
- const shopReady=(async()=>{try{shop=await (await fetch(API+'/shop')).json();for(const [pid,p] of Object.entries(shop.products||{}))for(const f of p.files)fileProduct[f]=pid;}catch(e){}
+ const shopReady=(async()=>{try{shop=await (await fetch(API+'/shop')).json();for(const [pid,p] of Object.entries(shop.products||{}))for(const f of p.files)(fileProducts[f]=fileProducts[f]||[]).push(pid),fileProduct[f]=fileProduct[f]||pid;}catch(e){}
   await ready;if(shop.enabled&&token()){try{owned=new Set((await call('/purchases')).products);}catch(e){}}decorate();})();
  function decorate(){
   if(!shop.enabled)return;
   document.querySelectorAll('.theme-menu').forEach(theme=>{
-   const first=theme.querySelector('[data-protected]');const pid=first&&fileProduct[first.dataset.protected];if(!pid)return;
+   const first=theme.querySelector('[data-protected]');const pid=(shop.products[theme.id]&&theme.id)||(first&&fileProduct[first.dataset.protected]);if(!pid)return;
    if(theme.dataset.unlisted==='1'){if(owned.has(pid)){theme.dataset.owned='1';theme.hidden=false;}else return;}
    theme.querySelectorAll('[data-protected]').forEach(link=>{
-    const canDownload=owned.has(pid)||current?.role==='admin';
+    const canDownload=owned.has(pid)||ownsFile(link.dataset.protected)||current?.role==='admin';
     const action=canDownload?'Herunterladen ↓':token()?'Paket kaufen':'Anmelden zum Download';
     const label=link.querySelector('.download-action');if(label)label.textContent=action;
     link.title=canDownload?'Gekaufte Datei herunterladen':'Im Paket enthalten. Zum Download benötigst du ein Konto und den Kauf dieser Mappe.';
@@ -97,7 +98,7 @@
    root.innerHTML=`<h2>Hallo ${esc(current.name)}</h2><p class="account-status">${current.status==='approved'?'Konto freigeschaltet · Mappen können gekauft und gekaufte Dateien heruntergeladen werden':'E-Mail-Bestätigung ausstehend'}</p><p>${esc(current.email)} · ${esc(current.school)}</p><p><a href="${esc(/^\/(faecher|mappen|projekte)\//.test(sessionStorage.getItem('materialinsel-return')||'')?sessionStorage.getItem('materialinsel-return'):'/lehrkraefte/#mappen')}">Zu den Materialien →</a></p><button type="button" data-logout>Abmelden</button><p role="status" data-message></p>${current.role==='admin'?'<section class="account-admin"><p><a class="button" href="/admin.html">Adminübersicht & Statistik →</a></p><h2>Konten freischalten</h2><p>Name und Schule sind Selbstauskünfte. Neue Konten werden nach Bestätigung der E-Mail-Adresse automatisch freigeschaltet. Du kannst Konten weiterhin manuell freigeben oder sperren.</p><div data-users></div></section>':''}<p class="account-help"><a href="/konto/?passwort=vergessen">Passwort zurücksetzen</a> · Konto löschen lassen? <a href="mailto:shop@materialinsel.de">Materialinsel kontaktieren</a>.</p>`;
    shopReady.then(async()=>{if(!shop.enabled)return;const sec=document.createElement('section');sec.className='shop-owned';
     if(current.role==='admin'){try{const r=await call('/admin/purchases');sec.innerHTML='<h3>Verkäufe</h3>'+(r.purchases.length?'<ul>'+r.purchases.map(p=>`<li>${esc(new Date(p.created*1000).toLocaleDateString('de-DE'))} · ${esc(p.title)} · ${esc(p.name)} (${esc(p.email)}) · ${p.source==='paypal'?esc(price(p.amount,p.currency)):'manuell freigegeben'}</li>`).join('')+'</ul>':'<p>Noch keine Verkäufe.</p>');}catch(e){return;}}
-    else{const slug=t=>String(t).normalize('NFKD').replace(/[^\x00-\x7F]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,60);const subj=t=>/Löcher|Lesetagebuch/i.test(t)?'deutsch':/philosoph|Wer bin ich|Naturwesen|Bauch|Welt vor/i.test(t)?'praktische-philosophie':'geschichte';const list=[...owned].map(pid=>shop.products[pid]&&[pid,shop.products[pid].title]).filter(Boolean);sec.innerHTML='<h3>Meine Mappen</h3>'+(list.length?'<ul class="owned-list">'+list.map(([pid,t])=>`<li><a href="${pid==='zweitzeugen-projekt-wfu'?'/projekte/wfu-zweitzeugen/':'/faecher/'+subj(t)+'/#'+slug(t)}">${esc(t)}</a> <span>· zum Herunterladen</span></li>`).join('')+'</ul>':'<p>Du hast noch keine Mappe gekauft. Auf den Fachseiten kannst du einzelne Mappen kaufen.</p>');}
+    else{const slug=t=>String(t).normalize('NFKD').replace(/[^\x00-\x7F]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,60);const subj=t=>/Löcher|Lesetagebuch|ZP 10 Deutsch|Pyjama|Was wir dachten/i.test(t)?'deutsch':/philosoph|Wer bin ich|Naturwesen|Bauch|Welt vor/i.test(t)?'praktische-philosophie':'geschichte';const list=[...owned].map(pid=>shop.products[pid]&&[pid,shop.products[pid].title]).filter(Boolean);sec.innerHTML='<h3>Meine Mappen</h3>'+(list.length?'<ul class="owned-list">'+list.map(([pid,t])=>`<li><a href="${pid==='zweitzeugen-projekt-wfu'?'/projekte/wfu-zweitzeugen/':'/faecher/'+subj(t)+'/#'+slug(t)}">${esc(t)}</a> <span>· zum Herunterladen</span></li>`).join('')+'</ul>':'<p>Du hast noch keine Mappe gekauft. Auf den Fachseiten kannst du einzelne Mappen kaufen.</p>');}
     root.append(sec);});
    root.querySelector('[data-logout]').onclick=async()=>{try{await call('/logout',{});}catch{}sessionStorage.removeItem('materialinsel-session');location.reload();};
    if(current.role==='admin')await loadAdmin();return;

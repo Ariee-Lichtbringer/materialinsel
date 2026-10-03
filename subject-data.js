@@ -3767,6 +3767,405 @@ window.materialSubjects = {
           ],
           "pageCount": 108
         }
+      ],
+      "10": [
+        {
+          "title": "ZP 10 Deutsch NRW – Prüfungsvorbereitung",
+          "description": "Prüfungsvorbereitung auf die Zentrale Prüfung 10 Deutsch in NRW in sechs Modulen: Leseverstehen (Teil I), Typ 4a, Typ 4b, Typ 2, begründet Stellung nehmen und eine vollständige Probeprüfung mit Bewertungsbogen. 23 Doppelstunden mit Materialien, Aufgaben, Merkkästen, Formulierungshilfen, Selbstchecks und Seiten zum kooperativen Lernen. Binnendifferenziert in drei Schülerbänden (G-Kurs/EESA, E-Kurs/MSA, inklusiv), dazu drei Probeprüfungen und ein Lehrkräfteband mit Sachanalyse, Verlaufsplänen, Erwartungshorizonten und Bewertungsbögen im ZP-Format. Das Gesamtpaket enthält zusätzlich jedes Modul als eigene PDF je Band; die Module sind auch einzeln erhältlich.",
+          "files": [
+            {
+              "label": "Schülerband G-Kurs (EESA)",
+              "detail": "127 Seiten · Klasse 10 · grundlegendes Niveau (EESA), mit Hilfen",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_G-Kurs"
+            },
+            {
+              "label": "Schülerband E-Kurs (MSA)",
+              "detail": "123 Seiten · Klasse 10 · erweitertes Niveau (MSA), mit ★-Vertiefung",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_E-Kurs"
+            },
+            {
+              "label": "Schülerband inklusiv",
+              "detail": "70 Seiten · Klasse 10 · einfache Sprache, größere Schrift",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "76 Seiten · Klasse 10 · Sachanalyse, Didaktik, 23 Verlaufspläne, Erwartungshorizonte, Bewertungsbögen",
+              "kind": "teacher",
+              "protectedId": "Deutsch_ZP10_Kl10_Lehrkraefteband"
+            },
+            {
+              "label": "Probeprüfung EESA (G-Kurs)",
+              "detail": "15 Seiten · Klasse 10 · Prüfungsheft Teil I und II",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_Probe_EESA"
+            },
+            {
+              "label": "Probeprüfung MSA (E-Kurs)",
+              "detail": "17 Seiten · Klasse 10 · Prüfungsheft Teil I und II",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_Probe_MSA"
+            },
+            {
+              "label": "Probeprüfung inklusiv",
+              "detail": "9 Seiten · Klasse 10 · Prüfungsheft in einfacher Sprache",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_Probe_Inklusiv"
+            },
+            {
+              "label": "1. Leseverstehen (Teil I) · G-Kurs",
+              "detail": "29 Seiten · davon 20 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M1_G-Kurs",
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "18 Seiten · davon 10 Modulseiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_ZP10_Kl10_M1_Inklusiv"
+              },
+              "teacher": {
+                "label": "Lehrkraftteil",
+                "detail": "20 Seiten · Verlaufspläne und Erwartungshorizonte",
+                "kind": "teacher",
+                "protectedId": "Deutsch_ZP10_Kl10_M1_Lehrkraft"
+              }
+            },
+            {
+              "label": "1. Leseverstehen (Teil I) · E-Kurs",
+              "detail": "28 Seiten · davon 19 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M1_E-Kurs"
+            },
+            {
+              "label": "2. Typ 4a: einen Text analysieren · G-Kurs",
+              "detail": "32 Seiten · davon 23 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M2_G-Kurs",
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "21 Seiten · davon 13 Modulseiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_ZP10_Kl10_M2_Inklusiv"
+              },
+              "teacher": {
+                "label": "Lehrkraftteil",
+                "detail": "22 Seiten · Verlaufspläne und Erwartungshorizonte",
+                "kind": "teacher",
+                "protectedId": "Deutsch_ZP10_Kl10_M2_Lehrkraft"
+              }
+            },
+            {
+              "label": "2. Typ 4a: einen Text analysieren · E-Kurs",
+              "detail": "31 Seiten · davon 22 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M2_E-Kurs"
+            },
+            {
+              "label": "3. Typ 4b: Texte untersuchen und vergleichen · G-Kurs",
+              "detail": "29 Seiten · davon 20 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M3_G-Kurs",
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "18 Seiten · davon 10 Modulseiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_ZP10_Kl10_M3_Inklusiv"
+              },
+              "teacher": {
+                "label": "Lehrkraftteil",
+                "detail": "21 Seiten · Verlaufspläne und Erwartungshorizonte",
+                "kind": "teacher",
+                "protectedId": "Deutsch_ZP10_Kl10_M3_Lehrkraft"
+              }
+            },
+            {
+              "label": "3. Typ 4b: Texte untersuchen und vergleichen · E-Kurs",
+              "detail": "28 Seiten · davon 19 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M3_E-Kurs"
+            },
+            {
+              "label": "4. Typ 2: einen informierenden Text schreiben · G-Kurs",
+              "detail": "29 Seiten · davon 20 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M4_G-Kurs",
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "20 Seiten · davon 12 Modulseiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_ZP10_Kl10_M4_Inklusiv"
+              },
+              "teacher": {
+                "label": "Lehrkraftteil",
+                "detail": "20 Seiten · Verlaufspläne und Erwartungshorizonte",
+                "kind": "teacher",
+                "protectedId": "Deutsch_ZP10_Kl10_M4_Lehrkraft"
+              }
+            },
+            {
+              "label": "4. Typ 2: einen informierenden Text schreiben · E-Kurs",
+              "detail": "29 Seiten · davon 20 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M4_E-Kurs"
+            },
+            {
+              "label": "5. Typ 3: begründet Stellung nehmen · G-Kurs",
+              "detail": "27 Seiten · davon 18 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M5_G-Kurs",
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "16 Seiten · davon 8 Modulseiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_ZP10_Kl10_M5_Inklusiv"
+              },
+              "teacher": {
+                "label": "Lehrkraftteil",
+                "detail": "18 Seiten · Verlaufspläne und Erwartungshorizonte",
+                "kind": "teacher",
+                "protectedId": "Deutsch_ZP10_Kl10_M5_Lehrkraft"
+              }
+            },
+            {
+              "label": "5. Typ 3: begründet Stellung nehmen · E-Kurs",
+              "detail": "26 Seiten · davon 17 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M5_E-Kurs"
+            },
+            {
+              "label": "6. Probeprüfung · G-Kurs",
+              "detail": "26 Seiten · davon 17 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M6_G-Kurs",
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "17 Seiten · davon 9 Modulseiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_ZP10_Kl10_M6_Inklusiv"
+              },
+              "teacher": {
+                "label": "Lehrkraftteil",
+                "detail": "27 Seiten · Verlaufspläne und Erwartungshorizonte",
+                "kind": "teacher",
+                "protectedId": "Deutsch_ZP10_Kl10_M6_Lehrkraft"
+              }
+            },
+            {
+              "label": "6. Probeprüfung · E-Kurs",
+              "detail": "26 Seiten · davon 17 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M6_E-Kurs"
+            }
+          ],
+          "pageCount": 127
+        },
+        {
+          "title": "ZP 10 Deutsch NRW – Modul 1 Leseverstehen",
+          "description": "Teil I der ZP 10 Deutsch: Sachtexte und Grafiken lesen, geschlossene und halboffene Aufgaben sicher lösen, Distraktoren erkennen und am Ende kurz begründet Stellung nehmen. 4 Doppelstunden mit Trainingstest im Prüfungsformat. Jede Fassung enthält die Überblicksseiten (Prüfungsformat, Operatoren, Wortspeicher) und die Seiten zum kooperativen Lernen. Alle sechs Module gibt es günstiger im Gesamtpaket „ZP 10 Deutsch NRW – Prüfungsvorbereitung“.",
+          "files": [
+            {
+              "label": "G-Kurs (EESA)",
+              "detail": "29 Seiten · davon 20 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M1_G-Kurs"
+            },
+            {
+              "label": "E-Kurs (MSA)",
+              "detail": "28 Seiten · davon 19 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M1_E-Kurs"
+            },
+            {
+              "label": "Inklusive Fassung",
+              "detail": "18 Seiten · davon 10 Modulseiten",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M1_Inklusiv"
+            },
+            {
+              "label": "Lehrkraftteil",
+              "detail": "20 Seiten · Verlaufspläne und Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "Deutsch_ZP10_Kl10_M1_Lehrkraft"
+            }
+          ],
+          "pageCount": 29
+        },
+        {
+          "title": "ZP 10 Deutsch NRW – Modul 2 Typ 4a Text analysieren",
+          "description": "Wahlaufgabe 1, Typ 4a: einen literarischen Text analysieren und interpretieren – Einleitung, Zusammenfassung, Figurenuntersuchung, sprachliche Mittel mit Wirkung und Schluss, mit Kafka, Borchert und einer Glosse. 5 Doppelstunden mit Schreibkonferenz. Jede Fassung enthält die Überblicksseiten (Prüfungsformat, Operatoren, Wortspeicher) und die Seiten zum kooperativen Lernen. Alle sechs Module gibt es günstiger im Gesamtpaket „ZP 10 Deutsch NRW – Prüfungsvorbereitung“.",
+          "files": [
+            {
+              "label": "G-Kurs (EESA)",
+              "detail": "32 Seiten · davon 23 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M2_G-Kurs"
+            },
+            {
+              "label": "E-Kurs (MSA)",
+              "detail": "31 Seiten · davon 22 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M2_E-Kurs"
+            },
+            {
+              "label": "Inklusive Fassung",
+              "detail": "21 Seiten · davon 13 Modulseiten",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M2_Inklusiv"
+            },
+            {
+              "label": "Lehrkraftteil",
+              "detail": "22 Seiten · Verlaufspläne und Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "Deutsch_ZP10_Kl10_M2_Lehrkraft"
+            }
+          ],
+          "pageCount": 32
+        },
+        {
+          "title": "ZP 10 Deutsch NRW – Modul 3 Typ 4b Texte vergleichen",
+          "description": "Wahlaufgabe 2, Typ 4b: Grafik, Infotext und zwei Kommentare zum Thema „Handy in der Schule“ überblicken, zusammenfassen, vergleichen und kritisch bewerten. 4 Doppelstunden. Jede Fassung enthält die Überblicksseiten (Prüfungsformat, Operatoren, Wortspeicher) und die Seiten zum kooperativen Lernen. Alle sechs Module gibt es günstiger im Gesamtpaket „ZP 10 Deutsch NRW – Prüfungsvorbereitung“.",
+          "files": [
+            {
+              "label": "G-Kurs (EESA)",
+              "detail": "29 Seiten · davon 20 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M3_G-Kurs"
+            },
+            {
+              "label": "E-Kurs (MSA)",
+              "detail": "28 Seiten · davon 19 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M3_E-Kurs"
+            },
+            {
+              "label": "Inklusive Fassung",
+              "detail": "18 Seiten · davon 10 Modulseiten",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M3_Inklusiv"
+            },
+            {
+              "label": "Lehrkraftteil",
+              "detail": "21 Seiten · Verlaufspläne und Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "Deutsch_ZP10_Kl10_M3_Lehrkraft"
+            }
+          ],
+          "pageCount": 29
+        },
+        {
+          "title": "ZP 10 Deutsch NRW – Modul 4 Typ 2 Informierender Text",
+          "description": "Wahlaufgabe 2, Typ 2: aus Materialien einen informierenden Text planen, schreiben und überarbeiten – Schreibauftrag erschließen, Materialien auswerten, gliedern, Schlussfolgerung formulieren. 4 Doppelstunden. Jede Fassung enthält die Überblicksseiten (Prüfungsformat, Operatoren, Wortspeicher) und die Seiten zum kooperativen Lernen. Alle sechs Module gibt es günstiger im Gesamtpaket „ZP 10 Deutsch NRW – Prüfungsvorbereitung“.",
+          "files": [
+            {
+              "label": "G-Kurs (EESA)",
+              "detail": "29 Seiten · davon 20 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M4_G-Kurs"
+            },
+            {
+              "label": "E-Kurs (MSA)",
+              "detail": "29 Seiten · davon 20 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M4_E-Kurs"
+            },
+            {
+              "label": "Inklusive Fassung",
+              "detail": "20 Seiten · davon 12 Modulseiten",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M4_Inklusiv"
+            },
+            {
+              "label": "Lehrkraftteil",
+              "detail": "20 Seiten · Verlaufspläne und Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "Deutsch_ZP10_Kl10_M4_Lehrkraft"
+            }
+          ],
+          "pageCount": 29
+        },
+        {
+          "title": "ZP 10 Deutsch NRW – Modul 5 Typ 3 Stellung nehmen",
+          "description": "Typ 3 als Teilaufgabe in allen Prüfungsteilen: Behauptung, Begründung und Beleg verbinden, Gegenpositionen einbeziehen, Stellungnahmen und Schlussfolgerungen bewerten. 3 Doppelstunden. Jede Fassung enthält die Überblicksseiten (Prüfungsformat, Operatoren, Wortspeicher) und die Seiten zum kooperativen Lernen. Alle sechs Module gibt es günstiger im Gesamtpaket „ZP 10 Deutsch NRW – Prüfungsvorbereitung“.",
+          "files": [
+            {
+              "label": "G-Kurs (EESA)",
+              "detail": "27 Seiten · davon 18 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M5_G-Kurs"
+            },
+            {
+              "label": "E-Kurs (MSA)",
+              "detail": "26 Seiten · davon 17 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M5_E-Kurs"
+            },
+            {
+              "label": "Inklusive Fassung",
+              "detail": "16 Seiten · davon 8 Modulseiten",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M5_Inklusiv"
+            },
+            {
+              "label": "Lehrkraftteil",
+              "detail": "18 Seiten · Verlaufspläne und Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "Deutsch_ZP10_Kl10_M5_Lehrkraft"
+            }
+          ],
+          "pageCount": 27
+        },
+        {
+          "title": "ZP 10 Deutsch NRW – Modul 6 Probeprüfung",
+          "description": "Generalprobe für die ZP 10 Deutsch: Zeitplanung, vollständige Probeprüfung (EESA, MSA, inklusiv), Bewertungsbögen im ZP-Format, Selbstkorrektur, Notenschlüssel und persönlicher Lernplan. 3 Doppelstunden, 3 Prüfungshefte. Jede Fassung enthält die Überblicksseiten (Prüfungsformat, Operatoren, Wortspeicher) und die Seiten zum kooperativen Lernen. Alle sechs Module gibt es günstiger im Gesamtpaket „ZP 10 Deutsch NRW – Prüfungsvorbereitung“.",
+          "files": [
+            {
+              "label": "G-Kurs (EESA)",
+              "detail": "26 Seiten · davon 17 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M6_G-Kurs"
+            },
+            {
+              "label": "E-Kurs (MSA)",
+              "detail": "26 Seiten · davon 17 Modulseiten",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M6_E-Kurs"
+            },
+            {
+              "label": "Inklusive Fassung",
+              "detail": "17 Seiten · davon 9 Modulseiten",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_M6_Inklusiv"
+            },
+            {
+              "label": "Lehrkraftteil",
+              "detail": "27 Seiten · Verlaufspläne und Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "Deutsch_ZP10_Kl10_M6_Lehrkraft"
+            },
+            {
+              "label": "Probeprüfung EESA (G-Kurs)",
+              "detail": "15 Seiten · Klasse 10 · Prüfungsheft Teil I und II",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_Probe_EESA"
+            },
+            {
+              "label": "Probeprüfung MSA (E-Kurs)",
+              "detail": "17 Seiten · Klasse 10 · Prüfungsheft Teil I und II",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_ZP10_Kl10_Probe_MSA"
+            },
+            {
+              "label": "Probeprüfung inklusiv",
+              "detail": "9 Seiten · Klasse 10 · Prüfungsheft in einfacher Sprache",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_ZP10_Kl10_Probe_Inklusiv"
+            }
+          ],
+          "pageCount": 26
+        }
       ]
     }
   },
