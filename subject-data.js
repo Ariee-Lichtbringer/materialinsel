@@ -12,21 +12,21 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "59 Seiten · Klasse 5 · aktualisierte Fassung",
+              "detail": "77 Seiten · Klasse 5 · aktualisierte Fassung",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Schuelermappe-preview.png?v=9dd1b2ae9cc8",
               "protectedId": "S-PP_Wer_bin_ich_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "59 Seiten · Klasse 5 · aktualisierte Fassung",
+              "detail": "71 Seiten · Klasse 5 · aktualisierte Fassung",
               "kind": "inclusive",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5_Inklusiv-preview.png?v=a88c6b0e25b4",
               "protectedId": "S-PP_Wer_bin_ich_Kl5_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "61 Seiten · Klasse 5 · aktualisierte Fassung",
+              "detail": "60 Seiten · Klasse 5 · aktualisierte Fassung",
               "kind": "teacher",
               "protectedId": "PP_Wer_bin_ich_Kl5_Lehrkraefteband"
             },
@@ -38,7 +38,7 @@ window.materialSubjects = {
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "54 Seiten",
+              "detail": "58 Seiten",
               "kind": "teacher",
               "protectedId": "PP_Wer_bin_ich_Kl5-kommentar"
             },
@@ -56,7 +56,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Ein neuer Lebensabschnitt",
-              "detail": "5 Seiten · Bin ich nach einer großen Veränderung noch dieselbe Person?",
+              "detail": "7 Seiten · Bin ich nach einer großen Veränderung noch dieselbe Person?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-1.png?v=21e052f69489",
               "teacher": {
@@ -67,7 +67,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-1-inklusiv"
               },
@@ -93,7 +93,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Sokratisches Gespräch",
-              "detail": "4 Seiten · Was macht mich zu mir – und woran erkenne ich das?",
+              "detail": "5 Seiten · Was macht mich zu mir – und woran erkenne ich das?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-2.png?v=0635dcf89ded",
               "teacher": {
@@ -104,7 +104,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "4 Seiten",
+                "detail": "5 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-2-inklusiv"
               },
@@ -130,7 +130,7 @@ window.materialSubjects = {
             },
             {
               "label": "3. Sokrates",
-              "detail": "5 Seiten · Wie helfen mir gute Fragen, mich selbst besser zu verstehen?",
+              "detail": "7 Seiten · Wie helfen mir gute Fragen, mich selbst besser zu verstehen?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-3.png?v=d2f244cf888b",
               "teacher": {
@@ -141,7 +141,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-3-inklusiv"
               },
@@ -167,7 +167,7 @@ window.materialSubjects = {
             },
             {
               "label": "4. Meine Stärken",
-              "detail": "5 Seiten · Woran erkenne ich, dass eine Stärke wirklich zu mir gehört?",
+              "detail": "7 Seiten · Woran erkenne ich, dass eine Stärke wirklich zu mir gehört?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-4.png?v=41c407873f29",
               "teacher": {
@@ -178,7 +178,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-4-inklusiv"
               },
@@ -204,7 +204,7 @@ window.materialSubjects = {
             },
             {
               "label": "5. Meine Gefühle",
-              "detail": "5 Seiten · Bestimmen meine Gefühle, was ich tue – oder bestimme ich das selbst?",
+              "detail": "7 Seiten · Bestimmen meine Gefühle, was ich tue – oder bestimme ich das selbst?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-5.png?v=11327e5261bd",
               "teacher": {
@@ -215,7 +215,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-5-inklusiv"
               },
@@ -241,7 +241,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Meine Rollen",
-              "detail": "5 Seiten · Bin ich in meinen verschiedenen Rollen immer ich selbst?",
+              "detail": "7 Seiten · Bin ich in meinen verschiedenen Rollen immer ich selbst?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-6.png?v=2b16957805fd",
               "teacher": {
@@ -252,7 +252,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-6-inklusiv"
               },
@@ -278,7 +278,7 @@ window.materialSubjects = {
             },
             {
               "label": "7. Selbst- und Fremdbild",
-              "detail": "5 Seiten · Wer kennt mich besser: ich selbst oder die anderen?",
+              "detail": "7 Seiten · Wer kennt mich besser: ich selbst oder die anderen?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-7.png?v=e209c51b8a35",
               "teacher": {
@@ -289,7 +289,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-7-inklusiv"
               },
@@ -315,7 +315,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Mein Lebensweg",
-              "detail": "5 Seiten · Bin ich noch derselbe Mensch, wenn sich so vieles an mir verändert?",
+              "detail": "7 Seiten · Bin ich noch derselbe Mensch, wenn sich so vieles an mir verändert?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-8.png?v=76e7b05f2ce1",
               "teacher": {
@@ -326,7 +326,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-8-inklusiv"
               },
@@ -352,7 +352,7 @@ window.materialSubjects = {
             },
             {
               "label": "9. Mein Zukunfts-Ich",
-              "detail": "4 Seiten · Was kann ich heute tun, damit ein Wunsch später wahr werden kann?",
+              "detail": "6 Seiten · Was kann ich heute tun, damit ein Wunsch später wahr werden kann?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-9.png?v=3bfa3f2b3053",
               "teacher": {
@@ -363,7 +363,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "4 Seiten",
+                "detail": "5 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-9-inklusiv"
               },
@@ -389,7 +389,7 @@ window.materialSubjects = {
             },
             {
               "label": "10. Abschluss",
-              "detail": "5 Seiten · Wer bin ich – und wer möchte ich werden?",
+              "detail": "6 Seiten · Wer bin ich – und wer möchte ich werden?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Wer_bin_ich_Kl5-einheit-10.png?v=27b165fece7c",
               "teacher": {
@@ -400,7 +400,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wer_bin_ich_Kl5-einheit-10-inklusiv"
               },
@@ -434,13 +434,13 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "67 Seiten · Klasse 5 · KLP 2024",
+              "detail": "71 Seiten · Klasse 5 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "72 Seiten · Klasse 5 · KLP 2024",
+              "detail": "73 Seiten · Klasse 5 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Gerechtigkeit_Kl5_Inklusiv"
             },
@@ -508,7 +508,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Regel, Gesetz, Wert",
-              "detail": "7 Seiten · Warum gibt es so viele Regeln – und was steckt hinter ihnen?",
+              "detail": "8 Seiten · Warum gibt es so viele Regeln – und was steckt hinter ihnen?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-2",
               "teacher": {
@@ -519,7 +519,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-2-inklusiv"
               },
@@ -660,7 +660,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Wer mehr tut, bekommt mehr?",
-              "detail": "6 Seiten · Ist es gerecht, nach Leistung zu verteilen?",
+              "detail": "7 Seiten · Ist es gerecht, nach Leistung zu verteilen?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-6",
               "teacher": {
@@ -698,7 +698,7 @@ window.materialSubjects = {
             },
             {
               "label": "7. Gleiches gleich, Ungleiches ungleich",
-              "detail": "6 Seiten · Ist es manchmal gerecht, Kinder unterschiedlich zu behandeln?",
+              "detail": "7 Seiten · Ist es manchmal gerecht, Kinder unterschiedlich zu behandeln?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-7",
               "teacher": {
@@ -736,7 +736,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Unsere Gerechtigkeits-Charta",
-              "detail": "7 Seiten · Ist es gerecht, wenn alle das Gleiche bekommen?",
+              "detail": "8 Seiten · Ist es gerecht, wenn alle das Gleiche bekommen?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8",
               "teacher": {
@@ -780,13 +780,13 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "68 Seiten · Klasse 5 · KLP 2024",
+              "detail": "70 Seiten · Klasse 5 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Wahrnehmung_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "70 Seiten · Klasse 5 · KLP 2024",
+              "detail": "74 Seiten · Klasse 5 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Wahrnehmung_Kl5_Inklusiv"
             },
@@ -827,7 +827,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1-inklusiv"
               },
@@ -903,7 +903,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3-inklusiv"
               },
@@ -930,7 +930,7 @@ window.materialSubjects = {
             },
             {
               "label": "4. Die Blinden und der Elefant",
-              "detail": "6 Seiten · Kann ein Mensch allein das Ganze sehen?",
+              "detail": "7 Seiten · Kann ein Mensch allein das Ganze sehen?",
               "kind": "standard",
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4",
               "teacher": {
@@ -968,7 +968,7 @@ window.materialSubjects = {
             },
             {
               "label": "5. Raus aus der Höhle?",
-              "detail": "6 Seiten · Woher weiß ich, dass das, was ich sehe, wirklich ist?",
+              "detail": "7 Seiten · Woher weiß ich, dass das, was ich sehe, wirklich ist?",
               "kind": "standard",
               "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5",
               "teacher": {
@@ -979,7 +979,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5-inklusiv"
               },
@@ -1093,7 +1093,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "8 Seiten",
+                "detail": "9 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8-inklusiv"
               },
@@ -1126,13 +1126,13 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "67 Seiten · Klasse 5 · KLP 2024",
+              "detail": "73 Seiten · Klasse 5 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "72 Seiten · Klasse 5 · KLP 2024",
+              "detail": "76 Seiten · Klasse 5 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Lebenstraeume_Kl5_Inklusiv"
             },
@@ -1162,7 +1162,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Mein Lebenstraum",
-              "detail": "6 Seiten · Wovon träume ich – und was sagt das über mich?",
+              "detail": "7 Seiten · Wovon träume ich – und was sagt das über mich?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-1",
               "teacher": {
@@ -1200,7 +1200,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Haben oder sein?",
-              "detail": "6 Seiten · Was brauche ich wirklich, um glücklich zu sein?",
+              "detail": "7 Seiten · Was brauche ich wirklich, um glücklich zu sein?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-2",
               "teacher": {
@@ -1238,7 +1238,7 @@ window.materialSubjects = {
             },
             {
               "label": "3. Nicht alle starten gleich",
-              "detail": "7 Seiten · Hat jeder die gleiche Chance, seinen Lebenstraum zu erreichen?",
+              "detail": "8 Seiten · Hat jeder die gleiche Chance, seinen Lebenstraum zu erreichen?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-3",
               "teacher": {
@@ -1249,7 +1249,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-3-inklusiv"
               },
@@ -1276,7 +1276,7 @@ window.materialSubjects = {
             },
             {
               "label": "4. Wenn etwas zu Ende geht",
-              "detail": "6 Seiten · Was bedeutet es für unser Leben, wenn etwas zu Ende geht?",
+              "detail": "8 Seiten · Was bedeutet es für unser Leben, wenn etwas zu Ende geht?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-4",
               "teacher": {
@@ -1287,7 +1287,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-4-inklusiv"
               },
@@ -1352,7 +1352,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Feste der Religionen I",
-              "detail": "6 Seiten · Wie feiern Menschen in verschiedenen Religionen – und was ist ihnen an ihren Festen wichtig?",
+              "detail": "7 Seiten · Wie feiern Menschen in verschiedenen Religionen – und was ist ihnen an ihren Festen wichtig?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-6",
               "teacher": {
@@ -1363,7 +1363,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-6-inklusiv"
               },
@@ -1401,7 +1401,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-7-inklusiv"
               },
@@ -1474,27 +1474,27 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "59 Seiten · Klasse 6",
+              "detail": "75 Seiten · Klasse 6",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Schuelermappe-preview.png?v=e6fdb45ea1f0",
               "protectedId": "S-PP_Naturwesen_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "59 Seiten · Klasse 6",
+              "detail": "66 Seiten · Klasse 6",
               "kind": "inclusive",
               "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6_Inklusiv-preview.png?v=f5abac293033",
               "protectedId": "S-PP_Naturwesen_Kl6_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "43 Seiten · Klasse 6",
+              "detail": "41 Seiten · Klasse 6",
               "kind": "teacher",
               "protectedId": "PP_Naturwesen_Kl6_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "35 Seiten",
+              "detail": "39 Seiten",
               "kind": "teacher",
               "protectedId": "PP_Naturwesen_Kl6-kommentar"
             },
@@ -1512,7 +1512,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Was ist Verantwortung?",
-              "detail": "6 Seiten · Wofür sind wir Menschen verantwortlich – und gehören wir selbst zur Natur?",
+              "detail": "8 Seiten · Wofür sind wir Menschen verantwortlich – und gehören wir selbst zur Natur?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-1.png?v=985687198d05",
               "teacher": {
@@ -1523,7 +1523,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Naturwesen_Kl6-einheit-1-inklusiv"
               },
@@ -1549,7 +1549,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Das Leben der Bienen",
-              "detail": "5 Seiten · Wie sehr ist der Mensch auf die Biene angewiesen?",
+              "detail": "7 Seiten · Wie sehr ist der Mensch auf die Biene angewiesen?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-2.png?v=72144bb8d3c4",
               "teacher": {
@@ -1560,7 +1560,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Naturwesen_Kl6-einheit-2-inklusiv"
               },
@@ -1586,7 +1586,7 @@ window.materialSubjects = {
             },
             {
               "label": "3. Und fehlt die Biene, dann …?",
-              "detail": "11 Seiten · Was verliert der Mensch, wenn die Bienen verschwinden?",
+              "detail": "15 Seiten · Was verliert der Mensch, wenn die Bienen verschwinden?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-3.png?v=30fba20c7ed6",
               "teacher": {
@@ -1597,7 +1597,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "11 Seiten",
+                "detail": "12 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Naturwesen_Kl6-einheit-3-inklusiv"
               },
@@ -1623,7 +1623,7 @@ window.materialSubjects = {
             },
             {
               "label": "4. Das große Sterben",
-              "detail": "11 Seiten · Ist der Mensch schuld am Bienensterben – und was folgt daraus?",
+              "detail": "14 Seiten · Ist der Mensch schuld am Bienensterben – und was folgt daraus?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-4.png?v=c82f196d0b8d",
               "teacher": {
@@ -1634,7 +1634,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "11 Seiten",
+                "detail": "12 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Naturwesen_Kl6-einheit-4-inklusiv"
               },
@@ -1660,7 +1660,7 @@ window.materialSubjects = {
             },
             {
               "label": "5. Ist der Mensch ein Naturwesen?",
-              "detail": "7 Seiten · Warum sollten wir Verantwortung für die Natur und für die Zukunft übernehmen?",
+              "detail": "10 Seiten · Warum sollten wir Verantwortung für die Natur und für die Zukunft übernehmen?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-5.png?v=2a03fdd23b3e",
               "teacher": {
@@ -1671,7 +1671,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Naturwesen_Kl6-einheit-5-inklusiv"
               },
@@ -1697,7 +1697,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Collage und 2. Hermes-Gespräch",
-              "detail": "8 Seiten · Was bedeutet Verantwortung gegenüber der Natur – und hat sich mein Denken verändert?",
+              "detail": "10 Seiten · Was bedeutet Verantwortung gegenüber der Natur – und hat sich mein Denken verändert?",
               "kind": "standard",
               "preview": "../../materialien/praktische-philosophie/PP_Naturwesen_Kl6-einheit-6.png?v=ead428abd81b",
               "teacher": {
@@ -1708,7 +1708,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "8 Seiten",
+                "detail": "9 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Naturwesen_Kl6-einheit-6-inklusiv"
               },
@@ -1742,13 +1742,13 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "66 Seiten · Klasse 6 · KLP 2024",
+              "detail": "70 Seiten · Klasse 6 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "73 Seiten · Klasse 6 · KLP 2024",
+              "detail": "75 Seiten · Klasse 6 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Miteinander_Kl6_Inklusiv"
             },
@@ -1816,7 +1816,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Was ist eine gute Freundin, ein guter Freund?",
-              "detail": "6 Seiten · Was macht eine echte Freundschaft aus?",
+              "detail": "7 Seiten · Was macht eine echte Freundschaft aus?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-2",
               "teacher": {
@@ -1892,7 +1892,7 @@ window.materialSubjects = {
             },
             {
               "label": "4. Typisch Junge, typisch Mädchen?",
-              "detail": "6 Seiten · Wer bestimmt, was zu mir passt?",
+              "detail": "7 Seiten · Wer bestimmt, was zu mir passt?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-4",
               "teacher": {
@@ -1941,7 +1941,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "8 Seiten",
+                "detail": "9 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-5-inklusiv"
               },
@@ -2006,7 +2006,7 @@ window.materialSubjects = {
             },
             {
               "label": "7. Was du nicht willst, dass man dir tu …",
-              "detail": "6 Seiten · Gibt es eine Regel für das Miteinander, die fast alle Menschen kennen?",
+              "detail": "7 Seiten · Gibt es eine Regel für das Miteinander, die fast alle Menschen kennen?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-7",
               "teacher": {
@@ -2017,7 +2017,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-7-inklusiv"
               },
@@ -2044,7 +2044,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Unser Streitschlichter-Leitfaden",
-              "detail": "7 Seiten · Was brauchen wir, damit Miteinander gelingt?",
+              "detail": "8 Seiten · Was brauchen wir, damit Miteinander gelingt?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-8",
               "teacher": {
@@ -2088,13 +2088,13 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "68 Seiten · Klasse 6 · KLP 2024",
+              "detail": "73 Seiten · Klasse 6 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Luegen_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "72 Seiten · Klasse 6 · KLP 2024",
+              "detail": "77 Seiten · Klasse 6 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Luegen_Kl6_Inklusiv"
             },
@@ -2124,7 +2124,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Das Lügen-Barometer",
-              "detail": "7 Seiten · Sind alle Lügen gleich schlimm?",
+              "detail": "8 Seiten · Sind alle Lügen gleich schlimm?",
               "kind": "standard",
               "protectedId": "S-PP_Luegen_Kl6-einheit-1",
               "teacher": {
@@ -2135,7 +2135,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Luegen_Kl6-einheit-1-inklusiv"
               },
@@ -2211,7 +2211,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Luegen_Kl6-einheit-3-inklusiv"
               },
@@ -2276,7 +2276,7 @@ window.materialSubjects = {
             },
             {
               "label": "5. Kant: Niemals lügen!",
-              "detail": "6 Seiten · Ist Lügen immer falsch – sogar dann, wenn man damit jemandem helfen will?",
+              "detail": "7 Seiten · Ist Lügen immer falsch – sogar dann, wenn man damit jemandem helfen will?",
               "kind": "standard",
               "protectedId": "S-PP_Luegen_Kl6-einheit-5",
               "teacher": {
@@ -2287,7 +2287,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Luegen_Kl6-einheit-5-inklusiv"
               },
@@ -2314,7 +2314,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Auf die Folgen kommt es an",
-              "detail": "7 Seiten · Darf man lügen, wenn dadurch für alle mehr Gutes als Schlechtes herauskommt?",
+              "detail": "8 Seiten · Darf man lügen, wenn dadurch für alle mehr Gutes als Schlechtes herauskommt?",
               "kind": "standard",
               "protectedId": "S-PP_Luegen_Kl6-einheit-6",
               "teacher": {
@@ -2325,7 +2325,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Luegen_Kl6-einheit-6-inklusiv"
               },
@@ -2352,7 +2352,7 @@ window.materialSubjects = {
             },
             {
               "label": "7. Freundschaft oder Ehrlichkeit?",
-              "detail": "7 Seiten · Muss ich die Wahrheit sagen, auch wenn ich damit einen Freund verrate?",
+              "detail": "8 Seiten · Muss ich die Wahrheit sagen, auch wenn ich damit einen Freund verrate?",
               "kind": "standard",
               "protectedId": "S-PP_Luegen_Kl6-einheit-7",
               "teacher": {
@@ -2363,7 +2363,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Luegen_Kl6-einheit-7-inklusiv"
               },
@@ -2390,7 +2390,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Dilemma-Theater",
-              "detail": "7 Seiten · Ist eine Lüge manchmal besser als die Wahrheit?",
+              "detail": "8 Seiten · Ist eine Lüge manchmal besser als die Wahrheit?",
               "kind": "standard",
               "protectedId": "S-PP_Luegen_Kl6-einheit-8",
               "teacher": {
@@ -2434,13 +2434,13 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "67 Seiten · Klasse 6 · KLP 2024",
+              "detail": "71 Seiten · Klasse 6 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "72 Seiten · Klasse 6 · KLP 2024",
+              "detail": "76 Seiten · Klasse 6 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Nachhaltig_Kl6_Inklusiv"
             },
@@ -2470,7 +2470,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Mein Konsumtagebuch",
-              "detail": "6 Seiten · Was kaufe, nutze und werfe ich weg – und warum?",
+              "detail": "7 Seiten · Was kaufe, nutze und werfe ich weg – und warum?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-1",
               "teacher": {
@@ -2508,7 +2508,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Brauche ich das?",
-              "detail": "6 Seiten · Was brauche ich wirklich – und was möchte ich nur haben?",
+              "detail": "7 Seiten · Was brauche ich wirklich – und was möchte ich nur haben?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-2",
               "teacher": {
@@ -2519,7 +2519,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-2-inklusiv"
               },
@@ -2584,7 +2584,7 @@ window.materialSubjects = {
             },
             {
               "label": "4. Reparieren, teilen, tauschen",
-              "detail": "6 Seiten · Wie können wir Dinge länger nutzen, statt immer Neues zu kaufen?",
+              "detail": "7 Seiten · Wie können wir Dinge länger nutzen, statt immer Neues zu kaufen?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-4",
               "teacher": {
@@ -2595,7 +2595,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-4-inklusiv"
               },
@@ -2671,7 +2671,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-6-inklusiv"
               },
@@ -2736,7 +2736,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Woche der Nachhaltigkeit: Bilanz",
-              "detail": "8 Seiten · Was brauche ich wirklich – und was haben wir gemeinsam bewirkt?",
+              "detail": "9 Seiten · Was brauche ich wirklich – und was haben wir gemeinsam bewirkt?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8",
               "teacher": {
@@ -2747,7 +2747,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "8 Seiten",
+                "detail": "9 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8-inklusiv"
               },
