@@ -3695,6 +3695,78 @@ window.materialSubjects = {
           ],
           "pageCount": 92
         }
+      ],
+      "8": [
+        {
+          "title": "Der Junge im gestreiften Pyjama",
+          "description": "Lesetagebuch zur Ganzschrift von John Boyne (Fischer) für Klasse 8: 20 Kapitel in acht Leseabschnitten mit Lesecheck, Pflicht- und Wahlaufgaben, Übungen, Knobel- und Expertenkarten. In jedem Abschnitt Infoseiten „Fiktion und Geschichte“, die den Roman mit der historischen Wirklichkeit vergleichen, und eine sachliche Einordnung der Kritik am Roman. Dazu Figurengalerie, Figuren-Mindmap, Charakterkarten, Kladde mit Ausschneidebögen und Seiten zum kooperativen Lernen. Binnendifferenziert in drei Bänden (G-Kurs, E-Kurs, inklusiv); Lehrkräfteband mit Sachanalyse, 11 Stundenverläufen mit kooperativen Phasen, Lösungen und zwei Kompetenzüberprüfungen (Charakterisierung Gretel, Textuntersuchung) mit Erwartungshorizont. Bezug: Kernlehrplan Deutsch Sek. I NRW.",
+          "files": [
+            {
+              "label": "Lesetagebuch G-Kurs",
+              "detail": "96 Seiten · Klasse 8 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Pyjama_Kl8_G-Kurs"
+            },
+            {
+              "label": "Lesetagebuch E-Kurs",
+              "detail": "95 Seiten · Klasse 8 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Pyjama_Kl8_E-Kurs"
+            },
+            {
+              "label": "Lesetagebuch inklusiv",
+              "detail": "47 Seiten · Klasse 8 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_Pyjama_Kl8_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "83 Seiten · Klasse 8 · Sachanalyse, Didaktik, 11 Stundenverläufe, Lösungen, 2 Kompetenzüberprüfungen mit Erwartungshorizont",
+              "kind": "teacher",
+              "protectedId": "Deutsch_Pyjama_Kl8_Lehrkraefteband"
+            }
+          ],
+          "pageCount": 96
+        }
+      ],
+      "9": [
+        {
+          "title": "Was wir dachten, was wir taten",
+          "description": "Lesetagebuch zur Ganzschrift von Lea-Lina Oppermann (Beltz & Gelberg) für Klasse 9: acht Leseabschnitte mit Lesecheck, Pflicht- und Wahlaufgaben, Übungen, Knobel- und Expertenkarten zu den drei Erzählstimmen, Spannungsaufbau, Gruppendruck und Schuldfrage. In jedem Abschnitt ein Textanalyse-Training, das Baustein für Baustein auf die Analyse eines Romanauszugs vorbereitet (Aufgabentyp 4a). Dazu Figurengalerie, Charakterkarten, Kladde mit Ausschneidebögen, Seiten zum kooperativen Lernen und Hinweise zum sensiblen Umgang mit dem Thema. Binnendifferenziert in drei Bänden (G-Kurs, E-Kurs, inklusiv) und ein Lösungsheft mit Beispielanalysen; Lehrkräfteband mit Sachanalyse, 11 Stundenverläufen, Lösungen und zwei Kompetenzüberprüfungen (Textanalyse S. 41–45; Textanalyse S. 174–177 mit Stellungnahme) mit Rückmeldebögen nach ZP-Schlüssel und Erwartungshorizont. Bezug: Kernlehrplan Deutsch Sek. I NRW.",
+          "files": [
+            {
+              "label": "Lesetagebuch G-Kurs",
+              "detail": "107 Seiten · Klasse 9 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_WWDWWT_Kl9_G-Kurs"
+            },
+            {
+              "label": "Lesetagebuch E-Kurs",
+              "detail": "103 Seiten · Klasse 9 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_WWDWWT_Kl9_E-Kurs"
+            },
+            {
+              "label": "Lesetagebuch inklusiv",
+              "detail": "63 Seiten · Klasse 9 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_WWDWWT_Kl9_Inklusiv"
+            },
+            {
+              "label": "Lösungsheft mit Beispielanalysen",
+              "detail": "20 Seiten · Klasse 9 · Lösungen zu allen Leseabschnitten und Beispielanalysen zu den acht Bausteinen des Textanalyse-Trainings",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_WWDWWT_Kl9_Loesungsheft"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "93 Seiten · Klasse 9 · Sachanalyse, Didaktik, 11 Stundenverläufe, Lösungen, 2 Kompetenzüberprüfungen mit Erwartungshorizont",
+              "kind": "teacher",
+              "protectedId": "Deutsch_WWDWWT_Kl9_Lehrkraefteband"
+            }
+          ],
+          "pageCount": 107
+        }
       ]
     }
   },
