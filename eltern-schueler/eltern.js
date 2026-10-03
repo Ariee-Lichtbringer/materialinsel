@@ -25,8 +25,9 @@
       { id: 'hs', name: 'Hauptschulabschluss (Kl. 9)', alias: ['HS', 'HSA', 'HSAP', 'ESA'] },
       { id: 'rs', name: 'Realschulabschluss (Kl. 10)', alias: ['RS', 'RSA', 'RSAP', 'MSA'] }] },
     { id: 'ni', name: 'Niedersachsen', kurz: ['NI', 'NDS'], zuerst: true, abschluesse: [
-      { id: 'hs', name: 'Hauptschulabschluss Kl. 9/10', alias: ['HS', 'HS9', 'HS10', 'ESA'] },
-      { id: 'rs', name: 'Realschulabschluss', alias: ['RS', 'MSA'] }] },
+      { id: 'hs9', name: 'Hauptschulabschluss nach Klasse 9', alias: ['HS9'] },
+      { id: 'hs10', name: 'Hauptschulabschluss nach Klasse 10', alias: ['HS10'] },
+      { id: 'rs', name: 'Realschulabschluss (Sekundarabschluss I, Klasse 10)', alias: ['RS', 'MSA'] }] },
     { id: 'be', name: 'Berlin', kurz: ['BE'] },
     { id: 'bb', name: 'Brandenburg', kurz: ['BB'] },
     { id: 'hb', name: 'Bremen', kurz: ['HB'] },

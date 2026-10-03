@@ -276,6 +276,234 @@ window.elternProdukte = {
      "abschluss": "RS",
      "pruefungsjahr": 2027
     }
+   },
+   {
+    "title": "Selbstlernheft Bayern Realschule – Thema I Argumentieren",
+    "description": "Selbstlernheft zu Thema I der Abschlussprüfung Deutsch an der bayerischen Realschule: Themenfrage erschließen, Texte und Grafiken auswerten, eine gesonderte Gliederung anlegen und Argumente mit Materialbelegen ausbauen. Mit Lösungen, Mustergliederung und Probe-Aufgabe mit Bewertungsraster. Bayern · Realschulabschluss · Klasse 10 · Prüfungsjahr 2027 · Thema I · Materialgestütztes Argumentieren. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · BY RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_RS_T1"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "BY_RS_T1",
+     "land": "BY",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Bayern Realschule – Thema II Sachtext",
+    "description": "Selbstlernheft für Thema II der Abschlussprüfung Deutsch an der bayerischen Realschule: journalistische Texte strukturiert zusammenfassen, Sprache und Textsorte untersuchen, Stellung nehmen und kreativ schreiben – mit Probe-Aufgabe, Raster und Musterlösung. Bayern · Realschulabschluss · Klasse 10 · Prüfungsjahr 2027 · Thema II · Pragmatischen Text erschließen. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · BY RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_RS_T2"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "BY_RS_T2",
+     "land": "BY",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Bayern Realschule – Thema III Literatur",
+    "description": "Selbstlernheft zu Thema III der Abschlussprüfung Deutsch an der bayerischen Realschule: einen literarischen Text in fünf Aufgaben erschließen, von der Inhaltszusammenfassung bis zum kreativen Schreibauftrag – mit Texten von Stefan Zweig und Ödön von Horváth, Musterlösungen und Probe-Aufgabe. Bayern · Realschulabschluss · Klasse 10 · Prüfungsjahr 2027 · Thema III · Literarischen Text erschließen. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · BY RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_RS_T3"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "BY_RS_T3",
+     "land": "BY",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Bayern Realschule – Probeprüfung",
+    "description": "Eine vollständige Probeprüfung zur Abschlussprüfung Deutsch an der bayerischen Realschule mit allen drei Themen zur Wahl, Entscheidungshilfe, Zeitplan, Bewertungsrastern und Musterlösungen – für einen Übungsvormittag zu Hause. Bayern · Realschulabschluss · Klasse 10 · Prüfungsjahr 2027 · Probeprüfung · Themen I–III. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "35 Seiten · BY RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_RS_PROBEPRUEFUNG"
+     }
+    ],
+    "pageCount": 35,
+    "eltern": {
+     "id": "BY_RS_PROBEPRUEFUNG",
+     "land": "BY",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen HS 10 – Hörverstehen",
+    "description": "Hauptteil 1 der Abschlussprüfung Deutsch (Sekundarabschluss I – Hauptschulabschluss, Jahrgang 10) zu Hause üben: Hörstrategien, Mitschreiben mit System, geschlossene und offene Aufgaben, Meinung und Absicht von Sprechern – mit sieben Hörtexten zum Vorlesen, Probe-Aufgabe und allen Lösungen. Niedersachsen · Sekundarabschluss I – Hauptschulabschluss · Schuljahrgang 10 · Prüfungsjahr 2027 · Hauptteil 1 · Hörverstehen. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "34 Seiten · NI HS10 · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_HS10_HOEREN"
+     }
+    ],
+    "pageCount": 34,
+    "eltern": {
+     "id": "NI_HS10_HOEREN",
+     "land": "NI",
+     "abschluss": "HS10",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen HS 10 – Lesen und Sprache",
+    "description": "Für Hauptteil 2 und den Wahlteil der Abschlussprüfung Deutsch Niedersachsen (Hauptschulabschluss, Jahrgang 10): Sachtexte und Kommentare, Tabellen und Karikaturen, Hebels „Kannitverstan“ und Goethes „Zauberlehrling“, Grammatik und Rechtschreibung, mit Probe-Aufgabe (28 Punkte) und allen Lösungen. Niedersachsen · Sekundarabschluss I – Hauptschulabschluss · Schuljahrgang 10 · Prüfungsjahr 2027 · Hauptteil 2 und Wahlteil · Lesen und Sprachgebrauch. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "36 Seiten · NI HS10 · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_HS10_LESEN"
+     }
+    ],
+    "pageCount": 36,
+    "eltern": {
+     "id": "NI_HS10_LESEN",
+     "land": "NI",
+     "abschluss": "HS10",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen HS 10 – Schreiben",
+    "description": "Selbstlernheft zum eigenen Text im Wahlteil der Abschlussprüfung Deutsch Niedersachsen (Hauptschulabschluss, Schuljahrgang 10): Aufgaben verstehen und planen, innerer Monolog, Brief, Argumentieren, informierend-appellierende Texte, Überarbeiten, Probe-Aufgabe mit Musterlösung. Niedersachsen · Sekundarabschluss I – Hauptschulabschluss · Schuljahrgang 10 · Prüfungsjahr 2027 · Wahlteil · Eigenen Text schreiben. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "36 Seiten · NI HS10 · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_HS10_SCHREIBEN"
+     }
+    ],
+    "pageCount": 36,
+    "eltern": {
+     "id": "NI_HS10_SCHREIBEN",
+     "land": "NI",
+     "abschluss": "HS10",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen HS 10 – Probeprüfung",
+    "description": "Eine vollständige Probeprüfung Deutsch für den Hauptschulabschluss nach Schuljahrgang 10 in Niedersachsen mit Hörtext zum Vorlesen, zwei Wahlteilen, Zeitplan für 180 Minuten, Bewertungsraster und Musterlösungen. Niedersachsen · Sekundarabschluss I – Hauptschulabschluss · Schuljahrgang 10 · Prüfungsjahr 2027 · Probeprüfung · alle Teile. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · NI HS10 · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_HS10_PROBEPRUEFUNG"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "NI_HS10_PROBEPRUEFUNG",
+     "land": "NI",
+     "abschluss": "HS10",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen Realschule – Hörverstehen",
+    "description": "Für Hauptteil 1 der Abschlussprüfung Deutsch Niedersachsen (Realschulabschluss): Ablauf, Hörstrategien, Notiztechnik, Aufgabenformate, Fakt und Meinung, sieben Hörtexte zum Vorlesen und eine Probe-Aufgabe mit 12 Punkten. Niedersachsen · Sekundarabschluss I – Realschulabschluss · Schuljahrgang 10 · Prüfungsjahr 2027 · Hauptteil 1 · Hörverstehen. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · NI RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_RS_HOEREN"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "NI_RS_HOEREN",
+     "land": "NI",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen Realschule – Lesen und Sprache",
+    "description": "Für Hauptteil 2 und den Wahlteil der Abschlussprüfung Deutsch Niedersachsen (Realschulabschluss): Lesestrategien, Zeitungstexte, Grafiken und Karikaturen, Erzählung und Gedicht, Sprachgebrauch und Rechtschreibung, dazu eine Probe-Aufgabe (28 Punkte) mit allen Lösungen. Niedersachsen · Sekundarabschluss I – Realschulabschluss · Schuljahrgang 10 · Prüfungsjahr 2027 · Hauptteil 2 und Wahlteil · Lesen und Sprachgebrauch. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · NI RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_RS_LESEN"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "NI_RS_LESEN",
+     "land": "NI",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen Realschule – Schreiben",
+    "description": "Selbstlernheft zum eigenen Text im Wahlteil der Abschlussprüfung Deutsch Niedersachsen (Realschulabschluss) mit Schwerpunkt auf informierend-appellierenden Texten, dazu Argumentieren, Textuntersuchung, Überarbeiten, Musterlösungen und eine Probe-Aufgabe mit Raster. Niedersachsen · Sekundarabschluss I – Realschulabschluss · Schuljahrgang 10 · Prüfungsjahr 2027 · Wahlteil · Eigenen Text schreiben. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · NI RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_RS_SCHREIBEN"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "NI_RS_SCHREIBEN",
+     "land": "NI",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen Realschule – Probeprüfung",
+    "description": "Eine vollständige Probeprüfung zur Abschlussprüfung Deutsch (Realschulabschluss Niedersachsen) mit Hörverstehen, Hauptteil 2, Gedicht und Kommentar zur Wahl, Zeitplan, Bewertungsraster und Musterlösungen – für einen Übungsvormittag zu Hause. Niedersachsen · Sekundarabschluss I – Realschulabschluss · Schuljahrgang 10 · Prüfungsjahr 2027 · Probeprüfung · alle Teile. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "36 Seiten · NI RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_RS_PROBEPRUEFUNG"
+     }
+    ],
+    "pageCount": 36,
+    "eltern": {
+     "id": "NI_RS_PROBEPRUEFUNG",
+     "land": "NI",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
    }
   ],
   "9": [
@@ -352,6 +580,177 @@ window.elternProdukte = {
      "id": "HE_HS_PROBEPRUEFUNG",
      "land": "HE",
      "abschluss": "HS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Bayern Quali – Zuhören",
+    "description": "Teil A des Quali Deutsch Schritt für Schritt üben: vor dem Hören planen, Zahlen und Namen heraushören, Gespräche genau verstehen, Notizen machen, Aufgabenformate und Fallen kennen. Alle Hörtexte stehen als Vorlesetexte im Heft, dazu eine Probe-Aufgabe (12 P.) mit Lösungen. Bayern · Qualifizierender Abschluss der Mittelschule (Quali) · Klasse 9 · Prüfungsjahr 2027 · Teil A · Zuhören. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "33 Seiten · BY QUALI · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_QUALI_HOEREN"
+     }
+    ],
+    "pageCount": 33,
+    "eltern": {
+     "id": "BY_QUALI_HOEREN",
+     "land": "BY",
+     "abschluss": "QUALI",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Bayern Quali – Lesen",
+    "description": "Für Teil C der Quali-Prüfung Deutsch: Lesestrategien, Sachtexte, literarische Texte und Textsorten, sprachliche Bilder, Zitieren, Grafiken und innerer Monolog – Schritt für Schritt mit Lösungen und einer Probe-Aufgabe (24 P.). Bayern · Qualifizierender Abschluss der Mittelschule (Quali) · Klasse 9 · Prüfungsjahr 2027 · Teil C · Lesen. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · BY QUALI · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_QUALI_LESEN"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "BY_QUALI_LESEN",
+     "land": "BY",
+     "abschluss": "QUALI",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Bayern Quali – Schreiben",
+    "description": "Selbstlernheft zu Teil D Schreiben im Quali Deutsch Bayern: Schreibplan, argumentierendes, informierendes und narratives Schreiben, kleine Schreibaufgaben, Überarbeiten mit Checkliste, ausformulierte Mustertexte und Probe-Aufgabe mit zwei Aufgabengruppen und Raster. Bayern · Qualifizierender Abschluss der Mittelschule (Quali) · Klasse 9 · Prüfungsjahr 2027 · Teil D · Schreiben. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "35 Seiten · BY QUALI · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_QUALI_SCHREIBEN"
+     }
+    ],
+    "pageCount": 35,
+    "eltern": {
+     "id": "BY_QUALI_SCHREIBEN",
+     "land": "BY",
+     "abschluss": "QUALI",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Bayern Quali – Sprachgebrauch",
+    "description": "Für Teil B der Quali-Prüfung Deutsch in Bayern: Wortarten, Satzglieder, Sätze und Satzzeichen, Zeitformen und Passiv, Wortschatz, Rechtschreibstrategien begründen, Groß- und Kleinschreibung und Silbentrennung – Schritt für Schritt mit Lösungen und Probe-Aufgabe (12 P.). Bayern · Qualifizierender Abschluss der Mittelschule (Quali) · Klasse 9 · Prüfungsjahr 2027 · Teil B · Sprachgebrauch. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · BY QUALI · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_QUALI_SPRACHGEBRAUCH"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "BY_QUALI_SPRACHGEBRAUCH",
+     "land": "BY",
+     "abschluss": "QUALI",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Bayern Quali – Probeprüfung",
+    "description": "Eine vollständige Probeprüfung zum Quali Deutsch mit allen vier Teilen A bis D zum Rahmenthema „Zeit“ – mit Vorlesetexten für den Hörteil, Zeitplan, Bewertungsraster und Musterlösungen für einen Probe-Vormittag zu Hause. Bayern · Qualifizierender Abschluss der Mittelschule (Quali) · Klasse 9 · Prüfungsjahr 2027 · Probeprüfung · alle Teile. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · BY QUALI · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BY_QUALI_PROBEPRUEFUNG"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "BY_QUALI_PROBEPRUEFUNG",
+     "land": "BY",
+     "abschluss": "QUALI",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen HS 9 – Hörverstehen",
+    "description": "Hauptteil 1 der Abschlussprüfung Deutsch (Hauptschulabschluss, Jahrgang 9) zu Hause üben: Aufgaben vorher lesen, beim zweiten Hören Stichworte notieren, Aufgaben sicher lösen – mit sieben Hörtexten zum Vorlesen, Probe-Aufgabe und allen Lösungen. Niedersachsen · Hauptschulabschluss · Schuljahrgang 9 · Prüfungsjahr 2027 · Hauptteil 1 · Hörverstehen. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "34 Seiten · NI HS9 · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_HS9_HOEREN"
+     }
+    ],
+    "pageCount": 34,
+    "eltern": {
+     "id": "NI_HS9_HOEREN",
+     "land": "NI",
+     "abschluss": "HS9",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen HS 9 – Lesen und Sprache",
+    "description": "Für Hauptteil 2 und den Wahlteil der Abschlussprüfung Deutsch Niedersachsen (Hauptschulabschluss, Jahrgang 9): Lesestrategien, Sachtexte, Grafiken, Kurzgeschichte und Ballade, Grammatik und Rechtschreibung, mit Probe-Aufgabe (20 Punkte) und allen Lösungen. Niedersachsen · Hauptschulabschluss · Schuljahrgang 9 · Prüfungsjahr 2027 · Hauptteil 2 und Wahlteil · Lesen und Sprachgebrauch. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "35 Seiten · NI HS9 · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_HS9_LESEN"
+     }
+    ],
+    "pageCount": 35,
+    "eltern": {
+     "id": "NI_HS9_LESEN",
+     "land": "NI",
+     "abschluss": "HS9",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen HS 9 – Schreiben",
+    "description": "Selbstlernheft zum eigenen Text im Wahlteil der Abschlussprüfung Deutsch Niedersachsen (Hauptschulabschluss, Schuljahrgang 9): Aufgaben verstehen und planen, innerer Monolog, Brief, Stellungnahme, informierende und appellierende Texte, Überarbeiten, Probe-Aufgabe mit Musterlösung. Niedersachsen · Hauptschulabschluss · Schuljahrgang 9 · Prüfungsjahr 2027 · Wahlteil · Eigenen Text schreiben. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · NI HS9 · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_HS9_SCHREIBEN"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "NI_HS9_SCHREIBEN",
+     "land": "NI",
+     "abschluss": "HS9",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Niedersachsen HS 9 – Probeprüfung",
+    "description": "Eine vollständige Probeprüfung Deutsch für den Hauptschulabschluss nach Schuljahrgang 9 in Niedersachsen mit Hörtext zum Vorlesen, zwei Wahlteilen, Zeitplan, Bewertungsraster und Musterlösungen. Niedersachsen · Hauptschulabschluss · Schuljahrgang 9 · Prüfungsjahr 2027 · Probeprüfung · alle Teile. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "35 Seiten · NI HS9 · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_NI_HS9_PROBEPRUEFUNG"
+     }
+    ],
+    "pageCount": 35,
+    "eltern": {
+     "id": "NI_HS9_PROBEPRUEFUNG",
+     "land": "NI",
+     "abschluss": "HS9",
      "pruefungsjahr": 2027
     }
    }
