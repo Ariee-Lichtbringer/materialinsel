@@ -3670,19 +3670,19 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Lesetagebuch G-Kurs",
-              "detail": "92 Seiten · Klasse 7 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
+              "detail": "93 Seiten · Klasse 7 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
               "kind": "standard",
               "protectedId": "S-Deutsch_Loecher_Kl7_G-Kurs"
             },
             {
               "label": "Lesetagebuch E-Kurs",
-              "detail": "90 Seiten · Klasse 7 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
+              "detail": "91 Seiten · Klasse 7 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
               "kind": "standard",
               "protectedId": "S-Deutsch_Loecher_Kl7_E-Kurs"
             },
             {
               "label": "Lesetagebuch inklusiv",
-              "detail": "45 Seiten · Klasse 7 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
+              "detail": "49 Seiten · Klasse 7 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
               "kind": "inclusive",
               "protectedId": "S-Deutsch_Loecher_Kl7_Inklusiv"
             },
@@ -3693,7 +3693,7 @@ window.materialSubjects = {
               "protectedId": "Deutsch_Loecher_Kl7_Lehrkraefteband"
             }
           ],
-          "pageCount": 92
+          "pageCount": 93
         }
       ],
       "8": [
@@ -3703,19 +3703,19 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Lesetagebuch G-Kurs",
-              "detail": "96 Seiten · Klasse 8 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
+              "detail": "97 Seiten · Klasse 8 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
               "kind": "standard",
               "protectedId": "S-Deutsch_Pyjama_Kl8_G-Kurs"
             },
             {
               "label": "Lesetagebuch E-Kurs",
-              "detail": "95 Seiten · Klasse 8 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
+              "detail": "96 Seiten · Klasse 8 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
               "kind": "standard",
               "protectedId": "S-Deutsch_Pyjama_Kl8_E-Kurs"
             },
             {
               "label": "Lesetagebuch inklusiv",
-              "detail": "47 Seiten · Klasse 8 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
+              "detail": "50 Seiten · Klasse 8 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
               "kind": "inclusive",
               "protectedId": "S-Deutsch_Pyjama_Kl8_Inklusiv"
             },
@@ -3726,7 +3726,7 @@ window.materialSubjects = {
               "protectedId": "Deutsch_Pyjama_Kl8_Lehrkraefteband"
             }
           ],
-          "pageCount": 96
+          "pageCount": 97
         }
       ],
       "9": [
@@ -3736,19 +3736,19 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Lesetagebuch G-Kurs",
-              "detail": "107 Seiten · Klasse 9 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
+              "detail": "108 Seiten · Klasse 9 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
               "kind": "standard",
               "protectedId": "S-Deutsch_WWDWWT_Kl9_G-Kurs"
             },
             {
               "label": "Lesetagebuch E-Kurs",
-              "detail": "103 Seiten · Klasse 9 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
+              "detail": "104 Seiten · Klasse 9 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
               "kind": "standard",
               "protectedId": "S-Deutsch_WWDWWT_Kl9_E-Kurs"
             },
             {
               "label": "Lesetagebuch inklusiv",
-              "detail": "63 Seiten · Klasse 9 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
+              "detail": "66 Seiten · Klasse 9 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
               "kind": "inclusive",
               "protectedId": "S-Deutsch_WWDWWT_Kl9_Inklusiv"
             },
@@ -3765,7 +3765,7 @@ window.materialSubjects = {
               "protectedId": "Deutsch_WWDWWT_Kl9_Lehrkraefteband"
             }
           ],
-          "pageCount": 107
+          "pageCount": 108
         }
       ]
     }
