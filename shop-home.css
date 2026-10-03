@@ -207,3 +207,29 @@
 .sh-free-card__more{font-size:13px;color:#0d5c58}
 .sh-sample--free{color:#2f7a4f}
 @media(max-width:760px){.sh-free__row{grid-auto-columns:minmax(200px,72%)}}
+
+/* Gemeinsamer Einstieg für Unterricht und Lernen zu Hause. */
+.audience-home .sh-hero__grid{padding:48px 0 32px;grid-template-columns:minmax(0,1fr) 280px}
+.audience-home .sh-hero h1{font-size:clamp(36px,4.5vw,66px);line-height:1.12}
+.audience-choices{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.audience-card{display:grid;grid-template-columns:minmax(0,1fr) 145px;gap:22px;align-items:center;padding:32px;border-radius:22px;background:#e9f0e9;overflow:hidden}
+.audience-card--family{background:#fbeada}
+.audience-card h2,.family-section h2,.teacher-intro h2{font:600 clamp(26px,2.8vw,38px)/1.18 'Literata',Georgia,serif;margin:10px 0 14px;color:#153a36;letter-spacing:-.025em}
+.audience-card p:not(.sh-eyebrow){font-size:15px;line-height:1.65;color:#3d5450;margin:0 0 18px}
+.audience-card .sh-btn{font-size:13px;padding:0 16px;white-space:normal;gap:14px;height:auto;min-height:50px}
+.audience-tags{display:flex;flex-wrap:wrap;gap:6px;padding:0;margin:0 0 22px;list-style:none}
+.audience-tags li{font-size:11px;background:#ffffffbd;border-radius:20px;padding:6px 10px}
+.audience-cover{width:100%;height:auto;transform:rotate(5deg);box-shadow:0 10px 25px #173e3926}
+.audience-book{background:#fffdf7;border-left:6px solid #a3bdb2;padding:18px 12px;transform:rotate(5deg);box-shadow:0 10px 25px #173e3926;min-height:220px;display:flex;flex-direction:column;color:#153a36}
+.audience-book strong{font:700 25px Georgia,serif;margin-top:20px}.audience-book>span{font:600 16px/1.4 Georgia,serif}.audience-book small{font-size:9px;line-height:1.6}.book-path{font-size:55px;color:#87b3a2;text-align:center;flex:1;background:linear-gradient(155deg,transparent 50%,#e9f0e9 50%);margin:12px -12px}
+.family-section{background:#edf2eb;border-radius:22px;padding:34px;box-sizing:border-box;margin-top:24px;scroll-margin-top:110px}
+.family-heading{display:flex;align-items:start;gap:24px;justify-content:space-between}.family-heading>div{max-width:850px}.family-heading p:not(.sh-eyebrow),.teacher-intro>p:not(.sh-eyebrow){color:#466159;font-size:16px;line-height:1.7;margin:0}
+.planned-badge{flex:none;background:#fff;padding:9px 13px;border-radius:20px;font-size:11px;color:#476157;border:1px solid #d5dfd3}
+.family-route{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;list-style:none;margin:28px 0;padding:0}
+.family-route li{background:#fff;border:1px solid #dbe4d9;border-radius:12px;padding:20px}.family-route li>span{color:#994619;font-size:12px;margin-right:12px}.family-route strong{font-size:15px}.family-route p{font-size:13px;color:#526a60;line-height:1.6;margin:8px 0 0}
+.family-topics{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.family-topics article{padding:24px;border-radius:14px;background:#e0ece5}.family-topics article:nth-child(2){background:#f7e8d9}.family-topics article:nth-child(3){background:#ece8f1}.family-topics span{font-size:10px;letter-spacing:.08em;color:#476157}.family-topics h3,.feedback-preview h3{font:600 25px/1.2 'Literata',Georgia,serif;margin:12px 0;color:#153a36}.family-topics p{font-size:14px;line-height:1.7;margin:0;color:#3d5450}
+.family-note{font-size:13px;line-height:1.7;color:#52665d;margin:16px 0 0}
+.feedback-preview{display:grid;grid-template-columns:minmax(0,1fr) 240px;gap:32px;background:#fffdf8;border:1px solid #dce4d9;border-radius:16px;padding:26px;margin-top:28px}.feedback-preview p:not(.sh-eyebrow):not(.family-note){font-size:15px;line-height:1.7;color:#466159}.feedback-steps{display:flex;flex-direction:column;justify-content:center;gap:10px}.feedback-steps span{padding:14px;background:#eaf1eb;border-radius:9px;font-size:13px}
+.teacher-intro{padding-top:60px;scroll-margin-top:100px}.teacher-intro .sh-search{margin-top:24px}.teacher-links{display:flex;flex-wrap:wrap;gap:10px 24px;margin-top:18px}.teacher-links a{font-size:14px;color:#0d5c58;text-underline-offset:4px}.audience-home .sh-free{padding-top:32px}.audience-home .sh-shop-layout{padding-top:36px}
+@media(max-width:1150px){.audience-card{grid-template-columns:1fr;padding:26px}.audience-cover,.audience-book{display:none}.family-heading{flex-direction:column;gap:12px}.planned-badge{order:-1}}
+@media(max-width:760px){.audience-home .sh-hero__grid{grid-template-columns:1fr;padding:32px 0 26px}.audience-choices{grid-template-columns:1fr;gap:16px}.family-section{padding:24px 20px}.family-route,.family-topics,.feedback-preview{grid-template-columns:1fr}.family-route{gap:8px}.family-route li{padding:16px}.family-topics article{padding:20px}.feedback-preview{padding:20px;gap:12px}.teacher-intro{padding-top:40px}.audience-home .sh-hero h1{font-size:clamp(34px,7.5vw,50px)}}
