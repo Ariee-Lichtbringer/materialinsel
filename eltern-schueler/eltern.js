@@ -99,9 +99,11 @@
     var knopf = h.url
       ? '<a class="fh-btn" href="' + esc(h.url) + '">Ansehen &amp; kaufen<span class="sr-only">: ' + esc(h.titel) + '</span></a>'
       : '<span class="fh-btn fh-btn--off" aria-disabled="true">Bald erhältlich</span>';
-    return '<li class="fh-card"><p class="fh-teil">' + esc(h.pruefungsteil) + '</p><h4>' + esc(h.titel) + '</h4>' +
+    var slug = (h.url || '').split('/').filter(Boolean).pop();
+    var cover = slug ? '<img class="fh-cover" src="/materialien/cover/' + esc(slug) + '.jpg" alt="Cover: ' + esc(h.titel) + '" loading="lazy" width="220" height="311">' : '';
+    return '<li class="fh-card">' + cover + '<div class="fh-copy"><p class="fh-teil">' + esc(h.pruefungsteil) + '</p><h4>' + esc(h.titel) + '</h4>' +
       (h.kurzbeschreibung ? '<p class="fh-desc">' + esc(h.kurzbeschreibung) + '</p>' : '') +
-      '<p class="fh-meta">' + esc(meta.join(' · ')) + '</p>' + knopf + '</li>';
+      '<p class="fh-meta">' + esc(meta.join(' · ')) + '</p>' + knopf + '</div></li>';
   }
 
   function hashFor(s) { return s.land && s.abschluss ? '#' + s.land + '-' + s.abschluss + '-' + s.jahr : ''; }
@@ -125,6 +127,7 @@
 
   function render() {
     var s = current(), l = land(s.land), a = l && abschluss(l, s.abschluss);
+    document.getElementById('family-results').classList.toggle('has-selection', !!(l && a));
     document.querySelectorAll('.quick-land button').forEach(function (b) {
       b.setAttribute('aria-pressed', b.getAttribute('data-land') === s.land ? 'true' : 'false');
     });
@@ -180,7 +183,7 @@
   selLand.addEventListener('change', function () { fillAbschluesse(land(selLand.value), selAbschluss.value); update(true); });
   selAbschluss.addEventListener('change', function () { update(true); });
   selJahr.addEventListener('change', function () { update(true); });
-  form.addEventListener('submit', function (e) { e.preventDefault(); });
+  form.addEventListener('submit', function (e) { e.preventDefault(); update(true); var results=document.getElementById('family-results'); results.focus({preventScroll:true}); results.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'}); });
   document.querySelectorAll('.quick-land button').forEach(function (b) {
     b.addEventListener('click', function () {
       selLand.value = b.getAttribute('data-land');
