@@ -3670,30 +3670,30 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Lesetagebuch G-Kurs",
-              "detail": "86 Seiten · Klasse 7 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
+              "detail": "92 Seiten · Klasse 7 · grundlegendes Niveau, mit ★-Vertiefung, gestuften Hilfen und Kladde",
               "kind": "standard",
               "protectedId": "S-Deutsch_Loecher_Kl7_G-Kurs"
             },
             {
               "label": "Lesetagebuch E-Kurs",
-              "detail": "85 Seiten · Klasse 7 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
+              "detail": "90 Seiten · Klasse 7 · erweitertes Niveau, mit ●-Einstiegsvariante, gestuften Hilfen und Kladde",
               "kind": "standard",
               "protectedId": "S-Deutsch_Loecher_Kl7_E-Kurs"
             },
             {
               "label": "Lesetagebuch inklusiv",
-              "detail": "40 Seiten · Klasse 7 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
+              "detail": "45 Seiten · Klasse 7 · einfache Sprache, Zusammenfassungen je Abschnitt, Wortspeicher und Kladde",
               "kind": "inclusive",
               "protectedId": "S-Deutsch_Loecher_Kl7_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "77 Seiten · Klasse 7 · Sachanalyse, Didaktik, 11 Stundenverläufe, Lösungen, 2 Kompetenzüberprüfungen mit Erwartungshorizont",
+              "detail": "81 Seiten · Klasse 7 · Sachanalyse, Didaktik, 11 Stundenverläufe, Lösungen, 2 Kompetenzüberprüfungen mit Erwartungshorizont",
               "kind": "teacher",
               "protectedId": "Deutsch_Loecher_Kl7_Lehrkraefteband"
             }
           ],
-          "pageCount": 86
+          "pageCount": 92
         }
       ]
     }
