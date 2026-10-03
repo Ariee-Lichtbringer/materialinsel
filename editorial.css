@@ -67,3 +67,19 @@ body:not(.home-page)>.hero{background:#e8efe9;color:#143f35;border:0}body:not(.h
 .unit-goals ul{margin:0;padding-left:18px;font-size:13px;line-height:1.55;color:#24403c}
 .unit-goals li{margin:3px 0}
 @media (max-width:640px){.unit-panel .unit-facts{grid-template-columns:1fr}}
+
+/* Eigenständige Produktseiten */
+.product-page .hero{padding-bottom:28px}.product-page .hero h1{font-size:clamp(28px,4vw,46px);max-width:950px}
+.product-detail{border:0;background:transparent}.product-detail>summary{display:none}
+.product-detail>.theme-files{padding:0}.product-detail .mappe-head{display:grid;grid-template-columns:minmax(220px,.8fr) minmax(0,1.2fr);gap:40px;align-items:start;margin:0 0 40px}
+.product-detail .mappe-cover{width:100%;max-width:390px;max-height:none;object-fit:contain;border-radius:8px;box-shadow:0 12px 35px #153a3620}
+.product-detail .mappe-head__text{min-width:0}.product-detail .shop-bar{display:flex;flex-direction:column;align-items:stretch;margin:0 0 22px;padding:24px;background:#e8efe9;border-radius:16px}
+.product-detail .shop-bar strong{display:block;font-size:26px}.product-detail .shop-bar small{font-size:14px;line-height:1.6;display:block;margin-top:12px}
+.product-detail .shop-bar button{margin-top:18px;min-height:48px}.product-included{margin-top:24px;padding:20px;background:#f5f4ef;border-radius:12px}
+.product-included ul{list-style:none;padding:0;margin:0}.product-included li{display:flex;flex-direction:column;padding:10px 0;border-bottom:1px solid #dce3dc}.product-included span,.product-included>p:last-child{font-size:14px;color:#53645e}
+.mini-dl{display:inline-flex;flex-direction:column;gap:3px;text-align:center;white-space:normal}.mini-dl .download-action{font-size:12px}.mini-dl .file-kind{font-weight:700}
+@media(max-width:700px){.product-detail .mappe-head{grid-template-columns:1fr;gap:24px}.product-detail .mappe-cover{max-width:230px;margin:auto}.product-detail .shop-bar{padding:20px}.product-page main{padding-left:16px;padding-right:16px}}
+
+.product-detail .shop-bar .mini-sample{background:#fff;color:#153a36;border:1px solid #a8bdb1;margin-top:10px}.product-description{margin:12px 0 20px}.product-description summary{cursor:pointer;text-decoration:underline;color:#0d5c58}
+
+@media(max-width:700px){.product-page .hero__inner{padding-top:30px;padding-bottom:24px}.product-detail .mappe-cover{width:145px;max-height:210px}.product-detail .mappe-head{gap:18px}}

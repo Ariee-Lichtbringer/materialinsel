@@ -129,3 +129,14 @@
 .sh-promo p{margin:0;color:#4c5e5a}
 @media (max-width:1000px){.lp-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.nl-box{grid-template-columns:1fr}.lp-pages{height:320px;max-width:480px;margin:0 auto;width:100%}}
 @media (max-width:560px){.lp-grid{grid-template-columns:1fr}.nl-row{flex-direction:column}.nl-box,.nl-result{padding:26px 22px}.lp-pages{height:250px}.sh-promo{flex-direction:column;align-items:flex-start}}
+
+/* Fachauswahl und kompakter Katalog */
+.sh-subject-links{display:flex;flex-wrap:wrap;gap:8px}
+.sh-subject-links a{display:inline-flex;padding:10px 14px;border:1px solid #9aafa4;border-radius:24px;color:#153a36;text-decoration:none;background:#fff;font-weight:650;font-size:14px}
+.sh-subject-links a:hover{background:#153a36;color:#fff}
+.sh-filters{display:flex;flex-wrap:wrap;align-items:end;gap:18px;margin-bottom:28px;padding:20px;background:#eef2ed;border-radius:16px}
+.sh-filters label{display:flex;flex-direction:column;gap:7px;font-size:14px;font-weight:650;flex:1;min-width:170px}
+.sh-filters select{width:100%;padding:12px;border:1px solid #bbc9bf;border-radius:8px;font:inherit;background:#fff;color:#153a36}
+.sh-filters .sh-link{min-height:44px}.sh-card__foot{flex-wrap:wrap}.sh-card__actions{flex-wrap:wrap}
+.sh-card__cover{height:270px}.sh-card h3{font-size:20px}.sh-grid--4 .sh-card h3{font-size:18px}
+@media(max-width:560px){.sh-filters{padding:16px}.sh-filters label{min-width:100%}.sh-hero__grid{padding-top:30px}.sh-card__actions{width:100%}.sh-card__actions a{flex:1}.sh-card__foot{gap:14px}}

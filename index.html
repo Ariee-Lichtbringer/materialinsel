@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="de"><head><link rel="icon" type="image/svg+xml" href="/assets/favicon.svg"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Materialinsel: fertige Unterrichtsreihen für Geschichte und Praktische Philosophie von Julia Sonnenwald. Musterseiten vor dem Kauf, Sofort-Download nach dem Kauf."><title>Materialinsel · Unterrichtsmappen für Geschichte und Praktische Philosophie</title><link rel="stylesheet" href="/styles.css?v=20261001-erfolg"><link rel="stylesheet" href="/editorial.css?v=20261001-infos"><link rel="stylesheet" href="/shop-home.css?v=202610021938"></head>
+<html lang="de"><head><link rel="icon" type="image/svg+xml" href="/assets/favicon.svg"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Materialinsel: Unterrichtsmaterial für Geschichte, Praktische Philosophie und Deutsch. Musterseiten vor dem Kauf, Sofort-Download nach dem Kauf."><title>Materialinsel · Unterrichtsmaterial für Geschichte, Philosophie und Deutsch</title><link rel="stylesheet" href="/styles.css?v=20261001-erfolg"><link rel="stylesheet" href="/editorial.css?v=20261003-shop"><link rel="stylesheet" href="/shop-home.css?v=20261003-shop"></head>
 <body class="home-page shop-home">
 <main class="home-main">
 
@@ -7,8 +7,9 @@
  <div class="sh-wrap sh-hero__grid">
   <div class="sh-hero__copy">
    <p class="sh-eyebrow">UNTERRICHTSMAPPEN VON EINER FACHLEITERIN</p>
-   <h1>Fertige Unterrichtsreihen für Geschichte und Praktische Philosophie</h1>
-   <p class="sh-lead">Jede Mappe enthält volle Materialseiten, differenzierte Arbeitsblätter und einen ausführlichen Lehrkraftteil nach dem Muster von Praxis Geschichte.</p>
+   <h1>Unterrichtsmaterial, das dir Vorbereitung abnimmt.</h1>
+   <p class="sh-lead">Für Geschichte, Praktische Philosophie und Deutsch: durchdachte Unterrichtsreihen, differenzierte Aufgaben und Unterstützung für deine Unterrichtsplanung.</p>
+   <div class="sh-subject-links" aria-label="Fach auswählen"><a href="#mappen" data-subject-filter="geschichte">Geschichte</a><a href="#mappen" data-subject-filter="praktische-philosophie">Praktische Philosophie</a><a href="#mappen" data-subject-filter="deutsch">Deutsch</a></div>
    <form class="sh-search" role="search" action="#mappen" id="sh-search">
     <label class="sh-search__field"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span class="sr-only">Mappen durchsuchen</span><input type="search" id="sh-query" placeholder="Thema, Klasse oder Methode suchen …"></label>
     <button type="submit" class="sh-btn sh-btn--primary">Mappen finden</button>
@@ -21,12 +22,14 @@
  </div>
 </section>
 
-<section class="sh-wrap sh-cats" aria-label="Bereiche" id="sh-cats"></section>
 
-<section class="sh-wrap"><div class="sh-promo"><div><p class="sh-eyebrow">KOSTENLOS · KLP 2024</p><h2>Quartalsplanung Praktische Philosophie 5/6</h2><p>Acht Reihen nach dem neuen Kernlehrplan als PDF für Ihre Fachschaft.</p></div><a class="sh-btn sh-btn--primary" href="/lehrplan/">Zur Planung</a></div></section>
+
+<section class="sh-wrap"><div class="sh-promo"><div><p class="sh-eyebrow">KOSTENLOS · KLP 2024</p><h2>Quartalsplanung Praktische Philosophie 5/6</h2><p>Acht Reihen nach dem neuen Kernlehrplan als PDF für deine Fachschaft.</p></div><a class="sh-btn sh-btn--primary" href="/lehrplan/">Zur Planung</a></div></section>
 <section class="sh-wrap sh-section" id="mappen">
+ <div class="sh-head"><div><p class="sh-eyebrow">DEINE NÄCHSTE UNTERRICHTSIDEE</p><h2>Finde die passende Mappe</h2></div></div>
+ <div class="sh-filters"><label>Fach<select id="sh-subject"><option value="">Alle Fächer</option value="geschichte">Geschichte</option><option value="praktische-philosophie">Praktische Philosophie</option><option value="deutsch">Deutsch</option></select></label><label>Klasse<select id="sh-grade"><option value="">Alle Klassen</option><option value="5">Klasse 5</option><option value="6">Klasse 6</option><option value="7">Klasse 7</option><option value="8">Klasse 8</option><option value="9">Klasse 9</option><option value="10">Klasse 10</option><option value="11">Klasse 11</option><option value="12">Klasse 12</option><option value="13">Klasse 13</option></select></label><label>Sortieren<select id="sh-sort"><option value="recommended">Empfehlungen</option><option value="price-up">Preis aufsteigend</option><option value="price-down">Preis absteigend</option><option value="title">Titel A–Z</option></select></label><button type="button" class="sh-link" id="sh-all">Alle Mappen anzeigen</button></div>
  <div id="sh-results" hidden>
-  <div class="sh-head"><div><p class="sh-eyebrow">SUCHE</p><h2 id="sh-results-title">Ergebnisse</h2></div><button type="button" class="sh-link" id="sh-reset">Suche zurücksetzen</button></div>
+  <div class="sh-head"><div><p class="sh-eyebrow">SUCHE</p><h2 id="sh-results-title" role="status" aria-live="polite">Ergebnisse</h2></div><button type="button" class="sh-link" id="sh-reset">Suche zurücksetzen</button></div>
   <div class="sh-grid sh-grid--4" id="sh-results-grid"></div>
  </div>
  <div id="sh-shelves"></div>
@@ -36,8 +39,8 @@
  <div class="sh-steps">
   <h2>So funktioniert die Materialinsel</h2>
   <ol>
-   <li><span>1</span><div><h3>Konto anlegen</h3><p>Registrieren und nach kurzer Prüfung als Lehrkraft freigeschaltet werden.</p></div></li>
-   <li><span>2</span><div><h3>Musterseiten ansehen</h3><p>Zu jeder Mappe bis zu drei Seiten Vorschau, ganz ohne Konto.</p></div></li>
+   <li><span>1</span><div><h3>Musterseiten ansehen</h3><p>Entdecke kostenlose Vorschauseiten und finde die passende Mappe – ganz ohne Konto.</p></div></li>
+   <li><span>2</span><div><h3>E-Mail bestätigen</h3><p>Konto anlegen, E-Mail-Code eingeben und sofort freigeschaltet sein. Kostenpflichtige Mappen kaufst du separat.</p></div></li>
    <li><span>3</span><div><h3>Kaufen und herunterladen</h3><p>Mit PayPal oder Karte bezahlen. Alle Dateien liegen sofort und dauerhaft in deinem Konto.</p></div></li>
   </ol>
  </div>
@@ -45,13 +48,13 @@
 
 <section class="sh-wrap sh-section sh-inside">
  <div>
-  <p class="sh-eyebrow">IN JEDER MAPPE</p>
-  <h2>Alles für die Doppelstunde, in einer Datei</h2>
+  <p class="sh-eyebrow">FÜR DEINEN UNTERRICHT</p>
+  <h2>Material und Planung, die zusammenpassen</h2>
   <ul class="sh-checks sh-checks--big">
-   <li><strong>Lehrkraftteil</strong> · Sachanalyse, Didaktik, Methodik, Lernziele, Verlaufsplan, Erwartungshorizont</li>
-   <li><strong>Materialseiten M1, M2 …</strong> · Infotexte und Quellen, je eine volle Seite</li>
-   <li><strong>Arbeitsblätter</strong> · A1 Basis, A2 Pflicht, A3 Vertiefung, Aufgabenpool</li>
-   <li><strong>Einzeln nutzbar</strong> · jede Lerneinheit auch als eigene Datei</li>
+   <li><strong>Unterstützung für Lehrkräfte</strong> · Hintergründe, Planung und Hinweise zur Auswertung</li>
+   <li><strong>Vielfältige Materialien</strong> · Quellen, Texte und Aufgaben passend zur Reihe</li>
+   <li><strong>Differenzierte Aufgaben</strong> · verschiedene Zugänge für deine Lerngruppe</li>
+   <li><strong>Transparentes Paket</strong> · alle enthaltenen Dateien und Fassungen auf der Detailseite</li>
   </ul>
  </div>
  <div class="sh-inside__pages" id="sh-inside-pages" aria-hidden="true"></div>
@@ -72,5 +75,5 @@
 </section>
 
 </main>
-<script src="/history-materials.js?v=202610021535"></script><script src="/auschwitz-materials.js?v=202610021535"></script><script src="/subject-data.js?v=202610021938"></script><script src="/teacher-previews.js?v=202610021938"></script><script src="/site.js?v=20261001-logo"></script><script src="/home-shop.js?v=202610021938"></script><script src="/account.js?v=20261003-email-code"></script>
+<script src="/history-materials.js?v=202610021535"></script><script src="/auschwitz-materials.js?v=202610021535"></script><script src="/subject-data.js?v=202610021938"></script><script src="/teacher-previews.js?v=20261003-shop"></script><script src="/site.js?v=20261003-shop"></script><script src="/home-shop.js?v=20261003-shop"></script><script src="/account.js?v=20261003-shop"></script>
 </body></html>
