@@ -193,3 +193,17 @@
 @media(max-width:1100px){.sh-shop-layout{grid-template-columns:205px minmax(0,1fr);gap:20px}.shop-combined .sh-grid--3{grid-template-columns:repeat(2,minmax(0,1fr))}.shop-combined .sh-hero__grid{grid-template-columns:minmax(0,1fr) 210px}.shop-combined .sh-wrap{width:calc(100% - 40px)}}
 @media(max-width:760px){.shop-combined .sh-wrap{width:calc(100% - 32px)}.shop-combined .sh-hero__grid{grid-template-columns:1fr;padding:28px 0 24px}.shop-combined .sh-hero__art{display:none}.sh-shop-layout{grid-template-columns:1fr}.sh-filter-panel summary{padding:16px 18px}.sh-filter-note{display:none}.shop-combined .sh-head{flex-direction:row;align-items:start}.shop-combined .sh-eyebrow{font-size:10px}.shop-combined .sh-head h2{font-size:25px}.sh-sort-label{max-width:132px}.sh-benefits{grid-template-columns:1fr;gap:20px}.shop-combined .sh-filters label{min-width:0}}
 @media(max-width:500px){.shop-combined .sh-grid--3{grid-template-columns:1fr}.shop-combined .sh-card__cover{height:275px}.shop-combined .sh-card__actions{width:auto}.shop-combined .sh-card__body{padding:18px}.shop-combined .sh-search{flex-direction:row;gap:8px}.shop-combined .sh-search .sh-btn{padding:0 12px;font-size:12px}.shop-combined .sh-search input{font-size:12px}.shop-combined .sh-head{flex-wrap:wrap}.shop-combined .sh-card h3{font-size:18px}}
+/* Erste Stunde kostenlos testen */
+.sh-free .sh-head p:last-child{margin:8px 0 0;max-width:640px;color:#4c5e5a}
+.sh-free__row{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(220px,1fr);gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 2px 14px;-webkit-overflow-scrolling:touch}
+.sh-free-card{scroll-snap-align:start;display:flex;flex-direction:column;background:#fff;border:1px solid #cfe2d4;border-radius:14px;overflow:hidden;min-width:0}
+.sh-free-card__cover{position:relative;display:block;height:150px;overflow:hidden;background:#eaf3ec;padding:14px 22px 0}
+.sh-free-card__cover img{display:block;width:100%;border-radius:3px 3px 0 0;box-shadow:0 6px 16px rgba(21,58,54,.14)}
+.sh-badge--free{position:absolute;left:10px;top:10px;background:#2f7a4f;color:#fff}
+.sh-free-card__body{display:flex;flex-direction:column;gap:6px;padding:12px 14px 14px;flex-grow:1}
+.sh-free-card h3{margin:0;font-family:'Literata',Georgia,serif;font-size:16px;line-height:1.3;color:#153a36}
+.sh-free-card__unit{margin:0 0 6px;font-size:13px;color:#4c5e5a;flex-grow:1}
+.sh-btn--free{background:#2f7a4f;color:#fff;height:40px;font-size:13px;padding:0 12px}.sh-btn--free:hover{background:#25633f;color:#fff}
+.sh-free-card__more{font-size:13px;color:#0d5c58}
+.sh-sample--free{color:#2f7a4f}
+@media(max-width:760px){.sh-free__row{grid-auto-columns:minmax(200px,72%)}}

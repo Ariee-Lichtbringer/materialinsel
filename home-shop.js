@@ -48,9 +48,24 @@
   <div class="sh-card__body">
    <p class="sh-card__meta"><span class="sh-subject-tag sh-subject-tag--${esc(e.subject)}">${esc(SUBJECT[e.subject])}</span><span>Klasse ${esc(e.grades.join(', '))}</span></p>
    <h3><a href="${esc(e.href)}">${esc(e.title)}</a></h3>
-   ${e.sample ? `<a class="sh-sample" href="${esc(e.href+'?muster=1')}">Muster ansehen ↗</a>` : ''}
+   ${e.sample ? `<a class="sh-sample" href="${esc(e.href+'?muster=1')}">Muster ansehen ↗</a>` : ''}${free[e.id] ? `<a class="sh-sample sh-sample--free" href="${esc(free[e.id].href)}" target="_blank" rel="noopener">Erste Stunde gratis ↓</a>` : ''}
    <div class="sh-card__foot"><span class="sh-price">${esc(p)}</span><span class="sh-card__actions"><a class="sh-btn sh-btn--primary sh-btn--small" href="${esc(e.href)}">Mappe ansehen →</a></span></div>
   </div></article>`;
+ }
+ // Kostenlose Probestunden (gratis.js)
+ const free = window.freeSamples || {};
+ const freeList = document.getElementById('sh-free-list');
+ const freeEntries = all.filter(e => free[e.id]);
+ if (freeList && freeEntries.length) {
+  const order = ['praktische-philosophie', 'deutsch', 'geschichte'];
+  freeEntries.sort((a, b) => order.indexOf(a.subject) - order.indexOf(b.subject) || (parseInt(a.grades[0]) || 0) - (parseInt(b.grades[0]) || 0));
+  freeList.innerHTML = freeEntries.map(e => { const f = free[e.id]; return `<article class="sh-free-card">
+  <a class="sh-free-card__cover" href="${esc(f.href)}" target="_blank" rel="noopener"><img src="/materialien/cover/${esc(e.id)}.jpg?v=8" alt="" loading="lazy"><span class="sh-badge sh-badge--free">GRATIS</span></a>
+  <div class="sh-free-card__body"><p class="sh-card__meta"><span class="sh-subject-tag sh-subject-tag--${esc(e.subject)}">${esc(SUBJECT[e.subject])}</span><span>Klasse ${esc(e.grades.join(', '))}</span></p>
+  <h3>${esc(e.title)}</h3><p class="sh-free-card__unit">${esc(f.unit)}</p>
+  <a class="sh-btn sh-btn--free sh-btn--small" href="${esc(f.href)}" target="_blank" rel="noopener">PDF ansehen · ${f.pages} S.</a>
+  <a class="sh-free-card__more" href="${esc(e.href)}">Zur ganzen Mappe →</a></div></article>`; }).join('');
+  document.getElementById('gratis').hidden = false;
  }
  const picks = [entries.get(NEW[0]), all.find(e => e.subject === 'deutsch'), all.find(e => e.subject === 'praktische-philosophie'), entries.get(NEW[1]), ...all.filter(e => e.subject === 'praktische-philosophie').slice(1,3)].filter(Boolean);
  const pages = ['Mauer-in-den-Koepfen-unit-3', 'Mauer-in-den-Koepfen-unit-3-teacher'].flatMap(k => (window.teacherPreviews || {})[k] || []).slice(0, 3);
