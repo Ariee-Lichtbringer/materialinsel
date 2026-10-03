@@ -33,16 +33,9 @@
  };
  const NEW = ['der-weg-in-die-demokratie-deutschland-und-europa-19451961', 'von-vier-zonen-zu-zwei-blocken-trizonesien-19451953', 'die-mauer-in-den-kopfen-teilung-propaganda-stasi'];
  const all = [...entries.values()];
- const shelves = [
-  {id: 'neu', eyebrow: 'NEU IM SHOP', title: 'Deutschland und Europa nach 1945', big: true, items: NEW.map(id => entries.get(id)).filter(Boolean)},
-  {id: 'geschichte-9-10', eyebrow: 'GESCHICHTE · KLASSE 9/10', title: 'Gedenkstättenfahrten und Erinnerungskultur', items: all.filter(e => e.subject === 'geschichte' && !e.grades.includes('12/13') && !NEW.includes(e.id))},
-  {id: 'kursstufe', eyebrow: 'GESCHICHTE · KURSSTUFE 12/13', title: 'Auschwitz: vorbereiten, erinnern, gestalten', items: all.filter(e => e.grades.includes('12/13'))},
-  {id: 'deutsch', eyebrow: 'DEUTSCH · KLASSE 7', title: 'Lesetagebücher zu Ganzschriften', items: all.filter(e => e.subject === 'deutsch')},
-  {id: 'pp', eyebrow: 'PRAKTISCHE PHILOSOPHIE · KLASSE 5–8', title: 'Philosophieren mit Kindern und Jugendlichen', pp: true, items: all.filter(e => e.subject === 'praktische-philosophie').sort((a, b) => parseInt(a.grades[0]) - parseInt(b.grades[0]))}
- ];
 
  let prices = {};
- const price = e => prices[e.id] ? (prices[e.id].price / 100).toLocaleString('de-DE', {style: 'currency', currency: 'EUR'}) : 'Preis wird geladen …';
+ const price = e => prices[e.id] ? (prices[e.id].price / 100).toLocaleString('de-DE', {style: 'currency', currency: 'EUR'}) : 'Preis auf der Detailseite';
  const meta = e => {
   const g = e.grades.join(', ');
   const k = /12\/13/.test(g) ? 'Kursstufe ' + g : (/^\d+$/.test(g) ? 'Klasse ' + g : 'Klasse ' + g);
@@ -50,49 +43,40 @@
  };
  function card(e, big, pp) {
   const p = price(e);
-  return `<article class="sh-card${big ? ' sh-card--big' : ''}">
+  return `<article class="sh-card">
   <a class="sh-card__cover${pp ? ' sh-card__cover--pp' : ''}" href="${esc(e.href)}"><img src="/materialien/cover/${esc(e.id)}.jpg?v=8" alt="Titelseite: ${esc(e.title)}" loading="lazy">${big ? '<span class="sh-badge">NEU</span>' : ''}</a>
   <div class="sh-card__body">
-   <p class="sh-card__meta">${esc(meta(e))}</p>
+   <p class="sh-card__meta"><span class="sh-subject-tag sh-subject-tag--${esc(e.subject)}">${esc(SUBJECT[e.subject])}</span><span>Klasse ${esc(e.grades.join(', '))}</span></p>
    <h3><a href="${esc(e.href)}">${esc(e.title)}</a></h3>
-   ${TEXT[e.id] ? `<p class="sh-card__text">${esc(TEXT[e.id])}</p>` : ''}
-   <div class="sh-card__foot"><span class="sh-price">${esc(p)}</span><span class="sh-card__actions">${e.sample ? `<a class="sh-btn sh-btn--ghost" href="${esc(e.href+'?muster=1')}">Musterseiten</a>` : ''}<a class="sh-btn sh-btn--primary sh-btn--small" href="${esc(e.href)}">Details & Kauf</a></span></div>
+   ${e.sample ? `<a class="sh-sample" href="${esc(e.href+'?muster=1')}">Muster ansehen ↗</a>` : ''}
+   <div class="sh-card__foot"><span class="sh-price">${esc(p)}</span><span class="sh-card__actions"><a class="sh-btn sh-btn--primary sh-btn--small" href="${esc(e.href)}">Mappe ansehen →</a></span></div>
   </div></article>`;
  }
  const picks = [entries.get(NEW[0]), all.find(e => e.subject === 'deutsch'), all.find(e => e.subject === 'praktische-philosophie'), entries.get(NEW[1]), ...all.filter(e => e.subject === 'praktische-philosophie').slice(1,3)].filter(Boolean);
- function renderShelves() {
-  document.getElementById('sh-shelves').innerHTML = `<section class="sh-shelf" id="neu"><div class="sh-head"><div><p class="sh-eyebrow">ZUM EINSTEIGEN</p><h2>Ausgewählte Mappen</h2></div></div><div class="sh-grid sh-grid--3">${picks.map(e => card(e, false, e.subject === 'praktische-philosophie')).join('')}</div></section>`;
- }
- document.getElementById('sh-hero-art').innerHTML = picks.slice(0,3).map(({id}, i) => `<img class="sh-hero__cover sh-hero__cover--${i}" src="/materialien/cover/${id}.jpg?v=8" alt="">`).join('');
  const pages = ['Mauer-in-den-Koepfen-unit-3', 'Mauer-in-den-Koepfen-unit-3-teacher'].flatMap(k => (window.teacherPreviews || {})[k] || []).slice(0, 3);
  const inside = document.getElementById('sh-inside-pages');
  if (pages.length) inside.innerHTML = pages.map(src => `<img src="${esc(src)}" alt="" loading="lazy" draggable="false">`).join('');
 ;
 
- renderShelves();
- fetch(API + '/shop').then(r => r.json()).then(d => {prices = d.products || {}; renderShelves(); runSearch();}).catch(() => {});
-
- // Fach, Jahrgang und Suchbegriff werden gemeinsam ausgewertet.
- const q = document.getElementById('sh-query'), results = document.getElementById('sh-results'), shelvesEl = document.getElementById('sh-shelves');
- const subjectFilter=document.getElementById('sh-subject'), gradeFilter=document.getElementById('sh-grade'), sortFilter=document.getElementById('sh-sort');
- let showAll=false;
+ const q=document.getElementById('sh-query'), subjectFilter=document.getElementById('sh-subject'), gradeFilter=document.getElementById('sh-grade'), typeFilter=document.getElementById('sh-type'), sortFilter=document.getElementById('sh-sort');
+ const ordered=[...picks,...all.filter(e=>!picks.includes(e))];
  const normalize=s=>String(s||'').toLocaleLowerCase('de').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss');
  function hasGrade(e,n){return e.grades.some(g=>{const nums=g.match(/\d+/g)?.map(Number)||[];return nums.length>1&&/[–-]/.test(g)?n>=nums[0]&&n<=nums[1]:nums.includes(n);});}
- function runSearch() {
+ const kind=e=>e.subject==='deutsch'?'lesen':/projekt|podcast|workshop/i.test(e.title)?'projekt':'reihe';
+ function runSearch(){
   const words=normalize(q.value).trim().split(/\s+/).filter(Boolean);
-  const filtering=words.length||subjectFilter.value||gradeFilter.value||showAll||sortFilter.value!=='recommended';
-  results.hidden=!filtering;shelvesEl.hidden=!!filtering;
-  if(!filtering)return;
-  const hits=all.filter(e=>(!subjectFilter.value||e.subject===subjectFilter.value)&&(!gradeFilter.value||hasGrade(e,Number(gradeFilter.value)))&&words.every(w=>normalize([e.title,e.description,SUBJECT[e.subject],e.grades.join(' '),TEXT[e.id]].join(' ')).includes(w)));
+  const hits=ordered.filter(e=>(!subjectFilter.value||e.subject===subjectFilter.value)&&(!gradeFilter.value||hasGrade(e,Number(gradeFilter.value)))&&(!typeFilter.value||kind(e)===typeFilter.value)&&words.every(w=>normalize([e.title,e.description,SUBJECT[e.subject],e.grades.join(' '),TEXT[e.id]].join(' ')).includes(w)));
   if(sortFilter.value==='title')hits.sort((a,b)=>a.title.localeCompare(b.title,'de'));
-  if(sortFilter.value.startsWith('price-'))hits.sort((a,b)=>((prices[a.id]?.price||0)-(prices[b.id]?.price||0))*(sortFilter.value==='price-up'?1:-1));
-  document.getElementById('sh-results-title').textContent=hits.length?`${hits.length} passende ${hits.length===1?'Mappe':'Mappen'}`:'Keine passende Mappe gefunden';
-  document.getElementById('sh-results-grid').innerHTML=hits.length?hits.map(e=>card(e,false,e.subject==='praktische-philosophie')).join(''):'<p>Versuche einen anderen Suchbegriff oder setze die Filter zurück.</p>';
+  if(sortFilter.value.startsWith('price-'))hits.sort((a,b)=>{const pa=prices[a.id]?.price,pb=prices[b.id]?.price;if(pa==null)return pb==null?0:1;if(pb==null)return -1;return (pa-pb)*(sortFilter.value==='price-up'?1:-1);});
+  document.getElementById('sh-results-title').textContent=`${hits.length} ${hits.length===1?'Mappe':'Mappen'}`;
+  document.getElementById('sh-results-grid').innerHTML=hits.length?hits.map(e=>card(e,false,e.subject==='praktische-philosophie')).join(''):'<p class="sh-empty">Keine passende Mappe gefunden. Versuche einen anderen Suchbegriff oder setze die Filter zurück.</p>';
  }
- document.getElementById('sh-search').addEventListener('submit',ev=>{ev.preventDefault();showAll=true;runSearch();document.getElementById('mappen').scrollIntoView({behavior:'smooth'});});
+ document.getElementById('sh-search').addEventListener('submit',ev=>{ev.preventDefault();runSearch();document.getElementById('mappen').scrollIntoView({behavior:'smooth'});});
  q.addEventListener('input',runSearch);
- [subjectFilter,gradeFilter,sortFilter].forEach(el=>el.addEventListener('change',runSearch));
- document.querySelectorAll('[data-subject-filter]').forEach(a=>a.addEventListener('click',()=>{subjectFilter.value=a.dataset.subjectFilter;gradeFilter.value='';q.value='';runSearch();}));
- document.getElementById('sh-all').onclick=()=>{showAll=true;q.value='';subjectFilter.value='';gradeFilter.value='';runSearch();};
- document.getElementById('sh-reset').onclick=()=>{q.value='';subjectFilter.value='';gradeFilter.value='';sortFilter.value='recommended';showAll=false;runSearch();};
+ [subjectFilter,gradeFilter,typeFilter,sortFilter].forEach(el=>el.addEventListener('change',runSearch));
+ document.getElementById('sh-reset').onclick=()=>{q.value='';subjectFilter.value='';gradeFilter.value='';typeFilter.value='';sortFilter.value='recommended';runSearch();};
+ const panel=document.querySelector('.sh-filter-panel'),mobile=window.matchMedia('(max-width: 760px)');
+ const syncPanel=()=>{panel.open=!mobile.matches;};syncPanel();mobile.addEventListener('change',syncPanel);
+ runSearch();
+ fetch(API+'/shop').then(r=>{if(!r.ok)throw new Error('shop');return r.json();}).then(d=>{prices=d.products||{};runSearch();}).catch(()=>{});
 })();

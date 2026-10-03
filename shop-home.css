@@ -140,3 +140,56 @@
 .sh-filters .sh-link{min-height:44px}.sh-card__foot{flex-wrap:wrap}.sh-card__actions{flex-wrap:wrap}
 .sh-card__cover{height:270px}.sh-card h3{font-size:20px}.sh-grid--4 .sh-card h3{font-size:18px}
 @media(max-width:560px){.sh-filters{padding:16px}.sh-filters label{min-width:100%}.sh-hero__grid{padding-top:30px}.sh-card__actions{width:100%}.sh-card__actions a{flex:1}.sh-card__foot{gap:14px}}
+
+/* Kombinierter Shop: einladender Einstieg und kompakter Katalog. */
+.shop-combined .sh-wrap{width:min(1400px,calc(100% - 64px))}
+.shop-combined .sh-hero{background:radial-gradient(ellipse at 100% 0,#faeade 0,transparent 32%),#faf9f6}
+.shop-combined .sh-hero__grid{grid-template-columns:minmax(0,1fr) 300px;gap:32px;padding:42px 0 28px}
+.shop-combined .sh-hero__copy{gap:14px}
+.shop-combined .sh-hero h1{font-size:clamp(32px,3.6vw,52px);line-height:1.16}
+.shop-combined .sh-lead{max-width:780px;font-size:17px}
+.shop-combined .sh-search{max-width:850px;margin-top:8px}
+.shop-combined .sh-search__field{min-width:0}
+.shop-combined .sh-hero__art{height:auto;width:100%}
+.shop-combined .sh-hero__art svg{display:block;width:100%}
+.shop-combined .sh-checks{font-size:12px;gap:12px 20px}
+.sh-shop-layout{display:grid;grid-template-columns:235px minmax(0,1fr);gap:28px;align-items:start;scroll-margin-top:100px}
+.shop-combined .sh-shop-layout{padding-top:16px}
+.sh-filter-panel{border:1px solid #e5e8e0;border-radius:16px;background:#fff;overflow:hidden}
+.sh-filter-panel summary{padding:22px 20px;font-weight:750;cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:8px}
+.sh-filter-panel summary::-webkit-details-marker{display:none}
+.shop-combined .sh-filters{display:flex;flex-direction:column;align-items:stretch;background:none;padding:0 20px 22px;margin:0;gap:22px}
+.shop-combined .sh-filters label{min-width:0;flex:none;font-size:13px}
+.shop-combined .sh-filters select,.sh-sort-label select{font:inherit;color:#153a36;background:#fff;border:1px solid #d8dfd8;border-radius:9px;padding:11px 8px;max-width:100%}
+.shop-combined .sh-filters .sh-link{text-align:left;font-size:13px}
+.sh-filter-note{border-radius:12px;background:#f6f5ef;padding:18px;font-size:14px;line-height:1.5}
+.sh-filter-note p{font-size:12px;color:#526861;margin:8px 0 0}
+.sh-catalog{min-width:0}
+.shop-combined .sh-head{align-items:center;gap:16px;margin-bottom:18px}
+.shop-combined .sh-head h2{font-size:clamp(25px,2.5vw,34px)}
+#sh-results-title{font-size:13px;margin:6px 0 0;color:#60756e}
+.sh-sort-label{font-size:12px;display:flex;flex-direction:column;gap:5px;flex-shrink:0}
+.shop-combined .sh-grid--3{gap:18px;grid-template-columns:repeat(3,minmax(0,1fr))}
+.shop-combined .sh-card{border-color:#e5e8e0;box-shadow:0 3px 10px #153a3605}
+.shop-combined .sh-card__cover{height:240px;padding:16px 20px;display:flex;align-items:center;justify-content:center;background:#f0eee7}
+.shop-combined .sh-card__cover--pp{background:#e6efed}
+.shop-combined .sh-card:has(.sh-subject-tag--deutsch) .sh-card__cover{background:#f0ebf4}
+.shop-combined .sh-card__cover img{height:100%;width:auto;max-width:100%;object-fit:contain;box-shadow:0 5px 14px #153a3620;border-radius:3px}
+.shop-combined .sh-card__body{padding:14px;gap:10px}
+.shop-combined .sh-card__meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;font-size:11px;font-weight:500;color:#4e655e}
+.sh-subject-tag{border-radius:20px;background:#f6e8da;padding:4px 8px;color:#783d1b;font-size:10px;font-weight:650}
+.sh-subject-tag--deutsch{background:#eee4f4;color:#673781}
+.sh-subject-tag--praktische-philosophie{background:#e0eeeb;color:#245d53}
+.shop-combined .sh-card h3{font-family:'Plus Jakarta Sans',system-ui,sans-serif;font-size:16px;line-height:1.4;font-weight:700}
+.sh-sample{font-size:12px;color:#0d5c58;text-underline-offset:3px;min-height:28px;display:flex;align-items:center}
+.shop-combined .sh-card__foot{margin-top:auto;padding-top:12px;gap:10px}
+.shop-combined .sh-price{font-size:17px}
+.shop-combined .sh-card__actions .sh-btn{font-size:12px;height:42px;padding:0 12px}
+.sh-benefits{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px;background:#eaf1ed;border-radius:16px;padding:26px 30px;margin-top:36px;box-sizing:border-box}
+.sh-benefits div{display:flex;flex-direction:column;gap:6px;font-size:14px}.sh-benefits span{font-size:12px;color:#536a62}
+.shop-combined :is(a,button,select,summary):focus-visible{outline:3px solid #b78038;outline-offset:4px}
+.sh-empty{grid-column:1/-1;padding:30px;background:#fff;border-radius:12px}
+@media(min-width:761px){.sh-filter-panel summary{pointer-events:none}.sh-filter-panel summary span{display:none}}
+@media(max-width:1100px){.sh-shop-layout{grid-template-columns:205px minmax(0,1fr);gap:20px}.shop-combined .sh-grid--3{grid-template-columns:repeat(2,minmax(0,1fr))}.shop-combined .sh-hero__grid{grid-template-columns:minmax(0,1fr) 210px}.shop-combined .sh-wrap{width:calc(100% - 40px)}}
+@media(max-width:760px){.shop-combined .sh-wrap{width:calc(100% - 32px)}.shop-combined .sh-hero__grid{grid-template-columns:1fr;padding:28px 0 24px}.shop-combined .sh-hero__art{display:none}.sh-shop-layout{grid-template-columns:1fr}.sh-filter-panel summary{padding:16px 18px}.sh-filter-note{display:none}.shop-combined .sh-head{flex-direction:row;align-items:start}.shop-combined .sh-eyebrow{font-size:10px}.shop-combined .sh-head h2{font-size:25px}.sh-sort-label{max-width:132px}.sh-benefits{grid-template-columns:1fr;gap:20px}.shop-combined .sh-filters label{min-width:0}}
+@media(max-width:500px){.shop-combined .sh-grid--3{grid-template-columns:1fr}.shop-combined .sh-card__cover{height:275px}.shop-combined .sh-card__actions{width:auto}.shop-combined .sh-card__body{padding:18px}.shop-combined .sh-search{flex-direction:row;gap:8px}.shop-combined .sh-search .sh-btn{padding:0 12px;font-size:12px}.shop-combined .sh-search input{font-size:12px}.shop-combined .sh-head{flex-wrap:wrap}.shop-combined .sh-card h3{font-size:18px}}
