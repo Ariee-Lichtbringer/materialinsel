@@ -434,13 +434,13 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "55 Seiten · Klasse 5 · KLP 2024",
+              "detail": "67 Seiten · Klasse 5 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "57 Seiten · Klasse 5 · KLP 2024",
+              "detail": "72 Seiten · Klasse 5 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Gerechtigkeit_Kl5_Inklusiv"
             },
@@ -470,7 +470,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Eine Insel ohne Regeln",
-              "detail": "5 Seiten · Brauchen Menschen Regeln, um gut zusammenzuleben?",
+              "detail": "7 Seiten · Brauchen Menschen Regeln, um gut zusammenzuleben?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-1",
               "teacher": {
@@ -481,7 +481,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-1-inklusiv"
               },
@@ -508,7 +508,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Regel, Gesetz, Wert",
-              "detail": "5 Seiten · Warum gibt es so viele Regeln – und was steckt hinter ihnen?",
+              "detail": "7 Seiten · Warum gibt es so viele Regeln – und was steckt hinter ihnen?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-2",
               "teacher": {
@@ -519,7 +519,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-2-inklusiv"
               },
@@ -546,7 +546,7 @@ window.materialSubjects = {
             },
             {
               "label": "3. Das ist unfair!",
-              "detail": "5 Seiten · Ist alles, was sich unfair anfühlt, auch wirklich ungerecht?",
+              "detail": "7 Seiten · Ist alles, was sich unfair anfühlt, auch wirklich ungerecht?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-3",
               "teacher": {
@@ -557,7 +557,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-3-inklusiv"
               },
@@ -584,7 +584,7 @@ window.materialSubjects = {
             },
             {
               "label": "4. Alle gleich? Das Gleichheitsprinzip",
-              "detail": "5 Seiten · Ist es immer gerecht, wenn alle gleich viel bekommen?",
+              "detail": "7 Seiten · Ist es immer gerecht, wenn alle gleich viel bekommen?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-4",
               "teacher": {
@@ -595,7 +595,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-4-inklusiv"
               },
@@ -622,7 +622,7 @@ window.materialSubjects = {
             },
             {
               "label": "5. Wer braucht es am meisten?",
-              "detail": "5 Seiten · Ist es gerecht, dem zu geben, der etwas am dringendsten braucht?",
+              "detail": "7 Seiten · Ist es gerecht, dem zu geben, der etwas am dringendsten braucht?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-5",
               "teacher": {
@@ -633,7 +633,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-5-inklusiv"
               },
@@ -660,7 +660,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Wer mehr tut, bekommt mehr?",
-              "detail": "5 Seiten · Ist es gerecht, nach Leistung zu verteilen?",
+              "detail": "6 Seiten · Ist es gerecht, nach Leistung zu verteilen?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-6",
               "teacher": {
@@ -671,7 +671,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-6-inklusiv"
               },
@@ -698,7 +698,7 @@ window.materialSubjects = {
             },
             {
               "label": "7. Gleiches gleich, Ungleiches ungleich",
-              "detail": "5 Seiten · Ist es manchmal gerecht, Kinder unterschiedlich zu behandeln?",
+              "detail": "6 Seiten · Ist es manchmal gerecht, Kinder unterschiedlich zu behandeln?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-7",
               "teacher": {
@@ -709,7 +709,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-7-inklusiv"
               },
@@ -747,7 +747,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "9 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8-inklusiv"
               },
@@ -775,18 +775,364 @@ window.materialSubjects = {
           ]
         },
         {
+          "title": "Sehe ich, was wirklich ist?",
+          "description": "Wahrnehmung, Täuschung und Medien: mit Kippbildern, Sinnesstationen, der Parabel von den Blinden und dem Elefanten, Platons Höhle, Werbebildern und der „Großen Mondente“ prüfen, wann wir unseren Augen trauen können, und ein eigenes Faktencheck-Detektivbuch anlegen. KLP 2024 · IF 7.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "68 Seiten · Klasse 5 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "70 Seiten · Klasse 5 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Wahrnehmung_Kl5_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "49 Seiten · Klasse 5 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "47 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-methoden"
+            },
+            {
+              "label": "1. Kippbilder",
+              "detail": "7 Seiten · Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
+                "audience": "Klasse 5",
+                "result": "Prüf-Tipp 1 im Detektiv-Speicher: Bevor ich sage „Das ist so!“, frage ich andere, was sie sehen, und lasse mir zeigen, woran sie es erkennen.",
+                "preparation": "Beamer, Notizzettel, M1, Tafel, M2, Heft, Wortspeicher, Papier, Vorlage halbes Gesicht, Plakat Detektiv-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
+                  "items": [
+                    "die beiden Deutungen des Ente-Hase-Kopfes und der Zeichnung von W. E. Hill anhand konkreter Bildelemente beschreiben. (AFB I)",
+                    "ihre eigene Wahrnehmung mit der Wahrnehmung von Mitschülerinnen und Mitschülern vergleichen und Unterschiede benennen. (AFB II)",
+                    "mit dem Modell „Die Sinne nehmen auf, der Kopf deutet“ erklären, warum dasselbe Bild verschieden gesehen werden kann. (AFB II)",
+                    "Noahs These, die Deutung werde vom Betrachter hervorgebracht, mithilfe der Detektiv-Fragen prüfen. (AFB III)",
+                    "ein eigenes Kippbild gestalten und seine Wirkung an anderen erproben. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Meine Sinne können sich irren",
+              "detail": "7 Seiten · Können sich meine Sinne irren – und wie merke ich das?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Können sich meine Sinne irren – und wie merke ich das?",
+                "audience": "Klasse 5",
+                "result": "Prüf-Tipp 2 im Detektiv-Speicher: Wenn mich mein Eindruck täuschen kann, prüfe ich mit einem Hilfsmittel wie Lineal oder Thermometer oder mit einem zweiten Sinn nach.",
+                "preparation": "Beamer, Tafel, Lineal, Stationsplan, M1, M2, Schlüsselbund, drei Schüsseln, Thermometer, Apfel- und Birnenstücke, Zahnstocher, Protokollvorlage, Protokolle, Heft, Raum, Plakat Detektiv-Speicher",
+                "prerequisites": "Stunde 1: Kippbilder",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
+                  "items": [
+                    "beschreiben, was sie bei den optischen Täuschungen und an den Stationen wahrnehmen, und dies in einem Protokoll festhalten. (AFB I)",
+                    "ihre Wahrnehmungen mit Hilfsmitteln wie Lineal und Thermometer oder mit einem zweiten Sinn überprüfen. (AFB I)",
+                    "erklären, wie Umgebung und vorangegangene Erfahrung die Wahrnehmung beeinflussen. (AFB II)",
+                    "Sinnestäuschungen nach ihren Einflüssen sortieren und die Zuordnung begründen. (AFB II)",
+                    "abwägen, wann man den eigenen Sinnen trauen kann und wann eine Prüfung nötig ist. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Ich sehe, was ich erwarte",
+              "detail": "7 Seiten · Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
+                "audience": "Klasse 5",
+                "result": "Ich frage mich: Was erwarte ich schon, und was fühle ich gerade – und könnte ich deshalb etwas übersehen oder etwas sehen, das gar nicht da ist?",
+                "preparation": "Tafel, M1, Wortspeicher, M2, Detektiv-Speicher",
+                "prerequisites": "Stunde 2: Meine Sinne können sich irren",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
+                  "items": [
+                    "die drei Versuche aus M1 benennen und angeben, was die Zuschauer jeweils erleben. (AFB I)",
+                    "beschreiben, was Emil im Keller wahrnimmt und was tatsächlich vorhanden ist. (AFB I)",
+                    "erklären, warum Menschen beim Gorilla-Versuch ein auffälliges Ereignis übersehen. (AFB II)",
+                    "den Einfluss von Aufmerksamkeit und Gefühl auf die Wahrnehmung an M1 und M2 vergleichen. (AFB II)",
+                    "die Aussage „Man sieht nur, wonach man sucht“ an Beispielen prüfen und einschränken. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Die Blinden und der Elefant",
+              "detail": "6 Seiten · Kann ein Mensch allein das Ganze sehen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Kann ein Mensch allein das Ganze sehen?",
+                "audience": "Klasse 5",
+                "result": "Ich frage mich: Von welchem Platz aus habe ich das gesehen – und wer hat vielleicht einen anderen Teil gesehen, den ich nicht kenne?",
+                "preparation": "Holzschnitt (Projektion oder M1), M1, Tafel, Raum, Wortspeicher, M2, Detektiv-Speicher",
+                "prerequisites": "Stunde 3: Ich sehe, was ich erwarte",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
+                  "items": [
+                    "den Holzschnitt von Hanabusa Itchō beschreiben und die Vergleiche der Blinden den Körperteilen zuordnen. (AFB I)",
+                    "die Parabel in einem Standbild darstellen und die Haltungen der Figuren deuten. (AFB II)",
+                    "die Berichte in M2 den Standorten der Kinder zuordnen und erklären, was jedes Kind nicht sehen konnte. (AFB II)",
+                    "aus den Teilberichten eine wahrscheinliche Darstellung des Geschehens entwickeln und offene Fragen benennen. (AFB III)",
+                    "beurteilen, ob ein einzelner Mensch das Ganze wahrnehmen kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Raus aus der Höhle?",
+              "detail": "6 Seiten · Woher weiß ich, dass das, was ich sehe, wirklich ist?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Woher weiß ich, dass das, was ich sehe, wirklich ist?",
+                "audience": "Klasse 5",
+                "result": "Ich schaue nicht nur auf den Schatten: Ich frage, wo ein Bild oder eine Nachricht herkommt, und schaue mir die Sache, wenn es geht, selbst an.",
+                "preparation": "Lampe, Wand, M1, Kupferstich, Arbeitsheft, Tafel, M2, Redegegenstand, Satzbausteine, Detektiv-Speicher",
+                "prerequisites": "Stunde 4: Die Blinden und der Elefant",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
+                  "items": [
+                    "die Lage der Gefangenen in der Höhle mit Hilfe von Text und Kupferstich beschreiben. (AFB I)",
+                    "die Stationen des Aufstiegs in die richtige Reihenfolge bringen und den Erlebnissen des Befreiten zuordnen. (AFB I)",
+                    "erklären, warum die Gefangenen dem Rückkehrer nicht glauben. (AFB II)",
+                    "die Prüfvorschläge der 5b im Gedankenexperiment erläutern und ihre Grenzen aufzeigen. (AFB II)",
+                    "eigene philosophische Fragen entwickeln und im Gespräch begründet Stellung beziehen, ob auch ihr Alltag „Höhlen“ kennt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Bilder, die lügen",
+              "detail": "7 Seiten · Wie verändern Bilder, was wir über etwas oder jemanden denken?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie verändern Bilder, was wir über etwas oder jemanden denken?",
+                "audience": "Klasse 5",
+                "result": "Bei jedem Bild frage ich: Wer hat es gemacht, was liegt außerhalb des Rahmens und wurde es vielleicht bearbeitet?",
+                "preparation": "Werbeplakat (Bild zu M1), Whiteboard, M1, Tafel, Wortspeicher, M2, Fallkarten, Wimmelbild, Papprahmen, Arbeitsheft, Positionslinie, Detektiv-Speicher",
+                "prerequisites": "Stunde 5: Raus aus der Höhle?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
+                  "items": [
+                    "Unterschiede zwischen einem Werbebild und dem tatsächlichen Produkt beschreiben. (AFB I)",
+                    "Tricks der Bildgestaltung aus M1 sammeln und benennen. (AFB I)",
+                    "Fallbeispiele mit den Detektiv-Fragen prüfen und den Tricks Ausschnitt, Perspektive, Montage und Filter zuordnen. (AFB II)",
+                    "erklären, wie Bildausschnitt und Bildunterschrift das Urteil über einen Menschen verändern. (AFB II)",
+                    "abwägen, wann ein bearbeitetes Bild harmlos ist und wann es täuscht, und eine eigene Grenze begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Fake News und KI-Bilder",
+              "detail": "7 Seiten · Woran erkenne ich, ob eine Nachricht stimmt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Woran erkenne ich, ob eine Nachricht stimmt?",
+                "audience": "Klasse 5",
+                "result": "Bevor ich eine Nachricht glaube oder weiterleite, frage ich: Wer sagt das, woher stammt es und berichten andere sichere Quellen auch darüber?",
+                "preparation": "Beamer, Lithografie, M1, Tafel, M2, Plakat, Detektiv-Speicher, Heft",
+                "prerequisites": "Stunde 6: Bilder, die lügen",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
+                  "items": [
+                    "die Behauptungen der „Großen Mondente“ und die dazugehörige Lithografie beschreiben. (AFB I)",
+                    "Gründe nennen, warum die Falschmeldung von 1835 geglaubt wurde, und Merkmale von KI-erzeugten Bildern benennen. (AFB I)",
+                    "eine Kettennachricht mithilfe von Prüf-Fragen untersuchen und ihr Ergebnis begründen. (AFB II)",
+                    "eine geordnete Prüf-Checkliste entwickeln und mit Beispielen veranschaulichen. (AFB II)",
+                    "beurteilen, welche Chancen und Schwierigkeiten das Prüfen von Nachrichten heute im Vergleich zu 1835 mit sich bringt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Detektivbüro Wahrheit",
+              "detail": "8 Seiten · Kann ich meinen Augen trauen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "8 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Kann ich meinen Augen trauen?",
+                "audience": "Klasse 5",
+                "result": "Heute wird der Detektiv-Speicher ausgewertet: Jedes Kind wählt seinen wichtigsten Prüf-Tipp aus und überträgt ihn mit Begründung in das Faktencheck-Detektivbuch.",
+                "preparation": "Tafel, Stempelkarten, M2, M3, Detektiv-Speicher, M1, Satzbausteine, Bodenlinie",
+                "prerequisites": "Stunde 7: Fake News und KI-Bilder",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
+                  "items": [
+                    "ihre Prüf-Tipps den Stationen der Reihe zuordnen und mit Beispielen belegen. (AFB I)",
+                    "die Prüf-Fragen der Checkliste nennen und um eine eigene Frage ergänzen. (AFB I)",
+                    "zwei Meldungen mithilfe der Checkliste prüfen und das Ergebnis in einem Prüfprotokoll festhalten. (AFB II)",
+                    "die Leitfrage der Reihe unter Einbezug von Beispielen aus mehreren Stunden beurteilen. (AFB III)",
+                    "Chancen und Gefahren des Internets für die Wahrheitsfindung gegeneinander abwägen. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "title": "Wovon träumst du?",
           "description": "Lebensträume, Rituale und Feste: mit einer Traumcollage, Epikurs Frage nach dem Glück, Lebenswegen mit unterschiedlichen Startbedingungen, behutsamen Gesprächen über Abschiede und einem Gruppenpuzzle zu Pessach, Weihnachten, Ramadan, Diwali und Vesakh, das in die Ausstellung „Feste der Welt“ mündet. KLP 2024 · IF 6.",
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "56 Seiten · Klasse 5 · KLP 2024",
+              "detail": "67 Seiten · Klasse 5 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "58 Seiten · Klasse 5 · KLP 2024",
+              "detail": "72 Seiten · Klasse 5 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Lebenstraeume_Kl5_Inklusiv"
             },
@@ -816,7 +1162,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Mein Lebenstraum",
-              "detail": "5 Seiten · Wovon träume ich – und was sagt das über mich?",
+              "detail": "6 Seiten · Wovon träume ich – und was sagt das über mich?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-1",
               "teacher": {
@@ -827,7 +1173,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-1-inklusiv"
               },
@@ -865,7 +1211,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-2-inklusiv"
               },
@@ -892,7 +1238,7 @@ window.materialSubjects = {
             },
             {
               "label": "3. Nicht alle starten gleich",
-              "detail": "5 Seiten · Hat jeder die gleiche Chance, seinen Lebenstraum zu erreichen?",
+              "detail": "7 Seiten · Hat jeder die gleiche Chance, seinen Lebenstraum zu erreichen?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-3",
               "teacher": {
@@ -903,7 +1249,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-3-inklusiv"
               },
@@ -930,7 +1276,7 @@ window.materialSubjects = {
             },
             {
               "label": "4. Wenn etwas zu Ende geht",
-              "detail": "5 Seiten · Was bedeutet es für unser Leben, wenn etwas zu Ende geht?",
+              "detail": "6 Seiten · Was bedeutet es für unser Leben, wenn etwas zu Ende geht?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-4",
               "teacher": {
@@ -941,7 +1287,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-4-inklusiv"
               },
@@ -968,7 +1314,7 @@ window.materialSubjects = {
             },
             {
               "label": "5. Warum feiern Menschen?",
-              "detail": "5 Seiten · Warum tun Menschen manche Dinge immer wieder auf dieselbe Weise – und was gibt ihnen das?",
+              "detail": "7 Seiten · Warum tun Menschen manche Dinge immer wieder auf dieselbe Weise – und was gibt ihnen das?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-5",
               "teacher": {
@@ -979,7 +1325,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-5-inklusiv"
               },
@@ -1006,7 +1352,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Feste der Religionen I",
-              "detail": "5 Seiten · Wie feiern Menschen in verschiedenen Religionen – und was ist ihnen an ihren Festen wichtig?",
+              "detail": "6 Seiten · Wie feiern Menschen in verschiedenen Religionen – und was ist ihnen an ihren Festen wichtig?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-6",
               "teacher": {
@@ -1017,7 +1363,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "6 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-6-inklusiv"
               },
@@ -1044,7 +1390,7 @@ window.materialSubjects = {
             },
             {
               "label": "7. Feste der Religionen II",
-              "detail": "5 Seiten · Was haben Feste gemeinsam – und warum feiern auch Menschen ohne Religion?",
+              "detail": "7 Seiten · Was haben Feste gemeinsam – und warum feiern auch Menschen ohne Religion?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-7",
               "teacher": {
@@ -1055,7 +1401,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-7-inklusiv"
               },
@@ -1082,7 +1428,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Ausstellung „Feste der Welt“",
-              "detail": "7 Seiten · Was macht ein Leben reich?",
+              "detail": "9 Seiten · Was macht ein Leben reich?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-8",
               "teacher": {
@@ -1093,7 +1439,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "9 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-8-inklusiv"
               },
@@ -1114,352 +1460,6 @@ window.materialSubjects = {
                     "ein Plakat nach vorgegebenen Kriterien fertigstellen und in einem Kurzvortrag erläutern. (AFB II)",
                     "die Leitfrage der Reihe unter Bezug auf mindestens zwei Stationen der Lernlandkarte beurteilen. (AFB III)",
                     "das Erfüllen eines Lebenstraums und das gemeinsame Feiern als Quellen eines reichen Lebens gegeneinander abwägen. (AFB III)"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "title": "Sehe ich, was wirklich ist?",
-          "description": "Wahrnehmung, Täuschung und Medien: mit Kippbildern, Sinnesstationen, der Parabel von den Blinden und dem Elefanten, Platons Höhle, Werbebildern und der „Großen Mondente“ prüfen, wann wir unseren Augen trauen können, und ein eigenes Faktencheck-Detektivbuch anlegen. KLP 2024 · IF 7.",
-          "files": [
-            {
-              "label": "Schülermappe",
-              "detail": "55 Seiten · Klasse 5 · KLP 2024",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5_Schuelermappe"
-            },
-            {
-              "label": "Inklusive Schülermappe",
-              "detail": "55 Seiten · Klasse 5 · KLP 2024",
-              "kind": "inclusive",
-              "protectedId": "S-PP_Wahrnehmung_Kl5_Inklusiv"
-            },
-            {
-              "label": "Lehrkräfteband",
-              "detail": "49 Seiten · Klasse 5 · KLP 2024",
-              "kind": "teacher",
-              "protectedId": "PP_Wahrnehmung_Kl5_Lehrkraefteband"
-            },
-            {
-              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "47 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
-              "kind": "teacher",
-              "protectedId": "PP_Wahrnehmung_Kl5-kommentar"
-            },
-            {
-              "label": "Lernziele, Kompetenzen und Verlaufspläne",
-              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
-              "kind": "teacher",
-              "protectedId": "PP_Wahrnehmung_Kl5-lernziele"
-            },
-            {
-              "label": "Methodenkoffer und Operatorenhilfen",
-              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
-              "kind": "teacher",
-              "protectedId": "PP_Wahrnehmung_Kl5-methoden"
-            },
-            {
-              "label": "1. Kippbilder",
-              "detail": "5 Seiten · Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-1-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1-inklusiv"
-              },
-              "info": {
-                "goal": "an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
-                "audience": "Klasse 5",
-                "result": "Prüf-Tipp 1 im Detektiv-Speicher: Bevor ich sage „Das ist so!“, frage ich andere, was sie sehen, und lasse mir zeigen, woran sie es erkennen.",
-                "preparation": "Beamer, Notizzettel, M1, Tafel, M2, Heft, Wortspeicher, Papier, Vorlage halbes Gesicht, Plakat Detektiv-Speicher",
-                "prerequisites": "Einstieg in die Reihe.",
-                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
-                  "items": [
-                    "die beiden Deutungen des Ente-Hase-Kopfes und der Zeichnung von W. E. Hill anhand konkreter Bildelemente beschreiben. (AFB I)",
-                    "ihre eigene Wahrnehmung mit der Wahrnehmung von Mitschülerinnen und Mitschülern vergleichen und Unterschiede benennen. (AFB II)",
-                    "mit dem Modell „Die Sinne nehmen auf, der Kopf deutet“ erklären, warum dasselbe Bild verschieden gesehen werden kann. (AFB II)",
-                    "Noahs These, die Deutung werde vom Betrachter hervorgebracht, mithilfe der Detektiv-Fragen prüfen. (AFB III)",
-                    "ein eigenes Kippbild gestalten und seine Wirkung an anderen erproben. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "2. Meine Sinne können sich irren",
-              "detail": "5 Seiten · Können sich meine Sinne irren – und wie merke ich das?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-2-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2-inklusiv"
-              },
-              "info": {
-                "goal": "an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Können sich meine Sinne irren – und wie merke ich das?",
-                "audience": "Klasse 5",
-                "result": "Prüf-Tipp 2 im Detektiv-Speicher: Wenn mich mein Eindruck täuschen kann, prüfe ich mit einem Hilfsmittel wie Lineal oder Thermometer oder mit einem zweiten Sinn nach.",
-                "preparation": "Beamer, Tafel, Lineal, Stationsplan, M1, M2, Schlüsselbund, drei Schüsseln, Thermometer, Apfel- und Birnenstücke, Zahnstocher, Protokollvorlage, Protokolle, Heft, Raum, Plakat Detektiv-Speicher",
-                "prerequisites": "Stunde 1: Kippbilder",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
-                  "items": [
-                    "beschreiben, was sie bei den optischen Täuschungen und an den Stationen wahrnehmen, und dies in einem Protokoll festhalten. (AFB I)",
-                    "ihre Wahrnehmungen mit Hilfsmitteln wie Lineal und Thermometer oder mit einem zweiten Sinn überprüfen. (AFB I)",
-                    "erklären, wie Umgebung und vorangegangene Erfahrung die Wahrnehmung beeinflussen. (AFB II)",
-                    "Sinnestäuschungen nach ihren Einflüssen sortieren und die Zuordnung begründen. (AFB II)",
-                    "abwägen, wann man den eigenen Sinnen trauen kann und wann eine Prüfung nötig ist. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "3. Ich sehe, was ich erwarte",
-              "detail": "5 Seiten · Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-3-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3-inklusiv"
-              },
-              "info": {
-                "goal": "an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
-                "audience": "Klasse 5",
-                "result": "Ich frage mich: Was erwarte ich schon, und was fühle ich gerade – und könnte ich deshalb etwas übersehen oder etwas sehen, das gar nicht da ist?",
-                "preparation": "Tafel, M1, Wortspeicher, M2, Detektiv-Speicher",
-                "prerequisites": "Stunde 2: Meine Sinne können sich irren",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
-                  "items": [
-                    "die drei Versuche aus M1 benennen und angeben, was die Zuschauer jeweils erleben. (AFB I)",
-                    "beschreiben, was Emil im Keller wahrnimmt und was tatsächlich vorhanden ist. (AFB I)",
-                    "erklären, warum Menschen beim Gorilla-Versuch ein auffälliges Ereignis übersehen. (AFB II)",
-                    "den Einfluss von Aufmerksamkeit und Gefühl auf die Wahrnehmung an M1 und M2 vergleichen. (AFB II)",
-                    "die Aussage „Man sieht nur, wonach man sucht“ an Beispielen prüfen und einschränken. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "4. Die Blinden und der Elefant",
-              "detail": "5 Seiten · Kann ein Mensch allein das Ganze sehen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-4-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4-inklusiv"
-              },
-              "info": {
-                "goal": "an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Kann ein Mensch allein das Ganze sehen?",
-                "audience": "Klasse 5",
-                "result": "Ich frage mich: Von welchem Platz aus habe ich das gesehen – und wer hat vielleicht einen anderen Teil gesehen, den ich nicht kenne?",
-                "preparation": "Holzschnitt (Projektion oder M1), M1, Tafel, Raum, Wortspeicher, M2, Detektiv-Speicher",
-                "prerequisites": "Stunde 3: Ich sehe, was ich erwarte",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
-                  "items": [
-                    "den Holzschnitt von Hanabusa Itchō beschreiben und die Vergleiche der Blinden den Körperteilen zuordnen. (AFB I)",
-                    "die Parabel in einem Standbild darstellen und die Haltungen der Figuren deuten. (AFB II)",
-                    "die Berichte in M2 den Standorten der Kinder zuordnen und erklären, was jedes Kind nicht sehen konnte. (AFB II)",
-                    "aus den Teilberichten eine wahrscheinliche Darstellung des Geschehens entwickeln und offene Fragen benennen. (AFB III)",
-                    "beurteilen, ob ein einzelner Mensch das Ganze wahrnehmen kann. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "5. Raus aus der Höhle?",
-              "detail": "5 Seiten · Woher weiß ich, dass das, was ich sehe, wirklich ist?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-5-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5-inklusiv"
-              },
-              "info": {
-                "goal": "Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Woher weiß ich, dass das, was ich sehe, wirklich ist?",
-                "audience": "Klasse 5",
-                "result": "Ich schaue nicht nur auf den Schatten: Ich frage, wo ein Bild oder eine Nachricht herkommt, und schaue mir die Sache, wenn es geht, selbst an.",
-                "preparation": "Lampe, Wand, M1, Kupferstich, Arbeitsheft, Tafel, M2, Redegegenstand, Satzbausteine, Detektiv-Speicher",
-                "prerequisites": "Stunde 4: Die Blinden und der Elefant",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
-                  "items": [
-                    "die Lage der Gefangenen in der Höhle mit Hilfe von Text und Kupferstich beschreiben. (AFB I)",
-                    "die Stationen des Aufstiegs in die richtige Reihenfolge bringen und den Erlebnissen des Befreiten zuordnen. (AFB I)",
-                    "erklären, warum die Gefangenen dem Rückkehrer nicht glauben. (AFB II)",
-                    "die Prüfvorschläge der 5b im Gedankenexperiment erläutern und ihre Grenzen aufzeigen. (AFB II)",
-                    "eigene philosophische Fragen entwickeln und im Gespräch begründet Stellung beziehen, ob auch ihr Alltag „Höhlen“ kennt. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "6. Bilder, die lügen",
-              "detail": "5 Seiten · Wie verändern Bilder, was wir über etwas oder jemanden denken?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-6-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6-inklusiv"
-              },
-              "info": {
-                "goal": "an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Wie verändern Bilder, was wir über etwas oder jemanden denken?",
-                "audience": "Klasse 5",
-                "result": "Bei jedem Bild frage ich: Wer hat es gemacht, was liegt außerhalb des Rahmens und wurde es vielleicht bearbeitet?",
-                "preparation": "Werbeplakat (Bild zu M1), Whiteboard, M1, Tafel, Wortspeicher, M2, Fallkarten, Wimmelbild, Papprahmen, Arbeitsheft, Positionslinie, Detektiv-Speicher",
-                "prerequisites": "Stunde 5: Raus aus der Höhle?",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
-                  "items": [
-                    "Unterschiede zwischen einem Werbebild und dem tatsächlichen Produkt beschreiben. (AFB I)",
-                    "Tricks der Bildgestaltung aus M1 sammeln und benennen. (AFB I)",
-                    "Fallbeispiele mit den Detektiv-Fragen prüfen und den Tricks Ausschnitt, Perspektive, Montage und Filter zuordnen. (AFB II)",
-                    "erklären, wie Bildausschnitt und Bildunterschrift das Urteil über einen Menschen verändern. (AFB II)",
-                    "abwägen, wann ein bearbeitetes Bild harmlos ist und wann es täuscht, und eine eigene Grenze begründen. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "7. Fake News und KI-Bilder",
-              "detail": "6 Seiten · Woran erkenne ich, ob eine Nachricht stimmt?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-7-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7-inklusiv"
-              },
-              "info": {
-                "goal": "an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Woran erkenne ich, ob eine Nachricht stimmt?",
-                "audience": "Klasse 5",
-                "result": "Bevor ich eine Nachricht glaube oder weiterleite, frage ich: Wer sagt das, woher stammt es und berichten andere sichere Quellen auch darüber?",
-                "preparation": "Beamer, Lithografie, M1, Tafel, M2, Plakat, Detektiv-Speicher, Heft",
-                "prerequisites": "Stunde 6: Bilder, die lügen",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
-                  "items": [
-                    "die Behauptungen der „Großen Mondente“ und die dazugehörige Lithografie beschreiben. (AFB I)",
-                    "Gründe nennen, warum die Falschmeldung von 1835 geglaubt wurde, und Merkmale von KI-erzeugten Bildern benennen. (AFB I)",
-                    "eine Kettennachricht mithilfe von Prüf-Fragen untersuchen und ihr Ergebnis begründen. (AFB II)",
-                    "eine geordnete Prüf-Checkliste entwickeln und mit Beispielen veranschaulichen. (AFB II)",
-                    "beurteilen, welche Chancen und Schwierigkeiten das Prüfen von Nachrichten heute im Vergleich zu 1835 mit sich bringt. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "8. Detektivbüro Wahrheit",
-              "detail": "6 Seiten · Kann ich meinen Augen trauen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-8-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8-inklusiv"
-              },
-              "info": {
-                "goal": "erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Kann ich meinen Augen trauen?",
-                "audience": "Klasse 5",
-                "result": "Heute wird der Detektiv-Speicher ausgewertet: Jedes Kind wählt seinen wichtigsten Prüf-Tipp aus und überträgt ihn mit Begründung in das Faktencheck-Detektivbuch.",
-                "preparation": "Tafel, Stempelkarten, M2, M3, Detektiv-Speicher, M1, Satzbausteine, Bodenlinie",
-                "prerequisites": "Stunde 7: Fake News und KI-Bilder",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
-                  "items": [
-                    "ihre Prüf-Tipps den Stationen der Reihe zuordnen und mit Beispielen belegen. (AFB I)",
-                    "die Prüf-Fragen der Checkliste nennen und um eine eigene Frage ergänzen. (AFB I)",
-                    "zwei Meldungen mithilfe der Checkliste prüfen und das Ergebnis in einem Prüfprotokoll festhalten. (AFB II)",
-                    "die Leitfrage der Reihe unter Einbezug von Beispielen aus mehreren Stunden beurteilen. (AFB III)",
-                    "Chancen und Gefahren des Internets für die Wahrheitsfindung gegeneinander abwägen. (AFB III)"
                   ]
                 }
               }
@@ -1737,364 +1737,18 @@ window.materialSubjects = {
           "pageCount": 59
         },
         {
-          "title": "Darf man lügen?",
-          "description": "Wahrheit, Wahrhaftigkeit und Lüge: mit dem Lügen-Barometer, Pinocchio und dem Hirtenjungen, der Notlüge, Kants striktem Lügenverbot und der Abwägung von Folgen zu Dilemmata aus dem Klassenalltag, Dilemma-Theater und einem begründeten Urteil. KLP 2024 · IF 3.",
-          "files": [
-            {
-              "label": "Schülermappe",
-              "detail": "59 Seiten · Klasse 6 · KLP 2024",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6_Schuelermappe"
-            },
-            {
-              "label": "Inklusive Schülermappe",
-              "detail": "60 Seiten · Klasse 6 · KLP 2024",
-              "kind": "inclusive",
-              "protectedId": "S-PP_Luegen_Kl6_Inklusiv"
-            },
-            {
-              "label": "Lehrkräfteband",
-              "detail": "48 Seiten · Klasse 6 · KLP 2024",
-              "kind": "teacher",
-              "protectedId": "PP_Luegen_Kl6_Lehrkraefteband"
-            },
-            {
-              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "46 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
-              "kind": "teacher",
-              "protectedId": "PP_Luegen_Kl6-kommentar"
-            },
-            {
-              "label": "Lernziele, Kompetenzen und Verlaufspläne",
-              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
-              "kind": "teacher",
-              "protectedId": "PP_Luegen_Kl6-lernziele"
-            },
-            {
-              "label": "Methodenkoffer und Operatorenhilfen",
-              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
-              "kind": "teacher",
-              "protectedId": "PP_Luegen_Kl6-methoden"
-            },
-            {
-              "label": "1. Das Lügen-Barometer",
-              "detail": "5 Seiten · Sind alle Lügen gleich schlimm?",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6-einheit-1",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Luegen_Kl6-einheit-1-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Luegen_Kl6-einheit-1-inklusiv"
-              },
-              "info": {
-                "goal": "alltägliche Lügen nach ihrer Schwere ordnen, Gründe für das Lügen benennen und daraus die Frage entwickeln, ob eine Lüge manchmal besser sein kann als die Wahrheit.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Sind alle Lügen gleich schlimm?",
-                "audience": "Klasse 6",
-                "result": "Nicht alle Lügen sind gleich: Wie schlimm eine Lüge ist, hängt davon ab, warum jemand lügt und wem die Lüge schadet.",
-                "preparation": "Wäscheleine, Klammern, Karte E, M1, Kartensätze, M2, Tafel, Wahrheits-Fragen, Urteils-Speicher",
-                "prerequisites": "Einstieg in die Reihe.",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde alltägliche Lügen nach ihrer Schwere ordnen, Gründe für das Lügen benennen und daraus die Frage entwickeln, ob eine Lüge manchmal besser sein kann als die Wahrheit.",
-                  "items": [
-                    "in fünf Fallbeispielen beschreiben, was tatsächlich geschehen ist und was gesagt wird. (AFB I)",
-                    "Gründe für das Lügen aus einem Gesprächstext herausarbeiten. (AFB I)",
-                    "Fallbeispiele begründet auf einer Skala von harmlos bis schlimm anordnen und Motive zuordnen. (AFB II)",
-                    "eine umstrittene Lüge mit den drei Wahrheits-Fragen prüfen. (AFB II)",
-                    "eine Lüge aus der Perspektive der Betroffenen bewerten oder einen eigenen Grenzfall entwickeln. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "2. Wahr, ehrlich, gelogen",
-              "detail": "5 Seiten · Ist jeder falsche Satz eine Lüge?",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6-einheit-2",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Luegen_Kl6-einheit-2-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Luegen_Kl6-einheit-2-inklusiv"
-              },
-              "info": {
-                "goal": "zwischen Wahrheit, Wahrhaftigkeit, Irrtum und Lüge unterscheiden und an Grenzfällen prüfen, dass eine Lüge nicht schon durch einen falschen Satz, sondern durch die Täuschungsabsicht bestimmt ist.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Ist jeder falsche Satz eine Lüge?",
-                "audience": "Klasse 6",
-                "result": "Nicht jeder falsche Satz ist eine Lüge: Lügen heißt, etwas zu sagen, von dem man weiß, dass es falsch ist, damit ein anderer es glaubt.",
-                "preparation": "Tafel, M1, Wortspeicher, M2, Satzbausteine, Urteils-Speicher",
-                "prerequisites": "Stunde 1: Das Lügen-Barometer",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde zwischen Wahrheit, Wahrhaftigkeit, Irrtum und Lüge unterscheiden und an Grenzfällen prüfen, dass eine Lüge nicht schon durch einen falschen Satz, sondern durch die Täuschungsabsicht bestimmt ist.",
-                  "items": [
-                    "die Begriffe Wahrheit, Wahrhaftigkeit, Irrtum und Lüge nennen und mit eigenen Worten erläutern. (AFB I)",
-                    "Aussagen aus einem Fallbeispiel den vier Begriffen mithilfe zweier Prüffragen zuordnen. (AFB II)",
-                    "den Unterschied zwischen Irrtum und Lüge an selbst entwickelten Beispielen erklären. (AFB II)",
-                    "Grenzfälle wie Ironie, Spiel, Geheimnis und Übertreibung kriteriengeleitet prüfen. (AFB III)",
-                    "beurteilen, ob eine Täuschungsabsicht ohne falsche Aussage als Lüge gelten kann. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "3. Pinocchio und die Folgen",
-              "detail": "6 Seiten · Was passiert mit dem Vertrauen, wenn jemand lügt?",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6-einheit-3",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Luegen_Kl6-einheit-3-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Luegen_Kl6-einheit-3-inklusiv"
-              },
-              "info": {
-                "goal": "an den Geschichten von Pinocchio und dem Hirtenjungen die Folgen von Lügen erläutern und erkennen, dass Lügen vor allem Vertrauen und Glaubwürdigkeit beschädigen.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Was passiert mit dem Vertrauen, wenn jemand lügt?",
-                "audience": "Klasse 6",
-                "result": "Wer lügt, setzt Vertrauen aufs Spiel, und verlorenes Vertrauen ist schwer zurückzugewinnen – das ist ein wichtiger Grund gegen das Lügen, auch wenn eine Lüge im Moment klein wirkt.",
-                "preparation": "Beamer, Illustration, Tafel, M1, Wortspeicher, M2, Plakate, Urteils-Speicher",
-                "prerequisites": "Stunde 2: Wahr, ehrlich, gelogen",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an den Geschichten von Pinocchio und dem Hirtenjungen die Folgen von Lügen erläutern und erkennen, dass Lügen vor allem Vertrauen und Glaubwürdigkeit beschädigen.",
-                  "items": [
-                    "wiedergeben, wie Pinocchio die Fee belügt und welche Folge dies hat. (AFB I)",
-                    "den Ablauf der drei Rufe in der Fabel und die jeweilige Reaktion des Dorfes darstellen. (AFB I)",
-                    "mit den Begriffen Lüge, Wahrheit und Vertrauen erklären, warum dem Hirtenjungen beim dritten Ruf niemand glaubt. (AFB II)",
-                    "die sofortige und die zeitversetzte Folge der Lüge in beiden Geschichten mithilfe der Wahrheits-Fragen vergleichen. (AFB II)",
-                    "Schritte entwickeln und beurteilen, wie verlorenes Vertrauen zurückgewonnen werden kann. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "4. Die Notlüge",
-              "detail": "6 Seiten · Darf man lügen, um jemanden nicht zu verletzen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6-einheit-4",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Luegen_Kl6-einheit-4-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Luegen_Kl6-einheit-4-inklusiv"
-              },
-              "info": {
-                "goal": "am Dilemma des ungeliebten Geburtstagsgeschenks den Wertekonflikt zwischen Rücksicht und Ehrlichkeit erläutern und auf der Positionslinie eine begründete eigene Position einnehmen.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Darf man lügen, um jemanden nicht zu verletzen?",
-                "audience": "Klasse 6",
-                "result": "Eine Notlüge will jemanden schonen; bevor ich sie für richtig halte, prüfe ich, ob es eine Antwort gibt, die zugleich wahr und freundlich ist, und was die Lüge später für das Vertrauen bedeutet.",
-                "preparation": "Päckchen, Tafel, M1, Wortspeicher, M2, Seil, zwei Schilder, Urteils-Speicher",
-                "prerequisites": "Stunde 3: Pinocchio und die Folgen",
-                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde am Dilemma des ungeliebten Geburtstagsgeschenks den Wertekonflikt zwischen Rücksicht und Ehrlichkeit erläutern und auf der Positionslinie eine begründete eigene Position einnehmen.",
-                  "items": [
-                    "Mias Lage und die Erwartungen von Oma Gerda beschreiben. (AFB I)",
-                    "verschiedene Antwortmöglichkeiten Mias mit ihren kurz- und langfristigen Folgen sammeln. (AFB I/II)",
-                    "den Begriff Wertekonflikt erklären und die konkurrierenden Werte Rücksicht und Ehrlichkeit benennen. (AFB II)",
-                    "drei Lösungsvorschläge mithilfe der Wahrheits-Fragen prüfen. (AFB II)",
-                    "auf der Positionslinie eine eigene Position einnehmen, begründen und gegebenenfalls revidieren. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "5. Kant: Niemals lügen!",
-              "detail": "5 Seiten · Ist Lügen immer falsch – sogar dann, wenn man damit jemandem helfen will?",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6-einheit-5",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Luegen_Kl6-einheit-5-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Luegen_Kl6-einheit-5-inklusiv"
-              },
-              "info": {
-                "goal": "Kants Begründung des unbedingten Lügenverbots in ihren Grundgedanken wiedergeben, an einem kindgerechten Gedankenexperiment anwenden und eine erste begründete Stellungnahme dazu formulieren können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Ist Lügen immer falsch – sogar dann, wenn man damit jemandem helfen will?",
-                "audience": "Klasse 6",
-                "result": "Kant sagt: Lügen ist nie erlaubt, weil sonst niemand mehr dem anderen vertrauen kann und man den anderen heimlich wie ein Werkzeug benutzt – man muss aber nicht alles verraten, was man weiß.",
-                "preparation": "Porträt (M1), Tafel, M1, Heft, Wortspeicher, M2, Raumecken mit Schildern, Urteils-Speicher",
-                "prerequisites": "Stunde 4: Die Notlüge",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Kants Begründung des unbedingten Lügenverbots in ihren Grundgedanken wiedergeben, an einem kindgerechten Gedankenexperiment anwenden und eine erste begründete Stellungnahme dazu formulieren können.",
-                  "items": [
-                    "Kants zwei Gründe gegen das Lügen mit eigenen Worten nennen. (AFB I)",
-                    "die Handlungsmöglichkeiten der Figur im Gedankenexperiment beschreiben. (AFB I)",
-                    "Kants Verallgemeinerungstest auf die Notlüge aus Stunde 4 anwenden und erklären, warum Kant sie verbietet. (AFB II)",
-                    "die vier Handlungsoptionen mithilfe der Wahrheits-Fragen prüfen und Kants Haltung dazu begründet zuordnen. (AFB II)",
-                    "Kants Position begründet beurteilen und dabei einen Einwand berücksichtigen. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "6. Auf die Folgen kommt es an",
-              "detail": "6 Seiten · Darf man lügen, wenn dadurch für alle mehr Gutes als Schlechtes herauskommt?",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6-einheit-6",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Luegen_Kl6-einheit-6-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Luegen_Kl6-einheit-6-inklusiv"
-              },
-              "info": {
-                "goal": "das Abwägen von Folgen als Gegenposition zu Kant anwenden, beide Positionen kriteriengeleitet vergleichen und ihre Tragfähigkeit begründet beurteilen können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Darf man lügen, wenn dadurch für alle mehr Gutes als Schlechtes herauskommt?",
-                "audience": "Klasse 6",
-                "result": "Man kann eine Lüge auch nach ihren Folgen beurteilen: Wer abwägt, muss an alle Beteiligten denken, jeden gleich ernst nehmen und auch spätere Folgen wie verlorenes Vertrauen auf die Waage legen.",
-                "preparation": "Balkenwaage oder Tafelskizze, Klötze, M1, Heft, Tafel, Kasten M1, M2, Kärtchen, Raum, Kasten M2, Urteils-Speicher",
-                "prerequisites": "Stunde 5: Kant: Niemals lügen!",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde das Abwägen von Folgen als Gegenposition zu Kant anwenden, beide Positionen kriteriengeleitet vergleichen und ihre Tragfähigkeit begründet beurteilen können.",
-                  "items": [
-                    "die guten und schlechten Folgen von Sofias Lüge für alle Beteiligten beschreiben. (AFB I)",
-                    "Aussagen begründet der Position Kants oder dem Abwägen von Folgen zuordnen. (AFB I)",
-                    "beide Positionen am Fall Sofia und Kim vergleichen und einen Unterschied sowie eine Gemeinsamkeit erklären. (AFB II)",
-                    "die Folgen-Waage eigenständig auf einen neuen Alltagsfall anwenden und abwägen. (AFB II)",
-                    "die Tragfähigkeit beider Positionen anhand von Kriterien beurteilen. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "7. Freundschaft oder Ehrlichkeit?",
-              "detail": "6 Seiten · Muss ich die Wahrheit sagen, auch wenn ich damit einen Freund verrate?",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6-einheit-7",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Luegen_Kl6-einheit-7-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Luegen_Kl6-einheit-7-inklusiv"
-              },
-              "info": {
-                "goal": "den Wertekonflikt zwischen Freundschaft und Ehrlichkeit am Fall des Spickzettels erläutern, Petzen sicher vom Hilfeholen unterscheiden und mithilfe von Argumentekarten ein begründetes Urteil darüber fällen, was Emil tun sollte.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Muss ich die Wahrheit sagen, auch wenn ich damit einen Freund verrate?",
-                "audience": "Klasse 6",
-                "result": "Schweigen ist nicht dasselbe wie lügen, und wer Hilfe holt, weil jemand in Gefahr ist, verletzt oder bedroht wird, petzt nicht, sondern schützt.",
-                "preparation": "M1, Tafel, M2, M2 als Kartensatz, Bodenmarkierung, Karten, Urteils-Speicher, –",
-                "prerequisites": "Stunde 6: Auf die Folgen kommt es an",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde den Wertekonflikt zwischen Freundschaft und Ehrlichkeit am Fall des Spickzettels erläutern, Petzen sicher vom Hilfeholen unterscheiden und mithilfe von Argumentekarten ein begründetes Urteil darüber fällen, was Emil tun sollte.",
-                  "items": [
-                    "die Handlungsmöglichkeiten Emils und die beteiligten Werte beschreiben. (AFB I)",
-                    "Situationen begründet als Petzen oder Hilfeholen zuordnen und Schweigen von Lügen unterscheiden. (AFB II)",
-                    "Argumente nach ihrer Richtung sortieren und ein eigenes Argument ergänzen. (AFB II)",
-                    "den Konflikt aus der Perspektive verschiedener Beteiligter darstellen. (AFB II)",
-                    "begründet beurteilen, wie Emil handeln sollte, und auf ein Gegenargument eingehen. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "8. Dilemma-Theater",
-              "detail": "7 Seiten · Ist eine Lüge manchmal besser als die Wahrheit?",
-              "kind": "standard",
-              "protectedId": "S-PP_Luegen_Kl6-einheit-8",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Luegen_Kl6-einheit-8-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Luegen_Kl6-einheit-8-inklusiv"
-              },
-              "info": {
-                "goal": "ein eigenes Dilemma zu Wahrheit und Lüge szenisch gestalten, die Dilemmata der anderen Gruppen begründet beurteilen und die Leitfrage „Ist eine Lüge manchmal besser als die Wahrheit?“ in einem begründeten Urteil mit Gegenargument beantworten.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Ist eine Lüge manchmal besser als die Wahrheit?",
-                "audience": "Klasse 6",
-                "result": "Mein Urteil zur Leitfrage ist fertig, wenn es eine klare Position, zwei verschiedene Gründe und ein Gegenargument mit meiner Antwort enthält.",
-                "preparation": "Tafel, M2, Urteils-Speicher, M1, Karteikarten, Bühnenfläche, Bodenmarkierung, M3",
-                "prerequisites": "Stunde 7: Freundschaft oder Ehrlichkeit?",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde ein eigenes Dilemma zu Wahrheit und Lüge szenisch gestalten, die Dilemmata der anderen Gruppen begründet beurteilen und die Leitfrage „Ist eine Lüge manchmal besser als die Wahrheit?“ in einem begründeten Urteil mit Gegenargument beantworten.",
-                  "items": [
-                    "die zentralen Gedanken der Reihe anhand der Lernlandkarte und des Urteils-Speichers nennen. (AFB I)",
-                    "ein Dilemma entwickeln, in dem beide Handlungsoptionen durch Gründe gestützt sind, und es szenisch darstellen. (AFB II)",
-                    "in der Urteilsrunde ihre Position zu einem Dilemma mithilfe der Wahrheits-Fragen begründen. (AFB III)",
-                    "ein begründetes Urteil zur Leitfrage mit Position, zwei Gründen und einem Gegenargument mit Antwort verfassen. (AFB III)",
-                    "die Urteile Kants und der Folgenabwägung zu einer Szene vergleichen und deren Tragfähigkeit beurteilen. (AFB III)"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
           "title": "Gemeinsam statt gegeneinander",
           "description": "Freundschaft, Familie, Streit: mit Beziehungsnetz, Aristoteles’ drei Arten der Freundschaft, Familienporträts, Rollenbildern, Konflikttreppe, Ich-Botschaften und der Goldenen Regel in den Weltreligionen zu einem eigenen Streitschlichter-Leitfaden der Klasse. KLP 2024 · IF 2.",
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "58 Seiten · Klasse 6 · KLP 2024",
+              "detail": "66 Seiten · Klasse 6 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "58 Seiten · Klasse 6 · KLP 2024",
+              "detail": "73 Seiten · Klasse 6 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Miteinander_Kl6_Inklusiv"
             },
@@ -2124,7 +1778,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Mein Beziehungsnetz",
-              "detail": "6 Seiten · Welche Menschen gehören zu meinem Leben – und was geben sie mir?",
+              "detail": "7 Seiten · Welche Menschen gehören zu meinem Leben – und was geben sie mir?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-1",
               "teacher": {
@@ -2135,7 +1789,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-1-inklusiv"
               },
@@ -2162,7 +1816,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Was ist eine gute Freundin, ein guter Freund?",
-              "detail": "5 Seiten · Was macht eine echte Freundschaft aus?",
+              "detail": "6 Seiten · Was macht eine echte Freundschaft aus?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-2",
               "teacher": {
@@ -2173,7 +1827,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-2-inklusiv"
               },
@@ -2200,7 +1854,7 @@ window.materialSubjects = {
             },
             {
               "label": "3. Familie ist bunt",
-              "detail": "6 Seiten · Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
+              "detail": "7 Seiten · Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-3",
               "teacher": {
@@ -2211,7 +1865,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-3-inklusiv"
               },
@@ -2249,7 +1903,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-4-inklusiv"
               },
@@ -2276,7 +1930,7 @@ window.materialSubjects = {
             },
             {
               "label": "5. Wenn ich wütend bin …",
-              "detail": "5 Seiten · Wie wird aus einer kleinen Meinungsverschiedenheit ein großer Streit – und wo kann man ihn stoppen?",
+              "detail": "7 Seiten · Wie wird aus einer kleinen Meinungsverschiedenheit ein großer Streit – und wo kann man ihn stoppen?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-5",
               "teacher": {
@@ -2287,7 +1941,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-5-inklusiv"
               },
@@ -2314,7 +1968,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Streiten, aber richtig",
-              "detail": "5 Seiten · Wie kann ich sagen, was mich stört, ohne dass der Streit noch größer wird?",
+              "detail": "7 Seiten · Wie kann ich sagen, was mich stört, ohne dass der Streit noch größer wird?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-6",
               "teacher": {
@@ -2325,7 +1979,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-6-inklusiv"
               },
@@ -2390,7 +2044,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Unser Streitschlichter-Leitfaden",
-              "detail": "6 Seiten · Was brauchen wir, damit Miteinander gelingt?",
+              "detail": "7 Seiten · Was brauchen wir, damit Miteinander gelingt?",
               "kind": "standard",
               "protectedId": "S-PP_Miteinander_Kl6-einheit-8",
               "teacher": {
@@ -2401,7 +2055,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Miteinander_Kl6-einheit-8-inklusiv"
               },
@@ -2429,18 +2083,364 @@ window.materialSubjects = {
           ]
         },
         {
+          "title": "Darf man lügen?",
+          "description": "Wahrheit, Wahrhaftigkeit und Lüge: mit dem Lügen-Barometer, Pinocchio und dem Hirtenjungen, der Notlüge, Kants striktem Lügenverbot und der Abwägung von Folgen zu Dilemmata aus dem Klassenalltag, Dilemma-Theater und einem begründeten Urteil. KLP 2024 · IF 3.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "68 Seiten · Klasse 6 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "72 Seiten · Klasse 6 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Luegen_Kl6_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "48 Seiten · Klasse 6 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Luegen_Kl6_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "46 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Luegen_Kl6-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Luegen_Kl6-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Luegen_Kl6-methoden"
+            },
+            {
+              "label": "1. Das Lügen-Barometer",
+              "detail": "7 Seiten · Sind alle Lügen gleich schlimm?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "alltägliche Lügen nach ihrer Schwere ordnen, Gründe für das Lügen benennen und daraus die Frage entwickeln, ob eine Lüge manchmal besser sein kann als die Wahrheit.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Sind alle Lügen gleich schlimm?",
+                "audience": "Klasse 6",
+                "result": "Nicht alle Lügen sind gleich: Wie schlimm eine Lüge ist, hängt davon ab, warum jemand lügt und wem die Lüge schadet.",
+                "preparation": "Wäscheleine, Klammern, Karte E, M1, Kartensätze, M2, Tafel, Wahrheits-Fragen, Urteils-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde alltägliche Lügen nach ihrer Schwere ordnen, Gründe für das Lügen benennen und daraus die Frage entwickeln, ob eine Lüge manchmal besser sein kann als die Wahrheit.",
+                  "items": [
+                    "in fünf Fallbeispielen beschreiben, was tatsächlich geschehen ist und was gesagt wird. (AFB I)",
+                    "Gründe für das Lügen aus einem Gesprächstext herausarbeiten. (AFB I)",
+                    "Fallbeispiele begründet auf einer Skala von harmlos bis schlimm anordnen und Motive zuordnen. (AFB II)",
+                    "eine umstrittene Lüge mit den drei Wahrheits-Fragen prüfen. (AFB II)",
+                    "eine Lüge aus der Perspektive der Betroffenen bewerten oder einen eigenen Grenzfall entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Wahr, ehrlich, gelogen",
+              "detail": "7 Seiten · Ist jeder falsche Satz eine Lüge?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "zwischen Wahrheit, Wahrhaftigkeit, Irrtum und Lüge unterscheiden und an Grenzfällen prüfen, dass eine Lüge nicht schon durch einen falschen Satz, sondern durch die Täuschungsabsicht bestimmt ist.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist jeder falsche Satz eine Lüge?",
+                "audience": "Klasse 6",
+                "result": "Nicht jeder falsche Satz ist eine Lüge: Lügen heißt, etwas zu sagen, von dem man weiß, dass es falsch ist, damit ein anderer es glaubt.",
+                "preparation": "Tafel, M1, Wortspeicher, M2, Satzbausteine, Urteils-Speicher",
+                "prerequisites": "Stunde 1: Das Lügen-Barometer",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde zwischen Wahrheit, Wahrhaftigkeit, Irrtum und Lüge unterscheiden und an Grenzfällen prüfen, dass eine Lüge nicht schon durch einen falschen Satz, sondern durch die Täuschungsabsicht bestimmt ist.",
+                  "items": [
+                    "die Begriffe Wahrheit, Wahrhaftigkeit, Irrtum und Lüge nennen und mit eigenen Worten erläutern. (AFB I)",
+                    "Aussagen aus einem Fallbeispiel den vier Begriffen mithilfe zweier Prüffragen zuordnen. (AFB II)",
+                    "den Unterschied zwischen Irrtum und Lüge an selbst entwickelten Beispielen erklären. (AFB II)",
+                    "Grenzfälle wie Ironie, Spiel, Geheimnis und Übertreibung kriteriengeleitet prüfen. (AFB III)",
+                    "beurteilen, ob eine Täuschungsabsicht ohne falsche Aussage als Lüge gelten kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Pinocchio und die Folgen",
+              "detail": "7 Seiten · Was passiert mit dem Vertrauen, wenn jemand lügt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "an den Geschichten von Pinocchio und dem Hirtenjungen die Folgen von Lügen erläutern und erkennen, dass Lügen vor allem Vertrauen und Glaubwürdigkeit beschädigen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was passiert mit dem Vertrauen, wenn jemand lügt?",
+                "audience": "Klasse 6",
+                "result": "Wer lügt, setzt Vertrauen aufs Spiel, und verlorenes Vertrauen ist schwer zurückzugewinnen – das ist ein wichtiger Grund gegen das Lügen, auch wenn eine Lüge im Moment klein wirkt.",
+                "preparation": "Beamer, Illustration, Tafel, M1, Wortspeicher, M2, Plakate, Urteils-Speicher",
+                "prerequisites": "Stunde 2: Wahr, ehrlich, gelogen",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an den Geschichten von Pinocchio und dem Hirtenjungen die Folgen von Lügen erläutern und erkennen, dass Lügen vor allem Vertrauen und Glaubwürdigkeit beschädigen.",
+                  "items": [
+                    "wiedergeben, wie Pinocchio die Fee belügt und welche Folge dies hat. (AFB I)",
+                    "den Ablauf der drei Rufe in der Fabel und die jeweilige Reaktion des Dorfes darstellen. (AFB I)",
+                    "mit den Begriffen Lüge, Wahrheit und Vertrauen erklären, warum dem Hirtenjungen beim dritten Ruf niemand glaubt. (AFB II)",
+                    "die sofortige und die zeitversetzte Folge der Lüge in beiden Geschichten mithilfe der Wahrheits-Fragen vergleichen. (AFB II)",
+                    "Schritte entwickeln und beurteilen, wie verlorenes Vertrauen zurückgewonnen werden kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Die Notlüge",
+              "detail": "7 Seiten · Darf man lügen, um jemanden nicht zu verletzen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "8 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "am Dilemma des ungeliebten Geburtstagsgeschenks den Wertekonflikt zwischen Rücksicht und Ehrlichkeit erläutern und auf der Positionslinie eine begründete eigene Position einnehmen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Darf man lügen, um jemanden nicht zu verletzen?",
+                "audience": "Klasse 6",
+                "result": "Eine Notlüge will jemanden schonen; bevor ich sie für richtig halte, prüfe ich, ob es eine Antwort gibt, die zugleich wahr und freundlich ist, und was die Lüge später für das Vertrauen bedeutet.",
+                "preparation": "Päckchen, Tafel, M1, Wortspeicher, M2, Seil, zwei Schilder, Urteils-Speicher",
+                "prerequisites": "Stunde 3: Pinocchio und die Folgen",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde am Dilemma des ungeliebten Geburtstagsgeschenks den Wertekonflikt zwischen Rücksicht und Ehrlichkeit erläutern und auf der Positionslinie eine begründete eigene Position einnehmen.",
+                  "items": [
+                    "Mias Lage und die Erwartungen von Oma Gerda beschreiben. (AFB I)",
+                    "verschiedene Antwortmöglichkeiten Mias mit ihren kurz- und langfristigen Folgen sammeln. (AFB I/II)",
+                    "den Begriff Wertekonflikt erklären und die konkurrierenden Werte Rücksicht und Ehrlichkeit benennen. (AFB II)",
+                    "drei Lösungsvorschläge mithilfe der Wahrheits-Fragen prüfen. (AFB II)",
+                    "auf der Positionslinie eine eigene Position einnehmen, begründen und gegebenenfalls revidieren. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Kant: Niemals lügen!",
+              "detail": "6 Seiten · Ist Lügen immer falsch – sogar dann, wenn man damit jemandem helfen will?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "Kants Begründung des unbedingten Lügenverbots in ihren Grundgedanken wiedergeben, an einem kindgerechten Gedankenexperiment anwenden und eine erste begründete Stellungnahme dazu formulieren können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist Lügen immer falsch – sogar dann, wenn man damit jemandem helfen will?",
+                "audience": "Klasse 6",
+                "result": "Kant sagt: Lügen ist nie erlaubt, weil sonst niemand mehr dem anderen vertrauen kann und man den anderen heimlich wie ein Werkzeug benutzt – man muss aber nicht alles verraten, was man weiß.",
+                "preparation": "Porträt (M1), Tafel, M1, Heft, Wortspeicher, M2, Raumecken mit Schildern, Urteils-Speicher",
+                "prerequisites": "Stunde 4: Die Notlüge",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Kants Begründung des unbedingten Lügenverbots in ihren Grundgedanken wiedergeben, an einem kindgerechten Gedankenexperiment anwenden und eine erste begründete Stellungnahme dazu formulieren können.",
+                  "items": [
+                    "Kants zwei Gründe gegen das Lügen mit eigenen Worten nennen. (AFB I)",
+                    "die Handlungsmöglichkeiten der Figur im Gedankenexperiment beschreiben. (AFB I)",
+                    "Kants Verallgemeinerungstest auf die Notlüge aus Stunde 4 anwenden und erklären, warum Kant sie verbietet. (AFB II)",
+                    "die vier Handlungsoptionen mithilfe der Wahrheits-Fragen prüfen und Kants Haltung dazu begründet zuordnen. (AFB II)",
+                    "Kants Position begründet beurteilen und dabei einen Einwand berücksichtigen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Auf die Folgen kommt es an",
+              "detail": "7 Seiten · Darf man lügen, wenn dadurch für alle mehr Gutes als Schlechtes herauskommt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "das Abwägen von Folgen als Gegenposition zu Kant anwenden, beide Positionen kriteriengeleitet vergleichen und ihre Tragfähigkeit begründet beurteilen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Darf man lügen, wenn dadurch für alle mehr Gutes als Schlechtes herauskommt?",
+                "audience": "Klasse 6",
+                "result": "Man kann eine Lüge auch nach ihren Folgen beurteilen: Wer abwägt, muss an alle Beteiligten denken, jeden gleich ernst nehmen und auch spätere Folgen wie verlorenes Vertrauen auf die Waage legen.",
+                "preparation": "Balkenwaage oder Tafelskizze, Klötze, M1, Heft, Tafel, Kasten M1, M2, Kärtchen, Raum, Kasten M2, Urteils-Speicher",
+                "prerequisites": "Stunde 5: Kant: Niemals lügen!",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde das Abwägen von Folgen als Gegenposition zu Kant anwenden, beide Positionen kriteriengeleitet vergleichen und ihre Tragfähigkeit begründet beurteilen können.",
+                  "items": [
+                    "die guten und schlechten Folgen von Sofias Lüge für alle Beteiligten beschreiben. (AFB I)",
+                    "Aussagen begründet der Position Kants oder dem Abwägen von Folgen zuordnen. (AFB I)",
+                    "beide Positionen am Fall Sofia und Kim vergleichen und einen Unterschied sowie eine Gemeinsamkeit erklären. (AFB II)",
+                    "die Folgen-Waage eigenständig auf einen neuen Alltagsfall anwenden und abwägen. (AFB II)",
+                    "die Tragfähigkeit beider Positionen anhand von Kriterien beurteilen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Freundschaft oder Ehrlichkeit?",
+              "detail": "7 Seiten · Muss ich die Wahrheit sagen, auch wenn ich damit einen Freund verrate?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "den Wertekonflikt zwischen Freundschaft und Ehrlichkeit am Fall des Spickzettels erläutern, Petzen sicher vom Hilfeholen unterscheiden und mithilfe von Argumentekarten ein begründetes Urteil darüber fällen, was Emil tun sollte.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Muss ich die Wahrheit sagen, auch wenn ich damit einen Freund verrate?",
+                "audience": "Klasse 6",
+                "result": "Schweigen ist nicht dasselbe wie lügen, und wer Hilfe holt, weil jemand in Gefahr ist, verletzt oder bedroht wird, petzt nicht, sondern schützt.",
+                "preparation": "M1, Tafel, M2, M2 als Kartensatz, Bodenmarkierung, Karten, Urteils-Speicher, –",
+                "prerequisites": "Stunde 6: Auf die Folgen kommt es an",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde den Wertekonflikt zwischen Freundschaft und Ehrlichkeit am Fall des Spickzettels erläutern, Petzen sicher vom Hilfeholen unterscheiden und mithilfe von Argumentekarten ein begründetes Urteil darüber fällen, was Emil tun sollte.",
+                  "items": [
+                    "die Handlungsmöglichkeiten Emils und die beteiligten Werte beschreiben. (AFB I)",
+                    "Situationen begründet als Petzen oder Hilfeholen zuordnen und Schweigen von Lügen unterscheiden. (AFB II)",
+                    "Argumente nach ihrer Richtung sortieren und ein eigenes Argument ergänzen. (AFB II)",
+                    "den Konflikt aus der Perspektive verschiedener Beteiligter darstellen. (AFB II)",
+                    "begründet beurteilen, wie Emil handeln sollte, und auf ein Gegenargument eingehen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Dilemma-Theater",
+              "detail": "7 Seiten · Ist eine Lüge manchmal besser als die Wahrheit?",
+              "kind": "standard",
+              "protectedId": "S-PP_Luegen_Kl6-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Luegen_Kl6-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "9 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Luegen_Kl6-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "ein eigenes Dilemma zu Wahrheit und Lüge szenisch gestalten, die Dilemmata der anderen Gruppen begründet beurteilen und die Leitfrage „Ist eine Lüge manchmal besser als die Wahrheit?“ in einem begründeten Urteil mit Gegenargument beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Ist eine Lüge manchmal besser als die Wahrheit?",
+                "audience": "Klasse 6",
+                "result": "Mein Urteil zur Leitfrage ist fertig, wenn es eine klare Position, zwei verschiedene Gründe und ein Gegenargument mit meiner Antwort enthält.",
+                "preparation": "Tafel, M2, Urteils-Speicher, M1, Karteikarten, Bühnenfläche, Bodenmarkierung, M3",
+                "prerequisites": "Stunde 7: Freundschaft oder Ehrlichkeit?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde ein eigenes Dilemma zu Wahrheit und Lüge szenisch gestalten, die Dilemmata der anderen Gruppen begründet beurteilen und die Leitfrage „Ist eine Lüge manchmal besser als die Wahrheit?“ in einem begründeten Urteil mit Gegenargument beantworten.",
+                  "items": [
+                    "die zentralen Gedanken der Reihe anhand der Lernlandkarte und des Urteils-Speichers nennen. (AFB I)",
+                    "ein Dilemma entwickeln, in dem beide Handlungsoptionen durch Gründe gestützt sind, und es szenisch darstellen. (AFB II)",
+                    "in der Urteilsrunde ihre Position zu einem Dilemma mithilfe der Wahrheits-Fragen begründen. (AFB III)",
+                    "ein begründetes Urteil zur Leitfrage mit Position, zwei Gründen und einem Gegenargument mit Antwort verfassen. (AFB III)",
+                    "die Urteile Kants und der Folgenabwägung zu einer Szene vergleichen und deren Tragfähigkeit beurteilen. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "title": "Wie wollen wir leben?",
           "description": "Nachhaltig konsumieren und lernen: mit Konsumtagebuch, Diogenes in der Tonne, der Reise eines T-Shirts, Reparieren, Teilen und Tauschen, Teilhabe im Schulgarten, einem Gedankenexperiment zum Lernen und einer eigenen Aktion zur Woche der Nachhaltigkeit. KLP 2024 · IF 5.",
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "59 Seiten · Klasse 6 · KLP 2024",
+              "detail": "67 Seiten · Klasse 6 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "61 Seiten · Klasse 6 · KLP 2024",
+              "detail": "72 Seiten · Klasse 6 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Nachhaltig_Kl6_Inklusiv"
             },
@@ -2470,7 +2470,7 @@ window.materialSubjects = {
             },
             {
               "label": "1. Mein Konsumtagebuch",
-              "detail": "5 Seiten · Was kaufe, nutze und werfe ich weg – und warum?",
+              "detail": "6 Seiten · Was kaufe, nutze und werfe ich weg – und warum?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-1",
               "teacher": {
@@ -2481,7 +2481,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-1-inklusiv"
               },
@@ -2508,7 +2508,7 @@ window.materialSubjects = {
             },
             {
               "label": "2. Brauche ich das?",
-              "detail": "5 Seiten · Was brauche ich wirklich – und was möchte ich nur haben?",
+              "detail": "6 Seiten · Was brauche ich wirklich – und was möchte ich nur haben?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-2",
               "teacher": {
@@ -2519,7 +2519,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-2-inklusiv"
               },
@@ -2546,7 +2546,7 @@ window.materialSubjects = {
             },
             {
               "label": "3. Die Reise eines T-Shirts",
-              "detail": "6 Seiten · Welchen Weg legt ein T-Shirt zurück, bevor es in meinem Schrank liegt – und wer ist daran beteiligt?",
+              "detail": "7 Seiten · Welchen Weg legt ein T-Shirt zurück, bevor es in meinem Schrank liegt – und wer ist daran beteiligt?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-3",
               "teacher": {
@@ -2557,7 +2557,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-3-inklusiv"
               },
@@ -2595,7 +2595,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-4-inklusiv"
               },
@@ -2622,7 +2622,7 @@ window.materialSubjects = {
             },
             {
               "label": "5. Gemeinsam geht mehr",
-              "detail": "6 Seiten · Warum braucht Nachhaltigkeit Gemeinschaft?",
+              "detail": "7 Seiten · Warum braucht Nachhaltigkeit Gemeinschaft?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-5",
               "teacher": {
@@ -2633,7 +2633,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-5-inklusiv"
               },
@@ -2660,7 +2660,7 @@ window.materialSubjects = {
             },
             {
               "label": "6. Warum lernen wir eigentlich?",
-              "detail": "6 Seiten · Warum soll ich selbst lernen und denken, wenn Maschinen so viel wissen?",
+              "detail": "7 Seiten · Warum soll ich selbst lernen und denken, wenn Maschinen so viel wissen?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-6",
               "teacher": {
@@ -2671,7 +2671,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-6-inklusiv"
               },
@@ -2698,7 +2698,7 @@ window.materialSubjects = {
             },
             {
               "label": "7. Wir planen die Woche der Nachhaltigkeit",
-              "detail": "5 Seiten · Was können wir gemeinsam tun – und wie wird aus einer Idee ein Plan?",
+              "detail": "7 Seiten · Was können wir gemeinsam tun – und wie wird aus einer Idee ein Plan?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-7",
               "teacher": {
@@ -2709,7 +2709,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-7-inklusiv"
               },
@@ -2736,7 +2736,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Woche der Nachhaltigkeit: Bilanz",
-              "detail": "7 Seiten · Was brauche ich wirklich – und was haben wir gemeinsam bewirkt?",
+              "detail": "8 Seiten · Was brauche ich wirklich – und was haben wir gemeinsam bewirkt?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8",
               "teacher": {
@@ -2747,7 +2747,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "7 Seiten",
+                "detail": "8 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8-inklusiv"
               },
