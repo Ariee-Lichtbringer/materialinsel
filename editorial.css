@@ -77,9 +77,12 @@ body:not(.home-page)>.hero{background:#e8efe9;color:#143f35;border:0}body:not(.h
 .product-detail .shop-bar strong{display:block;font-size:26px}.product-detail .shop-bar small{font-size:14px;line-height:1.6;display:block;margin-top:12px}
 .product-detail .shop-bar button{margin-top:18px;min-height:48px}.product-included{margin-top:24px;padding:20px;background:#f5f4ef;border-radius:12px}
 .product-included ul{list-style:none;padding:0;margin:0}.product-included li{display:flex;flex-direction:column;padding:10px 0;border-bottom:1px solid #dce3dc}.product-included span,.product-included>p:last-child{font-size:14px;color:#53645e}
-.mini-dl{display:inline-flex;flex-direction:column;gap:3px;text-align:center;white-space:normal}.mini-dl .download-action{font-size:12px}.mini-dl .file-kind{font-weight:700}
+.mini-dl{display:inline-flex;flex-direction:column;justify-content:center;gap:4px;height:auto;min-height:52px;box-sizing:border-box;padding:9px 12px;line-height:1.35;text-align:center;white-space:normal}.mini-dl .download-action{font-size:12px}.mini-dl .file-kind{font-weight:700}
 @media(max-width:700px){.product-detail .mappe-head{grid-template-columns:1fr;gap:24px}.product-detail .mappe-cover{max-width:230px;margin:auto}.product-detail .shop-bar{padding:20px}.product-page main{padding-left:16px;padding-right:16px}}
 
 .product-detail .shop-bar .mini-sample{background:#fff;color:#153a36;border:1px solid #a8bdb1;margin-top:10px}.product-description{margin:12px 0 20px}.product-description summary{cursor:pointer;text-decoration:underline;color:#0d5c58}
 
 @media(max-width:700px){.product-page .hero__inner{padding-top:30px;padding-bottom:24px}.product-detail .mappe-cover{width:145px;max-height:210px}.product-detail .mappe-head{gap:18px}}
+
+.mappe-row__actions{align-items:center}.mini-dl .download-action{display:block;max-width:100%;overflow-wrap:anywhere;opacity:1}.mini-dl .file-kind{opacity:1}.mini-dl:focus-visible,.mini-sample:focus-visible{outline:3px solid #0d5c58;outline-offset:3px}
+@media(max-width:640px){.mappe-row__actions{display:flex;justify-content:flex-start;gap:8px}.mappe-row__actions .mini-dl{flex:1 1 140px;min-width:0}.mappe-row__actions .mini-sample{min-height:44px;box-sizing:border-box}}
