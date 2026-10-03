@@ -826,11 +826,11 @@ window.historyMaterials = [
   },
   {
     "title": "Der Weg in die Demokratie · Deutschland und Europa 1945–1961",
-    "description": "166 Seiten · Neue Mappe 2026 · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
+    "description": "171 Seiten · Neue Mappe 2026 · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
     "files": [
       {
         "label": "Gesamtpaket herunterladen",
-        "detail": "166 Seiten · Neue Mappe 2026 · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
+        "detail": "171 Seiten · Neue Mappe 2026 · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
         "kind": "teacher",
         "protectedId": "Europa-Weg-in-die-Demokratie-1945-1961"
       },
@@ -1054,11 +1054,11 @@ window.historyMaterials = [
   },
   {
     "title": "Von vier Zonen zu zwei Blöcken · Trizonesien 1945–1953",
-    "description": "195 Seiten · Neue Mappe 2026 · 7 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
+    "description": "202 Seiten · Neue Mappe 2026 · 7 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
     "files": [
       {
         "label": "Gesamtpaket herunterladen",
-        "detail": "195 Seiten · Neue Mappe 2026 · 7 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
+        "detail": "202 Seiten · Neue Mappe 2026 · 7 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
         "kind": "teacher",
         "protectedId": "Trizonesien-Vier-Zonen-zwei-Bloecke"
       },
@@ -1316,11 +1316,11 @@ window.historyMaterials = [
   },
   {
     "title": "Die Mauer in den Köpfen · Teilung, Propaganda, Stasi",
-    "description": "146 Seiten · Neue Mappe 2026 · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
+    "description": "149 Seiten · Neue Mappe 2026 · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
     "files": [
       {
         "label": "Gesamtpaket herunterladen",
-        "detail": "146 Seiten · Neue Mappe 2026 · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
+        "detail": "149 Seiten · Neue Mappe 2026 · 6 Doppelstunden à 90 Minuten · Klasse 9/10 · volle Input-Seiten (M), Bildquellen-Seiten mit Fotos und Originaldokumenten, Arbeitsblätter (AB) und ausführlicher Lehrkräfteteil",
         "kind": "teacher",
         "protectedId": "Mauer-in-den-Koepfen"
       },
