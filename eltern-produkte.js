@@ -504,6 +504,101 @@ window.elternProdukte = {
      "abschluss": "RS",
      "pruefungsjahr": 2027
     }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Realschule – Sachtext",
+    "description": "Für Teil A der Realschulabschlussprüfung Deutsch Baden-Württemberg: Sachtexte und Diagramme auswerten, zusammenfassen, Aussagen prüfen, Wortbedeutung, Orthografie und Zeichensetzung, mit Probe-Aufgabe (20 Punkte) und allen Lösungen. Baden-Württemberg · Realschulabschluss · Klasse 10 (Realschule und Gemeinschaftsschule) · Prüfungsjahr 2027 · Teil A · Textverständnis, Orthografie, Zeichensetzung. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "35 Seiten · BW RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_RS_A_SACHTEXT"
+     }
+    ],
+    "pageCount": 35,
+    "eltern": {
+     "id": "BW_RS_A_SACHTEXT",
+     "land": "BW",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Realschule – Argumentieren",
+    "description": "Selbstlernheft zum materialgestützten Argumentieren in der Realschulabschlussprüfung Deutsch Baden-Württemberg: Materialien auswerten, Argumente mit Belegen, direkt und indirekt zitieren, Einwände entkräften, Einleitung und Schluss mit Appell, Überarbeiten nach dem amtlichen Bewertungsraster, Musterlösungen und Probe-Aufgabe. Baden-Württemberg · Realschulabschluss · Klasse 10 (Realschule und Gemeinschaftsschule) · Prüfungsjahr 2027 · Teil A · Materialgestütztes Argumentieren. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "36 Seiten · BW RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_RS_A_ARGUMENTIEREN"
+     }
+    ],
+    "pageCount": 36,
+    "eltern": {
+     "id": "BW_RS_A_ARGUMENTIEREN",
+     "land": "BW",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Realschule – Literatur",
+    "description": "Für Teil B der Realschulabschlussprüfung Deutsch in Baden-Württemberg (Format ab 2027): Kurzgeschichten und Gedichte erschließen und deuten, Erzählperspektive und sprachliche Mittel untersuchen, Aufgaben zum Sprachgebrauch lösen, mit Probe-Aufgabe und allen Lösungen. Baden-Württemberg · Realschulabschluss · Klasse 10 (Realschule und Gemeinschaftsschule) · Prüfungsjahr 2027 · Teil B · Lyrik oder Prosa. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "30 Seiten · BW RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_RS_B_LITERATUR"
+     }
+    ],
+    "pageCount": 30,
+    "eltern": {
+     "id": "BW_RS_B_LITERATUR",
+     "land": "BW",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Realschule – Ganzschrift",
+    "description": "Für die Ganzschrift-Aufgabe in Teil B der Realschulabschlussprüfung Deutsch in Baden-Württemberg (Format ab 2027): Textkenntnis absichern, Leerstellen erkennen, Perspektive und Sprache einer Figur treffen und produktive Texte planen, schreiben und überarbeiten, geübt an Kellers „Kleider machen Leute“, mit Probe-Aufgabe und allen Lösungen. Baden-Württemberg · Realschulabschluss · Klasse 10 (Realschule und Gemeinschaftsschule) · Prüfungsjahr 2027 · Teil B · Ganzschrift. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "33 Seiten · BW RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_RS_B_GANZSCHRIFT"
+     }
+    ],
+    "pageCount": 33,
+    "eltern": {
+     "id": "BW_RS_B_GANZSCHRIFT",
+     "land": "BW",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Realschule – Probeprüfung",
+    "description": "Eine vollständige Probeprüfung zur Realschulabschlussprüfung Deutsch in Baden-Württemberg im Format ab 2027, mit Zeitplan, Strategien, amtlichem Bewertungsraster für das materialgestützte Argumentieren und Musterlösungen – zum Üben an einem Vormittag zu Hause. Baden-Württemberg · Realschulabschluss · Klasse 10 (Realschule und Gemeinschaftsschule) · Prüfungsjahr 2027 · Probeprüfung · Teil A und B. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · BW RS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_RS_PROBEPRUEFUNG"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "BW_RS_PROBEPRUEFUNG",
+     "land": "BW",
+     "abschluss": "RS",
+     "pruefungsjahr": 2027
+    }
    }
   ],
   "9": [
@@ -751,6 +846,101 @@ window.elternProdukte = {
      "id": "NI_HS9_PROBEPRUEFUNG",
      "land": "NI",
      "abschluss": "HS9",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Hauptschule – Sachtext",
+    "description": "Für Aufgabe 1 der Hauptschulabschlussprüfung Deutsch Baden-Württemberg: Sachtexte, Schaubilder und Tabellen verstehen, Antworten mit Zeilenangabe belegen, Rechtschreibung und Wörterbuch, mit Probe-Aufgabe (18 Punkte) und allen Lösungen. Baden-Württemberg · Hauptschulabschluss · Klasse 9 (Haupt-, Werkreal- und Gemeinschaftsschule) · Prüfungsjahr 2027 · Teil A · Aufgabe 1 · Sachtext und Rechtschreibung. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "36 Seiten · BW HS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_HS_A1_SACHTEXT"
+     }
+    ],
+    "pageCount": 36,
+    "eltern": {
+     "id": "BW_HS_A1_SACHTEXT",
+     "land": "BW",
+     "abschluss": "HS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Hauptschule – Stellungnahme",
+    "description": "Selbstlernheft zu Aufgabe 2 der Hauptschulabschlussprüfung Deutsch Baden-Württemberg: hinleitende Aufgaben, Argumente mit Begründung und Beispiel, Gegenargumente entkräften, formaler Brief und formale E-Mail, Überarbeiten, Musterlösungen und Probe-Aufgabe mit Raster. Baden-Württemberg · Hauptschulabschluss · Klasse 9 (Haupt-, Werkreal- und Gemeinschaftsschule) · Prüfungsjahr 2027 · Teil A · Aufgabe 2 · Begründete Stellungnahme. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "35 Seiten · BW HS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_HS_A2_STELLUNGNAHME"
+     }
+    ],
+    "pageCount": 35,
+    "eltern": {
+     "id": "BW_HS_A2_STELLUNGNAHME",
+     "land": "BW",
+     "abschluss": "HS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Hauptschule – Literatur",
+    "description": "Für Aufgabe 3 der Hauptschulabschlussprüfung Deutsch in Baden-Württemberg: Erzähltexte und Gedichte verstehen, Aussagen am Text belegen, sprachliche Bilder erkennen und Aufgaben zum Sprachgebrauch lösen, mit Probe-Aufgabe und allen Lösungen. Baden-Württemberg · Hauptschulabschluss · Klasse 9 (Haupt-, Werkreal- und Gemeinschaftsschule) · Prüfungsjahr 2027 · Teil B · Aufgabe 3 · Lyrik oder Prosa. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "31 Seiten · BW HS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_HS_A3_LITERATUR"
+     }
+    ],
+    "pageCount": 31,
+    "eltern": {
+     "id": "BW_HS_A3_LITERATUR",
+     "land": "BW",
+     "abschluss": "HS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Hauptschule – Ganzschrift",
+    "description": "Für Aufgabe 4 der Hauptschulabschlussprüfung Deutsch in Baden-Württemberg: mit der eigenen Ganzschrift arbeiten, Randnotizen anlegen, Handlung und Figuren erschließen, Figuren mit Seitenangaben charakterisieren und produktive Schreibaufgaben lösen, geübt an „Krambambuli“, mit Probe-Aufgabe und allen Lösungen. Baden-Württemberg · Hauptschulabschluss · Klasse 9 (Haupt-, Werkreal- und Gemeinschaftsschule) · Prüfungsjahr 2027 · Teil B · Aufgabe 4 · Ganzschrift. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "36 Seiten · BW HS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_HS_A4_GANZSCHRIFT"
+     }
+    ],
+    "pageCount": 36,
+    "eltern": {
+     "id": "BW_HS_A4_GANZSCHRIFT",
+     "land": "BW",
+     "abschluss": "HS",
+     "pruefungsjahr": 2027
+    }
+   },
+   {
+    "title": "Selbstlernheft Baden-Württemberg Hauptschule – Probeprüfung",
+    "description": "Eine vollständige Probeprüfung zur Hauptschulabschlussprüfung Deutsch in Baden-Württemberg mit allen vier Aufgaben, Zeitplan, Strategien, Bewertungsraster und Musterlösungen – zum Üben an einem Vormittag zu Hause. Baden-Württemberg · Hauptschulabschluss · Klasse 9 (Haupt-, Werkreal- und Gemeinschaftsschule) · Prüfungsjahr 2027 · Probeprüfung · Teil A und B. Für Schülerinnen und Schüler zum selbstständigen Üben zu Hause, mit einer Einstiegsseite für Eltern, Lernschritten mit Beispielen und Übungen, Probe-Aufgabe mit Bewertungsraster und allen Lösungen. PDF zum Ausdrucken, einmaliger Kauf, für den privaten Gebrauch.",
+    "files": [
+     {
+      "label": "Selbstlernheft (PDF)",
+      "detail": "37 Seiten · BW HS · Prüfung 2027 · mit allen Lösungen",
+      "kind": "standard",
+      "protectedId": "S-Selbstlernheft_BW_HS_PROBEPRUEFUNG"
+     }
+    ],
+    "pageCount": 37,
+    "eltern": {
+     "id": "BW_HS_PROBEPRUEFUNG",
+     "land": "BW",
+     "abschluss": "HS",
      "pruefungsjahr": 2027
     }
    }
