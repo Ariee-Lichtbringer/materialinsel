@@ -434,25 +434,25 @@ window.materialSubjects = {
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "53 Seiten · Klasse 5 · KLP 2024",
+              "detail": "55 Seiten · Klasse 5 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "55 Seiten · Klasse 5 · KLP 2024",
+              "detail": "57 Seiten · Klasse 5 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Gerechtigkeit_Kl5_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "48 Seiten · Klasse 5 · KLP 2024",
+              "detail": "50 Seiten · Klasse 5 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Gerechtigkeit_Kl5_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "46 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "48 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Gerechtigkeit_Kl5-kommentar"
             },
@@ -736,7 +736,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Unsere Gerechtigkeits-Charta",
-              "detail": "6 Seiten · Ist es gerecht, wenn alle das Gleiche bekommen?",
+              "detail": "7 Seiten · Ist es gerecht, wenn alle das Gleiche bekommen?",
               "kind": "standard",
               "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8",
               "teacher": {
@@ -747,7 +747,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Gerechtigkeit_Kl5-einheit-8-inklusiv"
               },
@@ -775,376 +775,30 @@ window.materialSubjects = {
           ]
         },
         {
-          "title": "Sehe ich, was wirklich ist?",
-          "description": "Wahrnehmung, Täuschung und Medien: mit Kippbildern, Sinnesstationen, der Parabel von den Blinden und dem Elefanten, Platons Höhle, Werbebildern und der „Großen Mondente“ prüfen, wann wir unseren Augen trauen können, und ein eigenes Faktencheck-Detektivbuch anlegen. KLP 2024 · IF 7.",
-          "files": [
-            {
-              "label": "Schülermappe",
-              "detail": "53 Seiten · Klasse 5 · KLP 2024",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5_Schuelermappe"
-            },
-            {
-              "label": "Inklusive Schülermappe",
-              "detail": "53 Seiten · Klasse 5 · KLP 2024",
-              "kind": "inclusive",
-              "protectedId": "S-PP_Wahrnehmung_Kl5_Inklusiv"
-            },
-            {
-              "label": "Lehrkräfteband",
-              "detail": "47 Seiten · Klasse 5 · KLP 2024",
-              "kind": "teacher",
-              "protectedId": "PP_Wahrnehmung_Kl5_Lehrkraefteband"
-            },
-            {
-              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "45 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
-              "kind": "teacher",
-              "protectedId": "PP_Wahrnehmung_Kl5-kommentar"
-            },
-            {
-              "label": "Lernziele, Kompetenzen und Verlaufspläne",
-              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
-              "kind": "teacher",
-              "protectedId": "PP_Wahrnehmung_Kl5-lernziele"
-            },
-            {
-              "label": "Methodenkoffer und Operatorenhilfen",
-              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
-              "kind": "teacher",
-              "protectedId": "PP_Wahrnehmung_Kl5-methoden"
-            },
-            {
-              "label": "1. Kippbilder",
-              "detail": "5 Seiten · Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-1-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1-inklusiv"
-              },
-              "info": {
-                "goal": "an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
-                "audience": "Klasse 5",
-                "result": "Prüf-Tipp 1 im Detektiv-Speicher: Bevor ich sage „Das ist so!“, frage ich andere, was sie sehen, und lasse mir zeigen, woran sie es erkennen.",
-                "preparation": "Beamer, Notizzettel, M1, Tafel, M2, Heft, Wortspeicher, Papier, Vorlage halbes Gesicht, Plakat Detektiv-Speicher",
-                "prerequisites": "Einstieg in die Reihe.",
-                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
-                  "items": [
-                    "die beiden Deutungen des Ente-Hase-Kopfes und der Zeichnung von W. E. Hill anhand konkreter Bildelemente beschreiben. (AFB I)",
-                    "ihre eigene Wahrnehmung mit der Wahrnehmung von Mitschülerinnen und Mitschülern vergleichen und Unterschiede benennen. (AFB II)",
-                    "mit dem Modell „Die Sinne nehmen auf, der Kopf deutet“ erklären, warum dasselbe Bild verschieden gesehen werden kann. (AFB II)",
-                    "Noahs These, die Deutung werde vom Betrachter hervorgebracht, mithilfe der Detektiv-Fragen prüfen. (AFB III)",
-                    "ein eigenes Kippbild gestalten und seine Wirkung an anderen erproben. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "2. Meine Sinne können sich irren",
-              "detail": "5 Seiten · Können sich meine Sinne irren – und wie merke ich das?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-2-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2-inklusiv"
-              },
-              "info": {
-                "goal": "an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Können sich meine Sinne irren – und wie merke ich das?",
-                "audience": "Klasse 5",
-                "result": "Prüf-Tipp 2 im Detektiv-Speicher: Wenn mich mein Eindruck täuschen kann, prüfe ich mit einem Hilfsmittel wie Lineal oder Thermometer oder mit einem zweiten Sinn nach.",
-                "preparation": "Beamer, Tafel, Lineal, Stationsplan, M1, M2, Schlüsselbund, drei Schüsseln, Thermometer, Apfel- und Birnenstücke, Zahnstocher, Protokollvorlage, Protokolle, Heft, Raum, Plakat Detektiv-Speicher",
-                "prerequisites": "Stunde 1: Kippbilder",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
-                  "items": [
-                    "beschreiben, was sie bei den optischen Täuschungen und an den Stationen wahrnehmen, und dies in einem Protokoll festhalten. (AFB I)",
-                    "ihre Wahrnehmungen mit Hilfsmitteln wie Lineal und Thermometer oder mit einem zweiten Sinn überprüfen. (AFB I)",
-                    "erklären, wie Umgebung und vorangegangene Erfahrung die Wahrnehmung beeinflussen. (AFB II)",
-                    "Sinnestäuschungen nach ihren Einflüssen sortieren und die Zuordnung begründen. (AFB II)",
-                    "abwägen, wann man den eigenen Sinnen trauen kann und wann eine Prüfung nötig ist. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "3. Ich sehe, was ich erwarte",
-              "detail": "5 Seiten · Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-3-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3-inklusiv"
-              },
-              "info": {
-                "goal": "an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
-                "audience": "Klasse 5",
-                "result": "Ich frage mich: Was erwarte ich schon, und was fühle ich gerade – und könnte ich deshalb etwas übersehen oder etwas sehen, das gar nicht da ist?",
-                "preparation": "Tafel, M1, Wortspeicher, M2, Detektiv-Speicher",
-                "prerequisites": "Stunde 2: Meine Sinne können sich irren",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
-                  "items": [
-                    "die drei Versuche aus M1 benennen und angeben, was die Zuschauer jeweils erleben. (AFB I)",
-                    "beschreiben, was Emil im Keller wahrnimmt und was tatsächlich vorhanden ist. (AFB I)",
-                    "erklären, warum Menschen beim Gorilla-Versuch ein auffälliges Ereignis übersehen. (AFB II)",
-                    "den Einfluss von Aufmerksamkeit und Gefühl auf die Wahrnehmung an M1 und M2 vergleichen. (AFB II)",
-                    "die Aussage „Man sieht nur, wonach man sucht“ an Beispielen prüfen und einschränken. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "4. Die Blinden und der Elefant",
-              "detail": "5 Seiten · Kann ein Mensch allein das Ganze sehen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-4-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4-inklusiv"
-              },
-              "info": {
-                "goal": "an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Kann ein Mensch allein das Ganze sehen?",
-                "audience": "Klasse 5",
-                "result": "Ich frage mich: Von welchem Platz aus habe ich das gesehen – und wer hat vielleicht einen anderen Teil gesehen, den ich nicht kenne?",
-                "preparation": "Holzschnitt (Projektion oder M1), M1, Tafel, Raum, Wortspeicher, M2, Detektiv-Speicher",
-                "prerequisites": "Stunde 3: Ich sehe, was ich erwarte",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
-                  "items": [
-                    "den Holzschnitt von Hanabusa Itchō beschreiben und die Vergleiche der Blinden den Körperteilen zuordnen. (AFB I)",
-                    "die Parabel in einem Standbild darstellen und die Haltungen der Figuren deuten. (AFB II)",
-                    "die Berichte in M2 den Standorten der Kinder zuordnen und erklären, was jedes Kind nicht sehen konnte. (AFB II)",
-                    "aus den Teilberichten eine wahrscheinliche Darstellung des Geschehens entwickeln und offene Fragen benennen. (AFB III)",
-                    "beurteilen, ob ein einzelner Mensch das Ganze wahrnehmen kann. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "5. Raus aus der Höhle?",
-              "detail": "5 Seiten · Woher weiß ich, dass das, was ich sehe, wirklich ist?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-5-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5-inklusiv"
-              },
-              "info": {
-                "goal": "Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Woher weiß ich, dass das, was ich sehe, wirklich ist?",
-                "audience": "Klasse 5",
-                "result": "Ich schaue nicht nur auf den Schatten: Ich frage, wo ein Bild oder eine Nachricht herkommt, und schaue mir die Sache, wenn es geht, selbst an.",
-                "preparation": "Lampe, Wand, M1, Kupferstich, Arbeitsheft, Tafel, M2, Redegegenstand, Satzbausteine, Detektiv-Speicher",
-                "prerequisites": "Stunde 4: Die Blinden und der Elefant",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
-                  "items": [
-                    "die Lage der Gefangenen in der Höhle mit Hilfe von Text und Kupferstich beschreiben. (AFB I)",
-                    "die Stationen des Aufstiegs in die richtige Reihenfolge bringen und den Erlebnissen des Befreiten zuordnen. (AFB I)",
-                    "erklären, warum die Gefangenen dem Rückkehrer nicht glauben. (AFB II)",
-                    "die Prüfvorschläge der 5b im Gedankenexperiment erläutern und ihre Grenzen aufzeigen. (AFB II)",
-                    "eigene philosophische Fragen entwickeln und im Gespräch begründet Stellung beziehen, ob auch ihr Alltag „Höhlen“ kennt. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "6. Bilder, die lügen",
-              "detail": "5 Seiten · Wie verändern Bilder, was wir über etwas oder jemanden denken?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-6-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6-inklusiv"
-              },
-              "info": {
-                "goal": "an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Wie verändern Bilder, was wir über etwas oder jemanden denken?",
-                "audience": "Klasse 5",
-                "result": "Bei jedem Bild frage ich: Wer hat es gemacht, was liegt außerhalb des Rahmens und wurde es vielleicht bearbeitet?",
-                "preparation": "Werbeplakat (Bild zu M1), Whiteboard, M1, Tafel, Wortspeicher, M2, Fallkarten, Wimmelbild, Papprahmen, Arbeitsheft, Positionslinie, Detektiv-Speicher",
-                "prerequisites": "Stunde 5: Raus aus der Höhle?",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
-                  "items": [
-                    "Unterschiede zwischen einem Werbebild und dem tatsächlichen Produkt beschreiben. (AFB I)",
-                    "Tricks der Bildgestaltung aus M1 sammeln und benennen. (AFB I)",
-                    "Fallbeispiele mit den Detektiv-Fragen prüfen und den Tricks Ausschnitt, Perspektive, Montage und Filter zuordnen. (AFB II)",
-                    "erklären, wie Bildausschnitt und Bildunterschrift das Urteil über einen Menschen verändern. (AFB II)",
-                    "abwägen, wann ein bearbeitetes Bild harmlos ist und wann es täuscht, und eine eigene Grenze begründen. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "7. Fake News und KI-Bilder",
-              "detail": "6 Seiten · Woran erkenne ich, ob eine Nachricht stimmt?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-7-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7-inklusiv"
-              },
-              "info": {
-                "goal": "an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Woran erkenne ich, ob eine Nachricht stimmt?",
-                "audience": "Klasse 5",
-                "result": "Bevor ich eine Nachricht glaube oder weiterleite, frage ich: Wer sagt das, woher stammt es und berichten andere sichere Quellen auch darüber?",
-                "preparation": "Beamer, Lithografie, M1, Tafel, M2, Plakat, Detektiv-Speicher, Heft",
-                "prerequisites": "Stunde 6: Bilder, die lügen",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
-                  "items": [
-                    "die Behauptungen der „Großen Mondente“ und die dazugehörige Lithografie beschreiben. (AFB I)",
-                    "Gründe nennen, warum die Falschmeldung von 1835 geglaubt wurde, und Merkmale von KI-erzeugten Bildern benennen. (AFB I)",
-                    "eine Kettennachricht mithilfe von Prüf-Fragen untersuchen und ihr Ergebnis begründen. (AFB II)",
-                    "eine geordnete Prüf-Checkliste entwickeln und mit Beispielen veranschaulichen. (AFB II)",
-                    "beurteilen, welche Chancen und Schwierigkeiten das Prüfen von Nachrichten heute im Vergleich zu 1835 mit sich bringt. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "8. Detektivbüro Wahrheit",
-              "detail": "5 Seiten · Kann ich meinen Augen trauen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Wahrnehmung_Kl5-einheit-8-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8-inklusiv"
-              },
-              "info": {
-                "goal": "erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Kann ich meinen Augen trauen?",
-                "audience": "Klasse 5",
-                "result": "Heute wird der Detektiv-Speicher ausgewertet: Jedes Kind wählt seinen wichtigsten Prüf-Tipp aus und überträgt ihn mit Begründung in das Faktencheck-Detektivbuch.",
-                "preparation": "Tafel, Stempelkarten, M2, M3, Detektiv-Speicher, M1, Satzbausteine, Bodenlinie",
-                "prerequisites": "Stunde 7: Fake News und KI-Bilder",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
-                  "items": [
-                    "ihre Prüf-Tipps den Stationen der Reihe zuordnen und mit Beispielen belegen. (AFB I)",
-                    "die Prüf-Fragen der Checkliste nennen und um eine eigene Frage ergänzen. (AFB I)",
-                    "zwei Meldungen mithilfe der Checkliste prüfen und das Ergebnis in einem Prüfprotokoll festhalten. (AFB II)",
-                    "die Leitfrage der Reihe unter Einbezug von Beispielen aus mehreren Stunden beurteilen. (AFB III)",
-                    "Chancen und Gefahren des Internets für die Wahrheitsfindung gegeneinander abwägen. (AFB III)"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
           "title": "Wovon träumst du?",
           "description": "Lebensträume, Rituale und Feste: mit einer Traumcollage, Epikurs Frage nach dem Glück, Lebenswegen mit unterschiedlichen Startbedingungen, behutsamen Gesprächen über Abschiede und einem Gruppenpuzzle zu Pessach, Weihnachten, Ramadan, Diwali und Vesakh, das in die Ausstellung „Feste der Welt“ mündet. KLP 2024 · IF 6.",
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "54 Seiten · Klasse 5 · KLP 2024",
+              "detail": "56 Seiten · Klasse 5 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "56 Seiten · Klasse 5 · KLP 2024",
+              "detail": "58 Seiten · Klasse 5 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Lebenstraeume_Kl5_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "46 Seiten · Klasse 5 · KLP 2024",
+              "detail": "48 Seiten · Klasse 5 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Lebenstraeume_Kl5_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "44 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "46 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Lebenstraeume_Kl5-kommentar"
             },
@@ -1428,7 +1082,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Ausstellung „Feste der Welt“",
-              "detail": "6 Seiten · Was macht ein Leben reich?",
+              "detail": "7 Seiten · Was macht ein Leben reich?",
               "kind": "standard",
               "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-8",
               "teacher": {
@@ -1439,7 +1093,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Lebenstraeume_Kl5-einheit-8-inklusiv"
               },
@@ -1460,6 +1114,352 @@ window.materialSubjects = {
                     "ein Plakat nach vorgegebenen Kriterien fertigstellen und in einem Kurzvortrag erläutern. (AFB II)",
                     "die Leitfrage der Reihe unter Bezug auf mindestens zwei Stationen der Lernlandkarte beurteilen. (AFB III)",
                     "das Erfüllen eines Lebenstraums und das gemeinsame Feiern als Quellen eines reichen Lebens gegeneinander abwägen. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "title": "Sehe ich, was wirklich ist?",
+          "description": "Wahrnehmung, Täuschung und Medien: mit Kippbildern, Sinnesstationen, der Parabel von den Blinden und dem Elefanten, Platons Höhle, Werbebildern und der „Großen Mondente“ prüfen, wann wir unseren Augen trauen können, und ein eigenes Faktencheck-Detektivbuch anlegen. KLP 2024 · IF 7.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "55 Seiten · Klasse 5 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "55 Seiten · Klasse 5 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Wahrnehmung_Kl5_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "49 Seiten · Klasse 5 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "47 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Wahrnehmung_Kl5-methoden"
+            },
+            {
+              "label": "1. Kippbilder",
+              "detail": "5 Seiten · Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Sehen alle dasselbe, wenn sie dasselbe Bild anschauen?",
+                "audience": "Klasse 5",
+                "result": "Prüf-Tipp 1 im Detektiv-Speicher: Bevor ich sage „Das ist so!“, frage ich andere, was sie sehen, und lasse mir zeigen, woran sie es erkennen.",
+                "preparation": "Beamer, Notizzettel, M1, Tafel, M2, Heft, Wortspeicher, Papier, Vorlage halbes Gesicht, Plakat Detektiv-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Kippbildern ihre eigene Wahrnehmung mit der Wahrnehmung anderer vergleichen und Wahrnehmung als Zusammenspiel von sinnlichem Aufnehmen und deutendem Erkennen erklären können.",
+                  "items": [
+                    "die beiden Deutungen des Ente-Hase-Kopfes und der Zeichnung von W. E. Hill anhand konkreter Bildelemente beschreiben. (AFB I)",
+                    "ihre eigene Wahrnehmung mit der Wahrnehmung von Mitschülerinnen und Mitschülern vergleichen und Unterschiede benennen. (AFB II)",
+                    "mit dem Modell „Die Sinne nehmen auf, der Kopf deutet“ erklären, warum dasselbe Bild verschieden gesehen werden kann. (AFB II)",
+                    "Noahs These, die Deutung werde vom Betrachter hervorgebracht, mithilfe der Detektiv-Fragen prüfen. (AFB III)",
+                    "ein eigenes Kippbild gestalten und seine Wirkung an anderen erproben. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Meine Sinne können sich irren",
+              "detail": "5 Seiten · Können sich meine Sinne irren – und wie merke ich das?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Können sich meine Sinne irren – und wie merke ich das?",
+                "audience": "Klasse 5",
+                "result": "Prüf-Tipp 2 im Detektiv-Speicher: Wenn mich mein Eindruck täuschen kann, prüfe ich mit einem Hilfsmittel wie Lineal oder Thermometer oder mit einem zweiten Sinn nach.",
+                "preparation": "Beamer, Tafel, Lineal, Stationsplan, M1, M2, Schlüsselbund, drei Schüsseln, Thermometer, Apfel- und Birnenstücke, Zahnstocher, Protokollvorlage, Protokolle, Heft, Raum, Plakat Detektiv-Speicher",
+                "prerequisites": "Stunde 1: Kippbilder",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Stationen erfahren und beschreiben, dass sich alle Sinne täuschen lassen, ihre Täuschungen protokollieren und überprüfen sowie Einflüsse auf die Wahrnehmung benennen und ordnen können.",
+                  "items": [
+                    "beschreiben, was sie bei den optischen Täuschungen und an den Stationen wahrnehmen, und dies in einem Protokoll festhalten. (AFB I)",
+                    "ihre Wahrnehmungen mit Hilfsmitteln wie Lineal und Thermometer oder mit einem zweiten Sinn überprüfen. (AFB I)",
+                    "erklären, wie Umgebung und vorangegangene Erfahrung die Wahrnehmung beeinflussen. (AFB II)",
+                    "Sinnestäuschungen nach ihren Einflüssen sortieren und die Zuordnung begründen. (AFB II)",
+                    "abwägen, wann man den eigenen Sinnen trauen kann und wann eine Prüfung nötig ist. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Ich sehe, was ich erwarte",
+              "detail": "5 Seiten · Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Sehen wir die Welt, wie sie ist – oder so, wie wir sie erwarten?",
+                "audience": "Klasse 5",
+                "result": "Ich frage mich: Was erwarte ich schon, und was fühle ich gerade – und könnte ich deshalb etwas übersehen oder etwas sehen, das gar nicht da ist?",
+                "preparation": "Tafel, M1, Wortspeicher, M2, Detektiv-Speicher",
+                "prerequisites": "Stunde 2: Meine Sinne können sich irren",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Versuchen und einer Geschichte erläutern, wie Erwartung, Vorwissen, Aufmerksamkeit und Gefühle beeinflussen, was Menschen wahrnehmen.",
+                  "items": [
+                    "die drei Versuche aus M1 benennen und angeben, was die Zuschauer jeweils erleben. (AFB I)",
+                    "beschreiben, was Emil im Keller wahrnimmt und was tatsächlich vorhanden ist. (AFB I)",
+                    "erklären, warum Menschen beim Gorilla-Versuch ein auffälliges Ereignis übersehen. (AFB II)",
+                    "den Einfluss von Aufmerksamkeit und Gefühl auf die Wahrnehmung an M1 und M2 vergleichen. (AFB II)",
+                    "die Aussage „Man sieht nur, wonach man sucht“ an Beispielen prüfen und einschränken. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Die Blinden und der Elefant",
+              "detail": "5 Seiten · Kann ein Mensch allein das Ganze sehen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Kann ein Mensch allein das Ganze sehen?",
+                "audience": "Klasse 5",
+                "result": "Ich frage mich: Von welchem Platz aus habe ich das gesehen – und wer hat vielleicht einen anderen Teil gesehen, den ich nicht kenne?",
+                "preparation": "Holzschnitt (Projektion oder M1), M1, Tafel, Raum, Wortspeicher, M2, Detektiv-Speicher",
+                "prerequisites": "Stunde 3: Ich sehe, was ich erwarte",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an der Parabel von den Blinden und dem Elefanten und an einem Streitfall erläutern, dass Wahrnehmung an eine Perspektive gebunden ist und erst der Austausch mehrerer Sichtweisen ein vollständigeres Bild ergibt.",
+                  "items": [
+                    "den Holzschnitt von Hanabusa Itchō beschreiben und die Vergleiche der Blinden den Körperteilen zuordnen. (AFB I)",
+                    "die Parabel in einem Standbild darstellen und die Haltungen der Figuren deuten. (AFB II)",
+                    "die Berichte in M2 den Standorten der Kinder zuordnen und erklären, was jedes Kind nicht sehen konnte. (AFB II)",
+                    "aus den Teilberichten eine wahrscheinliche Darstellung des Geschehens entwickeln und offene Fragen benennen. (AFB III)",
+                    "beurteilen, ob ein einzelner Mensch das Ganze wahrnehmen kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Raus aus der Höhle?",
+              "detail": "5 Seiten · Woher weiß ich, dass das, was ich sehe, wirklich ist?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Woher weiß ich, dass das, was ich sehe, wirklich ist?",
+                "audience": "Klasse 5",
+                "result": "Ich schaue nicht nur auf den Schatten: Ich frage, wo ein Bild oder eine Nachricht herkommt, und schaue mir die Sache, wenn es geht, selbst an.",
+                "preparation": "Lampe, Wand, M1, Kupferstich, Arbeitsheft, Tafel, M2, Redegegenstand, Satzbausteine, Detektiv-Speicher",
+                "prerequisites": "Stunde 4: Die Blinden und der Elefant",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Platons Höhlengleichnis in seinen Grundzügen wiedergeben, die Situation der Gefangenen und des Befreiten aus beiden Perspektiven erläutern und anhand eines Gedankenexperiments eigene philosophische Fragen zur Erkennbarkeit der Wirklichkeit entwickeln und diskutieren.",
+                  "items": [
+                    "die Lage der Gefangenen in der Höhle mit Hilfe von Text und Kupferstich beschreiben. (AFB I)",
+                    "die Stationen des Aufstiegs in die richtige Reihenfolge bringen und den Erlebnissen des Befreiten zuordnen. (AFB I)",
+                    "erklären, warum die Gefangenen dem Rückkehrer nicht glauben. (AFB II)",
+                    "die Prüfvorschläge der 5b im Gedankenexperiment erläutern und ihre Grenzen aufzeigen. (AFB II)",
+                    "eigene philosophische Fragen entwickeln und im Gespräch begründet Stellung beziehen, ob auch ihr Alltag „Höhlen“ kennt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Bilder, die lügen",
+              "detail": "5 Seiten · Wie verändern Bilder, was wir über etwas oder jemanden denken?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie verändern Bilder, was wir über etwas oder jemanden denken?",
+                "audience": "Klasse 5",
+                "result": "Bei jedem Bild frage ich: Wer hat es gemacht, was liegt außerhalb des Rahmens und wurde es vielleicht bearbeitet?",
+                "preparation": "Werbeplakat (Bild zu M1), Whiteboard, M1, Tafel, Wortspeicher, M2, Fallkarten, Wimmelbild, Papprahmen, Arbeitsheft, Positionslinie, Detektiv-Speicher",
+                "prerequisites": "Stunde 5: Raus aus der Höhle?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an Beispielen aus Werbung, Alltag und Geschichte erklären, wie Inszenierung, Ausschnitt, Filter und Montage Bilder verändern, und erörtern, wie solche Bilder ihr Urteil über Dinge und Menschen beeinflussen können.",
+                  "items": [
+                    "Unterschiede zwischen einem Werbebild und dem tatsächlichen Produkt beschreiben. (AFB I)",
+                    "Tricks der Bildgestaltung aus M1 sammeln und benennen. (AFB I)",
+                    "Fallbeispiele mit den Detektiv-Fragen prüfen und den Tricks Ausschnitt, Perspektive, Montage und Filter zuordnen. (AFB II)",
+                    "erklären, wie Bildausschnitt und Bildunterschrift das Urteil über einen Menschen verändern. (AFB II)",
+                    "abwägen, wann ein bearbeitetes Bild harmlos ist und wann es täuscht, und eine eigene Grenze begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Fake News und KI-Bilder",
+              "detail": "6 Seiten · Woran erkenne ich, ob eine Nachricht stimmt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Woran erkenne ich, ob eine Nachricht stimmt?",
+                "audience": "Klasse 5",
+                "result": "Bevor ich eine Nachricht glaube oder weiterleite, frage ich: Wer sagt das, woher stammt es und berichten andere sichere Quellen auch darüber?",
+                "preparation": "Beamer, Lithografie, M1, Tafel, M2, Plakat, Detektiv-Speicher, Heft",
+                "prerequisites": "Stunde 6: Bilder, die lügen",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde an einem historischen und einem lebensweltlichen Beispiel erklären, warum Falschmeldungen geglaubt werden, und eine Checkliste mit Prüf-Fragen entwickeln, mit der sie den Wahrheitsgehalt von Meldungen und Bildern kriteriengeleitet einschätzen.",
+                  "items": [
+                    "die Behauptungen der „Großen Mondente“ und die dazugehörige Lithografie beschreiben. (AFB I)",
+                    "Gründe nennen, warum die Falschmeldung von 1835 geglaubt wurde, und Merkmale von KI-erzeugten Bildern benennen. (AFB I)",
+                    "eine Kettennachricht mithilfe von Prüf-Fragen untersuchen und ihr Ergebnis begründen. (AFB II)",
+                    "eine geordnete Prüf-Checkliste entwickeln und mit Beispielen veranschaulichen. (AFB II)",
+                    "beurteilen, welche Chancen und Schwierigkeiten das Prüfen von Nachrichten heute im Vergleich zu 1835 mit sich bringt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Detektivbüro Wahrheit",
+              "detail": "6 Seiten · Kann ich meinen Augen trauen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Wahrnehmung_Kl5-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Wahrnehmung_Kl5-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Kann ich meinen Augen trauen?",
+                "audience": "Klasse 5",
+                "result": "Heute wird der Detektiv-Speicher ausgewertet: Jedes Kind wählt seinen wichtigsten Prüf-Tipp aus und überträgt ihn mit Begründung in das Faktencheck-Detektivbuch.",
+                "preparation": "Tafel, Stempelkarten, M2, M3, Detektiv-Speicher, M1, Satzbausteine, Bodenlinie",
+                "prerequisites": "Stunde 7: Fake News und KI-Bilder",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde erfundene Meldungen mithilfe einer Checkliste kriteriengeleitet prüfen, ihr Urteil vor der Klasse begründen und die Leitfrage „Kann ich meinen Augen trauen?“ unter Rückgriff auf die Stationen der Reihe differenziert beantworten.",
+                  "items": [
+                    "ihre Prüf-Tipps den Stationen der Reihe zuordnen und mit Beispielen belegen. (AFB I)",
+                    "die Prüf-Fragen der Checkliste nennen und um eine eigene Frage ergänzen. (AFB I)",
+                    "zwei Meldungen mithilfe der Checkliste prüfen und das Ergebnis in einem Prüfprotokoll festhalten. (AFB II)",
+                    "die Leitfrage der Reihe unter Einbezug von Beispielen aus mehreren Stunden beurteilen. (AFB III)",
+                    "Chancen und Gefahren des Internets für die Wahrheitsfindung gegeneinander abwägen. (AFB III)"
                   ]
                 }
               }
@@ -1737,376 +1737,30 @@ window.materialSubjects = {
           "pageCount": 59
         },
         {
-          "title": "Gemeinsam statt gegeneinander",
-          "description": "Freundschaft, Familie, Streit: mit Beziehungsnetz, Aristoteles’ drei Arten der Freundschaft, Familienporträts, Rollenbildern, Konflikttreppe, Ich-Botschaften und der Goldenen Regel in den Weltreligionen zu einem eigenen Streitschlichter-Leitfaden der Klasse. KLP 2024 · IF 2.",
-          "files": [
-            {
-              "label": "Schülermappe",
-              "detail": "56 Seiten · Klasse 6 · KLP 2024",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6_Schuelermappe"
-            },
-            {
-              "label": "Inklusive Schülermappe",
-              "detail": "56 Seiten · Klasse 6 · KLP 2024",
-              "kind": "inclusive",
-              "protectedId": "S-PP_Miteinander_Kl6_Inklusiv"
-            },
-            {
-              "label": "Lehrkräfteband",
-              "detail": "46 Seiten · Klasse 6 · KLP 2024",
-              "kind": "teacher",
-              "protectedId": "PP_Miteinander_Kl6_Lehrkraefteband"
-            },
-            {
-              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "44 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
-              "kind": "teacher",
-              "protectedId": "PP_Miteinander_Kl6-kommentar"
-            },
-            {
-              "label": "Lernziele, Kompetenzen und Verlaufspläne",
-              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
-              "kind": "teacher",
-              "protectedId": "PP_Miteinander_Kl6-lernziele"
-            },
-            {
-              "label": "Methodenkoffer und Operatorenhilfen",
-              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
-              "kind": "teacher",
-              "protectedId": "PP_Miteinander_Kl6-methoden"
-            },
-            {
-              "label": "1. Mein Beziehungsnetz",
-              "detail": "6 Seiten · Welche Menschen gehören zu meinem Leben – und was geben sie mir?",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6-einheit-1",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Miteinander_Kl6-einheit-1-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Miteinander_Kl6-einheit-1-inklusiv"
-              },
-              "info": {
-                "goal": "verschiedene Beziehungsarten unterscheiden, darstellen, was Familie, Freundschaft, Verein und Schule einem Menschen geben, und Ideen entwickeln, wie ein neues Kind Anschluss in einer Klasse finden kann.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Welche Menschen gehören zu meinem Leben – und was geben sie mir?",
-                "audience": "Klasse 6",
-                "result": "Jeder Mensch braucht Beziehungen: Wer neu ist oder wenig Anschluss hat, freut sich, wenn jemand anderes den ersten Schritt macht.",
-                "preparation": "Wollknäuel, M1, Tafelkarte Brücken-Fragen, M2, Wortkarten, Tafel, A3-Blätter, Buntstifte, Plakat, Satzbausteine, Brücken-Speicher",
-                "prerequisites": "Einstieg in die Reihe.",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde verschiedene Beziehungsarten unterscheiden, darstellen, was Familie, Freundschaft, Verein und Schule einem Menschen geben, und Ideen entwickeln, wie ein neues Kind Anschluss in einer Klasse finden kann.",
-                  "items": [
-                    "die Personen in Kims Beziehungsnetz nennen und nach Nähe einordnen. (AFB I)",
-                    "den Beziehungsarten Familie, Freundschaft, Verein und Schule typische Leistungen zuordnen. (AFB I)",
-                    "ein Beziehungsnetz gestalten und erklären, was einzelne Beziehungen geben. (AFB II)",
-                    "mithilfe der Brücken-Fragen die Lage von Kim und Leyla aus beiden Perspektiven beschreiben. (AFB II)",
-                    "begründete Vorschläge entwickeln, wie eine Klasse ein neues Kind aufnehmen kann. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "2. Was ist eine gute Freundin, ein guter Freund?",
-              "detail": "5 Seiten · Was macht eine echte Freundschaft aus?",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6-einheit-2",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Miteinander_Kl6-einheit-2-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Miteinander_Kl6-einheit-2-inklusiv"
-              },
-              "info": {
-                "goal": "Eigenschaften einer guten Freundschaft gewichten, die drei Arten der Freundschaft nach Aristoteles in eigenen Worten erklären und begründet beurteilen, welche Bedeutung unterschiedliche Freundschaften für ihr Leben haben.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Was macht eine echte Freundschaft aus?",
-                "audience": "Klasse 6",
-                "result": "Echte Freundschaft hält auch dann, wenn es schwierig wird: Wer dem anderen Gutes wünscht, bleibt ehrlich, hält Geheimnisse und steht zu ihm, wenn andere lästern.",
-                "preparation": "Tafel, M2, Kartensätze, M1, Satzbausteine, Brücken-Speicher",
-                "prerequisites": "Stunde 1: Mein Beziehungsnetz",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Eigenschaften einer guten Freundschaft gewichten, die drei Arten der Freundschaft nach Aristoteles in eigenen Worten erklären und begründet beurteilen, welche Bedeutung unterschiedliche Freundschaften für ihr Leben haben.",
-                  "items": [
-                    "die drei Arten der Freundschaft nach Aristoteles nennen und mit je einem Beispiel belegen. (AFB I)",
-                    "Eigenschaften einer guten Freundschaft in eine begründete Rangfolge bringen. (AFB I)",
-                    "Eigenschaften und Fallbeispiele aus M2 den drei Arten der Freundschaft zuordnen. (AFB II)",
-                    "die Vorstellungen der Figuren aus M2 mit der Position des Aristoteles vergleichen. (AFB II)",
-                    "beurteilen, ob Freundschaften aus Nutzen und Freude weniger wert sind als Freundschaften um des anderen willen. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "3. Familie ist bunt",
-              "detail": "6 Seiten · Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6-einheit-3",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Miteinander_Kl6-einheit-3-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Miteinander_Kl6-einheit-3-inklusiv"
-              },
-              "info": {
-                "goal": "anhand erfundener Familienporträts die Vielfalt von Familienformen gleichwertig darstellen, einen funktionalen Familienbegriff erarbeiten und Rollen sowie Verantwortung in Familien an einem Alltagskonflikt erläutern.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
-                "audience": "Klasse 6",
-                "result": "Wenn wir streiten, fragen wir wie im Familienrat, was jede Person braucht, und jeder darf seine Sicht sagen, ohne dass jemand darüber urteilt, wie der andere lebt.",
-                "preparation": "Tafelskizze oder eigene Fotos (nicht in der Mappe), Tafel, M1, Wortspeicher, M2, Brücken-Speicher",
-                "prerequisites": "Stunde 2: Was ist eine gute Freundin, ein guter Freund?",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde anhand erfundener Familienporträts die Vielfalt von Familienformen gleichwertig darstellen, einen funktionalen Familienbegriff erarbeiten und Rollen sowie Verantwortung in Familien an einem Alltagskonflikt erläutern.",
-                  "items": [
-                    "die Zusammensetzung und gemeinsamen Gewohnheiten von mindestens zwei Familien aus M1 beschreiben. (AFB I)",
-                    "Unterschiede und Gemeinsamkeiten der Familien in einer Tabelle systematisieren. (AFB II)",
-                    "erklären, warum Zusammenwohnen und Verwandtschaft als alleinige Merkmale von Familie nicht ausreichen. (AFB II)",
-                    "aus der Perspektive einer Figur Bedürfnisse benennen und einen fairen Lösungsschritt formulieren. (AFB II)",
-                    "beurteilen, ob die Definition der Klasse auf alle Familienformen zutrifft, und sie gegebenenfalls verbessern. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "4. Typisch Junge, typisch Mädchen?",
-              "detail": "6 Seiten · Wer bestimmt, was zu mir passt?",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6-einheit-4",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Miteinander_Kl6-einheit-4-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Miteinander_Kl6-einheit-4-inklusiv"
-              },
-              "info": {
-                "goal": "Rollenbilder in Werbung, Spielzeug und Berufen untersuchen, zwischen Rollenerwartungen und Persönlichkeit unterscheiden und begründen, warum alle Menschen unabhängig von Geschlecht und Interessen respektvoll behandelt werden.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Wer bestimmt, was zu mir passt?",
-                "audience": "Klasse 6",
-                "result": "Im Streit benutzen wir keine Schubladen und keine Sprüche wie „Du bist ja wie ein Mädchen“ als Waffe, denn jeder Mensch wird respektvoll behandelt, egal wie er ist.",
-                "preparation": "Beamer, Prospekte, Tafel, Plakat Gesprächsregeln, M1, M2, Werbematerial, Brücken-Speicher, Fragebox, –",
-                "prerequisites": "Stunde 3: Familie ist bunt",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Rollenbilder in Werbung, Spielzeug und Berufen untersuchen, zwischen Rollenerwartungen und Persönlichkeit unterscheiden und begründen, warum alle Menschen unabhängig von Geschlecht und Interessen respektvoll behandelt werden.",
-                  "items": [
-                    "aus M1 Beispiele für Rollenbilder in Spielzeug, Farben und Berufen sammeln. (AFB I)",
-                    "die Wirkung eines Rollenbildes auf eine Figur mithilfe der Brücken-Fragen beschreiben. (AFB I/II)",
-                    "den Unterschied zwischen Rollenbild und Persönlichkeit an einem Beispiel erklären. (AFB II)",
-                    "eine Werbung kriteriengeleitet auf Rollenbilder prüfen. (AFB II)",
-                    "beurteilen, wer bestimmt, was zu einem Menschen passt, und ihr Urteil begründen. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "5. Wenn ich wütend bin …",
-              "detail": "5 Seiten · Wie wird aus einer kleinen Meinungsverschiedenheit ein großer Streit – und wo kann man ihn stoppen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6-einheit-5",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Miteinander_Kl6-einheit-5-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Miteinander_Kl6-einheit-5-inklusiv"
-              },
-              "info": {
-                "goal": "die Entwicklung eines Konflikts mithilfe einer vereinfachten Konflikttreppe beschreiben und Möglichkeiten der Deeskalation begründet beurteilen können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Wie wird aus einer kleinen Meinungsverschiedenheit ein großer Streit – und wo kann man ihn stoppen?",
-                "audience": "Klasse 6",
-                "result": "Je früher wir merken, auf welcher Stufe der Konflikttreppe wir stehen, desto leichter können wir umkehren: Erst Pause machen, dann reden – nicht im Chat weiterstreiten.",
-                "preparation": "Tafel, Kasten M2, M1, M2, Heft, Wortspeicher, Kärtchen, Brücken-Speicher",
-                "prerequisites": "Stunde 4: Typisch Junge, typisch Mädchen?",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Entwicklung eines Konflikts mithilfe einer vereinfachten Konflikttreppe beschreiben und Möglichkeiten der Deeskalation begründet beurteilen können.",
-                  "items": [
-                    "den Verlauf des Streits in der Fallgeschichte in der richtigen Reihenfolge wiedergeben. (AFB I)",
-                    "Szenen der Fallgeschichte begründet den fünf Stufen der Konflikttreppe zuordnen. (AFB II)",
-                    "erklären, warum ein Klassenchat die Eskalation beschleunigen kann. (AFB II)",
-                    "die Perspektive einer beteiligten Figur einnehmen und ihre Gefühle und Bedürfnisse benennen. (AFB II)",
-                    "das Verhalten einer Figur bewerten und Stoppschilder zur Deeskalation entwickeln. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "6. Streiten, aber richtig",
-              "detail": "5 Seiten · Wie kann ich sagen, was mich stört, ohne dass der Streit noch größer wird?",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6-einheit-6",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Miteinander_Kl6-einheit-6-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Miteinander_Kl6-einheit-6-inklusiv"
-              },
-              "info": {
-                "goal": "Du-Botschaften in Ich-Botschaften nach den vier Schritten des guten Gesprächs umformulieren und diese im Rollenspiel erproben und auswerten können.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Wie kann ich sagen, was mich stört, ohne dass der Streit noch größer wird?",
-                "audience": "Klasse 6",
-                "result": "Im Streit sprechen wir in Ich-Botschaften und gehen die vier Schritte: Was ist passiert? Wie geht es mir? Was ist mir wichtig? Worum bitte ich?",
-                "preparation": "Tafel, M1, Satzbausteine, M2, Karte E, Brücken-Speicher",
-                "prerequisites": "Stunde 5: Wenn ich wütend bin …",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Du-Botschaften in Ich-Botschaften nach den vier Schritten des guten Gesprächs umformulieren und diese im Rollenspiel erproben und auswerten können.",
-                  "items": [
-                    "Du-Botschaften und Ich-Botschaften unterscheiden und die vier Schritte des guten Gesprächs benennen. (AFB I)",
-                    "Vorwürfe in Ich-Botschaften mit Beobachtung, Gefühl, Bedürfnis und Bitte umformulieren. (AFB II)",
-                    "im Rollenspiel die Perspektive einer Figur aus der Fallgeschichte übernehmen. (AFB II)",
-                    "ein Rollenspiel kriteriengeleitet mit dem Beobachtungsbogen auswerten. (AFB II)",
-                    "beurteilen, wann das gute Gespräch hilft und wo es an Grenzen stößt. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "7. Was du nicht willst, dass man dir tu …",
-              "detail": "6 Seiten · Gibt es eine Regel für das Miteinander, die fast alle Menschen kennen?",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6-einheit-7",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Miteinander_Kl6-einheit-7-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Miteinander_Kl6-einheit-7-inklusiv"
-              },
-              "info": {
-                "goal": "die Goldene Regel als gemeinsamen Gedanken verschiedener Religionen und Weltanschauungen kennen, ihre negative und positive Fassung unterscheiden und beurteilen, warum die Regel im Alltag eine Perspektivübernahme erfordert.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Gibt es eine Regel für das Miteinander, die fast alle Menschen kennen?",
-                "audience": "Klasse 6",
-                "result": "Bevor ich handle, frage ich mich, wie es mir an Stelle des anderen ginge, und wenn ich unsicher bin, frage ich die andere Person einfach.",
-                "preparation": "Tafel, M1, Wortspeicher, M2, Satzbausteine, Brücken-Speicher",
-                "prerequisites": "Stunde 6: Streiten, aber richtig",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Goldene Regel als gemeinsamen Gedanken verschiedener Religionen und Weltanschauungen kennen, ihre negative und positive Fassung unterscheiden und beurteilen, warum die Regel im Alltag eine Perspektivübernahme erfordert.",
-                  "items": [
-                    "die sechs Fassungen der Goldenen Regel der jeweiligen Religion oder Weltanschauung und dem Werk zuordnen. (AFB I)",
-                    "die Fassungen nach negativer und positiver Form sortieren und den Unterschied zwischen Lassen und Tun erklären. (AFB II)",
-                    "zwei Fassungen aus verschiedenen Traditionen vergleichen. (AFB II)",
-                    "am Fall von Jonas und Aylin erklären, warum die Regel ohne Perspektivwechsel scheitern kann. (AFB II)",
-                    "beurteilen, welche Fassung für das Miteinander in der Klasse hilfreicher ist, und eine eigene Regel entwickeln. (AFB III)"
-                  ]
-                }
-              }
-            },
-            {
-              "label": "8. Unser Streitschlichter-Leitfaden",
-              "detail": "5 Seiten · Was brauchen wir, damit Miteinander gelingt?",
-              "kind": "standard",
-              "protectedId": "S-PP_Miteinander_Kl6-einheit-8",
-              "teacher": {
-                "label": "Lehrkräftekommentar",
-                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
-                "kind": "teacher",
-                "protectedId": "PP_Miteinander_Kl6-einheit-8-lehrer"
-              },
-              "inclusive": {
-                "label": "Inklusive Fassung",
-                "detail": "5 Seiten",
-                "kind": "inclusive",
-                "protectedId": "S-PP_Miteinander_Kl6-einheit-8-inklusiv"
-              },
-              "info": {
-                "goal": "aus den Bausteinen der Reihe einen Streitschlichter-Leitfaden gestalten, ihn im Rollenspiel anwenden und die Leitfrage „Was brauchen wir, damit Miteinander gelingt?“ begründet beantworten.",
-                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
-                "principle": "Was brauchen wir, damit Miteinander gelingt?",
-                "audience": "Klasse 6",
-                "result": "Wir schlichten einen Streit in fünf Schritten – ankommen, erzählen, verstehen, Lösungen suchen, vereinbaren – und holen bei Gewalt oder Mobbing sofort eine erwachsene Person.",
-                "preparation": "Tafel, Brücken-Speicher, M2, M1, M3, Plakatpapier, Leitfaden, Plakate, Beobachtungsbögen",
-                "prerequisites": "Stunde 7: Was du nicht willst, dass man dir tu …",
-                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
-                "details": {
-                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde aus den Bausteinen der Reihe einen Streitschlichter-Leitfaden gestalten, ihn im Rollenspiel anwenden und die Leitfrage „Was brauchen wir, damit Miteinander gelingt?“ begründet beantworten.",
-                  "items": [
-                    "die Bausteine der Reihe anhand der Lernlandkarte nennen. (AFB I)",
-                    "die Bausteine den fünf Schritten der Streitschlichtung zuordnen. (AFB II)",
-                    "einen Leitfaden gestalten und ihn im Rollenspiel aus verschiedenen Perspektiven anwenden. (AFB II)",
-                    "die Wirksamkeit und die Grenzen des Leitfadens beurteilen. (AFB III)",
-                    "die Leitfrage der Reihe mit Beispielen aus mehreren Stunden begründet beantworten. (AFB III)"
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
           "title": "Darf man lügen?",
           "description": "Wahrheit, Wahrhaftigkeit und Lüge: mit dem Lügen-Barometer, Pinocchio und dem Hirtenjungen, der Notlüge, Kants striktem Lügenverbot und der Abwägung von Folgen zu Dilemmata aus dem Klassenalltag, Dilemma-Theater und einem begründeten Urteil. KLP 2024 · IF 3.",
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "57 Seiten · Klasse 6 · KLP 2024",
+              "detail": "59 Seiten · Klasse 6 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Luegen_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "58 Seiten · Klasse 6 · KLP 2024",
+              "detail": "60 Seiten · Klasse 6 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Luegen_Kl6_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "46 Seiten · Klasse 6 · KLP 2024",
+              "detail": "48 Seiten · Klasse 6 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Luegen_Kl6_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "44 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "46 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Luegen_Kl6-kommentar"
             },
@@ -2390,7 +2044,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Dilemma-Theater",
-              "detail": "6 Seiten · Ist eine Lüge manchmal besser als die Wahrheit?",
+              "detail": "7 Seiten · Ist eine Lüge manchmal besser als die Wahrheit?",
               "kind": "standard",
               "protectedId": "S-PP_Luegen_Kl6-einheit-8",
               "teacher": {
@@ -2401,7 +2055,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Luegen_Kl6-einheit-8-inklusiv"
               },
@@ -2429,30 +2083,376 @@ window.materialSubjects = {
           ]
         },
         {
+          "title": "Gemeinsam statt gegeneinander",
+          "description": "Freundschaft, Familie, Streit: mit Beziehungsnetz, Aristoteles’ drei Arten der Freundschaft, Familienporträts, Rollenbildern, Konflikttreppe, Ich-Botschaften und der Goldenen Regel in den Weltreligionen zu einem eigenen Streitschlichter-Leitfaden der Klasse. KLP 2024 · IF 2.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "58 Seiten · Klasse 6 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "58 Seiten · Klasse 6 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_Miteinander_Kl6_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "48 Seiten · Klasse 6 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_Miteinander_Kl6_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "46 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "kind": "teacher",
+              "protectedId": "PP_Miteinander_Kl6-kommentar"
+            },
+            {
+              "label": "Lernziele, Kompetenzen und Verlaufspläne",
+              "detail": "9 Seiten · KLP-Kompetenzraster und Verlaufspläne aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_Miteinander_Kl6-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "1 Seiten · Signalwörter, Satzbausteine, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_Miteinander_Kl6-methoden"
+            },
+            {
+              "label": "1. Mein Beziehungsnetz",
+              "detail": "6 Seiten · Welche Menschen gehören zu meinem Leben – und was geben sie mir?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-1",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "verschiedene Beziehungsarten unterscheiden, darstellen, was Familie, Freundschaft, Verein und Schule einem Menschen geben, und Ideen entwickeln, wie ein neues Kind Anschluss in einer Klasse finden kann.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Welche Menschen gehören zu meinem Leben – und was geben sie mir?",
+                "audience": "Klasse 6",
+                "result": "Jeder Mensch braucht Beziehungen: Wer neu ist oder wenig Anschluss hat, freut sich, wenn jemand anderes den ersten Schritt macht.",
+                "preparation": "Wollknäuel, M1, Tafelkarte Brücken-Fragen, M2, Wortkarten, Tafel, A3-Blätter, Buntstifte, Plakat, Satzbausteine, Brücken-Speicher",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde verschiedene Beziehungsarten unterscheiden, darstellen, was Familie, Freundschaft, Verein und Schule einem Menschen geben, und Ideen entwickeln, wie ein neues Kind Anschluss in einer Klasse finden kann.",
+                  "items": [
+                    "die Personen in Kims Beziehungsnetz nennen und nach Nähe einordnen. (AFB I)",
+                    "den Beziehungsarten Familie, Freundschaft, Verein und Schule typische Leistungen zuordnen. (AFB I)",
+                    "ein Beziehungsnetz gestalten und erklären, was einzelne Beziehungen geben. (AFB II)",
+                    "mithilfe der Brücken-Fragen die Lage von Kim und Leyla aus beiden Perspektiven beschreiben. (AFB II)",
+                    "begründete Vorschläge entwickeln, wie eine Klasse ein neues Kind aufnehmen kann. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "2. Was ist eine gute Freundin, ein guter Freund?",
+              "detail": "5 Seiten · Was macht eine echte Freundschaft aus?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-2",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "Eigenschaften einer guten Freundschaft gewichten, die drei Arten der Freundschaft nach Aristoteles in eigenen Worten erklären und begründet beurteilen, welche Bedeutung unterschiedliche Freundschaften für ihr Leben haben.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was macht eine echte Freundschaft aus?",
+                "audience": "Klasse 6",
+                "result": "Echte Freundschaft hält auch dann, wenn es schwierig wird: Wer dem anderen Gutes wünscht, bleibt ehrlich, hält Geheimnisse und steht zu ihm, wenn andere lästern.",
+                "preparation": "Tafel, M2, Kartensätze, M1, Satzbausteine, Brücken-Speicher",
+                "prerequisites": "Stunde 1: Mein Beziehungsnetz",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Eigenschaften einer guten Freundschaft gewichten, die drei Arten der Freundschaft nach Aristoteles in eigenen Worten erklären und begründet beurteilen, welche Bedeutung unterschiedliche Freundschaften für ihr Leben haben.",
+                  "items": [
+                    "die drei Arten der Freundschaft nach Aristoteles nennen und mit je einem Beispiel belegen. (AFB I)",
+                    "Eigenschaften einer guten Freundschaft in eine begründete Rangfolge bringen. (AFB I)",
+                    "Eigenschaften und Fallbeispiele aus M2 den drei Arten der Freundschaft zuordnen. (AFB II)",
+                    "die Vorstellungen der Figuren aus M2 mit der Position des Aristoteles vergleichen. (AFB II)",
+                    "beurteilen, ob Freundschaften aus Nutzen und Freude weniger wert sind als Freundschaften um des anderen willen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "3. Familie ist bunt",
+              "detail": "6 Seiten · Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-3",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "anhand erfundener Familienporträts die Vielfalt von Familienformen gleichwertig darstellen, einen funktionalen Familienbegriff erarbeiten und Rollen sowie Verantwortung in Familien an einem Alltagskonflikt erläutern.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was macht eine Familie zur Familie – und wer trägt darin welche Verantwortung?",
+                "audience": "Klasse 6",
+                "result": "Wenn wir streiten, fragen wir wie im Familienrat, was jede Person braucht, und jeder darf seine Sicht sagen, ohne dass jemand darüber urteilt, wie der andere lebt.",
+                "preparation": "Tafelskizze oder eigene Fotos (nicht in der Mappe), Tafel, M1, Wortspeicher, M2, Brücken-Speicher",
+                "prerequisites": "Stunde 2: Was ist eine gute Freundin, ein guter Freund?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde anhand erfundener Familienporträts die Vielfalt von Familienformen gleichwertig darstellen, einen funktionalen Familienbegriff erarbeiten und Rollen sowie Verantwortung in Familien an einem Alltagskonflikt erläutern.",
+                  "items": [
+                    "die Zusammensetzung und gemeinsamen Gewohnheiten von mindestens zwei Familien aus M1 beschreiben. (AFB I)",
+                    "Unterschiede und Gemeinsamkeiten der Familien in einer Tabelle systematisieren. (AFB II)",
+                    "erklären, warum Zusammenwohnen und Verwandtschaft als alleinige Merkmale von Familie nicht ausreichen. (AFB II)",
+                    "aus der Perspektive einer Figur Bedürfnisse benennen und einen fairen Lösungsschritt formulieren. (AFB II)",
+                    "beurteilen, ob die Definition der Klasse auf alle Familienformen zutrifft, und sie gegebenenfalls verbessern. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "4. Typisch Junge, typisch Mädchen?",
+              "detail": "6 Seiten · Wer bestimmt, was zu mir passt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-4",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "Rollenbilder in Werbung, Spielzeug und Berufen untersuchen, zwischen Rollenerwartungen und Persönlichkeit unterscheiden und begründen, warum alle Menschen unabhängig von Geschlecht und Interessen respektvoll behandelt werden.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wer bestimmt, was zu mir passt?",
+                "audience": "Klasse 6",
+                "result": "Im Streit benutzen wir keine Schubladen und keine Sprüche wie „Du bist ja wie ein Mädchen“ als Waffe, denn jeder Mensch wird respektvoll behandelt, egal wie er ist.",
+                "preparation": "Beamer, Prospekte, Tafel, Plakat Gesprächsregeln, M1, M2, Werbematerial, Brücken-Speicher, Fragebox, –",
+                "prerequisites": "Stunde 3: Familie ist bunt",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Rollenbilder in Werbung, Spielzeug und Berufen untersuchen, zwischen Rollenerwartungen und Persönlichkeit unterscheiden und begründen, warum alle Menschen unabhängig von Geschlecht und Interessen respektvoll behandelt werden.",
+                  "items": [
+                    "aus M1 Beispiele für Rollenbilder in Spielzeug, Farben und Berufen sammeln. (AFB I)",
+                    "die Wirkung eines Rollenbildes auf eine Figur mithilfe der Brücken-Fragen beschreiben. (AFB I/II)",
+                    "den Unterschied zwischen Rollenbild und Persönlichkeit an einem Beispiel erklären. (AFB II)",
+                    "eine Werbung kriteriengeleitet auf Rollenbilder prüfen. (AFB II)",
+                    "beurteilen, wer bestimmt, was zu einem Menschen passt, und ihr Urteil begründen. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "5. Wenn ich wütend bin …",
+              "detail": "5 Seiten · Wie wird aus einer kleinen Meinungsverschiedenheit ein großer Streit – und wo kann man ihn stoppen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-5",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "die Entwicklung eines Konflikts mithilfe einer vereinfachten Konflikttreppe beschreiben und Möglichkeiten der Deeskalation begründet beurteilen können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie wird aus einer kleinen Meinungsverschiedenheit ein großer Streit – und wo kann man ihn stoppen?",
+                "audience": "Klasse 6",
+                "result": "Je früher wir merken, auf welcher Stufe der Konflikttreppe wir stehen, desto leichter können wir umkehren: Erst Pause machen, dann reden – nicht im Chat weiterstreiten.",
+                "preparation": "Tafel, Kasten M2, M1, M2, Heft, Wortspeicher, Kärtchen, Brücken-Speicher",
+                "prerequisites": "Stunde 4: Typisch Junge, typisch Mädchen?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Entwicklung eines Konflikts mithilfe einer vereinfachten Konflikttreppe beschreiben und Möglichkeiten der Deeskalation begründet beurteilen können.",
+                  "items": [
+                    "den Verlauf des Streits in der Fallgeschichte in der richtigen Reihenfolge wiedergeben. (AFB I)",
+                    "Szenen der Fallgeschichte begründet den fünf Stufen der Konflikttreppe zuordnen. (AFB II)",
+                    "erklären, warum ein Klassenchat die Eskalation beschleunigen kann. (AFB II)",
+                    "die Perspektive einer beteiligten Figur einnehmen und ihre Gefühle und Bedürfnisse benennen. (AFB II)",
+                    "das Verhalten einer Figur bewerten und Stoppschilder zur Deeskalation entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "6. Streiten, aber richtig",
+              "detail": "5 Seiten · Wie kann ich sagen, was mich stört, ohne dass der Streit noch größer wird?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-6",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "5 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "Du-Botschaften in Ich-Botschaften nach den vier Schritten des guten Gesprächs umformulieren und diese im Rollenspiel erproben und auswerten können.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Wie kann ich sagen, was mich stört, ohne dass der Streit noch größer wird?",
+                "audience": "Klasse 6",
+                "result": "Im Streit sprechen wir in Ich-Botschaften und gehen die vier Schritte: Was ist passiert? Wie geht es mir? Was ist mir wichtig? Worum bitte ich?",
+                "preparation": "Tafel, M1, Satzbausteine, M2, Karte E, Brücken-Speicher",
+                "prerequisites": "Stunde 5: Wenn ich wütend bin …",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde Du-Botschaften in Ich-Botschaften nach den vier Schritten des guten Gesprächs umformulieren und diese im Rollenspiel erproben und auswerten können.",
+                  "items": [
+                    "Du-Botschaften und Ich-Botschaften unterscheiden und die vier Schritte des guten Gesprächs benennen. (AFB I)",
+                    "Vorwürfe in Ich-Botschaften mit Beobachtung, Gefühl, Bedürfnis und Bitte umformulieren. (AFB II)",
+                    "im Rollenspiel die Perspektive einer Figur aus der Fallgeschichte übernehmen. (AFB II)",
+                    "ein Rollenspiel kriteriengeleitet mit dem Beobachtungsbogen auswerten. (AFB II)",
+                    "beurteilen, wann das gute Gespräch hilft und wo es an Grenzen stößt. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "7. Was du nicht willst, dass man dir tu …",
+              "detail": "6 Seiten · Gibt es eine Regel für das Miteinander, die fast alle Menschen kennen?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-7",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "die Goldene Regel als gemeinsamen Gedanken verschiedener Religionen und Weltanschauungen kennen, ihre negative und positive Fassung unterscheiden und beurteilen, warum die Regel im Alltag eine Perspektivübernahme erfordert.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Gibt es eine Regel für das Miteinander, die fast alle Menschen kennen?",
+                "audience": "Klasse 6",
+                "result": "Bevor ich handle, frage ich mich, wie es mir an Stelle des anderen ginge, und wenn ich unsicher bin, frage ich die andere Person einfach.",
+                "preparation": "Tafel, M1, Wortspeicher, M2, Satzbausteine, Brücken-Speicher",
+                "prerequisites": "Stunde 6: Streiten, aber richtig",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde die Goldene Regel als gemeinsamen Gedanken verschiedener Religionen und Weltanschauungen kennen, ihre negative und positive Fassung unterscheiden und beurteilen, warum die Regel im Alltag eine Perspektivübernahme erfordert.",
+                  "items": [
+                    "die sechs Fassungen der Goldenen Regel der jeweiligen Religion oder Weltanschauung und dem Werk zuordnen. (AFB I)",
+                    "die Fassungen nach negativer und positiver Form sortieren und den Unterschied zwischen Lassen und Tun erklären. (AFB II)",
+                    "zwei Fassungen aus verschiedenen Traditionen vergleichen. (AFB II)",
+                    "am Fall von Jonas und Aylin erklären, warum die Regel ohne Perspektivwechsel scheitern kann. (AFB II)",
+                    "beurteilen, welche Fassung für das Miteinander in der Klasse hilfreicher ist, und eine eigene Regel entwickeln. (AFB III)"
+                  ]
+                }
+              }
+            },
+            {
+              "label": "8. Unser Streitschlichter-Leitfaden",
+              "detail": "6 Seiten · Was brauchen wir, damit Miteinander gelingt?",
+              "kind": "standard",
+              "protectedId": "S-PP_Miteinander_Kl6-einheit-8",
+              "teacher": {
+                "label": "Lehrkräftekommentar",
+                "detail": "5 Seiten · Didaktik, Verlaufsplan, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "PP_Miteinander_Kl6-einheit-8-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "6 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_Miteinander_Kl6-einheit-8-inklusiv"
+              },
+              "info": {
+                "goal": "aus den Bausteinen der Reihe einen Streitschlichter-Leitfaden gestalten, ihn im Rollenspiel anwenden und die Leitfrage „Was brauchen wir, damit Miteinander gelingt?“ begründet beantworten.",
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Was brauchen wir, damit Miteinander gelingt?",
+                "audience": "Klasse 6",
+                "result": "Wir schlichten einen Streit in fünf Schritten – ankommen, erzählen, verstehen, Lösungen suchen, vereinbaren – und holen bei Gewalt oder Mobbing sofort eine erwachsene Person.",
+                "preparation": "Tafel, Brücken-Speicher, M2, M1, M3, Plakatpapier, Leitfaden, Plakate, Beobachtungsbögen",
+                "prerequisites": "Stunde 7: Was du nicht willst, dass man dir tu …",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit",
+                "details": {
+                  "summary": "Die Schülerinnen und Schüler sollen bis zum Ende der Doppelstunde aus den Bausteinen der Reihe einen Streitschlichter-Leitfaden gestalten, ihn im Rollenspiel anwenden und die Leitfrage „Was brauchen wir, damit Miteinander gelingt?“ begründet beantworten.",
+                  "items": [
+                    "die Bausteine der Reihe anhand der Lernlandkarte nennen. (AFB I)",
+                    "die Bausteine den fünf Schritten der Streitschlichtung zuordnen. (AFB II)",
+                    "einen Leitfaden gestalten und ihn im Rollenspiel aus verschiedenen Perspektiven anwenden. (AFB II)",
+                    "die Wirksamkeit und die Grenzen des Leitfadens beurteilen. (AFB III)",
+                    "die Leitfrage der Reihe mit Beispielen aus mehreren Stunden begründet beantworten. (AFB III)"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "title": "Wie wollen wir leben?",
           "description": "Nachhaltig konsumieren und lernen: mit Konsumtagebuch, Diogenes in der Tonne, der Reise eines T-Shirts, Reparieren, Teilen und Tauschen, Teilhabe im Schulgarten, einem Gedankenexperiment zum Lernen und einer eigenen Aktion zur Woche der Nachhaltigkeit. KLP 2024 · IF 5.",
           "files": [
             {
               "label": "Schülermappe",
-              "detail": "57 Seiten · Klasse 6 · KLP 2024",
+              "detail": "59 Seiten · Klasse 6 · KLP 2024",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6_Schuelermappe"
             },
             {
               "label": "Inklusive Schülermappe",
-              "detail": "59 Seiten · Klasse 6 · KLP 2024",
+              "detail": "61 Seiten · Klasse 6 · KLP 2024",
               "kind": "inclusive",
               "protectedId": "S-PP_Nachhaltig_Kl6_Inklusiv"
             },
             {
               "label": "Lehrkräfteband",
-              "detail": "46 Seiten · Klasse 6 · KLP 2024",
+              "detail": "48 Seiten · Klasse 6 · KLP 2024",
               "kind": "teacher",
               "protectedId": "PP_Nachhaltig_Kl6_Lehrkraefteband"
             },
             {
               "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
-              "detail": "44 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
+              "detail": "46 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte",
               "kind": "teacher",
               "protectedId": "PP_Nachhaltig_Kl6-kommentar"
             },
@@ -2736,7 +2736,7 @@ window.materialSubjects = {
             },
             {
               "label": "8. Woche der Nachhaltigkeit: Bilanz",
-              "detail": "6 Seiten · Was brauche ich wirklich – und was haben wir gemeinsam bewirkt?",
+              "detail": "7 Seiten · Was brauche ich wirklich – und was haben wir gemeinsam bewirkt?",
               "kind": "standard",
               "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8",
               "teacher": {
@@ -2747,7 +2747,7 @@ window.materialSubjects = {
               },
               "inclusive": {
                 "label": "Inklusive Fassung",
-                "detail": "6 Seiten",
+                "detail": "7 Seiten",
                 "kind": "inclusive",
                 "protectedId": "S-PP_Nachhaltig_Kl6-einheit-8-inklusiv"
               },
