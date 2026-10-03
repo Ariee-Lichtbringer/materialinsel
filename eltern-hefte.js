@@ -13,7 +13,7 @@ window.elternHefte = [
   "seiten": 33,
   "preis": "5,90 €",
   "kurzbeschreibung": "Teil I der ZP 10 Deutsch (EESA, G-Kurs) in sechs kleinen Schritten üben: ankreuzen, zuordnen, Grafiken lesen, kurz erklären und Stellung nehmen. Mit Probe-Aufgabe und allen Lösungen.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-eesa-leseverstehen/"
  },
  {
   "id": "NRW_EESA_4A",
@@ -28,7 +28,7 @@ window.elternHefte = [
   "seiten": 33,
   "preis": "5,90 €",
   "kurzbeschreibung": "Selbstlernheft zur Wahlaufgabe 1 der ZP 10 Deutsch NRW (EESA, G-Kurs): eine Kurzgeschichte Schritt für Schritt analysieren – mit Übungen, Musterlösungen und Probe-Aufgabe.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-eesa-typ-4a-text-analysieren/"
  },
  {
   "id": "NRW_EESA_4B",
@@ -43,7 +43,7 @@ window.elternHefte = [
   "seiten": 35,
   "preis": "5,90 €",
   "kurzbeschreibung": "Selbstlernheft für den G-Kurs: Materialien zusammenfassen, Meinungen in indirekter Rede wiedergeben, Positionen vergleichen und Stellung nehmen – mit Probe-Aufgabe, Raster und Lösungen.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-eesa-typ-4b-texte-vergleichen/"
  },
  {
   "id": "NRW_EESA_T2",
@@ -58,7 +58,7 @@ window.elternHefte = [
   "seiten": 35,
   "preis": "5,90 €",
   "kurzbeschreibung": "Schritt für Schritt zum informierenden Text aus Materialien (Typ 2) auf EESA-Niveau: Aufgabe verstehen, Grafiken auswerten, eigenständig schreiben – mit Lösungen und Probe-Aufgabe.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-eesa-typ-2-informierender-text/"
  },
  {
   "id": "NRW_EESA_T3",
@@ -73,7 +73,7 @@ window.elternHefte = [
   "seiten": 30,
   "preis": "5,90 €",
   "kurzbeschreibung": "Begründet Stellung nehmen für die ZP 10 Deutsch (EESA, G-Kurs): Wo die Meinung in der Prüfung gefragt ist und wie man sie mit Gründen und Textstellen stützt. Mit Lösungen und Probe-Aufgabe.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-eesa-typ-3-stellung-nehmen/"
  },
  {
   "id": "NRW_MSA_LV",
@@ -88,7 +88,7 @@ window.elternHefte = [
   "seiten": 34,
   "preis": "5,90 €",
   "kurzbeschreibung": "Teil I der ZP 10 Deutsch (MSA, E-Kurs) gezielt trainieren: Distraktoren durchschauen, Grafiken einordnen, im Textzusammenhang erläutern, Stellung nehmen. Mit Probe-Aufgabe und Lösungen.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-msa-leseverstehen/"
  },
  {
   "id": "NRW_MSA_4A",
@@ -103,7 +103,7 @@ window.elternHefte = [
   "seiten": 35,
   "preis": "5,90 €",
   "kurzbeschreibung": "Selbstlernheft zur Wahlaufgabe 1 der ZP 10 Deutsch NRW (MSA, E-Kurs): literarische Texte analysieren und sich kritisch auseinandersetzen – mit Musterlösungen und Probe-Aufgabe.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-msa-typ-4a-text-analysieren/"
  },
  {
   "id": "NRW_MSA_4B",
@@ -118,7 +118,7 @@ window.elternHefte = [
   "seiten": 36,
   "preis": "5,90 €",
   "kurzbeschreibung": "Selbstlernheft für den E-Kurs: Sachtext und Grafik auswerten, Positionen in indirekter Rede darstellen, unter einem Gesichtspunkt vergleichen und kritisch Stellung nehmen – mit Probe-Aufgabe und Lösungen.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-msa-typ-4b-texte-vergleichen/"
  },
  {
   "id": "NRW_MSA_T2",
@@ -133,7 +133,7 @@ window.elternHefte = [
   "seiten": 36,
   "preis": "5,90 €",
   "kurzbeschreibung": "Materialgestützt informieren auf MSA-Niveau: Materialien gezielt auswerten, Zusammenhänge erläutern, begründet schlussfolgern – sechs Schritte mit Lösungen und einer Probe-Aufgabe im Prüfungsformat.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-msa-typ-2-informierender-text/"
  },
  {
   "id": "NRW_MSA_T3",
@@ -148,7 +148,7 @@ window.elternHefte = [
   "seiten": 32,
   "preis": "5,90 €",
   "kurzbeschreibung": "Begründet Stellung nehmen für die ZP 10 Deutsch (MSA, E-Kurs): Argumente mit Textbelegen stützen, Gegenargumente abwägen und Schlussaufgaben sicher lösen. Mit Lösungen und Probe-Aufgabe.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-zp-10-nrw-msa-typ-3-stellung-nehmen/"
  },
  {
   "id": "HE_HS_LESEN",
@@ -163,7 +163,7 @@ window.elternHefte = [
   "seiten": 31,
   "preis": "5,90 €",
   "kurzbeschreibung": "Für Teil I Lesen der ZAA Deutsch Hessen (Hauptschulabschluss): Operatoren, Ankreuz- und Zitieraufgaben, Kurzantworten zu Prosa und Sachtext, mit Probe-Aufgabe (30 Punkte) und allen Lösungen.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-hessen-hauptschule-lesen/"
  },
  {
   "id": "HE_HS_TEXTPRODUKTION",
@@ -178,7 +178,7 @@ window.elternHefte = [
   "seiten": 35,
   "preis": "5,90 €",
   "kurzbeschreibung": "Selbstlernheft zur Wahlaufgabe der ZAA Deutsch Hessen (Hauptschulabschluss): Erzählen, Berichten, Beschreiben, Argumentieren, Wörter zählen, Musterlösungen und Probe-Aufgabe mit Raster.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-hessen-hauptschule-textproduktion/"
  },
  {
   "id": "HE_HS_SPRACHRICHTIGKEIT",
@@ -193,7 +193,7 @@ window.elternHefte = [
   "seiten": 29,
   "preis": "5,90 €",
   "kurzbeschreibung": "Für Teil II.B der ZAA Deutsch: Großschreibung, Fehler berichtigen, Wörterbuch, Kommas, das/dass, Zeitformen und Fälle – Schritt für Schritt mit vielen kurzen Übungen, Lösungen und Probe-Aufgabe (15 P.).",
-  "url": ""
+  "url": "/mappen/selbstlernheft-hessen-hauptschule-sprachliche-richtigkeit/"
  },
  {
   "id": "HE_HS_PROBEPRUEFUNG",
@@ -208,7 +208,7 @@ window.elternHefte = [
   "seiten": 32,
   "preis": "6,90 €",
   "kurzbeschreibung": "Eine vollständige Probeprüfung zur ZAA Deutsch (Hauptschulabschluss) mit zwei Aufgabensätzen, Zeitplan, Bewertungsraster und Musterlösungen – zum Üben an einem Vormittag zu Hause.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-hessen-hauptschule-probeprufung/"
  },
  {
   "id": "HE_RS_LESEN",
@@ -223,7 +223,7 @@ window.elternHefte = [
   "seiten": 33,
   "preis": "5,90 €",
   "kurzbeschreibung": "Für Teil I Lesen der ZAA Deutsch Hessen (Realschulabschluss): Operatoren, Sachtext, Kurzgeschichte und Gedicht mit sprachlichen Mitteln, dazu eine Probe-Aufgabe (40 Punkte) und alle Lösungen.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-hessen-realschule-lesen/"
  },
  {
   "id": "HE_RS_TEXTPRODUKTION",
@@ -238,7 +238,7 @@ window.elternHefte = [
   "seiten": 35,
   "preis": "5,90 €",
   "kurzbeschreibung": "Selbstlernheft zur Wahlaufgabe der ZAA Deutsch Hessen (Realschulabschluss): vier Textarten, Wörter zählen, Gegenargumente und Stilebene, Musterlösungen und Probe-Aufgabe mit Raster.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-hessen-realschule-textproduktion/"
  },
  {
   "id": "HE_RS_SPRACHRICHTIGKEIT",
@@ -253,7 +253,7 @@ window.elternHefte = [
   "seiten": 33,
   "preis": "5,90 €",
   "kurzbeschreibung": "Für Teil II.B der ZAA Deutsch: Rechtschreibung, Wörterbuch, Kommas, Satzverbindungen, Zeitformen, Fälle, Passiv und indirekte Rede – mit vielen kurzen Übungen, Lösungen und Probe-Aufgabe (20 P.).",
-  "url": ""
+  "url": "/mappen/selbstlernheft-hessen-realschule-sprachliche-richtigkeit/"
  },
  {
   "id": "HE_RS_PROBEPRUEFUNG",
@@ -268,6 +268,6 @@ window.elternHefte = [
   "seiten": 34,
   "preis": "6,90 €",
   "kurzbeschreibung": "Eine vollständige Probeprüfung zur ZAA Deutsch (Realschulabschluss) mit Gedicht und Sachtext zur Wahl, Zeitplan, Bewertungsraster und Musterlösungen – für einen Übungsvormittag zu Hause.",
-  "url": ""
+  "url": "/mappen/selbstlernheft-hessen-realschule-probeprufung/"
  }
 ];

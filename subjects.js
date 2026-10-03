@@ -1,5 +1,6 @@
 const themeSlug=t=>String(t).normalize('NFKD').replace(/[^\x00-\x7F]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,60);
 const subjects = window.materialSubjects;
+if(window.elternProdukte)subjects.eltern=window.elternProdukte; // Selbstlernhefte für Eltern & Schüler: nur auf deren Produktseiten geladen
 
 subjects.geschichte.materials = {9: window.historyMaterials || [], 10: window.historyMaterials || [], 12: window.auschwitzMaterials || [], 13: window.auschwitzMaterials || []};
 const key = document.body.dataset.subject;
@@ -41,7 +42,7 @@ if(productTheme){
  const description=head.querySelector('.mappe-head__text>p');
  if(productTheme.description.length>260){
   const first=productTheme.description.indexOf('. ',150);
-  if(first>0){description.textContent=productTheme.description.slice(0,first+1);const more=document.createElement('details');more.className='product-description';more.innerHTML=`<summary>Mehr zur Unterrichtsreihe</summary><p>${esc(productTheme.description.slice(first+2))}</p>`;description.after(more);}
+  if(first>0){description.textContent=productTheme.description.slice(0,first+1);const more=document.createElement('details');more.className='product-description';more.innerHTML=`<summary>${key==='eltern'?'Mehr zum Heft':'Mehr zur Unterrichtsreihe'}</summary><p>${esc(productTheme.description.slice(first+2))}</p>`;description.after(more);}
  }
 
  const facts=document.createElement('div');facts.className='product-included';
