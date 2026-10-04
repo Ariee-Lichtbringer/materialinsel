@@ -3880,6 +3880,263 @@ window.materialSubjects = {
             }
           ],
           "pageCount": 93
+        },
+        {
+          "title": "Ikarus – Ein Mythos im Wandel der Zeit",
+          "description": "Unterrichtsreihe für Deutsch Klasse 7 zum Mythos von Dädalus und Ikarus in sieben Doppelstunden: Märchen, Sage und Mythos unterscheiden, Gustav Schwabs Nacherzählung und Ovids Metamorphosen (Übertragung J. H. Voß) lesen, das Gemälde „Landschaft mit dem Sturz des Ikarus“ beschreiben, Deutungen von der Emblematik über Fontane bis Lilienthal vergleichen, Kreta, Minos und Ovid erarbeiten und einen eigenen Ikarus-Text schreiben. Pflicht- und Wahlaufgaben auf drei Niveaus, Lernzielkontrolle mit Ampel und Exit-Ticket, inklusive Fassung in einfacher Sprache, Lehrkräfteband mit Sachanalyse, Verlaufsplänen, Tafelbildern und Erwartungshorizonten. Bezug: Kernlehrplan Deutsch NRW 2022, Stufe 7/8.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "105 Seiten · Klasse 7",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Ikarus_Kl7_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "75 Seiten · Klasse 7",
+              "kind": "inclusive",
+              "protectedId": "S-Deutsch_Ikarus_Kl7_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "48 Seiten · Klasse 7",
+              "kind": "teacher",
+              "protectedId": "Deutsch_Ikarus_Kl7_Lehrkraefteband"
+            },
+            {
+              "label": "1. Märchen, Sage, Mythos",
+              "detail": "11 Seiten · Woran erkennt man eine Sage – und was macht einen Mythos aus?",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-1",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Lernziele, Verlaufsplan, Tafelbild, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "Deutsch_Ikarus_Kl7-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "9 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann Merkmale von Märchen und Sage nennen und an einem Text zeigen.",
+                "details": {
+                  "summary": "Am Ende dieser Stunde können die Lernenden:",
+                  "items": [
+                    "Ich kann Merkmale von Märchen und Sage nennen und an einem Text zeigen.",
+                    "Ich kann begründen, ob ein Text ein Märchen oder eine Sage ist.",
+                    "Ich kann erklären, was einen Mythos von einer Sage unterscheidet."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "audience": "Klasse 7",
+                "result": "Begründete Antwort auf die Leitfrage: Woran erkennt man eine Sage – und was macht einen Mythos aus?",
+                "socialForm": "Einzelarbeit · Partnerarbeit"
+              }
+            },
+            {
+              "label": "2. Dädalus und Ikarus – den Mythos lesen",
+              "detail": "11 Seiten · Was geschieht in der Sage von Dädalus und Ikarus?",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-2",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "6 Seiten · Kommentar, Lernziele, Verlaufsplan, Tafelbild, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "Deutsch_Ikarus_Kl7-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann die Sage in fünf Erzählabschnitte gliedern und die Zeilen angeben.",
+                "details": {
+                  "summary": "Am Ende dieser Stunde können die Lernenden:",
+                  "items": [
+                    "Ich kann die Sage in fünf Erzählabschnitte gliedern und die Zeilen angeben.",
+                    "Ich kann die Handlungen von Dädalus und Ikarus im Text unterscheiden.",
+                    "Ich kann die Handlung in einer Tabelle mit Zeilenangaben festhalten."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "audience": "Klasse 7",
+                "result": "Begründete Antwort auf die Leitfrage: Was geschieht in der Sage von Dädalus und Ikarus?",
+                "socialForm": "Einzelarbeit · Partnerarbeit"
+              }
+            },
+            {
+              "label": "3. Warum ignoriert Ikarus die Warnung?",
+              "detail": "16 Seiten · Warum ignoriert Ikarus die Warnung seines Vaters?",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-3",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "6 Seiten · Kommentar, Lernziele, Verlaufsplan, Tafelbild, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "Deutsch_Ikarus_Kl7-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "9 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann Eigenschaften von Ikarus nennen und mit Versangaben belegen.",
+                "details": {
+                  "summary": "Am Ende dieser Stunde können die Lernenden:",
+                  "items": [
+                    "Ich kann Eigenschaften von Ikarus nennen und mit Versangaben belegen.",
+                    "Ich kann erklären, warum Ikarus die Warnung missachtet.",
+                    "Ich kann einen inneren Monolog aus der Sicht von Ikarus schreiben."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "audience": "Klasse 7",
+                "result": "Begründete Antwort auf die Leitfrage: Warum ignoriert Ikarus die Warnung seines Vaters?",
+                "socialForm": "Einzelarbeit · Partnerarbeit"
+              }
+            },
+            {
+              "label": "4. Ikarus im Bild – eine Bildbeschreibung",
+              "detail": "10 Seiten · Wie zeigt das Bild den Sturz des Ikarus – und warum ist Ikarus so klein?",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-4",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Lernziele, Verlaufsplan, Tafelbild, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "Deutsch_Ikarus_Kl7-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "8 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann ein Bild nach Vordergrund, Mittelgrund und Hintergrund ordnen.",
+                "details": {
+                  "summary": "Am Ende dieser Stunde können die Lernenden:",
+                  "items": [
+                    "Ich kann ein Bild nach Vordergrund, Mittelgrund und Hintergrund ordnen.",
+                    "Ich kann vergleichen, was Ovid erzählt und was das Bild zeigt.",
+                    "Ich kann eine Bildbeschreibung im Präsens mit genauen Ortsangaben schreiben."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "audience": "Klasse 7",
+                "result": "Begründete Antwort auf die Leitfrage: Wie zeigt das Bild den Sturz des Ikarus – und warum ist Ikarus so klein?",
+                "socialForm": "Einzelarbeit · Partnerarbeit"
+              }
+            },
+            {
+              "label": "5. Ikarus im Wandel der Zeit – Sinnbilder",
+              "detail": "15 Seiten · Wofür steht Ikarus – und warum sehen ihn Menschen zu verschiedenen Zeiten anders?",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-5",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "6 Seiten · Kommentar, Lernziele, Verlaufsplan, Tafelbild, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "Deutsch_Ikarus_Kl7-einheit-5-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "9 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-5-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann beschreiben, wie Ikarus in einem Bild oder Text dargestellt wird.",
+                "details": {
+                  "summary": "Am Ende dieser Stunde können die Lernenden:",
+                  "items": [
+                    "Ich kann beschreiben, wie Ikarus in einem Bild oder Text dargestellt wird.",
+                    "Ich kann einem Werk ein passendes Sinnbild zuordnen und meine Wahl mit einer Stelle begründen.",
+                    "Ich kann meiner Stammgruppe mein Werk als Expertin oder Experte erklären."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "audience": "Klasse 7",
+                "result": "Begründete Antwort auf die Leitfrage: Wofür steht Ikarus – und warum sehen ihn Menschen zu verschiedenen Zeiten anders?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit"
+              }
+            },
+            {
+              "label": "6. Hinter dem Mythos – Kreta, Minos und Ovid",
+              "detail": "16 Seiten · Welche wirklichen Orte, Menschen und Ereignisse stehen hinter dem Mythos?",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-6",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "6 Seiten · Kommentar, Lernziele, Verlaufsplan, Tafelbild, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "Deutsch_Ikarus_Kl7-einheit-6-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "9 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-6-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann aus einem Sachtext wichtige Informationen entnehmen und auf einer Infokarte festhalten.",
+                "details": {
+                  "summary": "Am Ende dieser Stunde können die Lernenden:",
+                  "items": [
+                    "Ich kann aus einem Sachtext wichtige Informationen entnehmen und auf einer Infokarte festhalten.",
+                    "Ich kann in einem Sachtext unterscheiden, was sicher ist und was nur vermutet wird.",
+                    "Ich kann einen Kurzvortrag halten und anderen Feedback nach Kriterien geben."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "audience": "Klasse 7",
+                "result": "Begründete Antwort auf die Leitfrage: Welche wirklichen Orte, Menschen und Ereignisse stehen hinter dem Mythos?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit"
+              }
+            },
+            {
+              "label": "7. Mein Ikarus – heute erzählt",
+              "detail": "14 Seiten · Ist Ikarus leichtsinnig – oder ein Sinnbild für Freiheit? Was sagt mein eigener Text dazu?",
+              "kind": "standard",
+              "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-7",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Lernziele, Verlaufsplan, Tafelbild, Erwartungshorizont",
+                "kind": "teacher",
+                "protectedId": "Deutsch_Ikarus_Kl7-einheit-7-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "10 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-Deutsch_Ikarus_Kl7-einheit-7-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann einen eigenen Ikarus-Text planen und nach einem Textmuster schreiben.",
+                "details": {
+                  "summary": "Am Ende dieser Stunde können die Lernenden:",
+                  "items": [
+                    "Ich kann einen eigenen Ikarus-Text planen und nach einem Textmuster schreiben.",
+                    "Ich kann einen fremden Text mit Kriterien prüfen und meinen eigenen Text überarbeiten.",
+                    "Ich kann meine Meinung zur Frage „Leichtsinn oder Freiheit?“ mit Beispielen aus der Reihe begründen."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "audience": "Klasse 7",
+                "result": "Begründete Antwort auf die Leitfrage: Ist Ikarus leichtsinnig – oder ein Sinnbild für Freiheit? Was sagt mein eigener Text dazu?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Plenum"
+              }
+            }
+          ],
+          "preview": null,
+          "pageCount": 105
         }
       ],
       "8": [
