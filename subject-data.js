@@ -2773,6 +2773,192 @@ window.materialSubjects = {
               }
             }
           ]
+        },
+        {
+          "title": "Kann eine Maschine denken?",
+          "description": "Kann eine Maschine denken? Turing-Test im Selbstversuch, Künstliche Intelligenz im Alltag, Gefühle zeigen oder haben, Regeln für KI – mit Statement oder Mini-Plakat als Lernprodukt.",
+          "files": [
+            {
+              "label": "Schülermappe",
+              "detail": "48 Seiten · Klasse 6 · KLP 2024",
+              "kind": "standard",
+              "protectedId": "S-PP_KI_Maschine_Kl6_Schuelermappe"
+            },
+            {
+              "label": "Inklusive Schülermappe",
+              "detail": "47 Seiten · Klasse 6 · KLP 2024",
+              "kind": "inclusive",
+              "protectedId": "S-PP_KI_Maschine_Kl6_Inklusiv"
+            },
+            {
+              "label": "Lehrkräfteband",
+              "detail": "30 Seiten · Klasse 6 · KLP 2024",
+              "kind": "teacher",
+              "protectedId": "PP_KI_Maschine_Kl6_Lehrkraefteband"
+            },
+            {
+              "label": "Didaktisch-methodischer Kommentar und Lösungshinweise",
+              "detail": "28 Seiten · Sachanalyse, Konzeption, Stundenkommentare, Erwartungshorizonte, Tafelbilder",
+              "kind": "teacher",
+              "protectedId": "PP_KI_Maschine_Kl6-kommentar"
+            },
+            {
+              "label": "Lernziele und Kompetenzen",
+              "detail": "4 Seiten · Lernziele, Kompetenzen und Kriterien aller Stunden",
+              "kind": "teacher",
+              "protectedId": "PP_KI_Maschine_Kl6-lernziele"
+            },
+            {
+              "label": "Methodenkoffer und Operatorenhilfen",
+              "detail": "2 Seiten · Signalwörter, Methodenkarten",
+              "kind": "teacher",
+              "protectedId": "PP_KI_Maschine_Kl6-methoden"
+            },
+            {
+              "label": "1. Bin ich ein Mensch?",
+              "detail": "10 Seiten · Kann man mit einer Maschine sprechen wie mit einem Menschen?",
+              "kind": "standard",
+              "protectedId": "S-PP_KI_Maschine_Kl6-einheit-1",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan, Erwartungshorizont und Tafelbild",
+                "kind": "teacher",
+                "protectedId": "PP_KI_Maschine_Kl6-einheit-1-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "9 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_KI_Maschine_Kl6-einheit-1-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann den Turing-Test erklären.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann den Turing-Test erklären.",
+                    "Ich kann Fragen stellen, die Mensch und Maschine unterscheiden.",
+                    "Ich kann begründen: Mensch oder Maschine?"
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · Chat- oder Videoimpuls, Blitzlicht, Infokasten, Fragen-Werkstatt, Turing-Test im Selbstversuch, Ampelkarten",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Kann man mit einer Maschine sprechen wie mit einem Menschen?",
+                "preparation": "Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf. Live-Test nur am Gerät der Lehrkraft (Altersgrenzen der Chatbots, Datenschutz).",
+                "prerequisites": "Einstieg in die Reihe.",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
+              }
+            },
+            {
+              "label": "2. Was ist Künstliche Intelligenz?",
+              "detail": "7 Seiten · Was steckt in einer Maschine, die man „intelligent“ nennt?",
+              "kind": "standard",
+              "protectedId": "S-PP_KI_Maschine_Kl6-einheit-2",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "4 Seiten · Kommentar, Kompetenzen, Verlaufsplan, Erwartungshorizont und Tafelbild",
+                "kind": "teacher",
+                "protectedId": "PP_KI_Maschine_Kl6-einheit-2-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_KI_Maschine_Kl6-einheit-2-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann erklären, was Künstliche Intelligenz ist.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann erklären, was Künstliche Intelligenz ist.",
+                    "Ich kann Beispiele für KI in meinem Alltag nennen und von Geräten ohne KI unterscheiden.",
+                    "Ich kann beschreiben, wie ein Programm aus Beispielen lernt."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · Gegenstandsimpuls, Bildkarten, Sachtext mit Schaubild, Begriffsnetz, Ampelabstimmung",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Was steckt in einer Maschine, die man „intelligent“ nennt?",
+                "preparation": "Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Stunde 1: Bin ich ein Mensch?",
+                "socialForm": "Einzelarbeit · Partnerarbeit · Plenum"
+              }
+            },
+            {
+              "label": "3. Fühlen Maschinen?",
+              "detail": "7 Seiten · Kann eine Maschine fühlen – oder tut sie nur so?",
+              "kind": "standard",
+              "protectedId": "S-PP_KI_Maschine_Kl6-einheit-3",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "4 Seiten · Kommentar, Kompetenzen, Verlaufsplan, Erwartungshorizont und Tafelbild",
+                "kind": "teacher",
+                "protectedId": "PP_KI_Maschine_Kl6-einheit-3-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "7 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_KI_Maschine_Kl6-einheit-3-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann „Gefühl zeigen“ und „Gefühl haben“ unterscheiden.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann „Gefühl zeigen“ und „Gefühl haben“ unterscheiden.",
+                    "Ich kann den Trost von Chatbot und Freund vergleichen.",
+                    "Ich kann begründen, ob eine Maschine fühlt."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · stummer Tafelimpuls, Bildgeschichte, Perspektivwechsel (Tagebuch), Karten sortieren, Rollenspiel",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Kann eine Maschine fühlen – oder tut sie nur so?",
+                "preparation": "Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Stunde 2: Was ist Künstliche Intelligenz?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit · Plenum"
+              }
+            },
+            {
+              "label": "4. Was darf KI?",
+              "detail": "12 Seiten · Wie viel KI ist gut für uns – und kann eine Maschine denken?",
+              "kind": "standard",
+              "protectedId": "S-PP_KI_Maschine_Kl6-einheit-4",
+              "teacher": {
+                "label": "Didaktisch-methodischer Kommentar & Lernziele",
+                "detail": "5 Seiten · Kommentar, Kompetenzen, Verlaufsplan, Erwartungshorizont und Tafelbild",
+                "kind": "teacher",
+                "protectedId": "PP_KI_Maschine_Kl6-einheit-4-lehrer"
+              },
+              "inclusive": {
+                "label": "Inklusive Fassung",
+                "detail": "11 Seiten",
+                "kind": "inclusive",
+                "protectedId": "S-PP_KI_Maschine_Kl6-einheit-4-inklusiv"
+              },
+              "info": {
+                "goal": "Ich kann abwägen, wann KI beim Lernen hilft.",
+                "details": {
+                  "summary": "Am Ende dieser Einheit können die Lernenden:",
+                  "items": [
+                    "Ich kann abwägen, wann KI beim Lernen hilft.",
+                    "Ich kann Regeln für KI formulieren.",
+                    "Ich kann begründen, ob eine Maschine denken kann."
+                  ]
+                },
+                "duration": "90 Minuten · Wahlaufgaben zusätzlich nach Bedarf",
+                "principle": "Problemorientierung · Bildimpuls mit Denkblase, Fallarbeit, Ampelkarten, Gruppenarbeit mit Rollen, Schreibrahmen, Vorher-Nachher-Vergleich, Zielscheibe",
+                "audience": "Klasse 6",
+                "result": "Begründete Antwort auf die Leitfrage: Wie viel KI ist gut für uns – und kann eine Maschine denken?",
+                "preparation": "Materialien dieser Einheit bereitlegen; inklusive Fassung und Tippkarten nach Bedarf.",
+                "prerequisites": "Stunde 3: Fühlen Maschinen?",
+                "socialForm": "Einzelarbeit · Gruppenarbeit · Partnerarbeit · Plenum"
+              }
+            }
+          ]
         }
       ],
       "7": [
